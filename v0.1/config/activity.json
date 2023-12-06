@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "vasmark1",
+      "uniqueId": "50f04914-5eed-40e4-975c-3ead4a871f62"
+    },
+    "time": 1701896009899,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VZSre7f783"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "vasmark1",
+      "uniqueId": "50f04914-5eed-40e4-975c-3ead4a871f62"
+    },
+    "time": 1701876312078,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/q37sLU8iLS"
+    }
+  }
+]
