@@ -20,12 +20,12 @@ Supported only Minecraft 1.7.10 & Forge 10.13.4.1614
 
 ## RECOMMENDED SYSTEM REQUIREMENTS:
 
-> OS: Windows 7 & 8 & 10 (Windows 11 - not tested yet)
-> Processor: 4 Core + 3 GHz or better
-> Memory: 8 GB RAM or more (fully stable at 16 GB)
-> Graphics:  NVIDIA GeForce GTX 660 or better
-> Storage: at least 5 GB if you enable FTB Backups
-> Java: latest available
+> - OS: Windows 7 & 8 & 10 (Windows 11 - not tested yet)
+> - Processor: 4 Core + 3 GHz or better
+> - Memory: 8 GB RAM or more (fully stable at 16 GB)
+> - Graphics:  NVIDIA GeForce GTX 660 or better
+> - Storage: at least 5 GB if you enable FTB Backups
+> - Java: latest available
 
 
 ## OWN NOTES:
