@@ -49,6 +49,7 @@ Supported only Minecraft 1.7.10 & Forge 10.13.4.1614
 ## Mods creating issues:
 
 - Optimizations and tweaks (disabled) - constant RAM cleaning causes tickrate goes insane
+- Dynamic Lights (disabled) - causes massive chunk update with every movement
 - Invasion mod (enabled) - if modded mobs attack thaumcraft "Камень сдерживания" tickrate goes insane
 - Amun Ra (enabled) - there is config for this mod AT ALL, so more Biomes and Dims = More potential conflicts
 
