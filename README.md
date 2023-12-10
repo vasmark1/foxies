@@ -56,6 +56,7 @@ Supported only Minecraft 1.7.10 & Forge 10.13.4.1614
 ## TODO list:
 
 - ~~Add Galacticraft and Addons~~
-- Add Biomes O' Plenty
+- ~~Add Biomes O' Plenty~~
+- ~~Add Cosmetic Armor~~
 - More optimizations
 - ???

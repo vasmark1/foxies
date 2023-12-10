@@ -782,6 +782,13 @@ minecraft:spawn_egg:63, Призвать существо - Дракон Энд�
 minecraft:spawn_egg:64, Призвать существо - Иссушитель
 minecraft:spawn_egg:97, Призвать существо - Снеговик
 minecraft:spawn_egg:99, Призвать существо - Железный голем
+minecraft:spawn_egg:301, Призвать существо - Паук джунглей
+minecraft:spawn_egg:302, Призвать существо - Розастер
+minecraft:spawn_egg:303, Призвать существо - Капля
+minecraft:spawn_egg:304, Призвать существо - Фантом
+minecraft:spawn_egg:305, Призвать существо - Оса
+minecraft:spawn_egg:306, Призвать существо - Птица
+minecraft:spawn_egg:307, Призвать существо - Фея
 minecraft:spawn_egg:6396, Призвать существо - Демон
 minecraft:spawn_egg:6397, Призвать существо - Мандрагора
 minecraft:spawn_egg:6398, Призвать существо - Триффид
@@ -1673,43 +1680,43 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Плита из резног
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Плита из резного истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Плита из колонны истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Плита из колонны истинного кварца
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
 ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:magnet:0, Кинетический притяжатель
-ThaumicTinkerer:magnet:1, Материальный притяжатель
-ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
 ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
 ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:enchanter, Осмотический стол зачарований
+ThaumicTinkerer:funnel, Воронка для эссенции
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:platform, Эфирная платформа
+ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
+ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
+ThaumicTinkerer:forcefield, Силовое поле
+ThaumicTinkerer:repairer, Таум-восстановитель
+ThaumicTinkerer:warpGate, Небесный портал
+ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
+ThaumicTinkerer:fireWater, Пропитанный Aqua огонь
+ThaumicTinkerer:spawner, Пьедестал некроманта
+ThaumicTinkerer:animationTablet, Динамическая дощечка
+ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:dislocator, Трансвекторный дислокатор
+ThaumicTinkerer:interface, Трансвектор
+ThaumicTinkerer:bedrockPortal, Админиум-портал
+ThaumicTinkerer:magnet:0, Кинетический притяжатель
+ThaumicTinkerer:magnet:1, Материальный притяжатель
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
+ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
+ThaumicTinkerer:fireAir, Пропитанный Aer огонь
 ThaumicTinkerer:darkQuartz:0, Блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:1, Резной блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:2, Колонна из закоптившегося кварца
-ThaumicTinkerer:fireAir, Пропитанный Aer огонь
-ThaumicTinkerer:animationTablet, Динамическая дощечка
-ThaumicTinkerer:warpGate, Небесный портал
-ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
-ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
-ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
-ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:interface, Трансвектор
-ThaumicTinkerer:funnel, Воронка для эссенции
-ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
-ThaumicTinkerer:dislocator, Трансвекторный дислокатор
-ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
+ThaumicTinkerer:Levitational Locomotive, Левитатор
 ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
-ThaumicTinkerer:spawner, Пьедестал некроманта
-ThaumicTinkerer:repairer, Таум-восстановитель
-ThaumicTinkerer:platform, Эфирная платформа
-ThaumicTinkerer:forcefield, Силовое поле
-ThaumicTinkerer:bedrockPortal, Админиум-портал
 ThaumicTinkerer:travelSlab:0, Тротуарная плита путешествия
 ThaumicTinkerer:travelSlabFull:0, Тротуарная плита путешествия
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:Levitational Locomotive, Левитатор
-ThaumicTinkerer:fireWater, Пропитанный Aqua огонь
-ThaumicTinkerer:enchanter, Осмотический стол зачарований
+ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
 ForbiddenMagic:ArcaneCake, Таумический торт
 ForbiddenMagic:WrathCage, Клетка гнева
 ForbiddenMagic:InkFlower, Мрачная роза
@@ -1850,54 +1857,54 @@ ThaumicExploration:everburnUrn, Everburn Urn
 ThaumicExploration:soulBrazier, Soul Brazier
 ThaumicExploration:crucibleSouls, Crucible of Souls
 ThaumicExploration:replicator, Thaumic Replicator
-ThaumicHorizons:synthNode, Эфирный Кристалл
+ThaumicHorizons:synthNode, Эфирный осколок
 ThaumicHorizons:alchemite, Алхимит
-ThaumicHorizons:visDynamo, Вис-Динамо
-ThaumicHorizons:essentiaDynamo, Динамо-реле эссенции
-ThaumicHorizons:nodeMonitor, Узел-наблюдатель
-ThaumicHorizons:soulSieve, Просеиватель душ
-ThaumicHorizons:inspiratron, Поглотитель мыслей
-ThaumicHorizons:soulforge, Кузница душ
-ThaumicHorizons:soulJar:0, В банке:  Душа
-ThaumicHorizons:bloodInfuser, Сывороточный куб
-ThaumicHorizons:vat, Исцеляющий чан
-ThaumicHorizons:vatSolid, Исцеляющий чан
+ThaumicHorizons:visDynamo, Вис-генератор
+ThaumicHorizons:essentiaDynamo, Конвертер эссенции
+ThaumicHorizons:nodeMonitor, Узловой датчик
+ThaumicHorizons:soulSieve, Сито душ
+ThaumicHorizons:inspiratron, Вдохновлятор
+ThaumicHorizons:soulforge, Кузня душ
+ThaumicHorizons:soulJar:0, Душа существа  в банке
+ThaumicHorizons:bloodInfuser, Сероконвертер
+ThaumicHorizons:vat, Лечебный бак
+ThaumicHorizons:vatSolid, Лечебный бак
 ThaumicHorizons:vatInterior, tile.ThaumicHorizons_vatInterior.name
 ThaumicHorizons:soulBeacon, Маяк душ
 ThaumicHorizons:modMatrix, Модифицированная руническая матрица
-ThaumicHorizons:chocolate, Блок шоколада
+ThaumicHorizons:chocolate, Шоколадный блок
 ThaumicHorizons:evanescent, tile.ThaumicHorizons_evanescent.name
-ThaumicHorizons:light, Световой шар
-ThaumicHorizons:lightSolar, Световой шар
-ThaumicHorizons:transductionAmplifier, Узел-стимулятор
-ThaumicHorizons:recombinator, Последовательный объединитель Вис
-ThaumicHorizons:vortexStabilizer, Вихревой сдерживатель
-ThaumicHorizons:vortexTH:0, Подпространственный вихрь
-ThaumicHorizons:vortexTH:1, Подпространственный вихрь (творческий, стабильный)
-ThaumicHorizons:voidTH, Граница пространства
+ThaumicHorizons:light, Сфера света
+ThaumicHorizons:lightSolar, Сфера света
+ThaumicHorizons:transductionAmplifier, Усилитель преобразования
+ThaumicHorizons:recombinator, Телеологический рекомбинатор
+ThaumicHorizons:vortexStabilizer, Стабилизатор червоточины
+ThaumicHorizons:vortexTH:0, Планарная червоточина
+ThaumicHorizons:vortexTH:1, Планарная червоточина (Творческий режим)
+ThaumicHorizons:voidTH, Граница измерения
 ThaumicHorizons:cloudTH:0, Облако
 ThaumicHorizons:cloudTH:2, Грозовое облако
 ThaumicHorizons:cloudTH:3, Кислотное облако
-ThaumicHorizons:cloudTH:5, Тучное облако
-ThaumicHorizons:cloudTH:8, Облако со спорами
+ThaumicHorizons:cloudTH:5, Облако-опухоль
+ThaumicHorizons:cloudTH:8, Облако спор
 ThaumicHorizons:cloudGlowingTH:1, Облако плазмы
-ThaumicHorizons:cloudGlowingTH:4, Облако из жидкого сплава
+ThaumicHorizons:cloudGlowingTH:4, Облако-сплав
 ThaumicHorizons:cloudGlowingTH:6, Облако Вис
-ThaumicHorizons:cloudGlowingTH:7, Глифовое облако
-ThaumicHorizons:cloudGlowingTH:9, Облако оживления
-ThaumicHorizons:brainTH, Разбухший мозг
+ThaumicHorizons:cloudGlowingTH:7, Облако символов
+ThaumicHorizons:cloudGlowingTH:9, Живое облако
+ThaumicHorizons:brainTH, Блок мозга
 ThaumicHorizons:dustTH, Пыль
-ThaumicHorizons:eyeTH, Глазное скопление
+ThaumicHorizons:eyeTH, Кластер глаз
 ThaumicHorizons:boneTH, Кость
-ThaumicHorizons:fleshTH, Разбухшая плоть
+ThaumicHorizons:fleshTH, Блок плоти
 ThaumicHorizons:spikeTH, Металлический шип
 ThaumicHorizons:spikeWoodTH, Деревянный шип
 ThaumicHorizons:spikeToothTH, Зуб
 ThaumicHorizons:crystalTH:0, Белый кристалл
 ThaumicHorizons:crystalTH:1, Оранжевый кристалл
-ThaumicHorizons:crystalTH:2, Пурпурный кристалл
+ThaumicHorizons:crystalTH:2, Сиреневый кристалл
 ThaumicHorizons:crystalTH:3, Голубой кристалл
-ThaumicHorizons:crystalTH:4, Желтый кристалл
+ThaumicHorizons:crystalTH:4, Жёлтый кристалл
 ThaumicHorizons:crystalTH:5, Лаймовый кристалл
 ThaumicHorizons:crystalTH:6, Розовый кристалл
 ThaumicHorizons:crystalTH:7, Серый кристалл
@@ -1906,14 +1913,14 @@ ThaumicHorizons:crystalTH:9, Бирюзовый кристалл
 ThaumicHorizons:crystalTH:10, Фиолетовый кристалл
 ThaumicHorizons:crystalTH:11, Синий кристалл
 ThaumicHorizons:crystalTH:12, Коричневый кристалл
-ThaumicHorizons:crystalTH:13, Зеленый кристалл
+ThaumicHorizons:crystalTH:13, Зелёный кристалл
 ThaumicHorizons:crystalTH:14, Красный кристалл
-ThaumicHorizons:crystalTH:15, Черный кристалл
-ThaumicHorizons:crystalDeep, Насыщенный кристалл
-ThaumicHorizons:leviathanTH, Первичное ископаемое
-ThaumicHorizons:slotTH, Вместилище Ключ-камня
+ThaumicHorizons:crystalTH:15, Чёрный кристалл
+ThaumicHorizons:crystalDeep, Глубинный кристалл
+ThaumicHorizons:leviathanTH, Сингулярные останки
+ThaumicHorizons:slotTH, Слот для ключ-камня
 ThaumicHorizons:portalTH, tile.null.name
-ThaumicHorizons:gatewayTH, Пространственные Врата
+ThaumicHorizons:gatewayTH, Планарные врата
 ae2stuff:Encoder, Кодировщик шаблонов
 ae2stuff:Grower, Камера для выращивания кристаллов
 ae2stuff:Inscriber, Продвинутый высекатель
@@ -2248,6 +2255,274 @@ Avaritia:Neutronium_Compressor, Компрессор нейтрония
 avaritiaddons:CompressedChest, Compressed Chest
 avaritiaddons:InfinityChest, Infinity Chest
 avaritiaddons:ExtremeAutoCrafter, Dire Autocrafting Table
+BiomesOPlenty:mud:0, Грязь
+BiomesOPlenty:mud:1, Зыбучий песок
+BiomesOPlenty:driedDirt, Осушённая земля
+BiomesOPlenty:rocks:0, Известняк
+BiomesOPlenty:rocks:1, Гладкий известняк
+BiomesOPlenty:rocks:2, Алевролит
+BiomesOPlenty:rocks:3, Гладкий алевролит
+BiomesOPlenty:rocks:4, Глинистый сланец
+BiomesOPlenty:rocks:5, Гладкий глинистый сланец
+BiomesOPlenty:ash, Пепельный блок
+BiomesOPlenty:flesh, Плоть
+BiomesOPlenty:plants:0, Мёртвая трава
+BiomesOPlenty:plants:1, Пустынная трава
+BiomesOPlenty:plants:2, Пустынные ростки
+BiomesOPlenty:plants:3, Дюнная трава
+BiomesOPlenty:plants:4, Спектральный папоротник
+BiomesOPlenty:plants:5, Колючки
+BiomesOPlenty:plants:6, Дикий рис
+BiomesOPlenty:plants:7, Рогоз
+BiomesOPlenty:plants:8, Речной камыш
+BiomesOPlenty:plants:12, Крохотный кактус
+BiomesOPlenty:plants:13, Иссушающий нарост
+BiomesOPlenty:plants:14, Камыш
+BiomesOPlenty:plants:15, Корень
+BiomesOPlenty:flowers:0, Клевер
+BiomesOPlenty:flowers:1, Болотный цветок
+BiomesOPlenty:flowers:2, Смертельный блюм
+BiomesOPlenty:flowers:3, Светоцвет
+BiomesOPlenty:flowers:4, Синяя гортензия
+BiomesOPlenty:flowers:5, Оранжевая космея
+BiomesOPlenty:flowers:6, Розовый нарцисс
+BiomesOPlenty:flowers:7, Дикий цветок
+BiomesOPlenty:flowers:8, Фиалка
+BiomesOPlenty:flowers:9, Белый анемон
+BiomesOPlenty:flowers:10, Кувшинка
+BiomesOPlenty:flowers:11, Лотос Края
+BiomesOPlenty:flowers:12, Бромелия
+BiomesOPlenty:flowers:13, Глазное яблоко
+BiomesOPlenty:flowers:15, Белый одуванчик
+BiomesOPlenty:flowers2:0, Розовый гибискус
+BiomesOPlenty:flowers2:1, Ландыш
+BiomesOPlenty:flowers2:2, Пылающий цвет
+BiomesOPlenty:flowers2:3, Лаванда
+BiomesOPlenty:flowers2:4, Золотарник
+BiomesOPlenty:flowers2:5, Колокольчики
+BiomesOPlenty:flowers2:6, Шахтёрское наслаждение
+BiomesOPlenty:flowers2:7, Ледяной ирис
+BiomesOPlenty:flowers2:8, Роза
+BiomesOPlenty:stoneFormations:0, Сталагмит
+BiomesOPlenty:stoneFormations:1, Сталактит
+BiomesOPlenty:mushrooms:0, Поганка
+BiomesOPlenty:mushrooms:1, Портобелло
+BiomesOPlenty:mushrooms:2, Млечник голубой
+BiomesOPlenty:mushrooms:3, Светогриб
+BiomesOPlenty:mushrooms:4, Плоский гриб
+BiomesOPlenty:mushrooms:5, Теневой гриб
+BiomesOPlenty:willow, Ива
+BiomesOPlenty:ivy, Плющ
+BiomesOPlenty:treeMoss, Древесный мох
+BiomesOPlenty:flowerVine, Цветущая лиана
+BiomesOPlenty:wisteria, Глициния
+BiomesOPlenty:lilyBop:0, Средняя кувшинка
+BiomesOPlenty:lilyBop:1, Малая кувшинка
+BiomesOPlenty:lilyBop:2, Крохотная кувшинка
+BiomesOPlenty:foliage:0, Ряска
+BiomesOPlenty:foliage:1, Низкая трава
+BiomesOPlenty:foliage:2, Средняя трава
+BiomesOPlenty:foliage:3, Лён
+BiomesOPlenty:foliage:4, Куст
+BiomesOPlenty:foliage:5, Росток
+BiomesOPlenty:foliage:7, Ядовитый плющ
+BiomesOPlenty:foliage:8, Ягодный куст
+BiomesOPlenty:foliage:9, Кустарник
+BiomesOPlenty:foliage:10, Ростки пшеницы
+BiomesOPlenty:foliage:11, Влажная трава
+BiomesOPlenty:foliage:12, Кору
+BiomesOPlenty:foliage:13, Донник лекарственный
+BiomesOPlenty:foliage:14, Кучка листьев
+BiomesOPlenty:foliage:15, Кучка сухих листьев
+BiomesOPlenty:turnip, Репа
+BiomesOPlenty:coral1:11, Ламинария
+BiomesOPlenty:coral1:12, Розовый коралл
+BiomesOPlenty:coral1:13, Оранжевый коралл
+BiomesOPlenty:coral1:14, Синий коралл
+BiomesOPlenty:coral1:15, Светящийся коралл
+BiomesOPlenty:coral2:8, Водоросли
+BiomesOPlenty:ashStone, Пепельный камень
+BiomesOPlenty:hardIce, Затвердевший лёд
+BiomesOPlenty:appleLeaves:0, Листва яблони
+BiomesOPlenty:persimmonLeaves:0, Листва хурмы
+BiomesOPlenty:moss, Мох
+BiomesOPlenty:bamboo, Бамбук
+BiomesOPlenty:mudBricks, Кирпичи из грязи
+BiomesOPlenty:originGrass, Блок изначальной травы
+BiomesOPlenty:longGrass, Блок высокой травы
+BiomesOPlenty:overgrownNetherrack, Заросший камень Нижнего мира
+BiomesOPlenty:bopGrass:0, Спектральный мох
+BiomesOPlenty:bopGrass:1, Блок тлеющей травы
+BiomesOPlenty:newBopGrass:0, Блок глиняной травы
+BiomesOPlenty:newBopGrass:1, Блок песчаной травы
+BiomesOPlenty:newBopGrass:2, Блок илистой травы
+BiomesOPlenty:newBopDirt:0, Глиняная земля
+BiomesOPlenty:newBopDirt:1, Грубая глиняная земля
+BiomesOPlenty:newBopDirt:2, Песчаная земля
+BiomesOPlenty:newBopDirt:3, Грубая песчаная земля
+BiomesOPlenty:newBopDirt:4, Илистая земля
+BiomesOPlenty:newBopDirt:5, Грубая илистая земля
+BiomesOPlenty:newBopFarmland:0, Глиняная пашня
+BiomesOPlenty:newBopFarmland:1, Глиняная пашня
+BiomesOPlenty:newBopFarmland:2, Песчанная пашня
+BiomesOPlenty:newBopFarmland:3, Глиняная пашня
+BiomesOPlenty:newBopFarmland:4, Глиняная пашня
+BiomesOPlenty:newBopFarmland:5, Глиняная пашня
+BiomesOPlenty:logs1:0, Древесина священного дуба
+BiomesOPlenty:logs1:1, Древесина вишнёвого дерева
+BiomesOPlenty:logs1:2, Древесина тёмного дерева
+BiomesOPlenty:logs1:3, Древесина пихты
+BiomesOPlenty:logs2:0, Эфирная древесина
+BiomesOPlenty:logs2:1, Магическая древесина
+BiomesOPlenty:logs2:2, Древесина мангрового дерева
+BiomesOPlenty:logs2:3, Древесина пальмы
+BiomesOPlenty:logs3:0, Древесина красного дерева
+BiomesOPlenty:logs3:1, Древесина ивы
+BiomesOPlenty:logs3:2, Мёртвая древесина
+BiomesOPlenty:logs3:3, Ствол гигантского цветка
+BiomesOPlenty:logs4:0, Древесина сосны
+BiomesOPlenty:logs4:1, Древесина адского дерева
+BiomesOPlenty:logs4:2, Древесина жакаранды
+BiomesOPlenty:logs4:3, Махагониевая древесина
+BiomesOPlenty:leaves1:0, Жёлтая осенняя листва
+BiomesOPlenty:leaves1:1, Бамбуковая листва
+BiomesOPlenty:leaves1:2, Магическая листва
+BiomesOPlenty:leaves1:3, Тёмная листва
+BiomesOPlenty:leaves2:0, Погибающая листва
+BiomesOPlenty:leaves2:1, Пихтовая листва
+BiomesOPlenty:leaves2:2, Эфирная листва
+BiomesOPlenty:leaves2:3, Оранжевая осенняя листва
+BiomesOPlenty:leaves3:0, Изначальная листва
+BiomesOPlenty:leaves3:1, Листва розовой вишни
+BiomesOPlenty:leaves3:2, Клёновая листва
+BiomesOPlenty:leaves3:3, Листва белой вишни
+BiomesOPlenty:leaves4:0, Адская листва
+BiomesOPlenty:leaves4:1, Жакарандовая листва
+BiomesOPlenty:petals:0, Гигантский красный цветок
+BiomesOPlenty:petals:1, Гигантский жёлтый цветок
+BiomesOPlenty:saplings:0, Саженец яблони
+BiomesOPlenty:saplings:1, Жёлтый осенний саженец
+BiomesOPlenty:saplings:2, Саженец бамбука
+BiomesOPlenty:saplings:3, Магический саженец
+BiomesOPlenty:saplings:4, Тёмный саженец
+BiomesOPlenty:saplings:5, Погибающий саженец
+BiomesOPlenty:saplings:6, Саженец пихты
+BiomesOPlenty:saplings:7, Эфирный саженец
+BiomesOPlenty:saplings:8, Оранжевый осенний саженец
+BiomesOPlenty:saplings:9, Изначальный саженец
+BiomesOPlenty:saplings:10, Саженец розовой вишни
+BiomesOPlenty:saplings:11, Саженец клёна
+BiomesOPlenty:saplings:12, Саженец белой вишни
+BiomesOPlenty:saplings:13, Саженец адского дерева
+BiomesOPlenty:saplings:14, Саженец жакаранды
+BiomesOPlenty:saplings:15, Саженец хурмы
+BiomesOPlenty:colorizedSaplings:0, Саженец священного дуба
+BiomesOPlenty:colorizedSaplings:1, Мангровый саженец
+BiomesOPlenty:colorizedSaplings:2, Саженец пальмы
+BiomesOPlenty:colorizedSaplings:3, Саженец красного дерева
+BiomesOPlenty:colorizedSaplings:4, Саженец ивы
+BiomesOPlenty:colorizedSaplings:5, Саженец сосны
+BiomesOPlenty:colorizedSaplings:6, Саженец махагониевого дерева
+BiomesOPlenty:colorizedSaplings:7, Саженец цветущего дуба
+BiomesOPlenty:hardSand, Затвердевший песок
+BiomesOPlenty:hardDirt, Затвердевшая земля
+BiomesOPlenty:biomeBlock, Руда эссенции биомов
+BiomesOPlenty:crystal, Небесный кристалл
+BiomesOPlenty:gemOre:0, Руда аметиста Края
+BiomesOPlenty:gemOre:1, Аметистовый блок
+BiomesOPlenty:gemOre:2, Рубиновая руда
+BiomesOPlenty:gemOre:3, Рубиновый блок
+BiomesOPlenty:gemOre:4, Перидотовая руда
+BiomesOPlenty:gemOre:5, Перидотовый блок
+BiomesOPlenty:gemOre:6, Топазовая руда
+BiomesOPlenty:gemOre:7, Топазовый блок
+BiomesOPlenty:gemOre:8, Танзанитовая руда
+BiomesOPlenty:gemOre:9, Танзанитовый блок
+BiomesOPlenty:gemOre:10, Малахитовая руда
+BiomesOPlenty:gemOre:11, Малахитовый блок
+BiomesOPlenty:gemOre:12, Сапфировая руда
+BiomesOPlenty:gemOre:13, Сапфировый блок
+BiomesOPlenty:gemOre:14, Янтарная руда
+BiomesOPlenty:gemOre:15, Янтарный блок
+BiomesOPlenty:cragRock, Горная порода
+BiomesOPlenty:hive:0, Блок медовых сот
+BiomesOPlenty:hive:1, Блок улья
+BiomesOPlenty:hive:2, Пустой блок медовых сот
+BiomesOPlenty:hive:3, Заполненный блок медовых сот
+BiomesOPlenty:honeyBlock, Блок мёда
+BiomesOPlenty:bones:0, Малый сегмент кости
+BiomesOPlenty:bones:1, Средний сегмент кости
+BiomesOPlenty:bones:2, Большой сегмент кости
+BiomesOPlenty:grave:0, Могильная плита
+BiomesOPlenty:planks:0, Доски из священного дуба
+BiomesOPlenty:planks:1, Доски из вишнёвого дерева
+BiomesOPlenty:planks:2, Доски из тёмной древесины
+BiomesOPlenty:planks:3, Доски из пихты
+BiomesOPlenty:planks:4, Доски из эфирной древесины
+BiomesOPlenty:planks:5, Доски из магической древесины
+BiomesOPlenty:planks:6, Доски из мангрового дерева
+BiomesOPlenty:planks:7, Доски из пальмы
+BiomesOPlenty:planks:8, Доски из красного дерева
+BiomesOPlenty:planks:9, Доски из ивы
+BiomesOPlenty:planks:10, Бамбуковое покрытие
+BiomesOPlenty:planks:11, Доски из сосны
+BiomesOPlenty:planks:12, Доски из адского дерева
+BiomesOPlenty:planks:13, Доски из жакаранды
+BiomesOPlenty:planks:14, Доски из махагониевой древесины
+BiomesOPlenty:woodenSingleSlab1:0, Плита из священного дуба
+BiomesOPlenty:woodenSingleSlab1:1, Плита из вишнёвого дерева
+BiomesOPlenty:woodenSingleSlab1:2, Плита из тёмной древесины
+BiomesOPlenty:woodenSingleSlab1:3, Плита из пихты
+BiomesOPlenty:woodenSingleSlab1:4, Плита из эфирной древесины
+BiomesOPlenty:woodenSingleSlab1:5, Плита из магической древесины
+BiomesOPlenty:woodenSingleSlab1:6, Плита из мангрового дерева
+BiomesOPlenty:woodenSingleSlab1:7, Плита из пальмы
+BiomesOPlenty:woodenDoubleSlab1:0, Плита из священного дуба
+BiomesOPlenty:woodenDoubleSlab1:1, Плита из вишнёвого дерева
+BiomesOPlenty:woodenDoubleSlab1:2, Плита из тёмной древесины
+BiomesOPlenty:woodenDoubleSlab1:3, Плита из пихты
+BiomesOPlenty:woodenDoubleSlab1:4, Плита из эфирной древесины
+BiomesOPlenty:woodenDoubleSlab1:5, Плита из магической древесины
+BiomesOPlenty:woodenDoubleSlab1:6, Плита из мангрового дерева
+BiomesOPlenty:woodenDoubleSlab1:7, Плита из пальмы
+BiomesOPlenty:woodenSingleSlab2:0, Плита из красного дерева
+BiomesOPlenty:woodenSingleSlab2:1, Плита из ивы
+BiomesOPlenty:woodenSingleSlab2:2, Плита из сосны
+BiomesOPlenty:woodenSingleSlab2:3, Плита из адского дерева
+BiomesOPlenty:woodenSingleSlab2:4, Плита из жакаранды
+BiomesOPlenty:woodenDoubleSlab2:0, Плита из красного дерева
+BiomesOPlenty:woodenDoubleSlab2:1, Плита из ивы
+BiomesOPlenty:woodenDoubleSlab2:2, Плита из сосны
+BiomesOPlenty:woodenDoubleSlab2:3, Плита из адского дерева
+BiomesOPlenty:woodenDoubleSlab2:4, Плита из жакаранды
+BiomesOPlenty:stoneSingleSlab:0, Плита из кирпичей грязи
+BiomesOPlenty:stoneDoubleSlab:0, Плита из кирпичей грязи
+BiomesOPlenty:sacredoakStairs, Ступеньки из священного дуба
+BiomesOPlenty:cherryStairs, Ступеньки из вишнёвого дерева
+BiomesOPlenty:darkStairs, Ступеньки из тёмной древесины
+BiomesOPlenty:firStairs, Ступеньки из пихты
+BiomesOPlenty:etherealStairs, Ступеньки из эфирной древесины
+BiomesOPlenty:magicStairs, Ступеньки из магической древесины
+BiomesOPlenty:mangroveStairs, Ступеньки из мангрового дерева
+BiomesOPlenty:palmStairs, Ступеньки из пальмы
+BiomesOPlenty:redwoodStairs, Ступеньки из красного дерева
+BiomesOPlenty:willowStairs, Ступеньки из ивы
+BiomesOPlenty:pineStairs, Ступеньки из сосны
+BiomesOPlenty:hellBarkStairs, Ступеньки из адского дерева
+BiomesOPlenty:jacarandaStairs, Ступеньки из жакаранды
+BiomesOPlenty:mahoganyStairs, Ступеньки из махагониевой древесины
+BiomesOPlenty:mudBricksStairs, Ступеньки из кирпичей грязи
+BiomesOPlenty:colorizedLeaves1:0, Листва священного дуба
+BiomesOPlenty:colorizedLeaves1:1, Мангровая листва
+BiomesOPlenty:colorizedLeaves1:2, Пальмовая листва
+BiomesOPlenty:colorizedLeaves1:3, Листва красного дерева
+BiomesOPlenty:colorizedLeaves2:0, Ивовая листва
+BiomesOPlenty:colorizedLeaves2:1, Сосновая листва
+BiomesOPlenty:colorizedLeaves2:2, Махагониевая листва
+BiomesOPlenty:colorizedLeaves2:3, Листва цветущего дуба
+BiomesOPlenty:poison, Яд
+BiomesOPlenty:hell_blood, Кровь
+BiomesOPlenty:honey, Мёд
 Forestry:core:0, Анализатор
 Forestry:core:1, Секретер
 Forestry:soil:0, Гумус
@@ -3747,6 +4022,8 @@ evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:sanguinaryPedestal:0, Кровавый пьедестал
 evilcraft:sanguinaryPedestal:1, Кровавый пьедестал
 evilcraft:spikedPlate:0, Шипованная пластина
@@ -4564,6 +4841,68 @@ Mekanism:BasicBlock2:6, Распылитель давления
 Mekanism:BasicBlock2:7, Обшивка бойлера
 Mekanism:BasicBlock2:8, Вентиль бойлера
 Mekanism:BasicBlock2:9, Защитный блок
+Mekanism:MachineBlock:0, Камера обогащения
+Mekanism:MachineBlock:1, Осмиевый компрессор
+Mekanism:MachineBlock:2, Объединитель
+Mekanism:MachineBlock:3, Дробитель
+Mekanism:MachineBlock:4, Цифровой шахтёр
+Mekanism:MachineBlock:5, (Базовый) Плавящая Фабрика
+Mekanism:MachineBlock:5, (Базовый) Обогащающая Фабрика
+Mekanism:MachineBlock:5, (Базовый) Дробящая Фабрика
+Mekanism:MachineBlock:5, (Базовый) Сжимающая Фабрика
+Mekanism:MachineBlock:5, (Базовый) Объединяющая Фабрика
+Mekanism:MachineBlock:5, (Базовый) Очищающая Фабрика
+Mekanism:MachineBlock:5, (Базовый) Впрыскивающая Фабрика
+Mekanism:MachineBlock:5, (Базовый) Наполняющая Фабрика
+Mekanism:MachineBlock:6, (Продвинутый) Плавящая Фабрика
+Mekanism:MachineBlock:6, (Продвинутый) Обогащающая Фабрика
+Mekanism:MachineBlock:6, (Продвинутый) Дробящая Фабрика
+Mekanism:MachineBlock:6, (Продвинутый) Сжимающая Фабрика
+Mekanism:MachineBlock:6, (Продвинутый) Объединяющая Фабрика
+Mekanism:MachineBlock:6, (Продвинутый) Очищающая Фабрика
+Mekanism:MachineBlock:6, (Продвинутый) Впрыскивающая Фабрика
+Mekanism:MachineBlock:6, (Продвинутый) Наполняющая Фабрика
+Mekanism:MachineBlock:7, (Элитный) Плавящая Фабрика
+Mekanism:MachineBlock:7, (Элитный) Обогащающая Фабрика
+Mekanism:MachineBlock:7, (Элитный) Дробящая Фабрика
+Mekanism:MachineBlock:7, (Элитный) Сжимающая Фабрика
+Mekanism:MachineBlock:7, (Элитный) Объединяющая Фабрика
+Mekanism:MachineBlock:7, (Элитный) Очищающая Фабрика
+Mekanism:MachineBlock:7, (Элитный) Впрыскивающая Фабрика
+Mekanism:MachineBlock:7, (Элитный) Наполняющая Фабрика
+Mekanism:MachineBlock:8, Металлургический наполнитель
+Mekanism:MachineBlock:9, Камера очистки
+Mekanism:MachineBlock:10, Энергетическая плавильня
+Mekanism:MachineBlock:11, Телепорт
+Mekanism:MachineBlock:12, Электрическая помпа
+Mekanism:MachineBlock:13, Personal Chest
+Mekanism:MachineBlock:14, Заряжающая панель
+Mekanism:MachineBlock:15, Логистический сортировщик
+Mekanism:MachineBlock2:0, Роторный сгуститель
+Mekanism:MachineBlock2:1, Химический окислитель
+Mekanism:MachineBlock2:2, Химический наполнитель
+Mekanism:MachineBlock2:3, Химическая инъекционная камера
+Mekanism:MachineBlock2:4, Электролитический сепаратор
+Mekanism:MachineBlock2:5, Точная лесопилка
+Mekanism:MachineBlock2:6, Химическая камера растворения
+Mekanism:MachineBlock2:7, Химический мойщик
+Mekanism:MachineBlock2:8, Химический кристаллизатор
+Mekanism:MachineBlock2:9, Сейсмический вибромеханизм
+Mekanism:MachineBlock2:10, Камера реакций под давлением
+Mekanism:MachineBlock2:11, Базовый жидкостный бак
+Mekanism:MachineBlock2:11, Продвинутый жидкостный бак
+Mekanism:MachineBlock2:11, Элитный жидкостный бак
+Mekanism:MachineBlock2:11, Совершенный жидкостный бак
+Mekanism:MachineBlock2:12, Жидкостный снабжатель
+Mekanism:MachineBlock2:13, Лазер
+Mekanism:MachineBlock2:14, Усилитель лазера
+Mekanism:MachineBlock2:15, Лазерный притягиватель
+Mekanism:MachineBlock3:0, Квантовый телепорт
+Mekanism:MachineBlock3:1, Солнечный активатор нейтронов
+Mekanism:MachineBlock3:3, Унификатор словаря руд
+Mekanism:MachineBlock3:4, Устойчивый нагреватель
+Mekanism:MachineBlock3:5, Формульный сборщик
+Mekanism:MachineBlock3:6, Твердотопливный нагреватель
 Mekanism:OreBlock:0, Осмиевая руда
 Mekanism:OreBlock:1, Медная руда
 Mekanism:OreBlock:2, Оловянная руда
@@ -4698,6 +5037,18 @@ ProjectE:condenser_mk2, Конденсатор энергии MK2
 ProjectE:rm_furnace_lit, Печь из красной материи
 ProjectE:dm_furnace_lit, Печь из тёмной материи
 ProjectE:dm_pedestal, Пьедестал из тёмной материи
+minecraft:record_13, Пластинка
+minecraft:record_cat, Пластинка
+minecraft:record_blocks, Пластинка
+minecraft:record_chirp, Пластинка
+minecraft:record_far, Пластинка
+minecraft:record_mall, Пластинка
+minecraft:record_mellohi, Пластинка
+minecraft:record_stal, Пластинка
+minecraft:record_strad, Пластинка
+minecraft:record_ward, Пластинка
+minecraft:record_11, Пластинка
+minecraft:record_wait, Пластинка
 ProjectE:nova_catalyst, Катализатор Новы
 ProjectE:nova_cataclysm, Катаклизм Новы
 ProjectE:alchemical_chest, Алхимический сундук
@@ -4833,18 +5184,6 @@ Ztones:lampf, Flat Lamp
 Ztones:lampt, Flat Lamp
 Ztones:lampb, Flat Lamp
 Ztones:auroraBlock, Aurora
-minecraft:record_13, Пластинка
-minecraft:record_cat, Пластинка
-minecraft:record_blocks, Пластинка
-minecraft:record_chirp, Пластинка
-minecraft:record_far, Пластинка
-minecraft:record_mall, Пластинка
-minecraft:record_mellohi, Пластинка
-minecraft:record_stal, Пластинка
-minecraft:record_strad, Пластинка
-minecraft:record_ward, Пластинка
-minecraft:record_11, Пластинка
-minecraft:record_wait, Пластинка
 Ztones:tile.agonBlock:0, Agon ⓪
 Ztones:tile.agonBlock:1, Agon ①
 Ztones:tile.agonBlock:2, Agon ②
@@ -5645,7 +5984,7 @@ Thaumcraft:ItemGolemUpgrade:2, Улучшение голема: Огонь
 Thaumcraft:ItemGolemUpgrade:3, Улучшение голема: Вода
 Thaumcraft:ItemGolemUpgrade:4, Улучшение голема: Порядок
 Thaumcraft:ItemGolemUpgrade:5, Улучшение голема: Хаос
-Thaumcraft:GolemBell, Колокольчик Голема
+Thaumcraft:GolemBell, Хрустальный колокольчик
 Thaumcraft:ItemGolemDecoration:0, Аксессуар: Цилиндр
 Thaumcraft:ItemGolemDecoration:1, Аксессуар: Очки
 Thaumcraft:ItemGolemDecoration:2, Аксессуар: Бабочка
@@ -7119,15 +7458,15 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Nether Wo
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ender Wood
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ender Wood Planks
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алхимит
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок шоколада
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Граница пространства
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Разбухший мозг
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Шоколадный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Граница измерения
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок мозга
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пыль
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глазное скопление
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кластер глаз
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кость
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Разбухшая плоть
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Первичное ископаемое
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пространственные Врата
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок плоти
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сингулярные останки
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Планарные врата
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.buildToolBlock.name
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Декоративный оловянный блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Декоративный оловянный блок
@@ -7259,6 +7598,96 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Double Co
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Crystal Matrix
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Neutronium Block
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Infinity Block
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Грязь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зыбучий песок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Осушённая земля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Известняк
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий известняк
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алевролит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий алевролит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глинистый сланец
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий глинистый сланец
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пепельный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плоть
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пепельный камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Затвердевший лёд
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпичи из грязи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глиняная земля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Грубая глиняная земля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Песчаная земля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Грубая песчаная земля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Илистая земля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Грубая илистая земля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина священного дуба
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина вишнёвого дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина тёмного дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина пихты
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Эфирная древесина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Магическая древесина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина мангрового дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина пальмы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина красного дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина ивы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мёртвая древесина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ствол гигантского цветка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина сосны
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина адского дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина жакаранды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Махагониевая древесина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Затвердевший песок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Затвердевшая земля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда эссенции биомов
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Небесный кристалл
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда аметиста Края
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Аметистовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Рубиновая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Рубиновый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Перидотовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Перидотовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Топазовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Топазовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Танзанитовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Танзанитовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Малахитовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Малахитовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сапфировая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сапфировый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Янтарная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Янтарный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Горная порода
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок медовых сот
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок улья
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пустой блок медовых сот
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заполненный блок медовых сот
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из священного дуба
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из вишнёвого дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из тёмной древесины
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из пихты
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из эфирной древесины
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из магической древесины
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из мангрового дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из пальмы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из красного дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из ивы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бамбуковое покрытие
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из сосны
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из адского дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из жакаранды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из махагониевой древесины
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из священного дуба
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из вишнёвого дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из тёмной древесины
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из пихты
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из эфирной древесины
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из магической древесины
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из мангрового дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из пальмы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из красного дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из ивы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из сосны
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из адского дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из жакаранды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из кирпичей грязи
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Апатитовая руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
@@ -9056,29 +9485,29 @@ ThaumicExploration:taintBerry, Taintberry
 ThaumicExploration:tentacleRing, Taintacle Ring
 ThaumicExploration:stabilizerBelt, Thaumostatic Stabilizer
 ThaumicExploration:discountRing, item.thaumicexploration:discountRing.name
-ThaumicHorizons:spawnerEgg:0, Призвать существо - Разноцветная овца
+ThaumicHorizons:spawnerEgg:0, Призвать существо - Хроматическая овца
 ThaumicHorizons:spawnerEgg:1, Призвать существо - Самостригущаяся овца
-ThaumicHorizons:spawnerEgg:2, Призвать существо - Пантера-страж
-ThaumicHorizons:spawnerEgg:3, Призвать существо - Могильщик
-ThaumicHorizons:spawnerEgg:4, Призвать существо - Компаньон
+ThaumicHorizons:spawnerEgg:2, Призвать существо - Сторожевая пантера
+ThaumicHorizons:spawnerEgg:3, Призвать существо - Кладбищенский сторож
+ThaumicHorizons:spawnerEgg:4, Призвать существо - Фамильяр
 ThaumicHorizons:spawnerEgg:5, Призвать существо - Шоколадная корова
-ThaumicHorizons:spawnerEgg:6, Призвать существо - Курица Ученого
-ThaumicHorizons:spawnerEgg:7, Призвать существо - Золотоносная курица
+ThaumicHorizons:spawnerEgg:6, Призвать существо - Курица учёного
+ThaumicHorizons:spawnerEgg:7, Призвать существо - Золотая курица
 ThaumicHorizons:spawnerEgg:8, Призвать существо - Рудный кабан
-ThaumicHorizons:spawnerEgg:9, Призвать существо - Пожиратель порчи
-ThaumicHorizons:spawnerEgg:10, Призвать существо - Скакун Края
+ThaumicHorizons:spawnerEgg:9, Призвать существо - Порчеед
+ThaumicHorizons:spawnerEgg:10, Призвать существо - Эндер-скакун
 ThaumicHorizons:spawnerEgg:11, Призвать существо - Морской волк
 ThaumicHorizons:spawnerEgg:12, Призвать существо - Адская гончая
 ThaumicHorizons:spawnerEgg:13, Призвать существо - Лунный волк
 ThaumicHorizons:spawnerEgg:14, Призвать существо - Лошадь-зомби
 ThaumicHorizons:spawnerEgg:15, Призвать существо - Лошадь-скелет
-ThaumicHorizons:spawnerEgg:16, Призвать существо - Ночной кошмар
+ThaumicHorizons:spawnerEgg:16, Призвать существо - Nightmare
 ThaumicHorizons:spawnerEgg:17, Призвать существо - Мясной слизень
 ThaumicHorizons:spawnerEgg:18, Призвать существо - Ртутный слизень
-ThaumicHorizons:spawnerEgg:19, Призвать существо - Электрический слизень
-ThaumicHorizons:spawnerEgg:20, Призвать существо - Грязевой слизень
-ThaumicHorizons:spawnerEgg:21, Призвать существо - Овцеук
-ThaumicHorizons:spawnerEgg:22, Призвать существо - Потерянная душа
+ThaumicHorizons:spawnerEgg:19, Призвать существо - Электрослизень
+ThaumicHorizons:spawnerEgg:20, Призвать существо - Лечебный слизень
+ThaumicHorizons:spawnerEgg:21, Призвать существо - Овцук
+ThaumicHorizons:spawnerEgg:22, Призвать существо - Пропащая душа
 ThaumicHorizons:eggIncubated, item.null.name
 ThaumicHorizons:lensFire, item.null.name
 ThaumicHorizons:lensWater, item.null.name
@@ -9089,20 +9518,20 @@ ThaumicHorizons:lensCase, item.null.name
 ThaumicHorizons:focusContainment, item.null.name
 ThaumicHorizons:focusLiquefaction, item.null.name
 ThaumicHorizons:focusDisintegration, item.null.name
-ThaumicHorizons:focusIllumination:0, Набалдашник: Освещение (Черный)
+ThaumicHorizons:focusIllumination:0, Набалдашник: Освещение (Чёрный)
 ThaumicHorizons:focusIllumination:1, Набалдашник: Освещение (Красный)
-ThaumicHorizons:focusIllumination:2, Набалдашник: Освещение (Зеленый)
+ThaumicHorizons:focusIllumination:2, Набалдашник: Освещение (Зелёный)
 ThaumicHorizons:focusIllumination:3, Набалдашник: Освещение (Коричневый)
 ThaumicHorizons:focusIllumination:4, Набалдашник: Освещение (Синий)
 ThaumicHorizons:focusIllumination:5, Набалдашник: Освещение (Фиолетовый)
-ThaumicHorizons:focusIllumination:6, Набалдашник: Освещение (Голубой)
-ThaumicHorizons:focusIllumination:7, Набалдашник: Освещение (Серебряный)
+ThaumicHorizons:focusIllumination:6, Набалдашник: Освещение (Бирюзовый)
+ThaumicHorizons:focusIllumination:7, Набалдашник: Освещение (Светло-серый)
 ThaumicHorizons:focusIllumination:8, Набалдашник: Освещение (Серый)
 ThaumicHorizons:focusIllumination:9, Набалдашник: Освещение (Розовый)
 ThaumicHorizons:focusIllumination:10, Набалдашник: Освещение (Лаймовый)
-ThaumicHorizons:focusIllumination:11, Набалдашник: Освещение (Желтый)
+ThaumicHorizons:focusIllumination:11, Набалдашник: Освещение (Жёлтый)
 ThaumicHorizons:focusIllumination:12, Набалдашник: Освещение (Голубой)
-ThaumicHorizons:focusIllumination:13, Набалдашник: Освещение (Фиолетовый)
+ThaumicHorizons:focusIllumination:13, Набалдашник: Освещение (Сиреневый)
 ThaumicHorizons:focusIllumination:14, Набалдашник: Освещение (Оранжевый)
 ThaumicHorizons:focusIllumination:15, Набалдашник: Освещение (Белый)
 ThaumicHorizons:focusAnimation, item.null.name
@@ -9124,27 +9553,27 @@ ThaumicHorizons:infusionCheat, item.null.name
 ThaumicHorizons:infusionSelfCheat, item.null.name
 ThaumicHorizons:suicidePill, item.null.name
 ThaumicHorizons:golemPowder, item.null.name
-ThaumicHorizons:golemPlacer:0, Одушевленный голем
-ThaumicHorizons:golemPlacer:1, Одушевленный голем
-ThaumicHorizons:golemPlacer:2, Одушевленный голем
-ThaumicHorizons:golemPlacer:3, Одушевленный голем
-ThaumicHorizons:golemPlacer:4, Одушевленный голем
-ThaumicHorizons:golemPlacer:5, Одушевленный голем
-ThaumicHorizons:golemPlacer:6, Одушевленный голем
-ThaumicHorizons:golemPlacer:7, Одушевленный голем
+ThaumicHorizons:golemPlacer:0, Оживлённый голем
+ThaumicHorizons:golemPlacer:1, Оживлённый голем
+ThaumicHorizons:golemPlacer:2, Оживлённый голем
+ThaumicHorizons:golemPlacer:3, Оживлённый голем
+ThaumicHorizons:golemPlacer:4, Оживлённый голем
+ThaumicHorizons:golemPlacer:5, Оживлённый голем
+ThaumicHorizons:golemPlacer:6, Оживлённый голем
+ThaumicHorizons:golemPlacer:7, Оживлённый голем
 ThaumicHorizons:Golemancy Bell TH, item.null.name
 ThaumicHorizons:boatGreatwood, item.null.name
 ThaumicHorizons:boatThaumium, item.null.name
 ThaumicHorizons:dummyVat, item.null.name
 ThaumicHorizons:keystoneTH, item.null.name
 ThaumicHorizons:planarConduit, item.null.name
-ThaumicHorizons:wandCastingDisposable:0, Одноразовый Кристаллический жезл
+ThaumicHorizons:wandCastingDisposable:0, Одноразовый кристальный жезл
 ThaumicHorizons:crystalWand, item.null.name
 ThaumicHorizons:voidPutty, item.null.name
 ThaumicHorizons:meatTH, item.null.name
 ThaumicHorizons:meatCookedTH, item.null.name
 ThaumicHorizons:meatNuggetTH, item.null.name
-ThaumicHorizons:nodeCheat, Узел-Создатель
+ThaumicHorizons:nodeCheat, Открывашка для узлов
 ae2stuff:WirelessKit, Набор для настройки беспроводного соединителя
 ae2stuff:Visualiser, Устройство визуализации Сети
 BuildCraft|Core:wrenchItem, Гаечный ключ
@@ -9590,6 +10019,92 @@ Backpack:workbenchbackpack:17, Workbench Backpack
 Backpack:workbenchbackpack:217, Big Workbench Backpack
 Backpack:boundLeather, item.null.name
 Backpack:tannedLeather, item.null.name
+BiomesOPlenty:food:0, Ягода
+BiomesOPlenty:food:1, Молотый гриб
+BiomesOPlenty:food:2, Дикая морковь
+BiomesOPlenty:food:3, Персик
+BiomesOPlenty:food:4, Фруктовый салат
+BiomesOPlenty:food:5, Овощной салат
+BiomesOPlenty:food:6, Грибной салат
+BiomesOPlenty:food:8, Хурма
+BiomesOPlenty:food:9, Заполненные медовые соты
+BiomesOPlenty:food:10, Амброзия
+BiomesOPlenty:food:11, Репа
+BiomesOPlenty:food:12, Груша
+BiomesOPlenty:food:13, Миска риса
+BiomesOPlenty:turnipSeeds, Семена репы
+BiomesOPlenty:misc:0, Кирпич из грязи
+BiomesOPlenty:misc:1, Кучка пепла
+BiomesOPlenty:misc:2, Пустые медовые соты
+BiomesOPlenty:misc:3, Кусок плоти
+BiomesOPlenty:misc:4, Осколок небесного кристалла
+BiomesOPlenty:misc:5, Синий краситель
+BiomesOPlenty:misc:6, Коричневый краситель
+BiomesOPlenty:misc:7, Зелёный краситель
+BiomesOPlenty:misc:8, Белый краситель
+BiomesOPlenty:misc:9, Чёрный краситель
+BiomesOPlenty:misc:10, Жуткая душа
+BiomesOPlenty:misc:11, Пыльца феи
+BiomesOPlenty:misc:12, Ихор
+BiomesOPlenty:misc:13, Сосновая шишка
+BiomesOPlenty:gems:0, Аметист Края
+BiomesOPlenty:gems:1, Рубин
+BiomesOPlenty:gems:2, Перидот
+BiomesOPlenty:gems:3, Топаз
+BiomesOPlenty:gems:4, Танзанит
+BiomesOPlenty:gems:5, Малахит
+BiomesOPlenty:gems:6, Сапфир
+BiomesOPlenty:gems:7, Янтарь
+BiomesOPlenty:mudball, Комок грязи
+BiomesOPlenty:jarEmpty, Пустая банка
+BiomesOPlenty:jarFilled:0, Банка мёда
+BiomesOPlenty:jarFilled:1, Банка ядовитого экстракта
+BiomesOPlenty:jarFilled:2, Банка для фей
+BiomesOPlenty:dartBlower, Духовая трубка
+BiomesOPlenty:dart:0, Дротик
+BiomesOPlenty:dart:1, Отравленный дротик
+BiomesOPlenty:ancientStaff:0, Древний посох
+BiomesOPlenty:ancientStaff:1, Рукоять древнего посоха
+BiomesOPlenty:ancientStaff:2, Древко древнего посоха
+BiomesOPlenty:ancientStaff:3, Верхушка древнего посоха
+BiomesOPlenty:ancientStaff:4, Истощённый древний посох
+BiomesOPlenty:enderporter, Телепортер Края
+BiomesOPlenty:bopBucket, item.bopBucket.name
+BiomesOPlenty:record_wanderer, Музыкальная пластинка
+BiomesOPlenty:record_corruption, Музыкальная пластинка
+BiomesOPlenty:biomeFinder, Радар биомов
+BiomesOPlenty:biomeEssence, Эссенция биомов
+BiomesOPlenty:swordMud, Меч из грязи
+BiomesOPlenty:shovelMud, Лопата из грязи
+BiomesOPlenty:pickaxeMud, Кирка из грязи
+BiomesOPlenty:axeMud, Топор из грязи
+BiomesOPlenty:hoeMud, Мотыга из грязи
+BiomesOPlenty:swordAmethyst, Аметистовый меч
+BiomesOPlenty:shovelAmethyst, Аметистовая лопата
+BiomesOPlenty:pickaxeAmethyst, Аметистовая кирка
+BiomesOPlenty:axeAmethyst, Аметистовый топор
+BiomesOPlenty:hoeAmethyst, Аметистовая мотыга
+BiomesOPlenty:scytheWood, Деревянная коса
+BiomesOPlenty:scytheStone, Каменная коса
+BiomesOPlenty:scytheIron, Железная коса
+BiomesOPlenty:scytheGold, Золотая коса
+BiomesOPlenty:scytheDiamond, Алмазная коса
+BiomesOPlenty:scytheMud, Коса из грязи
+BiomesOPlenty:scytheAmethyst, Аметистовая коса
+BiomesOPlenty:helmetMud, Шлем из грязи
+BiomesOPlenty:chestplateMud, Кираса из грязи
+BiomesOPlenty:leggingsMud, Поножи из грязи
+BiomesOPlenty:bootsMud, Ботинки из грязи
+BiomesOPlenty:helmetAmethyst, Аметистовый шлем
+BiomesOPlenty:chestplateAmethyst, Аметистовая кираса
+BiomesOPlenty:leggingsAmethyst, Аметистовые поножи
+BiomesOPlenty:bootsAmethyst, Аметистовые ботинки
+BiomesOPlenty:flowerBand:0, Скучный венок
+BiomesOPlenty:flowerBand:1, Обычный венок
+BiomesOPlenty:flowerBand:2, Пышный венок
+BiomesOPlenty:flowerBand:3, Экзотический венок
+BiomesOPlenty:flippers, Ласты
+BiomesOPlenty:wadingBoots, Болотные сапоги
 Forestry:fertilizerBio, Компост
 Forestry:fertilizerCompound, Минеральное удобрение
 Forestry:apatite, Апатит
@@ -11053,6 +11568,258 @@ evilcraft:rejuvenatedFlesh, Rejuvenated Flesh
 evilcraft:primedPendant, Primed Pendant
 evilcraft:goldenString, Golden String
 evilcraft:biomeExtract:0, Biome Extract Bottle
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
@@ -13998,25 +14765,25 @@ ThermalDynamics:cover:0, Крышка (Плита из резного истин
 ThermalDynamics:cover:0, Крышка (Плита из резного истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
-ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
 ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
-ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
+ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
+ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
+ThermalDynamics:cover:0, Крышка (Пропитанный Aqua огонь)
+ThermalDynamics:cover:0, Крышка (Админиум-портал)
+ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
+ThermalDynamics:cover:0, Крышка (Пропитанный Aer огонь)
 ThermalDynamics:cover:0, Крышка (Блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Резной блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Колонна из закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Пропитанный Aer огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Ordo огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
 ThermalDynamics:cover:0, Крышка (Ступеньки закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Админиум-портал)
 ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
 ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
-ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
-ThermalDynamics:cover:0, Крышка (Пропитанный Aqua огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Ordo огонь)
 ThermalDynamics:cover:0, Крышка (Таумический торт)
 ThermalDynamics:cover:0, Крышка (Мрачная роза)
 ThermalDynamics:cover:0, Крышка (Блок звезды Нижнего мира)
@@ -14123,19 +14890,19 @@ ThermalDynamics:cover:0, Крышка (Ender Wood)
 ThermalDynamics:cover:0, Крышка (Ender Wood Planks)
 ThermalDynamics:cover:0, Крышка (Лёд)
 ThermalDynamics:cover:0, Крышка (Алхимит)
-ThermalDynamics:cover:0, Крышка (Блок шоколада)
+ThermalDynamics:cover:0, Крышка (Шоколадный блок)
 ThermalDynamics:cover:0, Крышка (tile.ThaumicHorizons_evanescent.name)
-ThermalDynamics:cover:0, Крышка (Граница пространства)
-ThermalDynamics:cover:0, Крышка (Разбухший мозг)
+ThermalDynamics:cover:0, Крышка (Граница измерения)
+ThermalDynamics:cover:0, Крышка (Блок мозга)
 ThermalDynamics:cover:0, Крышка (Пыль)
-ThermalDynamics:cover:0, Крышка (Глазное скопление)
+ThermalDynamics:cover:0, Крышка (Кластер глаз)
 ThermalDynamics:cover:0, Крышка (Кость)
-ThermalDynamics:cover:0, Крышка (Разбухшая плоть)
+ThermalDynamics:cover:0, Крышка (Блок плоти)
 ThermalDynamics:cover:0, Крышка (Белый кристалл)
 ThermalDynamics:cover:0, Крышка (Оранжевый кристалл)
-ThermalDynamics:cover:0, Крышка (Пурпурный кристалл)
+ThermalDynamics:cover:0, Крышка (Сиреневый кристалл)
 ThermalDynamics:cover:0, Крышка (Голубой кристалл)
-ThermalDynamics:cover:0, Крышка (Желтый кристалл)
+ThermalDynamics:cover:0, Крышка (Жёлтый кристалл)
 ThermalDynamics:cover:0, Крышка (Лаймовый кристалл)
 ThermalDynamics:cover:0, Крышка (Розовый кристалл)
 ThermalDynamics:cover:0, Крышка (Серый кристалл)
@@ -14144,13 +14911,13 @@ ThermalDynamics:cover:0, Крышка (Бирюзовый кристалл)
 ThermalDynamics:cover:0, Крышка (Фиолетовый кристалл)
 ThermalDynamics:cover:0, Крышка (Синий кристалл)
 ThermalDynamics:cover:0, Крышка (Коричневый кристалл)
-ThermalDynamics:cover:0, Крышка (Зеленый кристалл)
+ThermalDynamics:cover:0, Крышка (Зелёный кристалл)
 ThermalDynamics:cover:0, Крышка (Красный кристалл)
-ThermalDynamics:cover:0, Крышка (Черный кристалл)
-ThermalDynamics:cover:0, Крышка (Насыщенный кристалл)
-ThermalDynamics:cover:0, Крышка (Первичное ископаемое)
+ThermalDynamics:cover:0, Крышка (Чёрный кристалл)
+ThermalDynamics:cover:0, Крышка (Глубинный кристалл)
+ThermalDynamics:cover:0, Крышка (Сингулярные останки)
 ThermalDynamics:cover:0, Крышка (tile.null.name)
-ThermalDynamics:cover:0, Крышка (Пространственные Врата)
+ThermalDynamics:cover:0, Крышка (Планарные врата)
 ThermalDynamics:cover:0, Крышка (Источник воды)
 ThermalDynamics:cover:0, Крышка (Источник нефти)
 ThermalDynamics:cover:0, Крышка (tile.buildToolBlock.name)
@@ -14342,6 +15109,274 @@ ThermalDynamics:cover:0, Крышка (Double Compressed Crafting Table)
 ThermalDynamics:cover:0, Крышка (Crystal Matrix)
 ThermalDynamics:cover:0, Крышка (Neutronium Block)
 ThermalDynamics:cover:0, Крышка (Infinity Block)
+ThermalDynamics:cover:0, Крышка (Грязь)
+ThermalDynamics:cover:0, Крышка (Зыбучий песок)
+ThermalDynamics:cover:0, Крышка (Осушённая земля)
+ThermalDynamics:cover:0, Крышка (Известняк)
+ThermalDynamics:cover:0, Крышка (Гладкий известняк)
+ThermalDynamics:cover:0, Крышка (Алевролит)
+ThermalDynamics:cover:0, Крышка (Гладкий алевролит)
+ThermalDynamics:cover:0, Крышка (Глинистый сланец)
+ThermalDynamics:cover:0, Крышка (Гладкий глинистый сланец)
+ThermalDynamics:cover:0, Крышка (Пепельный блок)
+ThermalDynamics:cover:0, Крышка (Плоть)
+ThermalDynamics:cover:0, Крышка (Мёртвая трава)
+ThermalDynamics:cover:0, Крышка (Пустынная трава)
+ThermalDynamics:cover:0, Крышка (Пустынные ростки)
+ThermalDynamics:cover:0, Крышка (Дюнная трава)
+ThermalDynamics:cover:0, Крышка (Спектральный папоротник)
+ThermalDynamics:cover:0, Крышка (Колючки)
+ThermalDynamics:cover:0, Крышка (Дикий рис)
+ThermalDynamics:cover:0, Крышка (Рогоз)
+ThermalDynamics:cover:0, Крышка (Речной камыш)
+ThermalDynamics:cover:0, Крышка (Крохотный кактус)
+ThermalDynamics:cover:0, Крышка (Иссушающий нарост)
+ThermalDynamics:cover:0, Крышка (Камыш)
+ThermalDynamics:cover:0, Крышка (Корень)
+ThermalDynamics:cover:0, Крышка (Клевер)
+ThermalDynamics:cover:0, Крышка (Болотный цветок)
+ThermalDynamics:cover:0, Крышка (Смертельный блюм)
+ThermalDynamics:cover:0, Крышка (Светоцвет)
+ThermalDynamics:cover:0, Крышка (Синяя гортензия)
+ThermalDynamics:cover:0, Крышка (Оранжевая космея)
+ThermalDynamics:cover:0, Крышка (Розовый нарцисс)
+ThermalDynamics:cover:0, Крышка (Дикий цветок)
+ThermalDynamics:cover:0, Крышка (Фиалка)
+ThermalDynamics:cover:0, Крышка (Белый анемон)
+ThermalDynamics:cover:0, Крышка (Кувшинка)
+ThermalDynamics:cover:0, Крышка (Лотос Края)
+ThermalDynamics:cover:0, Крышка (Бромелия)
+ThermalDynamics:cover:0, Крышка (Глазное яблоко)
+ThermalDynamics:cover:0, Крышка (Белый одуванчик)
+ThermalDynamics:cover:0, Крышка (Розовый гибискус)
+ThermalDynamics:cover:0, Крышка (Ландыш)
+ThermalDynamics:cover:0, Крышка (Пылающий цвет)
+ThermalDynamics:cover:0, Крышка (Лаванда)
+ThermalDynamics:cover:0, Крышка (Золотарник)
+ThermalDynamics:cover:0, Крышка (Колокольчики)
+ThermalDynamics:cover:0, Крышка (Шахтёрское наслаждение)
+ThermalDynamics:cover:0, Крышка (Ледяной ирис)
+ThermalDynamics:cover:0, Крышка (Роза)
+ThermalDynamics:cover:0, Крышка (Сталагмит)
+ThermalDynamics:cover:0, Крышка (Сталактит)
+ThermalDynamics:cover:0, Крышка (Поганка)
+ThermalDynamics:cover:0, Крышка (Портобелло)
+ThermalDynamics:cover:0, Крышка (Млечник голубой)
+ThermalDynamics:cover:0, Крышка (Светогриб)
+ThermalDynamics:cover:0, Крышка (Плоский гриб)
+ThermalDynamics:cover:0, Крышка (Теневой гриб)
+ThermalDynamics:cover:0, Крышка (Ива)
+ThermalDynamics:cover:0, Крышка (Плющ)
+ThermalDynamics:cover:0, Крышка (Древесный мох)
+ThermalDynamics:cover:0, Крышка (Цветущая лиана)
+ThermalDynamics:cover:0, Крышка (Глициния)
+ThermalDynamics:cover:0, Крышка (Средняя кувшинка)
+ThermalDynamics:cover:0, Крышка (Малая кувшинка)
+ThermalDynamics:cover:0, Крышка (Крохотная кувшинка)
+ThermalDynamics:cover:0, Крышка (Ряска)
+ThermalDynamics:cover:0, Крышка (Низкая трава)
+ThermalDynamics:cover:0, Крышка (Средняя трава)
+ThermalDynamics:cover:0, Крышка (Лён)
+ThermalDynamics:cover:0, Крышка (Куст)
+ThermalDynamics:cover:0, Крышка (Росток)
+ThermalDynamics:cover:0, Крышка (Ядовитый плющ)
+ThermalDynamics:cover:0, Крышка (Ягодный куст)
+ThermalDynamics:cover:0, Крышка (Кустарник)
+ThermalDynamics:cover:0, Крышка (Ростки пшеницы)
+ThermalDynamics:cover:0, Крышка (Влажная трава)
+ThermalDynamics:cover:0, Крышка (Кору)
+ThermalDynamics:cover:0, Крышка (Донник лекарственный)
+ThermalDynamics:cover:0, Крышка (Кучка листьев)
+ThermalDynamics:cover:0, Крышка (Кучка сухих листьев)
+ThermalDynamics:cover:0, Крышка (Репа)
+ThermalDynamics:cover:0, Крышка (Ламинария)
+ThermalDynamics:cover:0, Крышка (Розовый коралл)
+ThermalDynamics:cover:0, Крышка (Оранжевый коралл)
+ThermalDynamics:cover:0, Крышка (Синий коралл)
+ThermalDynamics:cover:0, Крышка (Светящийся коралл)
+ThermalDynamics:cover:0, Крышка (Водоросли)
+ThermalDynamics:cover:0, Крышка (Пепельный камень)
+ThermalDynamics:cover:0, Крышка (Затвердевший лёд)
+ThermalDynamics:cover:0, Крышка (Листва яблони)
+ThermalDynamics:cover:0, Крышка (Листва хурмы)
+ThermalDynamics:cover:0, Крышка (Мох)
+ThermalDynamics:cover:0, Крышка (Бамбук)
+ThermalDynamics:cover:0, Крышка (Кирпичи из грязи)
+ThermalDynamics:cover:0, Крышка (Блок изначальной травы)
+ThermalDynamics:cover:0, Крышка (Блок высокой травы)
+ThermalDynamics:cover:0, Крышка (Заросший камень Нижнего мира)
+ThermalDynamics:cover:0, Крышка (Спектральный мох)
+ThermalDynamics:cover:0, Крышка (Блок тлеющей травы)
+ThermalDynamics:cover:0, Крышка (Блок глиняной травы)
+ThermalDynamics:cover:0, Крышка (Блок песчаной травы)
+ThermalDynamics:cover:0, Крышка (Блок илистой травы)
+ThermalDynamics:cover:0, Крышка (Глиняная земля)
+ThermalDynamics:cover:0, Крышка (Грубая глиняная земля)
+ThermalDynamics:cover:0, Крышка (Песчаная земля)
+ThermalDynamics:cover:0, Крышка (Грубая песчаная земля)
+ThermalDynamics:cover:0, Крышка (Илистая земля)
+ThermalDynamics:cover:0, Крышка (Грубая илистая земля)
+ThermalDynamics:cover:0, Крышка (Глиняная пашня)
+ThermalDynamics:cover:0, Крышка (Глиняная пашня)
+ThermalDynamics:cover:0, Крышка (Песчанная пашня)
+ThermalDynamics:cover:0, Крышка (Глиняная пашня)
+ThermalDynamics:cover:0, Крышка (Глиняная пашня)
+ThermalDynamics:cover:0, Крышка (Глиняная пашня)
+ThermalDynamics:cover:0, Крышка (Древесина священного дуба)
+ThermalDynamics:cover:0, Крышка (Древесина вишнёвого дерева)
+ThermalDynamics:cover:0, Крышка (Древесина тёмного дерева)
+ThermalDynamics:cover:0, Крышка (Древесина пихты)
+ThermalDynamics:cover:0, Крышка (Эфирная древесина)
+ThermalDynamics:cover:0, Крышка (Магическая древесина)
+ThermalDynamics:cover:0, Крышка (Древесина мангрового дерева)
+ThermalDynamics:cover:0, Крышка (Древесина пальмы)
+ThermalDynamics:cover:0, Крышка (Древесина красного дерева)
+ThermalDynamics:cover:0, Крышка (Древесина ивы)
+ThermalDynamics:cover:0, Крышка (Мёртвая древесина)
+ThermalDynamics:cover:0, Крышка (Ствол гигантского цветка)
+ThermalDynamics:cover:0, Крышка (Древесина сосны)
+ThermalDynamics:cover:0, Крышка (Древесина адского дерева)
+ThermalDynamics:cover:0, Крышка (Древесина жакаранды)
+ThermalDynamics:cover:0, Крышка (Махагониевая древесина)
+ThermalDynamics:cover:0, Крышка (Жёлтая осенняя листва)
+ThermalDynamics:cover:0, Крышка (Бамбуковая листва)
+ThermalDynamics:cover:0, Крышка (Магическая листва)
+ThermalDynamics:cover:0, Крышка (Тёмная листва)
+ThermalDynamics:cover:0, Крышка (Погибающая листва)
+ThermalDynamics:cover:0, Крышка (Пихтовая листва)
+ThermalDynamics:cover:0, Крышка (Эфирная листва)
+ThermalDynamics:cover:0, Крышка (Оранжевая осенняя листва)
+ThermalDynamics:cover:0, Крышка (Изначальная листва)
+ThermalDynamics:cover:0, Крышка (Листва розовой вишни)
+ThermalDynamics:cover:0, Крышка (Клёновая листва)
+ThermalDynamics:cover:0, Крышка (Листва белой вишни)
+ThermalDynamics:cover:0, Крышка (Адская листва)
+ThermalDynamics:cover:0, Крышка (Жакарандовая листва)
+ThermalDynamics:cover:0, Крышка (Гигантский красный цветок)
+ThermalDynamics:cover:0, Крышка (Гигантский жёлтый цветок)
+ThermalDynamics:cover:0, Крышка (Саженец яблони)
+ThermalDynamics:cover:0, Крышка (Жёлтый осенний саженец)
+ThermalDynamics:cover:0, Крышка (Саженец бамбука)
+ThermalDynamics:cover:0, Крышка (Магический саженец)
+ThermalDynamics:cover:0, Крышка (Тёмный саженец)
+ThermalDynamics:cover:0, Крышка (Погибающий саженец)
+ThermalDynamics:cover:0, Крышка (Саженец пихты)
+ThermalDynamics:cover:0, Крышка (Эфирный саженец)
+ThermalDynamics:cover:0, Крышка (Оранжевый осенний саженец)
+ThermalDynamics:cover:0, Крышка (Изначальный саженец)
+ThermalDynamics:cover:0, Крышка (Саженец розовой вишни)
+ThermalDynamics:cover:0, Крышка (Саженец клёна)
+ThermalDynamics:cover:0, Крышка (Саженец белой вишни)
+ThermalDynamics:cover:0, Крышка (Саженец адского дерева)
+ThermalDynamics:cover:0, Крышка (Саженец жакаранды)
+ThermalDynamics:cover:0, Крышка (Саженец хурмы)
+ThermalDynamics:cover:0, Крышка (Саженец священного дуба)
+ThermalDynamics:cover:0, Крышка (Мангровый саженец)
+ThermalDynamics:cover:0, Крышка (Саженец пальмы)
+ThermalDynamics:cover:0, Крышка (Саженец красного дерева)
+ThermalDynamics:cover:0, Крышка (Саженец ивы)
+ThermalDynamics:cover:0, Крышка (Саженец сосны)
+ThermalDynamics:cover:0, Крышка (Саженец махагониевого дерева)
+ThermalDynamics:cover:0, Крышка (Саженец цветущего дуба)
+ThermalDynamics:cover:0, Крышка (Затвердевший песок)
+ThermalDynamics:cover:0, Крышка (Затвердевшая земля)
+ThermalDynamics:cover:0, Крышка (Руда эссенции биомов)
+ThermalDynamics:cover:0, Крышка (Небесный кристалл)
+ThermalDynamics:cover:0, Крышка (Руда аметиста Края)
+ThermalDynamics:cover:0, Крышка (Аметистовый блок)
+ThermalDynamics:cover:0, Крышка (Рубиновая руда)
+ThermalDynamics:cover:0, Крышка (Рубиновый блок)
+ThermalDynamics:cover:0, Крышка (Перидотовая руда)
+ThermalDynamics:cover:0, Крышка (Перидотовый блок)
+ThermalDynamics:cover:0, Крышка (Топазовая руда)
+ThermalDynamics:cover:0, Крышка (Топазовый блок)
+ThermalDynamics:cover:0, Крышка (Танзанитовая руда)
+ThermalDynamics:cover:0, Крышка (Танзанитовый блок)
+ThermalDynamics:cover:0, Крышка (Малахитовая руда)
+ThermalDynamics:cover:0, Крышка (Малахитовый блок)
+ThermalDynamics:cover:0, Крышка (Сапфировая руда)
+ThermalDynamics:cover:0, Крышка (Сапфировый блок)
+ThermalDynamics:cover:0, Крышка (Янтарная руда)
+ThermalDynamics:cover:0, Крышка (Янтарный блок)
+ThermalDynamics:cover:0, Крышка (Горная порода)
+ThermalDynamics:cover:0, Крышка (Блок медовых сот)
+ThermalDynamics:cover:0, Крышка (Блок улья)
+ThermalDynamics:cover:0, Крышка (Пустой блок медовых сот)
+ThermalDynamics:cover:0, Крышка (Заполненный блок медовых сот)
+ThermalDynamics:cover:0, Крышка (Блок мёда)
+ThermalDynamics:cover:0, Крышка (Малый сегмент кости)
+ThermalDynamics:cover:0, Крышка (Средний сегмент кости)
+ThermalDynamics:cover:0, Крышка (Большой сегмент кости)
+ThermalDynamics:cover:0, Крышка (Могильная плита)
+ThermalDynamics:cover:0, Крышка (Доски из священного дуба)
+ThermalDynamics:cover:0, Крышка (Доски из вишнёвого дерева)
+ThermalDynamics:cover:0, Крышка (Доски из тёмной древесины)
+ThermalDynamics:cover:0, Крышка (Доски из пихты)
+ThermalDynamics:cover:0, Крышка (Доски из эфирной древесины)
+ThermalDynamics:cover:0, Крышка (Доски из магической древесины)
+ThermalDynamics:cover:0, Крышка (Доски из мангрового дерева)
+ThermalDynamics:cover:0, Крышка (Доски из пальмы)
+ThermalDynamics:cover:0, Крышка (Доски из красного дерева)
+ThermalDynamics:cover:0, Крышка (Доски из ивы)
+ThermalDynamics:cover:0, Крышка (Бамбуковое покрытие)
+ThermalDynamics:cover:0, Крышка (Доски из сосны)
+ThermalDynamics:cover:0, Крышка (Доски из адского дерева)
+ThermalDynamics:cover:0, Крышка (Доски из жакаранды)
+ThermalDynamics:cover:0, Крышка (Доски из махагониевой древесины)
+ThermalDynamics:cover:0, Крышка (Плита из священного дуба)
+ThermalDynamics:cover:0, Крышка (Плита из вишнёвого дерева)
+ThermalDynamics:cover:0, Крышка (Плита из тёмной древесины)
+ThermalDynamics:cover:0, Крышка (Плита из пихты)
+ThermalDynamics:cover:0, Крышка (Плита из эфирной древесины)
+ThermalDynamics:cover:0, Крышка (Плита из магической древесины)
+ThermalDynamics:cover:0, Крышка (Плита из мангрового дерева)
+ThermalDynamics:cover:0, Крышка (Плита из пальмы)
+ThermalDynamics:cover:0, Крышка (Плита из священного дуба)
+ThermalDynamics:cover:0, Крышка (Плита из вишнёвого дерева)
+ThermalDynamics:cover:0, Крышка (Плита из тёмной древесины)
+ThermalDynamics:cover:0, Крышка (Плита из пихты)
+ThermalDynamics:cover:0, Крышка (Плита из эфирной древесины)
+ThermalDynamics:cover:0, Крышка (Плита из магической древесины)
+ThermalDynamics:cover:0, Крышка (Плита из мангрового дерева)
+ThermalDynamics:cover:0, Крышка (Плита из пальмы)
+ThermalDynamics:cover:0, Крышка (Плита из красного дерева)
+ThermalDynamics:cover:0, Крышка (Плита из ивы)
+ThermalDynamics:cover:0, Крышка (Плита из сосны)
+ThermalDynamics:cover:0, Крышка (Плита из адского дерева)
+ThermalDynamics:cover:0, Крышка (Плита из жакаранды)
+ThermalDynamics:cover:0, Крышка (Плита из красного дерева)
+ThermalDynamics:cover:0, Крышка (Плита из ивы)
+ThermalDynamics:cover:0, Крышка (Плита из сосны)
+ThermalDynamics:cover:0, Крышка (Плита из адского дерева)
+ThermalDynamics:cover:0, Крышка (Плита из жакаранды)
+ThermalDynamics:cover:0, Крышка (Плита из кирпичей грязи)
+ThermalDynamics:cover:0, Крышка (Плита из кирпичей грязи)
+ThermalDynamics:cover:0, Крышка (Ступеньки из священного дуба)
+ThermalDynamics:cover:0, Крышка (Ступеньки из вишнёвого дерева)
+ThermalDynamics:cover:0, Крышка (Ступеньки из тёмной древесины)
+ThermalDynamics:cover:0, Крышка (Ступеньки из пихты)
+ThermalDynamics:cover:0, Крышка (Ступеньки из эфирной древесины)
+ThermalDynamics:cover:0, Крышка (Ступеньки из магической древесины)
+ThermalDynamics:cover:0, Крышка (Ступеньки из мангрового дерева)
+ThermalDynamics:cover:0, Крышка (Ступеньки из пальмы)
+ThermalDynamics:cover:0, Крышка (Ступеньки из красного дерева)
+ThermalDynamics:cover:0, Крышка (Ступеньки из ивы)
+ThermalDynamics:cover:0, Крышка (Ступеньки из сосны)
+ThermalDynamics:cover:0, Крышка (Ступеньки из адского дерева)
+ThermalDynamics:cover:0, Крышка (Ступеньки из жакаранды)
+ThermalDynamics:cover:0, Крышка (Ступеньки из махагониевой древесины)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпичей грязи)
+ThermalDynamics:cover:0, Крышка (Листва священного дуба)
+ThermalDynamics:cover:0, Крышка (Мангровая листва)
+ThermalDynamics:cover:0, Крышка (Пальмовая листва)
+ThermalDynamics:cover:0, Крышка (Листва красного дерева)
+ThermalDynamics:cover:0, Крышка (Ивовая листва)
+ThermalDynamics:cover:0, Крышка (Сосновая листва)
+ThermalDynamics:cover:0, Крышка (Махагониевая листва)
+ThermalDynamics:cover:0, Крышка (Листва цветущего дуба)
+ThermalDynamics:cover:0, Крышка (Яд)
+ThermalDynamics:cover:0, Крышка (Кровь)
+ThermalDynamics:cover:0, Крышка (Мёд)
 ThermalDynamics:cover:0, Крышка (Гумус)
 ThermalDynamics:cover:0, Крышка (Болотная земля)
 ThermalDynamics:cover:0, Крышка (Апатитовая руда)
@@ -16320,6 +17355,8 @@ WitchingGadgets:item.WG_PrimordialHelm, Primordial Helm
 WitchingGadgets:item.WG_PrimordialChest, Primordial Cuirass
 WitchingGadgets:item.WG_PrimordialLegs, Primordial Greaves
 WitchingGadgets:item.WG_PrimordialBoots, Primordial Boots
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
