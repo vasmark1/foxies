@@ -42,7 +42,7 @@ Supported only Minecraft 1.7.10 & Forge 10.13.4.1614
 8. HTML is used for text formatting
 
 
-- To get list of all Biomes & Dims & Enchantments & Potions run with ID Conflicts Viewer, all data stored in IDCV folder. It might crash anyway, so don't panic. Store all IDs into list_of_all_ids.xlsx
+- To get list of all Biomes & Dims & Enchantments & Potions run with ID Conflicts Viewer, all data stored in IDCV folder. ~~It might crash anyway, so don't panic.~~ Store all IDs into list_of_all_ids.xlsx
 
 
 
