@@ -529,7 +529,7 @@ Botania:pylon:0, Пилон маны
 Botania:pylon:1, Природный пилон
 Botania:pylon:2, Гайа пилон
 Botania:pistonRelay, tile.pistonRelay.name
-Botania:distributor, tile.distributor.name
+Botania:distributor, Распределитель кислородных пузырей
 Botania:manaBeacon:0, Белый нестабильный маяк
 Botania:manaBeacon:1, Оранжевый нестабильный маяк
 Botania:manaBeacon:2, Сиреневый нестабильный маяк
@@ -1673,43 +1673,43 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Плита из резног
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Плита из резного истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Плита из колонны истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Плита из колонны истинного кварца
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:magnet:0, Кинетический притяжатель
+ThaumicTinkerer:magnet:1, Материальный притяжатель
+ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
+ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
 ThaumicTinkerer:darkQuartz:0, Блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:1, Резной блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:2, Колонна из закоптившегося кварца
+ThaumicTinkerer:fireAir, Пропитанный Aer огонь
 ThaumicTinkerer:animationTablet, Динамическая дощечка
-ThaumicTinkerer:repairer, Таум-восстановитель
-ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
+ThaumicTinkerer:warpGate, Небесный портал
 ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
 ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
-ThaumicTinkerer:spawner, Пьедестал некроманта
-ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
-ThaumicTinkerer:travelSlab:0, Тротуарная плита путешествия
-ThaumicTinkerer:travelSlabFull:0, Тротуарная плита путешествия
+ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
 ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:interface, Трансвектор
 ThaumicTinkerer:funnel, Воронка для эссенции
-ThaumicTinkerer:Levitational Locomotive, Левитатор
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
 ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
 ThaumicTinkerer:dislocator, Трансвекторный дислокатор
-ThaumicTinkerer:forcefield, Силовое поле
-ThaumicTinkerer:fireAir, Пропитанный Aer огонь
 ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
+ThaumicTinkerer:spawner, Пьедестал некроманта
+ThaumicTinkerer:repairer, Таум-восстановитель
+ThaumicTinkerer:platform, Эфирная платформа
+ThaumicTinkerer:forcefield, Силовое поле
 ThaumicTinkerer:bedrockPortal, Админиум-портал
-ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:travelSlab:0, Тротуарная плита путешествия
+ThaumicTinkerer:travelSlabFull:0, Тротуарная плита путешествия
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:Levitational Locomotive, Левитатор
 ThaumicTinkerer:fireWater, Пропитанный Aqua огонь
 ThaumicTinkerer:enchanter, Осмотический стол зачарований
-ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
-ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
-ThaumicTinkerer:platform, Эфирная платформа
-ThaumicTinkerer:interface, Трансвектор
-ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
-ThaumicTinkerer:magnet:0, Кинетический притяжатель
-ThaumicTinkerer:magnet:1, Материальный притяжатель
-ThaumicTinkerer:warpGate, Небесный портал
 ForbiddenMagic:ArcaneCake, Таумический торт
 ForbiddenMagic:WrathCage, Клетка гнева
 ForbiddenMagic:InkFlower, Мрачная роза
@@ -1919,6 +1919,254 @@ ae2stuff:Grower, Камера для выращивания кристаллов
 ae2stuff:Inscriber, Продвинутый высекатель
 ae2stuff:Wireless, Беспроводной соединитель
 alchgrate:alchgrate, Alchemical Grate
+BuildCraft|Core:eternalSpring:0, Источник воды
+BuildCraft|Core:eternalSpring:1, Источник нефти
+BuildCraft|Core:buildToolBlock, tile.buildToolBlock.name
+BuildCraft|Core:engineBlock:0, Двигатель на красном камне
+BuildCraft|Core:engineBlock:1, Двигатель Стирлинга
+BuildCraft|Core:engineBlock:2, Двигатель внутреннего сгорания
+BuildCraft|Core:engineBlock:3, Двигатель для творческого режима
+BuildCraft|Core:markerBlock, Метка
+BuildCraft|Core:pathMarkerBlock, Направляющая Метка
+BuildCraft|Energy:blockOil, Нефть
+BuildCraft|Energy:blockFuel, Топливо
+BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
+GalacticraftCore:tile.landingPad:0, Взлётная площадка
+GalacticraftCore:tile.landingPad:1, Заправочная платформа для багги
+GalacticraftCore:tile.landingPadFull, Взлётная площадка
+GalacticraftCore:tile.unlitTorch, Факел
+GalacticraftCore:tile.unlitTorchLit, Факел
+GalacticraftCore:tile.breatheableAir, tile.breatheableAir.name
+GalacticraftCore:tile.brightAir, tile.brightAir.name
+GalacticraftCore:tile.brightBreathableAir, tile.brightBreathableAir.name
+GalacticraftCore:tile.oxygenCollector, Кислородный сборщик
+GalacticraftCore:tile.oxygenCompressor:0, Кислородный компрессор
+GalacticraftCore:tile.oxygenCompressor:4, Кислородный декомпрессор
+GalacticraftCore:tile.distributor, Распределитель кислородных пузырей
+GalacticraftCore:tile.sealer, Уплотнитель кислорода
+GalacticraftCore:tile.oxygenDetector, Кислородный датчик
+GalacticraftCore:tile.oxygenPipe, Кислородная труба
+GalacticraftCore:tile.refinery, Очистительный завод
+GalacticraftCore:tile.fuelLoader, Загрузчик топлива
+GalacticraftCore:tile.cargo:0, Грузовой загрузчик
+GalacticraftCore:tile.cargo:4, Грузовой разгрузчик
+GalacticraftCore:tile.rocketWorkbench, Верстак NASA
+GalacticraftCore:tile.gcBlockCore:3, Декоративный оловянный блок
+GalacticraftCore:tile.gcBlockCore:4, Декоративный оловянный блок
+GalacticraftCore:tile.gcBlockCore:5, Медная руда
+GalacticraftCore:tile.gcBlockCore:6, Оловянная руда
+GalacticraftCore:tile.gcBlockCore:7, Алюминиевая руда
+GalacticraftCore:tile.gcBlockCore:8, Кремниевая руда
+GalacticraftCore:tile.gcBlockCore:9, Медный блок
+GalacticraftCore:tile.gcBlockCore:10, Оловянный блок
+GalacticraftCore:tile.gcBlockCore:11, Алюминиевый блок
+GalacticraftCore:tile.gcBlockCore:12, Блок метеоритного железа
+GalacticraftCore:tile.airLockFrame:0, Каркас воздушного шлюза
+GalacticraftCore:tile.airLockFrame:1, Контроллер воздушного шлюза
+GalacticraftCore:tile.airLockSeal, Уплотнитель воздушного шлюза
+GalacticraftCore:tile.enclosed:14, Герметичный алюминиевый провод
+GalacticraftCore:tile.enclosed:15, Герметичный толстый алюминиевый провод
+GalacticraftCore:tile.enclosed:1, Герметичная кислородная труба
+GalacticraftCore:tile.spaceStationBase, Основание космической станции
+GalacticraftCore:tile.dummyblock:0, tile.dummyblock.null.name
+GalacticraftCore:tile.parachest, Сундук с парашютом
+GalacticraftCore:tile.solar:0, Основная солнечная панель
+GalacticraftCore:tile.solar:4, Продвинутая солнечная панель
+GalacticraftCore:tile.dish, Коммуникационная тарелка
+GalacticraftCore:tile.machine:0, Угольный генератор
+GalacticraftCore:tile.machine:12, Компрессор
+GalacticraftCore:tile.machine2:0, Электрический компрессор
+GalacticraftCore:tile.machine2:4, Производитель микросхем
+GalacticraftCore:tile.machine2:8, Модуль «Хранилище кислорода»
+GalacticraftCore:tile.machineTiered:0, Модуль «Хранилище энергии»
+GalacticraftCore:tile.machineTiered:4, Электропечь
+GalacticraftCore:tile.machineTiered:8, Энергетический массив
+GalacticraftCore:tile.machineTiered:12, Электрическая дуговая печь
+GalacticraftCore:tile.aluminumWire:0, Алюминиевый провод
+GalacticraftCore:tile.aluminumWire:1, Толстый алюминиевый провод
+GalacticraftCore:tile.glowstoneTorch, Факел из светящегося камня
+GalacticraftCore:tile.fallenMeteor, Упавший метеорит
+GalacticraftCore:tile.moonBlock:0, Медная руда
+GalacticraftCore:tile.moonBlock:1, Оловянная руда
+GalacticraftCore:tile.moonBlock:2, Сырная руда
+GalacticraftCore:tile.moonBlock:3, Лунный грунт
+GalacticraftCore:tile.moonBlock:4, Лунный камень
+GalacticraftCore:tile.moonBlock:5, Лунный дёрн
+GalacticraftCore:tile.moonBlock:14, Кирпич лунной сокровищницы
+GalacticraftCore:tile.cheeseBlock, Блок сыра
+GalacticraftCore:tile.spinThruster, Вращающий двигатель
+GalacticraftCore:tile.viewScreen, Экран отображения
+GalacticraftCore:tile.telemetry, Телеметрический блок
+GalacticraftCore:tile.arclamp, Дуговая лампа
+GalacticraftCore:tile.treasureChest, Сундук с сокровищами
+GalacticraftCore:tile.tinStairs1, Оловянные ступеньки
+GalacticraftCore:tile.tinStairs2, Оловянные ступеньки
+GalacticraftCore:tile.moonStoneStairs, Ступеньки из лунного камня
+GalacticraftCore:tile.moonBricksStairs, Ступеньки из кирпича лунной сокровищницы
+GalacticraftCore:tile.wallGC:0, Оловянная стена
+GalacticraftCore:tile.wallGC:1, Оловянная стена
+GalacticraftCore:tile.wallGC:2, Стена из лунного камня
+GalacticraftCore:tile.wallGC:3, Стена из кирпича лунной сокровищницы
+GalacticraftCore:tile.wallGC:4, Стена из марсианского булыжника
+GalacticraftCore:tile.wallGC:5, Стена из кирпича марсианской сокровищницы
+GalacticraftCore:slabGCHalf:0, Оловянная плита
+GalacticraftCore:slabGCHalf:1, Оловянная плита
+GalacticraftCore:slabGCHalf:2, Плита из лунного камня
+GalacticraftCore:slabGCHalf:3, Плита из кирпича лунной сокровищницы
+GalacticraftCore:slabGCHalf:4, Плита из марсианского булыжника
+GalacticraftCore:slabGCHalf:5, Плита из кирпича марсианской сокровищницы
+GalacticraftCore:slabGCDouble:0, tile.slabGCDouble.tinSlab.name
+GalacticraftCore:slabGCDouble:1, tile.slabGCDouble.tinSlab.name
+GalacticraftCore:slabGCDouble:2, tile.slabGCDouble.moonSlab.name
+GalacticraftCore:slabGCDouble:3, tile.slabGCDouble.moonBricksSlab.name
+GalacticraftCore:slabGCDouble:4, tile.slabGCDouble.marsSlab.name
+GalacticraftCore:slabGCDouble:5, tile.slabGCDouble.marsBricksSlab.name
+GalacticraftMars:tile.treasureT2, Сундук с сокровищами 2-го уровня
+GalacticraftMars:tile.treasureT3, Сундук с сокровищами 3-го уровня
+GalacticraftMars:tile.asteroidsBlock:0, Астероидный камень
+GalacticraftMars:tile.asteroidsBlock:1, Астероидный камень
+GalacticraftMars:tile.asteroidsBlock:2, Астероидный камень
+GalacticraftMars:tile.asteroidsBlock:3, Алюминиевая руда
+GalacticraftMars:tile.asteroidsBlock:4, Ильменитовая руда
+GalacticraftMars:tile.asteroidsBlock:5, Железная руда
+GalacticraftMars:tile.walkway, Дорожка
+GalacticraftMars:tile.walkwayWire, Дорожка
+GalacticraftMars:tile.walkwayOxygenPipe, Дорожка
+GalacticraftMars:tile.beamReflector, Лучевой отражатель энергии
+GalacticraftMars:tile.beamReceiver, Лучевой приёмник энергии
+GalacticraftMars:tile.telepadShort, Короткодистанционный телепорт
+GalacticraftMars:tile.telepadFake, tile.telepadFake.name
+GalacticraftMars:tile.denseIce, Плотный лёд
+GalacticraftMars:tile.minerBase, Основание астрономического шахтёра
+GalacticraftMars:tile.minerBaseFull, tile.minerBaseFull.name
+GalacticraftMars:tile.sludge, Бактериальный осадок
+GalacticraftMars:tile.mars:0, Медная руда
+GalacticraftMars:tile.mars:1, Оловянная руда
+GalacticraftMars:tile.mars:2, Руда деш
+GalacticraftMars:tile.mars:3, Железная руда
+GalacticraftMars:tile.mars:4, Марсианский булыжник
+GalacticraftMars:tile.mars:5, Марсианский поверхностный камень
+GalacticraftMars:tile.mars:6, Марсианский подповерхностный камень
+GalacticraftMars:tile.mars:7, Кирпич марсианской сокровищницы
+GalacticraftMars:tile.mars:8, Блок деш
+GalacticraftMars:tile.mars:9, Марсианский камень
+GalacticraftMars:tile.cavernVines, Пещерные лианы
+GalacticraftMars:tile.slimelingEgg:0, Красное яйцо слаймлинга
+GalacticraftMars:tile.slimelingEgg:1, Синее яйцо слаймлинга
+GalacticraftMars:tile.slimelingEgg:2, Жёлтое яйцо слаймлинга
+GalacticraftMars:tile.creeperEgg, Яйцо крипера
+GalacticraftMars:tile.marsMachine:0, Терраформер
+GalacticraftMars:tile.marsMachine:4, Криогенная камера
+GalacticraftMars:tile.marsMachine:8, Контроллер запуска
+GalacticraftMars:tile.marsMachineT2:0, Сжижитель газа
+GalacticraftMars:tile.marsMachineT2:4, Синтезатор метана
+GalacticraftMars:tile.marsMachineT2:8, Электролизёр воды
+GalacticraftMars:tile.marsCobblestoneStairs, Ступеньки из марсианского булыжника
+GalacticraftMars:tile.marsDungeonBricksStairs, Ступеньки из кирпича марсианской сокровищницы
+GalacticraftMars:tile.hydrogenPipe, Труба для водорода
+GalacticraftAmunRa:tile.basaltMultiOre:0, Золотая руда
+GalacticraftAmunRa:tile.basaltMultiOre:1, Алюминиевая руда
+GalacticraftAmunRa:tile.basaltMultiOre:2, Медная руда
+GalacticraftAmunRa:tile.basaltMultiOre:3, Оловянная руда
+GalacticraftAmunRa:tile.basaltMultiOre:4, Хионитовая руда
+GalacticraftAmunRa:tile.basaltMultiOre:5, Сподуменовая руда
+GalacticraftAmunRa:tile.basaltMultiOre:6, Железная руда
+GalacticraftAmunRa:tile.basaltMultiOre:7, Лазуритовая руда
+GalacticraftAmunRa:tile.basaltMultiOre:8, Кремниевая руда
+GalacticraftAmunRa:tile.basaltMultiOre:9, Ильменитовая руда
+GalacticraftAmunRa:tile.basaltMultiOre:10, Урановая руда
+GalacticraftAmunRa:tile.obsidianMultiOre:0, Алмазная руда
+GalacticraftAmunRa:tile.obsidianMultiOre:1, Рубиновая руда
+GalacticraftAmunRa:tile.obsidianMultiOre:2, Урановая руда
+GalacticraftAmunRa:tile.obsidianMultiOre:3, Свинцовая руда
+GalacticraftAmunRa:tile.obsidianMultiOre:9, Изумрудная руда
+GalacticraftAmunRa:tile.hardClayMultiOre:0, Уголь
+GalacticraftAmunRa:tile.hardClayMultiOre:1, Кремниевая руда
+GalacticraftAmunRa:tile.hardClayMultiOre:2, Алюминиевая руда
+GalacticraftAmunRa:tile.hardClayMultiOre:3, Медная руда
+GalacticraftAmunRa:tile.hardClayMultiOre:4, Оловянная руда
+GalacticraftAmunRa:tile.hardClayMultiOre:5, Железная руда
+GalacticraftAmunRa:tile.oldConcreteOre:0, Урболит содержащий сталь
+GalacticraftAmunRa:tile.oldConcreteOre:1, Урболит содержащий окаменелости
+GalacticraftAmunRa:tile.asteroidMultiOre1:0, Рубиновая руда
+GalacticraftAmunRa:tile.asteroidMultiOre1:1, Изумрудная руда
+GalacticraftAmunRa:tile.asteroidMultiOre1:2, Алмазная руда
+GalacticraftAmunRa:tile.asteroidMultiOre1:3, Сподуменовая руда
+GalacticraftAmunRa:tile.asteroidMultiOre1:4, Золотая руда
+GalacticraftAmunRa:tile.asteroidMultiOre1:5, Лазуритовая руда
+GalacticraftAmunRa:tile.asteroidMultiOre1:6, Свинцовая руда
+GalacticraftAmunRa:tile.asteroidMultiOre1:7, Урановая руда
+GalacticraftAmunRa:tile.asteroidMultiOre1:8, Медная руда
+GalacticraftAmunRa:tile.bossSpawner:0, tile.bossSpawner.name
+GalacticraftAmunRa:tile.baseBlockRock:0, Базальтовый булыжник
+GalacticraftAmunRa:tile.baseBlockRock:1, Базальт
+GalacticraftAmunRa:tile.baseBlockRock:2, Красный булыжник
+GalacticraftAmunRa:tile.baseBlockRock:3, Красный песчаник
+GalacticraftAmunRa:tile.baseBlockRock:4, Оливиновый базальтовый булыжник
+GalacticraftAmunRa:tile.baseBlockRock:5, Оливиновый базальт
+GalacticraftAmunRa:tile.baseBlockRock:6, Алюминиевый ящик
+GalacticraftAmunRa:tile.baseBlockRock:7, Базальтовая стена из кирпича
+GalacticraftAmunRa:tile.baseBlockRock:8, Гладкий базальт
+GalacticraftAmunRa:tile.baseBlockRock:9, Стена из обсидианового кирпича
+GalacticraftAmunRa:tile.baseBlockRock:10, Урболит
+GalacticraftAmunRa:tile.baseBlockRock:11, Блок урана
+GalacticraftAmunRa:tile.baseBlockRock:12, Основной блок космического корабля
+GalacticraftAmunRa:tile.baseBlockRock:13, Верстак
+GalacticraftAmunRa:tile.baseBlockRock:14, Тёмная материя
+GalacticraftAmunRa:tile.baseBlockCrystal:0, Светящийся коралл
+GalacticraftAmunRa:tile.baseBlockGround:0, Земля
+GalacticraftAmunRa:tile.baseBlockGround:1, Укоренившеяся пыль
+GalacticraftAmunRa:tile.baseGrass:0, Красная трава
+GalacticraftAmunRa:tile.baseGrass:1, Глубинные водоросли
+GalacticraftAmunRa:tile.baseGrass:2, tile.vaccumRedGrass.name
+GalacticraftAmunRa:tile.baseFalling:0, Обсидиановый песок
+GalacticraftAmunRa:tile.baseFalling:1, Обсидиановый гравий
+GalacticraftAmunRa:tile.baseFalling:2, Базальтовый реголит
+GalacticraftAmunRa:tile.basePlant:0, Высокая красная трава
+GalacticraftAmunRa:tile.log1:0, Вирилиговая древесина
+GalacticraftAmunRa:tile.wood1:0, Лумиподовая кора
+GalacticraftAmunRa:tile.wood1:1, Лумиподовая пульпа
+GalacticraftAmunRa:tile.wood1:2, Вирилиговые доски
+GalacticraftAmunRa:tile.wood1:3, Лумиподовые доски
+GalacticraftAmunRa:tile.null:0, Вирилиговая листва
+GalacticraftAmunRa:tile.saplings:0, Вирилиговый саженец
+GalacticraftAmunRa:tile.saplings:1, Лумиподовый саженец
+GalacticraftAmunRa:tile.machines1:0, Радиоизотопный генератор
+GalacticraftAmunRa:tile.machines1:1, Продвинутый радиоизотопный генератор
+GalacticraftAmunRa:tile.machines1:2, Навигационная панель космического корабля
+GalacticraftAmunRa:tile.machines1:3, Панель конфигурации космического корабля
+GalacticraftAmunRa:tile.machines2:0, Сопло ракетного двигателя
+GalacticraftAmunRa:tile.machines2:1, Сопло ионного двигателя
+GalacticraftAmunRa:tile.machines3:0, Блоковые весы
+GalacticraftAmunRa:tile.machines3:1, Генератор искусственной гравитации
+GalacticraftAmunRa:tile.machines4:0, Шаттл-док
+GalacticraftAmunRa:tile.machines4:1, Гидропонная система
+GalacticraftAmunRa:tile.blockFake:0, tile.fakeBlockSealable.name
+GalacticraftAmunRa:tile.aluChest, Алюминиевый сундук
+GalacticraftAmunRa:tile.steelChest, Стальной сундук
+GalacticraftAmunRa:tile.msBoosters1:0, Основа ракетного двигателя
+GalacticraftAmunRa:tile.msBoosters1:1, Основа ионного двигателя
+GalacticraftAmunRa:tile.obsidianbrick.stairs, Ступеньки из обсидианового кирпича
+GalacticraftAmunRa:tile.smoothbasalt.stairs, Ступеньки из гладкого базальта
+GalacticraftAmunRa:tile.basaltbrick.stairs, Базальтовые ступеньки из кирпича
+GalacticraftAmunRa:tile.basalt.stairs, Базальтовые ступеньки
+GalacticraftAmunRa:tile.alucrate.stairs, Алюминиевые ступеньки
+GalacticraftAmunRa:tile.methanePlanks.stairs, Вирилиговые ступеньки
+GalacticraftAmunRa:tile.podPlanks.stairs, Лумиподовые ступеньки
+GalacticraftAmunRa:tile.rockDoubleslab:0, Базальтовая плита
+GalacticraftAmunRa:tile.rockDoubleslab:1, Базальтовая плита из кирпича
+GalacticraftAmunRa:tile.rockDoubleslab:2, Плита из гладкого базальта
+GalacticraftAmunRa:tile.rockDoubleslab:3, Плита из обсидианового кирпича
+GalacticraftAmunRa:tile.rockDoubleslab:4, Алюминиевая плита
+GalacticraftAmunRa:tile.rockSlab:0, Базальтовая плита
+GalacticraftAmunRa:tile.rockSlab:1, Базальтовая плита из кирпича
+GalacticraftAmunRa:tile.rockSlab:2, Плита из гладкого базальта
+GalacticraftAmunRa:tile.rockSlab:3, Плита из обсидианового кирпича
+GalacticraftAmunRa:tile.rockSlab:4, Алюминиевая плита
+GalacticraftAmunRa:tile.woodDoubleslab:0, Лумиподовая плита
+GalacticraftAmunRa:tile.woodDoubleslab:1, Вирилиговая плита
+GalacticraftAmunRa:tile.woodSlab:0, Лумиподовая плита
+GalacticraftAmunRa:tile.woodSlab:1, Вирилиговая плита
 Aroma1997sDimension:aromicPortal, Mining Portal
 Aroma1997sDimension:portalFrame, tile.null.name
 Aroma1997sDimension:stickyOre, Sticky Ore
@@ -2621,15 +2869,6 @@ witchery:cstonepressureplate, Pressure Plate
 witchery:csnowpressureplate, Snow Pressure Plate
 witchery:cbuttonwood, Button
 witchery:cbuttonstone, Button
-BuildCraft|Core:eternalSpring:0, Источник воды
-BuildCraft|Core:eternalSpring:1, Источник нефти
-BuildCraft|Core:buildToolBlock, tile.buildToolBlock.name
-BuildCraft|Core:engineBlock:0, Двигатель на красном камне
-BuildCraft|Core:engineBlock:1, Двигатель Стирлинга
-BuildCraft|Core:engineBlock:2, Двигатель внутреннего сгорания
-BuildCraft|Core:engineBlock:3, Двигатель для творческого режима
-BuildCraft|Core:markerBlock, Метка
-BuildCraft|Core:pathMarkerBlock, Направляющая Метка
 BuildCraft|Builders:machineBlock, Карьер
 BuildCraft|Builders:fillerBlock, Заполнитель
 BuildCraft|Builders:frameBlock, Каркас
@@ -2647,9 +2886,6 @@ BuildCraft|Silicon:laserTableBlock:3, Стол подзарядки
 BuildCraft|Silicon:laserTableBlock:4, Стол программирования
 BuildCraft|Silicon:laserTableBlock:5, Стол штамповки
 BuildCraft|Silicon:packagerBlock, Упаковщик рецептов
-BuildCraft|Energy:blockOil, Нефть
-BuildCraft|Energy:blockFuel, Топливо
-BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
 BuildCraft|Transport:filteredBufferBlock, Фильтр
 BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
 BuildCraft|Factory:miningWellBlock, Буровая установка
@@ -3490,6 +3726,27 @@ evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
+evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:sanguinaryPedestal:0, Кровавый пьедестал
 evilcraft:sanguinaryPedestal:1, Кровавый пьедестал
 evilcraft:spikedPlate:0, Шипованная пластина
@@ -3505,6 +3762,389 @@ evilcraft:reinforcedUndeadPlank:0, Reinforced Undead Plank
 evilcraft:sanguinaryEnvironmentalAccumulator:0, Sanguinary Environmental Acc.
 evilcraft:boxOfEternalClosure:0, Коробка вечного закрытия
 evilcraft:boxOfEternalClosure:0, Коробка вечного закрытия
+ExtraPlanets:tile.mercury:0, Поверхность Меркурия
+ExtraPlanets:tile.mercury:1, Подповерхностный грунт Меркурия
+ExtraPlanets:tile.mercury:2, Камень Меркурия
+ExtraPlanets:tile.mercury:3, Железная руда Меркурия
+ExtraPlanets:tile.mercury:4, Оловянная руда Меркурия
+ExtraPlanets:tile.mercury:5, Медная руда Меркурия
+ExtraPlanets:tile.mercury:6, Ртутная руда Меркурия
+ExtraPlanets:tile.mercury:7, Каменные кирпичи Меркурия
+ExtraPlanets:tile.mercury:8, Ртутный блок
+ExtraPlanets:mercuryGravel, Гравий Меркурия
+ExtraPlanets:tile.venus:0, Поверхность Венеры
+ExtraPlanets:tile.venus:1, Подповерхностный грунт Венеры
+ExtraPlanets:tile.venus:2, Камень Венеры
+ExtraPlanets:tile.venus:3, Железная руда Венеры
+ExtraPlanets:tile.venus:4, Оловянная руда Венеры
+ExtraPlanets:tile.venus:5, Медная руда Венеры
+ExtraPlanets:tile.venus:6, Углеродная руда
+ExtraPlanets:tile.venus:7, Углеродный блок
+ExtraPlanets:tile.venus:8, Каменные кирпичи Венеры
+ExtraPlanets:tile.venus:9, Титановый блок
+ExtraPlanets:venusGravel, Гравий Венеры
+ExtraPlanets:venusSpawner, tile.null.name
+ExtraPlanets:veunsDungeonBrick, Кирпич сокровищницы Венеры
+ExtraPlanets:tile.treasureChestT4, Сундук с сокровищами 4-го уровня
+ExtraPlanets:ashBlock, Блок пепла
+ExtraPlanets:volcanicRock, Вулканические породы
+ExtraPlanets:tile.ceres:0, Поверхность Цереры
+ExtraPlanets:tile.ceres:1, Подповерхностный грунт Цереры
+ExtraPlanets:tile.ceres:2, Камень Цереры
+ExtraPlanets:tile.ceres:3, Железная руда Цереры
+ExtraPlanets:tile.ceres:4, Оловянная руда Цереры
+ExtraPlanets:tile.ceres:5, Медная руда Цереры
+ExtraPlanets:tile.ceres:6, Урановая руда Цереры
+ExtraPlanets:tile.ceres:7, Кирпич сокровищницы Цереры
+ExtraPlanets:tile.ceres:8, Урановый блок
+ExtraPlanets:ceresGravel, Гравий Цереры
+ExtraPlanets:tile.jupiter:0, Поверхность Юпитера
+ExtraPlanets:tile.jupiter:1, Подповерхностный грунт Юпитера
+ExtraPlanets:tile.jupiter:2, Камень Юпитера
+ExtraPlanets:tile.jupiter:3, Железная руда Юпитера
+ExtraPlanets:tile.jupiter:4, Оловянная руда Юпитера
+ExtraPlanets:tile.jupiter:5, Медная руда Юпитера
+ExtraPlanets:tile.jupiter:6, Палладиевая руда Юпитера
+ExtraPlanets:tile.jupiter:7, Никелевая руда Юпитера
+ExtraPlanets:tile.jupiter:8, Палладиевый блок
+ExtraPlanets:tile.jupiter:9, Каменные кирпичи Юпитера
+ExtraPlanets:tile.jupiter:10, Руда красного драгоценного камня Юпитера
+ExtraPlanets:tile.jupiter:11, Блок красного драгоценного камня
+ExtraPlanets:tile.jupiter:12, Никелевый блок
+ExtraPlanets:jupiterGravel, Гравий Юпитера
+ExtraPlanets:orangeSand, Оранжевый песок
+ExtraPlanets:orangeSandstone, Оранжевый песчаник
+ExtraPlanets:jupiterSpawner, tile.null.name
+ExtraPlanets:jupiterDungeonBrick, Кирпич сокровищницы Юпитера
+ExtraPlanets:tile.treasureChestT5, Сундук с сокровищами 5-го уровня
+ExtraPlanets:tile.saturn:0, Поверхность Сатурна
+ExtraPlanets:tile.saturn:1, Подповерхностный грунт Сатурна
+ExtraPlanets:tile.saturn:2, Камень Сатурна
+ExtraPlanets:tile.saturn:3, Железная руда Сатурна
+ExtraPlanets:tile.saturn:4, Оловянная руда Сатурна
+ExtraPlanets:tile.saturn:5, Медная руда Сатурна
+ExtraPlanets:tile.saturn:6, Магниевая руда Сатурна
+ExtraPlanets:tile.saturn:7, Магниевый блок
+ExtraPlanets:tile.saturn:8, Каменные кирпичи Сатурна
+ExtraPlanets:tile.saturn:9, Сломанный зараженный камень Сатурна
+ExtraPlanets:tile.saturn:10, Зараженный камень Сатурна
+ExtraPlanets:tile.saturn:11, Слизневая руда Сатурна
+ExtraPlanets:saturnGravel, Гравий Сатурна
+ExtraPlanets:saturnSpawner, tile.null.name
+ExtraPlanets:saturnDungeonBrick, Кирпич сокровищницы Сатурна
+ExtraPlanets:tile.treasureChestT6, Сундук с сокровищами 6-го уровня
+ExtraPlanets:tile.uranus:0, Поверхность Урана
+ExtraPlanets:tile.uranus:1, Подповерхностный грунт Урана
+ExtraPlanets:tile.uranus:2, Камень Урана
+ExtraPlanets:tile.uranus:3, Кристальная руда Урана
+ExtraPlanets:tile.uranus:4, Кристальный блок
+ExtraPlanets:tile.uranus:5, Каменные кирпичи Урана
+ExtraPlanets:tile.uranus:6, Руда белого драгоценного камня Урана
+ExtraPlanets:tile.uranus:7, Блок белого драгоценного камня Урана
+ExtraPlanets:uranusSpawner, tile.null.name
+ExtraPlanets:uranusDungeonBrick, Кирпич сокровищницы Урана
+ExtraPlanets:tile.treasureChestT7, Сундук с сокровищами 7-го уровня
+ExtraPlanets:denseIce, Плотный лёд
+ExtraPlanets:tile.neptune:0, Поверхность Нептуна
+ExtraPlanets:tile.neptune:1, Подповерхностный грунт Нептуна
+ExtraPlanets:tile.neptune:2, Камень Нептуна
+ExtraPlanets:tile.neptune:3, Железная руда Нептуна
+ExtraPlanets:tile.neptune:4, Оловянная руда Нептуна
+ExtraPlanets:tile.neptune:5, Медная руда Нептуна
+ExtraPlanets:tile.neptune:6, Цинкова руда Нептуна
+ExtraPlanets:tile.neptune:7, Цинковый блок
+ExtraPlanets:tile.neptune:8, Каменные кирпичи Нептуна
+ExtraPlanets:tile.neptune:9, Руда синего драгоценного камня Нептуна
+ExtraPlanets:tile.neptune:10, Блок синего драгоценного камня Нептуна
+ExtraPlanets:neptuneSpawner, tile.null.name
+ExtraPlanets:neptuneDungeonBrick, Кирпич сокровищницы Нептуна
+ExtraPlanets:tile.treasureChestT8, Сундук с сокровищами 8-го уровня
+ExtraPlanets:frozenNitrogen, Замороженный азот
+ExtraPlanets:tile.pluto:0, Поверхность Плутона
+ExtraPlanets:tile.pluto:1, Подповерхностный грунт Плутона
+ExtraPlanets:tile.pluto:2, Камень Плутона
+ExtraPlanets:tile.pluto:3, Железная руда Плутона
+ExtraPlanets:tile.pluto:4, Оловянная руда Плутона
+ExtraPlanets:tile.pluto:5, Медная руда Плутона
+ExtraPlanets:tile.pluto:6, Вольфрамовая руда Плутона
+ExtraPlanets:tile.pluto:7, Вольфрамовый блок
+ExtraPlanets:tile.pluto:8, Каменные кирпичи Плутона
+ExtraPlanets:plutoSpawner, tile.null.name
+ExtraPlanets:plutoDungeonBrick, Кирпич сокровищницы Плутона
+ExtraPlanets:tile.treasureChestT9, Сундук с сокровищами 9-го уровня
+ExtraPlanets:plutoGravel, Гравий Плутона
+ExtraPlanets:tile.eris:0, Поверхность Эриды
+ExtraPlanets:tile.eris:1, Подповерхностный грунт Эриды
+ExtraPlanets:tile.eris:2, Камень Эриды
+ExtraPlanets:tile.eris:3, Железная руда Эриды
+ExtraPlanets:tile.eris:4, Оловянная руда Эриды
+ExtraPlanets:tile.eris:5, Медная руда Эриды
+ExtraPlanets:tile.eris:6, Каменные кирпичи Эриды
+ExtraPlanets:tile.eris:7, Руда тёмного железа Эриды
+ExtraPlanets:tile.eris:8, Блок тёмного железа Эриды
+ExtraPlanets:erisSpawner, tile.null.name
+ExtraPlanets:erisDungeonBrick, Кирпич сокровищницы Эриды
+ExtraPlanets:tile.treasureChestT10, Сундук с сокровищами 10-го уровня
+ExtraPlanets:erisGravel, Гравий Эриды
+ExtraPlanets:tile.kepler22b:0, Земля Кеплер-22 b
+ExtraPlanets:tile.kepler22b:1, Камень Кеплер-22 b
+ExtraPlanets:tile.kepler22b:2, Железная руда Кеплер-22 b
+ExtraPlanets:tile.kepler22b:3, Медная руда Кеплер-22 b
+ExtraPlanets:tile.kepler22b:4, Оловянная руда Кеплер-22 b
+ExtraPlanets:tile.kepler22b:5, Руда плотного угля Кеплер-22 b
+ExtraPlanets:tile.kepler22b:6, Руда синего алмаза Кеплер-22 b
+ExtraPlanets:tile.kepler22b:7, Руда красного алмаза Кеплер-22 b
+ExtraPlanets:tile.kepler22b:8, Руда фиолетового алмаза Кеплер-22 b
+ExtraPlanets:tile.kepler22b:9, Руда жёлтого алмаза Кеплер-22 b
+ExtraPlanets:tile.kepler22b:10, Руда зелёного алмаза Кеплер-22 b
+ExtraPlanets:tile.kepler22b:11, Каменные кирпичи Кеплер-22 b
+ExtraPlanets:tile.kepler22b:12, Булыжник Кеплер-22 b
+ExtraPlanets:tile.kepler22b:13, Платиновая руда Кеплер-22 b
+ExtraPlanets:tile.kepler22b:14, Платиновый блок
+ExtraPlanets:kepler22bGrass, Блок травы Кеплер-22 b
+ExtraPlanets:kepler22bBlueGrass, Блок синей травы Кеплер-22 b
+ExtraPlanets:kepler22bPurpleGrass, Блок фиолетовой травы Кеплер-22 b
+ExtraPlanets:kepler22bRedGrass, Блок красной травы Кеплер-22 b
+ExtraPlanets:kepler22bYellowGrass, Блок жёлтой травы Кеплер-22 b
+ExtraPlanets:kepler22bInfectedGrass, Зараженное стекло Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:1, Средняя синяя трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:2, Высокая синяя трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:3, Низкая красная трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:4, Средняя красная трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:5, Высокая красная трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:6, Низкая фиолетовая трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:7, Средняя фиолетовая трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:8, Высокая фиолетовая трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:9, Низкая жёлтая трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:10, Средняя жёлтая трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:11, Высокая жёлтая трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:12, Низкая коричневая трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:13, Средняя коричневая трава Кеплер-22 b
+ExtraPlanets:tile.kepler22bFlowers:14, Высокая коричневая трава Кеплер-22 b
+ExtraPlanets:redSand, Красный песок
+ExtraPlanets:redSandstone, Красный песчаник
+ExtraPlanets:tile.europa:0, Поверхность Европы
+ExtraPlanets:tile.europa:1, Подповерхностный грунт Европы
+ExtraPlanets:tile.europa:2, Камень Европы
+ExtraPlanets:tile.europa:3, Железная руда Европы
+ExtraPlanets:tile.europa:4, Оловянная руда Европы
+ExtraPlanets:tile.europa:5, Медная руда Европы
+ExtraPlanets:europaGravel, Гравий Европы
+ExtraPlanets:tile.io:0, Поверхность Ио
+ExtraPlanets:tile.io:1, Подповерхностный грунт Ио
+ExtraPlanets:tile.io:2, Камень Ио
+ExtraPlanets:tile.io:3, Железная руда Ио
+ExtraPlanets:tile.io:4, Оловянная руда Ио
+ExtraPlanets:tile.io:5, Медная руда Ио
+ExtraPlanets:ioGravel, Гравий Ио
+ExtraPlanets:tile.deimos:0, Поверхность Деймоса
+ExtraPlanets:tile.deimos:1, Подповерхностный грунт Деймоса
+ExtraPlanets:tile.deimos:2, Камень Деймоса
+ExtraPlanets:tile.deimos:3, Железная руда Деймоса
+ExtraPlanets:tile.deimos:4, Оловянная руда Деймоса
+ExtraPlanets:tile.deimos:5, Медная руда Деймоса
+ExtraPlanets:tile.deimos:6, Свинцовая руда Деймоса
+ExtraPlanets:deimosGravel, Гравий Деймоса
+ExtraPlanets:tile.phobos:0, Поверхность Фобоса
+ExtraPlanets:tile.phobos:1, Подповерхностный грунт Фобоса
+ExtraPlanets:tile.phobos:2, Камень Фобоса
+ExtraPlanets:tile.phobos:3, Железная руда Фобоса
+ExtraPlanets:tile.phobos:4, Оловянная руда Фобоса
+ExtraPlanets:tile.phobos:5, Медная руда Фобоса
+ExtraPlanets:tile.phobos:6, Свинцовая руда Фобоса
+ExtraPlanets:phobosGravel, Гравий Фобоса
+ExtraPlanets:tile.triton:0, Поверхность Тритона
+ExtraPlanets:tile.triton:1, Подповерхностный грунт Тритона
+ExtraPlanets:tile.triton:2, Камень Тритона
+ExtraPlanets:tile.triton:3, Железная руда Тритона
+ExtraPlanets:tile.triton:4, Оловянная руда Тритона
+ExtraPlanets:tile.triton:5, Медная руда Тритона
+ExtraPlanets:tritonGravel, Гравий Тритона
+ExtraPlanets:tile.callisto:0, Поверхность Каллисто
+ExtraPlanets:tile.callisto:1, Подповерхностный грунт Каллисто
+ExtraPlanets:tile.callisto:2, Камень Каллисто
+ExtraPlanets:tile.callisto:3, Железная руда Каллисто
+ExtraPlanets:tile.callisto:4, Оловянная руда Каллисто
+ExtraPlanets:tile.callisto:5, Медная руда Каллисто
+ExtraPlanets:callistoGravel, Гравий Каллисто
+ExtraPlanets:tile.ganymede:0, Поверхность Ганимеда
+ExtraPlanets:tile.ganymede:1, Подповерхностный грунт Ганимеда
+ExtraPlanets:tile.ganymede:2, Камень Ганимеда
+ExtraPlanets:tile.ganymede:3, Железная руда Ганимеда
+ExtraPlanets:tile.ganymede:4, Оловянная руда Ганимеда
+ExtraPlanets:tile.ganymede:5, Медная руда Ганимеда
+ExtraPlanets:ganymedeGravel, Гравий Ганимеда
+ExtraPlanets:tile.rhea:0, Поверхность Реи
+ExtraPlanets:tile.rhea:1, Подповерхностный грунт Реи
+ExtraPlanets:tile.rhea:2, Камень Реи
+ExtraPlanets:tile.rhea:3, Железная руда Реи
+ExtraPlanets:tile.rhea:4, Оловянная руда Реи
+ExtraPlanets:tile.rhea:5, Медная руда Реи
+ExtraPlanets:rheaGravel, Гравий Реи
+ExtraPlanets:tile.titan:0, Поверхность Титана
+ExtraPlanets:tile.titan:1, Подповерхностный грунт Титана
+ExtraPlanets:tile.titan:2, Камень Титана
+ExtraPlanets:tile.titan:3, Железная руда Титана
+ExtraPlanets:tile.titan:4, Оловянная руда Титана
+ExtraPlanets:tile.titan:5, Медная руда Титана
+ExtraPlanets:tile.titan:6, Метановая поверхность Титана
+ExtraPlanets:tile.titan:7, Метановый подповерхностный грунт Титана
+ExtraPlanets:tile.titan:8, Камни Титана
+ExtraPlanets:titanGravel, Гравий Титана
+ExtraPlanets:oberon:0, Поверхность Оберона
+ExtraPlanets:oberon:1, Подповерхностный грунт Оберона
+ExtraPlanets:oberon:2, Камень Оберона
+ExtraPlanets:oberon:3, Железная руда Оберона
+ExtraPlanets:oberon:4, Оловянная руда Оберона
+ExtraPlanets:oberon:5, Медная руда Оберона
+ExtraPlanets:oberonGravel, Гравий Оберона
+ExtraPlanets:titania:0, Поверхность Титании
+ExtraPlanets:titania:1, Подповерхностный грунт Титании
+ExtraPlanets:titania:2, Камень Титании
+ExtraPlanets:titania:3, Железная руда Титании
+ExtraPlanets:titania:4, Оловянная руда Титании
+ExtraPlanets:titania:5, Медная руда Титании
+ExtraPlanets:titaniaGravel, Гравий Титании
+ExtraPlanets:iapetus:0, Поверхность Япета
+ExtraPlanets:iapetus:1, Подповерхностный грунт Япета
+ExtraPlanets:iapetus:2, Камень Япета
+ExtraPlanets:iapetus:3, Железная руда Япета
+ExtraPlanets:iapetus:4, Оловянная руда Япета
+ExtraPlanets:iapetus:5, Медная руда Япета
+ExtraPlanets:iapetus:6, Лёд Япета
+ExtraPlanets:iapetusGravel, Гравий Япета
+ExtraPlanets:fossil, Блок ископаемых
+ExtraPlanets:nuclearBomb, Ядерная бомба
+ExtraPlanets:fireBomb, Огненная бомба
+ExtraPlanets:tile.advancedLaunchPad:0, Взлётная площадка 2-го уровня
+ExtraPlanets:tile.advancedLaunchPad:1, Взлётная площадка 3-го уровня
+ExtraPlanets:tile.advancedLaunchPad:2, Заправочная площадка для транспорта
+ExtraPlanets:tile.advancedLaunchPadFull, Взлётная площадка 2/3 уровня
+ExtraPlanets:tile.decorativeBlocks:0, Мрамор
+ExtraPlanets:tile.decorativeBlocks:1, Мраморный блок
+ExtraPlanets:tile.decorativeBlocks:2, Снежные кирпичи
+ExtraPlanets:tile.decorativeBlocks:3, Ледянные кирпичи
+ExtraPlanets:tile.decorativeBlocks:4, Огненные кирпичи
+ExtraPlanets:tile.decorativeBlocks:5, Чёрно-белая кафельная плитка
+ExtraPlanets:tile.decorativeBlocks:6, Мраморная кафельная плитка
+ExtraPlanets:tile.decorativeBlocks:7, Сломанная мраморная кафельная плитка
+ExtraPlanets:tile.decorativeBlocks:8, Металлическая сетка
+ExtraPlanets:tile.decorativeBlocks:9, Кирпичи из замороженного азота
+ExtraPlanets:tile.decorativeBlocks:10, Кирпичи из вулканических пород
+ExtraPlanets:tile.decorativeBlocks:11, Углеродный кафельный пол
+ExtraPlanets:tile.decorativeBlocks:12, Сломанный углеродный кафельный пол
+ExtraPlanets:tile.decorativeBlocks:13, Магниевый кафельный пол
+ExtraPlanets:tile.decorativeBlocks:14, Сломанный магниевый пол
+ExtraPlanets:tile.decorativeBlocks:15, Пепельные кирпичи
+ExtraPlanets:tile.decorativeBlocks2:0, Белый блок
+ExtraPlanets:tile.decorativeBlocks2:1, Красный блок
+ExtraPlanets:tile.decorativeBlocks2:2, Синий блок
+ExtraPlanets:tile.decorativeBlocks2:3, Светло-синий блок
+ExtraPlanets:tile.decorativeBlocks2:4, Жёлтый блок
+ExtraPlanets:tile.decorativeBlocks2:5, Зелёный блок
+ExtraPlanets:slimeBlock, Блок слизи
+ExtraPlanets:tile.diamond_grit, Алмазная крошка
+ExtraPlanets:tile.gold_grit, Золотая крошка
+ExtraPlanets:tile.iron_grit, Железная крошка
+ExtraPlanets:tile.coal_grit, Угольная крошка
+ExtraPlanets:tile.emerald_grit, Изумрудная крошка
+ExtraPlanets:tile.kepler22bMapleLogs:0, Синий дуб Кеплер-22 b
+ExtraPlanets:tile.kepler22bMapleLogs:1, Красный дуб Кеплер-22 b
+ExtraPlanets:tile.kepler22bMapleLogs:2, Фиолетовый дуб Кеплер-22 b
+ExtraPlanets:tile.kepler22bMapleLogs:3, Жёлтый дуб Кеплер-22 b
+ExtraPlanets:tile.kepler22bMapleLogs2:0, Зелёный дуб Кеплер-22 b
+ExtraPlanets:tile.kepler22bMapleLogs2:1, Коричневый дуб Кеплер-22 b
+ExtraPlanets:tile.kepler22bMapleSaplings:0, Саженец синего дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bMapleSaplings:1, Саженец красного дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bMapleSaplings:2, Саженец фиолетового дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bMapleSaplings:3, Саженец жёлтого дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bMapleSaplings:4, Саженец зелёного дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bMapleSaplings:5, Саженец коричневого дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bNewMapleLeaves:0, Листва синего дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bNewMapleLeaves:1, Листва красного дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bNewMapleLeaves:2, Листва фиолетового дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bNewMapleLeaves:3, Листва жёлтого дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bNewMapleLeaves2:0, Листва зелёного дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bNewMapleLeaves2:1, Листва коричневого дуба Кеплер-22 b
+ExtraPlanets:tile.kepler22bPlanks:0, Синие доски Кеплер-22 b
+ExtraPlanets:tile.kepler22bPlanks:1, Красные доски Кеплер-22 b
+ExtraPlanets:tile.kepler22bPlanks:2, Фиолетовые доски Кеплер-22 b
+ExtraPlanets:tile.kepler22bPlanks:3, Жёлтые доски Кеплер-22 b
+ExtraPlanets:tile.kepler22bPlanks:4, Зелёные доски Кеплер-22 b
+ExtraPlanets:tile.kepler22bPlanks:5, Коричневые доски Кеплер-22 b
+ExtraPlanets:mercuryStonehalfslab:0, Плита из камня Меркурия
+ExtraPlanets:mercuryStonefullslab:0, Плита из камня Меркурия
+ExtraPlanets:mercuryStoneStairs, Ступеньки из камня Меркурия
+ExtraPlanets:mercuryStoneBrickStairs, Ступеньки из кирпича сокровищницы Меркурия
+ExtraPlanets:venusStonehalfslab:0, Плита из камня Венеры
+ExtraPlanets:venusStonefullslab:0, Плита из камня Венеры
+ExtraPlanets:venusStoneStairs, Ступеньки из камня Венеры
+ExtraPlanets:venusStoneBrickStairs, Ступеньки из кирпича сокровищницы Венеры
+ExtraPlanets:venusDungeonBrickStonehalfslab:0, Плита из кирпича сокровищницы Венеры
+ExtraPlanets:venusDungeonBrickStonefullslab:0, Плита из кирпича сокровищницы Венеры
+ExtraPlanets:venusDungeonBrickStoneStairs, Ступеньки из кирпича сокровищницы Венеры
+ExtraPlanets:ceresStonehalfslab:0, Плита из камня Цереры
+ExtraPlanets:ceresStonefullslab:0, Плита из камня Цереры
+ExtraPlanets:ceresStoneStairs, Ступеньки из камня Цереры
+ExtraPlanets:ceresStoneBrickStairs, Ступеньки из кирпича сокровищницы Цереры
+ExtraPlanets:jupiterStonehalfslab:0, Плита из камня Юпитера
+ExtraPlanets:jupiterStonefullslab:0, Плита из камня Юпитера
+ExtraPlanets:jupiterStoneStairs, Ступеньки из камня Юпитера
+ExtraPlanets:jupiterStoneBrickStairs, Ступеньки из кирпича сокровищницы Юпитера
+ExtraPlanets:jupiterDungeonBrickStonehalfslab:0, Плита из кирпича сокровищницы Юпитера
+ExtraPlanets:jupiterDungeonBrickStonefullslab:0, Плита из кирпича сокровищницы Юпитера
+ExtraPlanets:jupiterDungeonBrickStoneStairs, Ступеньки из кирпича сокровищницы Юпитера
+ExtraPlanets:saturnStonehalfslab:0, Плита из камня Сатурна
+ExtraPlanets:saturnStonefullslab:0, Плита из камня Сатурна
+ExtraPlanets:saturnStoneStairs, Ступеньки из камня Сатурна
+ExtraPlanets:saturnStoneBrickStairs, Ступеньки из кирпича сокровищницы Сатурна
+ExtraPlanets:saturnDungeonBrickStonehalfslab:0, Плита из кирпича сокровищницы Сатурна
+ExtraPlanets:saturnDungeonBrickStonefullslab:0, Плита из кирпича сокровищницы Сатурна
+ExtraPlanets:saturnDungeonBrickStoneStairs, Ступеньки из кирпича сокровищницы Сатурна
+ExtraPlanets:uranusStonehalfslab:0, Плита из камня Урана
+ExtraPlanets:uranusStonefullslab:0, Плита из камня Урана
+ExtraPlanets:uranusStoneStairs, Ступеньки из камня Урана
+ExtraPlanets:uranusStoneBrickStairs, Ступеньки из кирпича сокровищницы Урана
+ExtraPlanets:uranusDungeonBrickStonehalfslab:0, Плита из кирпича сокровищницы Урана
+ExtraPlanets:uranusDungeonBrickStonefullslab:0, Плита из кирпича сокровищницы Урана
+ExtraPlanets:uranusDungeonBrickStoneStairs, Ступеньки из кирпича сокровищницы Урана
+ExtraPlanets:neptuneStonehalfslab:0, Плита из камня Нептуна
+ExtraPlanets:neptuneStonefullslab:0, Плита из камня Нептуна
+ExtraPlanets:neptuneStoneStairs, Ступеньки из камня Нептуна
+ExtraPlanets:neptuneStoneBrickStairs, Ступеньки из кирпича сокровищницы Нептуна
+ExtraPlanets:neptuneDungeonBrickStonehalfslab:0, Плита из кирпича сокровищницы Нептуна
+ExtraPlanets:neptuneDungeonBrickStonefullslab:0, Плита из кирпича сокровищницы Нептуна
+ExtraPlanets:neptuneDungeonBrickStoneStairs, Ступеньки из кирпича сокровищницы Нептуна
+ExtraPlanets:plutoStonehalfslab:0, Плита из камня Плутона
+ExtraPlanets:plutoStonefullslab:0, Плита из камня Плутона
+ExtraPlanets:plutoStoneStairs, Ступеньки из камня Плутона
+ExtraPlanets:plutoStoneBrickStairs, Ступеньки из кирпича сокровищницы Плутона
+ExtraPlanets:erisStonehalfslab:0, Плита из камня Эриды
+ExtraPlanets:erisStonefullslab:0, Плита из камня Эриды
+ExtraPlanets:erisStoneStairs, Ступеньки из камня Эриды
+ExtraPlanets:erisStoneBrickStairs, Ступеньки из кирпича сокровищницы Эриды
+ExtraPlanets:advancedRefinery, Улучшенный нефтеперерабатывающий завод
+ExtraPlanets:ultimateRefinery, Максимальный нефтеперерабатывающий завод
+ExtraPlanets:advancedFuelLoader, Улучшенный загрузчик топлива
+ExtraPlanets:ultimateFuelLoader, Максимальный загрузчик топлива
+ExtraPlanets:advancedOxygenCompressor:0, Улучшенный кислородный компрессор
+ExtraPlanets:advancedOxygenCompressor:4, Улучшенный кислородный декомпрессор
+ExtraPlanets:ultimateOxygenCompressor:0, Максимальный кислородный компрессор
+ExtraPlanets:ultimateOxygenCompressor:4, Максимальный кислородный декомпрессор
+ExtraPlanets:tile.solar:0, Гибридная солнечная панель
+ExtraPlanets:tile.solar:4, Максимальная солнечная панель
+ExtraPlanets:chargingBlock, Зарядное устройство для транспорта
+ExtraPlanets:glowstone, Жидкая светящиеся пыль
+ExtraPlanets:magma, Жидкая магма
+ExtraPlanets:nitrogen, Жидкий азот
+ExtraPlanets:salt, Жидкая кристаллическая вода
+ExtraPlanets:frozen_water, Замёрзшая вода
+ExtraPlanets:radio_active_water, Радиоактивная вода
+ExtraPlanets:infected_water, Заражённая вода
+ExtraPlanets:methane, Жидкий метан
+ExtraPlanets:nitrogen_ice, Жидкий замёрзший азот
+ExtraPlanets:liquid_chocolate, Жидкий шоколад
+ExtraPlanets:liquid_caramel, Жидкая карамель
 gadomancy:BlockStickyJar, Липучая банка
 gadomancy:BlockArcaneDropper, Магический выбрасыватель
 gadomancy:BlockInfusionClaw, Лапа наполнения
@@ -4193,6 +4833,18 @@ Ztones:lampf, Flat Lamp
 Ztones:lampt, Flat Lamp
 Ztones:lampb, Flat Lamp
 Ztones:auroraBlock, Aurora
+minecraft:record_13, Пластинка
+minecraft:record_cat, Пластинка
+minecraft:record_blocks, Пластинка
+minecraft:record_chirp, Пластинка
+minecraft:record_far, Пластинка
+minecraft:record_mall, Пластинка
+minecraft:record_mellohi, Пластинка
+minecraft:record_stal, Пластинка
+minecraft:record_strad, Пластинка
+minecraft:record_ward, Пластинка
+minecraft:record_11, Пластинка
+minecraft:record_wait, Пластинка
 Ztones:tile.agonBlock:0, Agon ⓪
 Ztones:tile.agonBlock:1, Agon ①
 Ztones:tile.agonBlock:2, Agon ②
@@ -4737,18 +5389,6 @@ Ztones:tile.ztylBlock:12, Ztyl ⑫
 Ztones:tile.ztylBlock:13, Ztyl ⑬
 Ztones:tile.ztylBlock:14, Ztyl ⑭
 Ztones:tile.ztylBlock:15, Ztyl ⑮
-minecraft:record_13, Пластинка
-minecraft:record_cat, Пластинка
-minecraft:record_blocks, Пластинка
-minecraft:record_chirp, Пластинка
-minecraft:record_far, Пластинка
-minecraft:record_mall, Пластинка
-minecraft:record_mellohi, Пластинка
-minecraft:record_stal, Пластинка
-minecraft:record_strad, Пластинка
-minecraft:record_ward, Пластинка
-minecraft:record_11, Пластинка
-minecraft:record_wait, Пластинка
 Aroma1997Core:wrench, Aromic Hammer
 particlelib:item.test, item.test.name
 Thaumcraft:WandCasting:0, Обитый железом деревянный жезл
@@ -6426,11 +7066,11 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изме�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из резного истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из колонны истинного кварца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной блок закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна из закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тротуарная плита путешествия
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок звезды Нижнего мира
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зараженная древесина
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зараженные доски
@@ -6488,6 +7128,113 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кост�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Разбухшая плоть
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Первичное ископаемое
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пространственные Врата
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.buildToolBlock.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Декоративный оловянный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Декоративный оловянный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кремниевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок метеоритного железа
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сырная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лунный грунт
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лунный камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лунный дёрн
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич лунной сокровищницы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.slabGCDouble.tinSlab.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.slabGCDouble.tinSlab.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.slabGCDouble.moonSlab.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.slabGCDouble.moonBricksSlab.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.slabGCDouble.marsSlab.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.slabGCDouble.marsBricksSlab.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Астероидный камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Астероидный камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Астероидный камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ильменитовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда деш
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Марсианский булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Марсианский поверхностный камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Марсианский подповерхностный камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич марсианской сокровищницы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок деш
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Марсианский камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Золотая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Хионитовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сподуменовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лазуритовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кремниевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ильменитовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Урановая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алмазная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Рубиновая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Урановая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изумрудная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Уголь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кремниевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Урболит содержащий сталь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Урболит содержащий окаменелости
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Рубиновая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изумрудная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алмазная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сподуменовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Золотая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лазуритовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Урановая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Базальтовый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Базальт
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красный булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красный песчаник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оливиновый базальтовый булыжник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оливиновый базальт
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевый ящик
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Базальтовая стена из кирпича
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий базальт
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Стена из обсидианового кирпича
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Урболит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Основной блок космического корабля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Верстак
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тёмная материя
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Светящийся коралл
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Земля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Укоренившеяся пыль
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обсидиановый песок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обсидиановый гравий
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Базальтовый реголит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вирилиговая древесина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лумиподовая кора
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лумиподовая пульпа
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вирилиговые доски
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лумиподовые доски
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Навигационная панель космического корабля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Базальтовая плита
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Базальтовая плита из кирпича
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из гладкого базальта
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из обсидианового кирпича
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевая плита
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лумиподовая плита
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вирилиговая плита
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.null.name
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Sticky Ore
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зачарованная Книжная полка
@@ -6547,7 +7294,6 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Snow Slab
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Blood-stained Wool
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Mirror Surface
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пыточный камень
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.buildToolBlock.name
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Серебряная руда
@@ -6802,6 +7548,286 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тёмн�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тёмный кровавый кирпич
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок из драгоценных камней тёмной энергии
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок кровавого угля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Меркурия
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Меркурия
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Меркурия
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Меркурия
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Меркурия
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Меркурия
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ртутная руда Меркурия
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменные кирпичи Меркурия
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ртутный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Меркурия
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Венеры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Венеры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Венеры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Венеры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Венеры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Венеры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Углеродная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Углеродный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменные кирпичи Венеры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Титановый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Венеры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.null.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич сокровищницы Венеры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок пепла
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вулканические породы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Цереры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Цереры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Цереры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Цереры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Цереры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Цереры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Урановая руда Цереры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич сокровищницы Цереры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Урановый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Цереры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Палладиевая руда Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Никелевая руда Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Палладиевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменные кирпичи Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда красного драгоценного камня Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок красного драгоценного камня
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Никелевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оранжевый песок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оранжевый песчаник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.null.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич сокровищницы Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Магниевая руда Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Магниевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменные кирпичи Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сломанный зараженный камень Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зараженный камень Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Слизневая руда Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.null.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич сокровищницы Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кристальная руда Урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кристальный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменные кирпичи Урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда белого драгоценного камня Урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок белого драгоценного камня Урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.null.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич сокровищницы Урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плотный лёд
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Цинкова руда Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Цинковый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменные кирпичи Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда синего драгоценного камня Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок синего драгоценного камня Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.null.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич сокровищницы Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замороженный азот
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Плутона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Плутона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Плутона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Плутона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Плутона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Плутона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вольфрамовая руда Плутона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вольфрамовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменные кирпичи Плутона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.null.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич сокровищницы Плутона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Плутона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменные кирпичи Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда тёмного железа Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок тёмного железа Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.null.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич сокровищницы Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Земля Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда плотного угля Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда синего алмаза Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда красного алмаза Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда фиолетового алмаза Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда жёлтого алмаза Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда зелёного алмаза Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменные кирпичи Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Булыжник Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Платиновая руда Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Платиновый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красный песок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красный песчаник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Европы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Европы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Европы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Европы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Европы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Европы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Европы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Ио
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Ио
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Ио
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Ио
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Ио
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Ио
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Ио
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Деймоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Деймоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Деймоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Деймоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Деймоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Деймоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовая руда Деймоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Деймоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Фобоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Фобоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Фобоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Фобоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Фобоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Фобоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовая руда Фобоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Фобоса
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Тритона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Тритона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Тритона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Тритона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Тритона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Тритона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Тритона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Каллисто
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Каллисто
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Каллисто
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Каллисто
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Каллисто
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Каллисто
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Каллисто
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Ганимеда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Ганимеда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Ганимеда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Ганимеда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Ганимеда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Ганимеда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Ганимеда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Реи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Реи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Реи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Реи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Реи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Реи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Реи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Титана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Титана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Титана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Титана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Титана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Титана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Метановая поверхность Титана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Метановый подповерхностный грунт Титана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камни Титана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Титана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Оберона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Оберона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Оберона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Оберона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Оберона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Оберона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Оберона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Титании
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Титании
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Титании
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Титании
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Титании
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Титании
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Титании
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Поверхность Япета
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подповерхностный грунт Япета
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень Япета
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная руда Япета
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда Япета
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда Япета
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лёд Япета
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гравий Япета
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок ископаемых
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ядерная бомба
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Огненная бомба
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мрамор
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мраморный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Снежные кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ледянные кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Огненные кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Чёрно-белая кафельная плитка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мраморная кафельная плитка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сломанная мраморная кафельная плитка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Металлическая сетка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпичи из замороженного азота
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпичи из вулканических пород
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Углеродный кафельный пол
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сломанный углеродный кафельный пол
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Магниевый кафельный пол
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сломанный магниевый пол
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пепельные кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Белый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Синий блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Светло-синий блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Жёлтый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зелёный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алмазная крошка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Золотая крошка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная крошка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Угольная крошка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изумрудная крошка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Синий дуб Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красный дуб Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Фиолетовый дуб Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Жёлтый дуб Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зелёный дуб Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Коричневый дуб Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Синие доски Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красные доски Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Фиолетовые доски Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Жёлтые доски Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зелёные доски Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Коричневые доски Кеплер-22 b
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из камня Меркурия
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из камня Венеры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из кирпича сокровищницы Венеры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из камня Цереры
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из камня Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из кирпича сокровищницы Юпитера
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из камня Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из кирпича сокровищницы Сатурна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из камня Урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из кирпича сокровищницы Урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из камня Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из кирпича сокровищницы Нептуна
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из камня Плутона
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из камня Эриды
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ториевая руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Рубиновая руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сапфировая руда
@@ -8121,6 +9147,233 @@ ThaumicHorizons:meatNuggetTH, item.null.name
 ThaumicHorizons:nodeCheat, Узел-Создатель
 ae2stuff:WirelessKit, Набор для настройки беспроводного соединителя
 ae2stuff:Visualiser, Устройство визуализации Сети
+BuildCraft|Core:wrenchItem, Гаечный ключ
+BuildCraft|Core:mapLocation, Карта расположения
+BuildCraft|Core:list:0, Список
+BuildCraft|Core:list:1, Список
+BuildCraft|Core:debugger, Отладчик
+BuildCraft|Core:woodenGearItem, Деревянная шестерня
+BuildCraft|Core:stoneGearItem, Каменная шестерня
+BuildCraft|Core:ironGearItem, Железная шестерня
+BuildCraft|Core:goldGearItem, Золотая шестерня
+BuildCraft|Core:diamondGearItem, Алмазная шестерня
+BuildCraft|Core:paintbrush, Кисточка
+BuildCraft|Energy:bucketOil, Ведро нефти
+BuildCraft|Energy:bucketFuel, Ведро топлива
+GalacticraftCore:item.bucketOil, Ведро нефти
+GalacticraftCore:item.bucketFuel, Ведро топлива
+GalacticraftCore:item.spaceship:0, Ракета 1-го уровня
+GalacticraftCore:item.spaceship:1, Ракета 1-го уровня
+GalacticraftCore:item.spaceship:2, Ракета 1-го уровня
+GalacticraftCore:item.spaceship:3, Ракета 1-го уровня
+GalacticraftCore:item.spaceship:4, Ракета 1-го уровня
+GalacticraftCore:item.oxygenMask, Кислородная маска
+GalacticraftCore:item.oxygenGear, Кислородное оборудование
+GalacticraftCore:item.oxygenTankLightFull, Малый кислородный баллон
+GalacticraftCore:item.oxygenTankMedFull, Средний кислородный баллон
+GalacticraftCore:item.oxygenTankHeavyFull, Большой кислородный баллон
+GalacticraftCore:item.sensorLens, Сенсорные линзы
+GalacticraftCore:item.sensorGlasses, Очки с сенсорами
+GalacticraftCore:item.steel_pickaxe, Кирка со сверхпрочным покрытием
+GalacticraftCore:item.steel_axe, Топор со сверхпрочным покрытием
+GalacticraftCore:item.steel_hoe, Мотыга со сверхпрочным покрытием
+GalacticraftCore:item.steel_shovel, Лопата со сверхпрочным покрытием
+GalacticraftCore:item.steel_sword, Меч со сверхпрочным покрытием
+GalacticraftCore:item.steel_helmet, Шлем со сверхпрочным покрытием
+GalacticraftCore:item.steel_chestplate, Кираса со сверхпрочным покрытием
+GalacticraftCore:item.steel_leggings, Поножи со сверхпрочным покрытием
+GalacticraftCore:item.steel_boots, Ботинки со сверхпрочным покрытием
+GalacticraftCore:item.canister:0, Оловянная канистра
+GalacticraftCore:item.canister:1, Медная канистра
+GalacticraftCore:item.airVent, Вентиляционный клапан
+GalacticraftCore:item.airFan, Вентилятор
+GalacticraftCore:item.oxygenConcentrator, Кислородный концентратор
+GalacticraftCore:item.engine:0, Ракетный двигатель 1-го уровня
+GalacticraftCore:item.engine:1, Ускоритель 1-го уровня
+GalacticraftCore:item.heavyPlating, Сверхпрочное покрытие
+GalacticraftCore:item.noseCone, Головной обтекатель
+GalacticraftCore:item.rocketFins, Ракетный стабилизатор
+GalacticraftCore:item.steelPole, Стальной шест
+GalacticraftCore:item.canvas, Холст
+GalacticraftCore:item.oilCanisterPartial, Частично заполненная канистра для нефти
+GalacticraftCore:item.fuelCanisterPartial, Частично заполненная канистра для топлива
+GalacticraftCore:item.oilExtractor, Портативный нефтяной экстрактор
+GalacticraftCore:item.schematic:0, Схема для верстака NASA
+GalacticraftCore:item.schematic:1, Схема для верстака NASA
+GalacticraftCore:item.key:0, Ключ от подземелья 1-го уровня
+GalacticraftCore:item.buggymat:0, Колесо багги
+GalacticraftCore:item.buggymat:1, Сиденье багги
+GalacticraftCore:item.buggymat:2, Контейнер багги
+GalacticraftCore:item.buggy, Багги
+GalacticraftCore:item.basicItem:0, Одиночный солнечный модуль
+GalacticraftCore:item.basicItem:1, Целая солнечная панель
+GalacticraftCore:item.basicItem:2, Неочищенный кремний
+GalacticraftCore:item.basicItem:3, Медный слиток
+GalacticraftCore:item.basicItem:4, Оловянный слиток
+GalacticraftCore:item.basicItem:5, Алюминиевый слиток
+GalacticraftCore:item.basicItem:6, Сжатая медь
+GalacticraftCore:item.basicItem:7, Сжатое олово
+GalacticraftCore:item.basicItem:8, Сжатый алюминий
+GalacticraftCore:item.basicItem:9, Сжатая сталь
+GalacticraftCore:item.basicItem:10, Сжатая бронза
+GalacticraftCore:item.basicItem:11, Сжатое железо
+GalacticraftCore:item.basicItem:12, Синяя солнечная полупроводниковая пластина
+GalacticraftCore:item.basicItem:13, Основная полупроводниковая пластина
+GalacticraftCore:item.basicItem:14, Продвинутая полупроводниковая пластина
+GalacticraftCore:item.basicItem:15, Консервированная еда
+GalacticraftCore:item.basicItem:16, Консервированная еда
+GalacticraftCore:item.basicItem:17, Консервированная еда
+GalacticraftCore:item.basicItem:18, Консервированная еда
+GalacticraftCore:item.basicItem:19, Частотный модуль
+GalacticraftCore:item.basicItem:20, Тепловой контроллер
+GalacticraftCore:item.battery, Аккумулятор
+GalacticraftCore:item.infiniteBattery, Бесконечный аккумулятор
+GalacticraftCore:item.infiniteOxygen, Бесконечная подача кислорода
+GalacticraftCore:item.null:0, Бросаемый метеоритный кусок
+GalacticraftCore:item.null:1, Бросаемый метеоритный кусок
+GalacticraftCore:item.standardWrench, Обычный гаечный ключ
+GalacticraftCore:item.cheeseCurd, Сырок
+GalacticraftCore:item.meteoricIronRaw, Необработанное метеоритное железо
+GalacticraftCore:item.meteoricIronIngot:0, Слиток метеоритного железа
+GalacticraftCore:item.meteoricIronIngot:1, Сжатое метеоритное железо
+GalacticraftCore:item.flag, Флаг
+GalacticraftCore:item.parachute:0, Парашют
+GalacticraftCore:item.parachute:1, Чёрный парашют
+GalacticraftCore:item.parachute:2, Светло-синий парашют
+GalacticraftCore:item.parachute:3, Лаймовый парашют
+GalacticraftCore:item.parachute:4, Коричневый парашют
+GalacticraftCore:item.parachute:5, Синий парашют
+GalacticraftCore:item.parachute:6, Серый парашют
+GalacticraftCore:item.parachute:7, Зелёный парашют
+GalacticraftCore:item.parachute:8, Светло-серый парашют
+GalacticraftCore:item.parachute:9, Сиреневый парашют
+GalacticraftCore:item.parachute:10, Оранжевый парашют
+GalacticraftCore:item.parachute:11, Розовый парашют
+GalacticraftCore:item.parachute:12, Фиолетовый парашют
+GalacticraftCore:item.parachute:13, Красный парашют
+GalacticraftCore:item.parachute:14, Бирюзовый парашют
+GalacticraftCore:item.parachute:15, Жёлтый парашют
+GalacticraftMars:item.grapple, Крюк
+GalacticraftMars:item.itemTier3Rocket:0, Ракета 3-го уровня
+GalacticraftMars:item.itemTier3Rocket:1, Ракета 3-го уровня
+GalacticraftMars:item.itemTier3Rocket:2, Ракета 3-го уровня
+GalacticraftMars:item.itemTier3Rocket:3, Ракета 3-го уровня
+GalacticraftMars:item.itemTier3Rocket:4, Ракета 3-го уровня
+GalacticraftMars:item.itemAstroMiner, Астрономический шахтёр
+GalacticraftMars:item.thermalPadding:0, Теплоустойчивый шлем
+GalacticraftMars:item.thermalPadding:1, Теплоустойчивая кираса
+GalacticraftMars:item.thermalPadding:2, Теплоустойчивые поножи
+GalacticraftMars:item.thermalPadding:3, Теплоустойчивые ботинки
+GalacticraftMars:item.itemBasicAsteroids:0, Сверхпрочное покрытие
+GalacticraftMars:item.itemBasicAsteroids:1, Прочный ракетный двигатель
+GalacticraftMars:item.itemBasicAsteroids:2, Прочный ракетный стабилизатор
+GalacticraftMars:item.itemBasicAsteroids:3, Железный осколок
+GalacticraftMars:item.itemBasicAsteroids:4, Титановый осколок
+GalacticraftMars:item.itemBasicAsteroids:5, Титановый слиток
+GalacticraftMars:item.itemBasicAsteroids:6, Сжатый титан
+GalacticraftMars:item.itemBasicAsteroids:7, Теплоустойчивая ткань
+GalacticraftMars:item.itemBasicAsteroids:8, Лучевое ядро
+GalacticraftMars:item.methaneCanisterPartial, Канистра для метана
+GalacticraftMars:item.canisterPartialLOX, item.canisterPartialLOX.name
+GalacticraftMars:item.canisterPartialLN2, item.canisterPartialLN2.name
+GalacticraftMars:item.atmosphericValve, Атмосферный клапан
+GalacticraftMars:item.heavyNoseCone:0, Прочный головной обтекатель
+GalacticraftMars:item.orionDrive, Привод Ориона
+GalacticraftMars:item.titanium_helmet, Титановый шлем
+GalacticraftMars:item.titanium_chestplate, Титановая кираса
+GalacticraftMars:item.titanium_leggings, Титановые поножи
+GalacticraftMars:item.titanium_boots, Титановые ботинки
+GalacticraftMars:item.titanium_axe, Титановый топор
+GalacticraftMars:item.titanium_pickaxe, Титановая кирка
+GalacticraftMars:item.titanium_shovel, Титановая лопата
+GalacticraftMars:item.titanium_hoe, Титановая мотыга
+GalacticraftMars:item.titanium_sword, Титановый меч
+GalacticraftMars:item.bucketSludge, Ведро бактериального осадка
+GalacticraftMars:item.carbonFragments, Раздробленный уголь
+GalacticraftMars:item.null:0, Необработанная деш
+GalacticraftMars:item.null:1, Палка из деш
+GalacticraftMars:item.null:2, Слиток деш
+GalacticraftMars:item.null:3, Сверхпрочное покрытие
+GalacticraftMars:item.null:4, Сумка слаймлинга
+GalacticraftMars:item.null:5, Сжатая деш
+GalacticraftMars:item.null:6, Манипулятор жидкости
+GalacticraftMars:item.deshPick, Кирка из деш
+GalacticraftMars:item.deshPickSlime, Липкая кирка из деш
+GalacticraftMars:item.deshAxe, Топор из деш
+GalacticraftMars:item.deshHoe, Мотыга из деш
+GalacticraftMars:item.deshSpade, Лопата из деш
+GalacticraftMars:item.deshSword, Меч из деш
+GalacticraftMars:item.deshHelmet, Шлем из деш
+GalacticraftMars:item.deshChestplate, Кираса из деш
+GalacticraftMars:item.deshLeggings, Поножи из деш
+GalacticraftMars:item.deshBoots, Ботинки из деш
+GalacticraftMars:item.spaceshipTier2:0, Ракета 2-го уровня
+GalacticraftMars:item.spaceshipTier2:1, Ракета 2-го уровня
+GalacticraftMars:item.spaceshipTier2:2, Ракета 2-го уровня
+GalacticraftMars:item.spaceshipTier2:3, Ракета 2-го уровня
+GalacticraftMars:item.spaceshipTier2:4, Ракета 2-го уровня
+GalacticraftMars:item.spaceshipTier2:11, Грузовая ракета
+GalacticraftMars:item.spaceshipTier2:12, Грузовая ракета
+GalacticraftMars:item.spaceshipTier2:13, Грузовая ракета
+GalacticraftMars:item.spaceshipTier2:14, Грузовая ракета
+GalacticraftMars:item.key:0, Ключ от подземелья 2-го уровня
+GalacticraftMars:item.schematic:0, Схема для верстака NASA
+GalacticraftMars:item.schematic:1, Схема для верстака NASA
+GalacticraftMars:item.schematic:2, Схема для верстака NASA
+GalacticraftAmunRa:item.baseItem:0, Полупроводниковая пластина края
+GalacticraftAmunRa:item.baseItem:1, Мясо поркодона
+GalacticraftAmunRa:item.baseItem:2, Пыль
+GalacticraftAmunRa:item.baseItem:3, Хионит
+GalacticraftAmunRa:item.baseItem:4, Лазерный диод
+GalacticraftAmunRa:item.baseItem:5, Криодиод
+GalacticraftAmunRa:item.baseItem:6, Рубин
+GalacticraftAmunRa:item.baseItem:7, Сподумен
+GalacticraftAmunRa:item.baseItem:8, Литиевая сеть
+GalacticraftAmunRa:item.baseItem:9, Инопланетная книга
+GalacticraftAmunRa:item.baseItem:10, Свинцовый слиток
+GalacticraftAmunRa:item.baseItem:11, Урановой слиток
+GalacticraftAmunRa:item.baseItem:12, Стальной слиток
+GalacticraftAmunRa:item.baseItem:13, Древная арматура
+GalacticraftAmunRa:item.baseItem:14, Ножки шаттла
+GalacticraftAmunRa:item.baseItem:15, Облегченное покрытие
+GalacticraftAmunRa:item.baseItem:16, Головной обтекатель шаттла
+GalacticraftAmunRa:item.baseItem:17, Портативный терморегулятор
+GalacticraftAmunRa:item.baseItem:18, Мульти-сенсор
+GalacticraftAmunRa:item.baseItem:19, Сжатое золото
+GalacticraftAmunRa:item.baseItem:20, Золотая фольга
+GalacticraftAmunRa:item.baseItem:21, Трансформатор
+GalacticraftAmunRa:item.baseItem:22, Uranium-Урано-литиевая сеть
+GalacticraftAmunRa:item.baseItem:23, Топливный бак шаттла
+GalacticraftAmunRa:item.baseItem:24, Трап дока
+GalacticraftAmunRa:item.baseItem:25, Дверь дока
+GalacticraftAmunRa:item.baseItem:26, Осколок тёмной материи
+GalacticraftAmunRa:item.baseItem:27, Скопление нанороботов
+GalacticraftAmunRa:item.baseItem:28, Управляющий модуль нанороботов
+GalacticraftAmunRa:item.baseItem:29, Порошок мумии
+GalacticraftAmunRa:item.baseItem:30, Перебиватель ускуственный гравитации
+GalacticraftAmunRa:item.thermalSuit:0, Терморегулированный шлем
+GalacticraftAmunRa:item.thermalSuit:1, Терморегулированная кираса
+GalacticraftAmunRa:item.thermalSuit:2, Терморегулированные поножи
+GalacticraftAmunRa:item.thermalSuit:3, Терморегулированные ботинки
+GalacticraftAmunRa:item.schematic:0, Схема шаттла
+GalacticraftAmunRa:item.itemShuttle:0, Шаттл
+GalacticraftAmunRa:item.itemShuttle:1, Шаттл
+GalacticraftAmunRa:item.itemShuttle:2, Шаттл
+GalacticraftAmunRa:item.itemShuttle:3, Шаттл
+GalacticraftAmunRa:item.itemShuttle:4, Шаттл
+GalacticraftAmunRa:item.itemShuttle:5, Шаттл
+GalacticraftAmunRa:item.itemShuttle:6, Шаттл
+GalacticraftAmunRa:item.itemShuttle:8, Шаттл
+GalacticraftAmunRa:item.itemShuttle:9, Шаттл
+GalacticraftAmunRa:item.itemShuttle:12, Шаттл
+GalacticraftAmunRa:item.itemShuttle:15, Шаттл
+GalacticraftAmunRa:item.raygun, Бластер
+GalacticraftAmunRa:item.cryogun, Луч холода
+GalacticraftAmunRa:item.nanotool, Нанороботный мультиинструмент
+GalacticraftAmunRa:item.battery-ender, Продвинутая батарейка
+GalacticraftAmunRa:item.battery-lithium, Литиевая батарейка
+GalacticraftAmunRa:item.battery-quantum, Квантовая батарейка
+GalacticraftAmunRa:item.battery-nuclear, Атомная батарейка
 Aquaculture:item.fishingRod, Деревянная удочка
 Aquaculture:item.IronFishingRod, Железная удочка
 Aquaculture:item.GoldFishingRod, Золотая удочка
@@ -8432,6 +9685,12 @@ Forestry:waxCapsuleWater, Капсула воды
 Forestry:refractoryWater, Капсула воды
 Forestry:canLava, Банка лавы
 Forestry:refractoryLava, Капсула лавы
+Forestry:canFuel, Банка топлива
+Forestry:waxCapsuleFuel, Капсула топлива
+Forestry:refractoryFuel, Капсула топлива
+Forestry:canOil, Банка нефти
+Forestry:waxCapsuleOil, Капсула нефти
+Forestry:refractoryOil, Капсула нефти
 Forestry:beealyzer, Анализатор пчёл
 Forestry:habitatLocator, Определитель ареала
 Forestry:imprinter, Импринтер
@@ -8930,17 +10189,6 @@ witchery:garlic, Garlic
 witchery:bucketspirit, Ведро духов
 witchery:buckethollowtears, Ведро Пустых Слез
 witchery:bucketbrew, item.witchery:bucketbrew.name
-BuildCraft|Core:wrenchItem, Гаечный ключ
-BuildCraft|Core:mapLocation, Карта расположения
-BuildCraft|Core:list:0, Список
-BuildCraft|Core:list:1, Список
-BuildCraft|Core:debugger, Отладчик
-BuildCraft|Core:woodenGearItem, Деревянная шестерня
-BuildCraft|Core:stoneGearItem, Каменная шестерня
-BuildCraft|Core:ironGearItem, Железная шестерня
-BuildCraft|Core:goldGearItem, Золотая шестерня
-BuildCraft|Core:diamondGearItem, Алмазная шестерня
-BuildCraft|Core:paintbrush, Кисточка
 BuildCraft|Builders:templateItem, Чертёж
 BuildCraft|Builders:blueprintItem, Строительный проект
 BuildCraft|Robotics:robot, Робот
@@ -8956,8 +10204,6 @@ BuildCraft|Silicon:redstoneChipset:6, Композитная микросхем�
 BuildCraft|Silicon:redstoneChipset:7, Изумрудная микросхема
 BuildCraft|Silicon:package, Пакет
 BuildCraft|Silicon:redstoneCrystal, Красный кристалл
-BuildCraft|Energy:bucketOil, Ведро нефти
-BuildCraft|Energy:bucketFuel, Ведро топлива
 BuildCraft|Transport:pipeWaterproof, Уплотнитель для труб
 BuildCraft|Transport:item.buildcraftPipe.pipeitemswood:0, Деревянная транспортная труба
 BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald:0, Изумрудная транспортная труба
@@ -9967,6 +11213,16 @@ evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
 evilcraft:environmentalAccumulationCore, Environmental Accumulation Core
 evilcraft:maceOfDestruction, Mace of Destruction
 evilcraft:garmonbozia, Garmonbozia
@@ -9974,6 +11230,356 @@ evilcraft:poisonBottle, Poison Bottle
 evilcraft:boundBloodDrop, Связанная кровавая капля
 evilcraft:veinedScribingTools, Veined Scribing Tools
 evilcraft:bloodWandCap, Blood Cap
+ExtraPlanets:mercuryPickaxe, Ртутная кирка
+ExtraPlanets:mercuryAxe, Ртутный топор
+ExtraPlanets:mercuryHoe, Ртутная мотыга
+ExtraPlanets:mercuryShovel, Ртутный меч
+ExtraPlanets:mercurySword, Ртутный меч
+ExtraPlanets:carbonPickaxe, Углеродная кирка
+ExtraPlanets:carbonAxe, Углеродный топор
+ExtraPlanets:carbonHoe, Углеродная мотыга
+ExtraPlanets:carbonShovel, Углеродная лопата
+ExtraPlanets:carbonSword, Углеродный меч
+ExtraPlanets:uraniumPickaxe, Урановая кирка
+ExtraPlanets:uraniumAxe, Урановый топор
+ExtraPlanets:uraniumHoe, Урановая мотыга
+ExtraPlanets:uraniumShovel, Урановая лопата
+ExtraPlanets:uraniumSword, Урановый меч
+ExtraPlanets:palladiumPickaxe, Палладиевая кирка
+ExtraPlanets:palladiumAxe, Палладиевый топор
+ExtraPlanets:palladiumHoe, Палладиевая мотыга
+ExtraPlanets:palladiumShovel, Палладиевая лопата
+ExtraPlanets:palladiumSword, Палладиевый меч
+ExtraPlanets:redGemPickaxe, Кирка из красного драгоценного камня
+ExtraPlanets:redGemAxe, Топор из красного драгоценного камня
+ExtraPlanets:redGemHoe, Мотыга из красного драгоценного камня
+ExtraPlanets:redGemShovel, Лопата из красного драгоценного камня
+ExtraPlanets:redGemSword, Меч из красного драгоценного камня
+ExtraPlanets:magnesiumPickaxe, Магниевая кирка
+ExtraPlanets:magnesiumAxe, Магниевый топор
+ExtraPlanets:magnesiumHoe, Магниевая мотыга
+ExtraPlanets:magnesiumShovel, Магниевая лопата
+ExtraPlanets:magnesiumSword, Магниевый меч
+ExtraPlanets:crystalPickaxe, Кристальная кирка
+ExtraPlanets:crystalAxe, Кристальный топор
+ExtraPlanets:crystalHoe, Кристальная мотыга
+ExtraPlanets:crystalShovel, Кристальная лопата
+ExtraPlanets:crystalSword, Кристальный меч
+ExtraPlanets:whiteGemPickaxe, Кирка из белого драгоценного камня
+ExtraPlanets:whiteGemAxe, Топор из белого драгоценного камня
+ExtraPlanets:whiteGemHoe, Мотыга из белого драгоценного камня
+ExtraPlanets:whiteGemShovel, Лопата из белого драгоценного камня
+ExtraPlanets:whiteGemSword, Меч из белого драгоценного камня
+ExtraPlanets:blueGemPickaxe, Кирка из синего драгоценного камня
+ExtraPlanets:blueGemAxe, Топор из синего драгоценного камня
+ExtraPlanets:blueGemHoe, Мотыга из синего драгоценного камня
+ExtraPlanets:blueGemShovel, Лопата из синего драгоценного камня
+ExtraPlanets:blueGemSword, Меч из синего драгоценного камня
+ExtraPlanets:zincPickaxe, Цинковая кирка
+ExtraPlanets:zincAxe, Цинковый топор
+ExtraPlanets:zincHoe, Цинковая мотыга
+ExtraPlanets:zincShovel, Цинковая лопата
+ExtraPlanets:zincSword, Цинковый меч
+ExtraPlanets:tungstenPickaxe, Вольфрамовая кирка
+ExtraPlanets:tungstenAxe, Вольфрамовый топор
+ExtraPlanets:tungstenHoe, Вольфрамовая мотыга
+ExtraPlanets:tungstenShovel, Вольфрамовая лопата
+ExtraPlanets:tungstenSword, Вольфрамовый меч
+ExtraPlanets:blueDiamondPickaxe, Кирка из синего алмаза
+ExtraPlanets:blueDiamondAxe, Топор из синего алмаза
+ExtraPlanets:blueDiamondHoe, Мотыга из синего алмаза
+ExtraPlanets:blueDiamondShovel, Лопата из синего алмаза
+ExtraPlanets:blueDiamondSword, Меч из синего алмаза
+ExtraPlanets:redDiamondPickaxe, Кирка из красного алмаза
+ExtraPlanets:redDiamondAxe, Топор из красного алмаза
+ExtraPlanets:redDiamondHoe, Мотыга из красного алмаза
+ExtraPlanets:redDiamondShovel, Лопата из красного алмаза
+ExtraPlanets:redDiamondSword, Меч из красного алмаза
+ExtraPlanets:purpleDiamondPickaxe, Кирка из фиолетового алмаза
+ExtraPlanets:purpleDiamondAxe, Топор из фиолетового алмаза
+ExtraPlanets:purpleDiamondHoe, Мотыга из фиолетового алмаза
+ExtraPlanets:purpleDiamondShovel, Лопата из фиолетового алмаза
+ExtraPlanets:purpleDiamondSword, Меч из фиолетового алмаза
+ExtraPlanets:yellowDiamondPickaxe, Кирка из жёлтого алмаза
+ExtraPlanets:yellowDiamondAxe, Топор из жёлтого алмаза
+ExtraPlanets:yellowDiamondHoe, Мотыга из жёлтого алмаза
+ExtraPlanets:yellowDiamondShovel, Лопата из жёлтого алмаза
+ExtraPlanets:yellowDiamondSword, Меч из жёлтого алмаза
+ExtraPlanets:greenDiamondPickaxe, Кирка из зелёного алмаза
+ExtraPlanets:greenDiamondAxe, Топор из зелёного алмаза
+ExtraPlanets:greenDiamondHoe, Мотыга из зелёного алмаза
+ExtraPlanets:greenDiamondShovel, Лопата из зелёного алмаза
+ExtraPlanets:greenDiamondSword, Меч из зелёного алмаза
+ExtraPlanets:mercuryHelmet, Ртутный шлем
+ExtraPlanets:mercuryChest, Ртутный нагрудник
+ExtraPlanets:mercuryLegings, Ртутные поножи
+ExtraPlanets:mercuryBoots, Ртутные ботинки
+ExtraPlanets:carbonHelmet, Углеродный шлем
+ExtraPlanets:carbonChest, Углеродный нагрудник
+ExtraPlanets:carbonLegings, Углеродные поножи
+ExtraPlanets:carbonBoots, Углеродные ботинки
+ExtraPlanets:uraniumHelmet, Урановый шлем
+ExtraPlanets:uraniumChest, Урановый нагрудник
+ExtraPlanets:uraniumLegings, Урановые поножи
+ExtraPlanets:uraniumBoots, Урановые ботинки
+ExtraPlanets:palladiumHelmet, Палладиевый шлем
+ExtraPlanets:palladiumChest, Палладиевый нагрудник
+ExtraPlanets:palladiumLegings, Палладиевые поножи
+ExtraPlanets:palladiumBoots, Палладиевые ботинки
+ExtraPlanets:redGemHelmet, Шлем из красного драгоценного камня
+ExtraPlanets:redGemChest, Нагрудник из красного драгоценного камня
+ExtraPlanets:redGemLegings, Поножи из красного драгоценного камня
+ExtraPlanets:redGemBoots, Ботинки из красного драгоценного камня
+ExtraPlanets:magnesiumHelmet, Магниевый шлем
+ExtraPlanets:magnesiumChest, Магниевый нагрудник
+ExtraPlanets:magnesiumLegings, Магниевые поножи
+ExtraPlanets:magnesiumBoots, Магниевые ботинки
+ExtraPlanets:crystalHelmet, Кристальный шлем
+ExtraPlanets:crystalChest, Кристальный нагрудник
+ExtraPlanets:crystalLegings, Кристальные поножи
+ExtraPlanets:crystalBoots, Кристальные ботинки
+ExtraPlanets:whiteGemHelmet, Шлем из белого драгоценного камня
+ExtraPlanets:whiteGemChest, Нагрудник из белого драгоценного камня
+ExtraPlanets:whiteGemLegings, Поножи из белого драгоценного камня
+ExtraPlanets:whiteGemBoots, Ботинки из белого драгоценного камня
+ExtraPlanets:zincHelmet, Цинковый шлем
+ExtraPlanets:zincChest, Цинковый нагрудник
+ExtraPlanets:zincLegings, Цинковые поножи
+ExtraPlanets:zincBoots, Цинковые ботинки
+ExtraPlanets:blueGemHelmet, Шлем из синего драгоценного камня
+ExtraPlanets:blueGemChest, Нагрудник из синего драгоценного камня
+ExtraPlanets:blueGemLegings, Поножи из синего драгоценного камня
+ExtraPlanets:blueGemBoots, Ботинки из синего драгоценного камня
+ExtraPlanets:tungstenHelmet, Вольфрамовый шлем
+ExtraPlanets:tungstenChest, Вольфрамовый нагрудник
+ExtraPlanets:tungstenLegings, Вольфрамовые поножи
+ExtraPlanets:tungstenBoots, Вольфрамовые ботинки
+ExtraPlanets:blueDiamondHelmet, Шлем из синего алмаза
+ExtraPlanets:blueDiamondChest, Нагрудник из синего алмаза
+ExtraPlanets:blueDiamondLegings, Поножи из синего алмаза
+ExtraPlanets:blueDiamondBoots, Ботинки из синего алмаза
+ExtraPlanets:redDiamondHelmet, Шлем из красного алмаза
+ExtraPlanets:redDiamondChest, Нагрудник из красного алмаза
+ExtraPlanets:redDiamondLegings, Поножи из красного алмаза
+ExtraPlanets:redDiamondBoots, Ботинки из красного алмаза
+ExtraPlanets:purpleDiamondHelmet, Шлем из фиолетового алмаза
+ExtraPlanets:purpleDiamondChest, Нагрудник из фиолетового алмаза
+ExtraPlanets:purpleDiamondLegings, Поножи из фиолетового алмаза
+ExtraPlanets:purpleDiamondBoots, Ботинки из фиолетового алмаза
+ExtraPlanets:yellowDiamondHelmet, Шлем из жёлтого алмаза
+ExtraPlanets:yellowDiamondChest, Нагрудник из жёлтого алмаза
+ExtraPlanets:yellowDiamondLegings, Поножи из жёлтого алмаза
+ExtraPlanets:yellowDiamondBoots, Ботинки из жёлтого алмаза
+ExtraPlanets:greenDiamondHelmet, Шлем из зелёного алмаза
+ExtraPlanets:greenDiamondChest, Нагрудник из зелёного алмаза
+ExtraPlanets:greenDiamondLegings, Поножи из зелёного алмаза
+ExtraPlanets:greenDiamondBoots, Ботинки из зелёного алмаза
+ExtraPlanets:mercuryBattery, Ртутный аккумулятор
+ExtraPlanets:compressedMercury:0, Сжатая ртуть
+ExtraPlanets:ingotMercury:0, Ртутный слиток
+ExtraPlanets:itemTier4Rocket:0, Ракета 4-го уровня
+ExtraPlanets:itemTier4Rocket:1, Ракета 4-го уровня
+ExtraPlanets:itemTier4Rocket:2, Ракета 4-го уровня
+ExtraPlanets:itemTier4Rocket:3, Ракета 4-го уровня
+ExtraPlanets:itemTier4Rocket:4, Ракета 4-го уровня
+ExtraPlanets:schematicTier4, Схема для верстака NASA
+ExtraPlanets:noseConeTier4:0, Носовой обтекатель 4-го уровня
+ExtraPlanets:tier4Items:0, Ракетные двигатели 4-го уровня
+ExtraPlanets:tier4Items:1, Ускоритель 4-го уровня
+ExtraPlanets:tier4Items:2, Ракетные стабилизаторы 4-го уровня
+ExtraPlanets:tier4Items:3, Сверхпрочное покрытие
+ExtraPlanets:tier4Items:4, Сжатый углерод
+ExtraPlanets:tier4Items:5, Углеродный слиток
+ExtraPlanets:tier4Items:6, Пепел
+ExtraPlanets:tier4Items:7, Пепельный осколок
+ExtraPlanets:tier4Items:8, Кувалда
+ExtraPlanets:tier4Items:9, Шлифовальный круг
+ExtraPlanets:tier4Items:10, Вулканический осколок
+ExtraPlanets:tier4Items:11, Вулканический слиток
+ExtraPlanets:T4key:0, Ключ от подземелья 4-го уровня
+ExtraPlanets:ingotUranium:0, Урановый слиток
+ExtraPlanets:itemTier5Rocket:0, Ракета 5-го уровня
+ExtraPlanets:itemTier5Rocket:1, Ракета 5-го уровня
+ExtraPlanets:itemTier5Rocket:2, Ракета 5-го уровня
+ExtraPlanets:itemTier5Rocket:3, Ракета 5-го уровня
+ExtraPlanets:itemTier5Rocket:4, Ракета 5-го уровня
+ExtraPlanets:schematicTier5, Схема для верстака NASA
+ExtraPlanets:noseConeTier5:0, Носовой обтекатель 5-го уровня
+ExtraPlanets:tier5Items:0, Ракетные двигатели 5-го уровня
+ExtraPlanets:tier5Items:1, Ускоритель 5-го уровня
+ExtraPlanets:tier5Items:2, Ракетные стабилизаторы 5-го уровня
+ExtraPlanets:tier5Items:3, Сверхпрочное покрытие
+ExtraPlanets:tier5Items:4, Сжатый палладиум
+ExtraPlanets:tier5Items:5, Палладиевый слиток
+ExtraPlanets:tier5Items:6, Сжатый никель
+ExtraPlanets:tier5Items:7, Никелевый слиток
+ExtraPlanets:tier5Items:8, Красный драгоценный камень
+ExtraPlanets:T5key:0, Ключ от подземелья 5-го уровня
+ExtraPlanets:nickelBattery, Никелевый аккумулятор
+ExtraPlanets:itemTier6Rocket:0, Ракета 6-го уровня
+ExtraPlanets:itemTier6Rocket:1, Ракета 6-го уровня
+ExtraPlanets:itemTier6Rocket:2, Ракета 6-го уровня
+ExtraPlanets:itemTier6Rocket:3, Ракета 6-го уровня
+ExtraPlanets:itemTier6Rocket:4, Ракета 6-го уровня
+ExtraPlanets:schematicTier6, Схема для верстака NASA
+ExtraPlanets:noseConeTier6:0, Носовой обтекатель 6-го уровня
+ExtraPlanets:tier6Items:0, Ракетные двигатели 6-го уровня
+ExtraPlanets:tier6Items:1, Ускоритель 6-го уровня
+ExtraPlanets:tier6Items:2, Ракетные стабилизаторы 6-го уровня
+ExtraPlanets:tier6Items:3, Сверхпрочное покрытие
+ExtraPlanets:tier6Items:4, Сжатый магний
+ExtraPlanets:tier6Items:5, Магниевый слиток
+ExtraPlanets:tier6Items:6, Магниевый осколок
+ExtraPlanets:T6key:0, Ключ от подземелья 6-го уровня
+ExtraPlanets:itemTier7Rocket:0, Ракета 7-го уровня
+ExtraPlanets:itemTier7Rocket:1, Ракета 7-го уровня
+ExtraPlanets:itemTier7Rocket:2, Ракета 7-го уровня
+ExtraPlanets:itemTier7Rocket:3, Ракета 7-го уровня
+ExtraPlanets:itemTier7Rocket:4, Ракета 7-го уровня
+ExtraPlanets:schematicTier7, Схема для верстака NASA
+ExtraPlanets:noseConeTier7:0, Носовой обтекатель 7-го уровня
+ExtraPlanets:tier7Items:0, Ракетные двигатели 7-го уровня
+ExtraPlanets:tier7Items:1, Ускоритель 7-го уровня
+ExtraPlanets:tier7Items:2, Ракетные стабилизаторы 7-го уровня
+ExtraPlanets:tier7Items:3, Сверхпрочное покрытие
+ExtraPlanets:tier7Items:4, Сжатый кристалл
+ExtraPlanets:tier7Items:5, Кристальный слиток
+ExtraPlanets:tier7Items:6, Сжатый усиленный кристалл
+ExtraPlanets:tier7Items:7, Белый драгоценный камень
+ExtraPlanets:T7key:0, Ключ от подземелья 7-го уровня
+ExtraPlanets:itemTier8Rocket:0, Ракета 8-го уровня
+ExtraPlanets:itemTier8Rocket:1, Ракета 8-го уровня
+ExtraPlanets:itemTier8Rocket:2, Ракета 8-го уровня
+ExtraPlanets:itemTier8Rocket:3, Ракета 8-го уровня
+ExtraPlanets:itemTier8Rocket:4, Ракета 8-го уровня
+ExtraPlanets:schematicTier8, Схема для верстака NASA
+ExtraPlanets:noseConeTier8:0, Носовой обтекатель 8-го уровня
+ExtraPlanets:tier8Items:0, Ракетные двигатели 8-го уровня
+ExtraPlanets:tier8Items:1, Ускоритель 8-го уровня
+ExtraPlanets:tier8Items:2, Ракетные стабилизаторы 8-го уровня
+ExtraPlanets:tier8Items:3, Сверхпрочное покрытие
+ExtraPlanets:tier8Items:4, Сжатый цинк
+ExtraPlanets:tier8Items:5, Цинковый слиток
+ExtraPlanets:tier8Items:6, Синий драгоценный камень
+ExtraPlanets:T8key:0, Ключ от подземелья 8-го уровня
+ExtraPlanets:zincBattery, Цинковый аккумулятор
+ExtraPlanets:itemTier9Rocket:0, Ракета 9-го уровня
+ExtraPlanets:itemTier9Rocket:1, Ракета 9-го уровня
+ExtraPlanets:itemTier9Rocket:2, Ракета 9-го уровня
+ExtraPlanets:itemTier9Rocket:3, Ракета 9-го уровня
+ExtraPlanets:itemTier9Rocket:4, Ракета 9-го уровня
+ExtraPlanets:schematicTier9, Схема для верстака NASA
+ExtraPlanets:noseConeTier9:0, Носовой обтекатель 9-го уровня
+ExtraPlanets:tier9Items:0, Ракетные двигатели 9-го уровня
+ExtraPlanets:tier9Items:1, Ускоритель 9-го уровня
+ExtraPlanets:tier9Items:2, Ракетные стабилизаторы 9-го уровня
+ExtraPlanets:tier9Items:3, Сверхпрочное покрытие
+ExtraPlanets:tier9Items:4, Сжатый вольфрам
+ExtraPlanets:tier9Items:5, Вольфрамовый слиток
+ExtraPlanets:T9key:0, Ключ от подземелья 9-го уровня
+ExtraPlanets:itemTier10Rocket:0, Ракета 10-го уровня
+ExtraPlanets:itemTier10Rocket:1, Ракета 10-го уровня
+ExtraPlanets:itemTier10Rocket:2, Ракета 10-го уровня
+ExtraPlanets:itemTier10Rocket:3, Ракета 10-го уровня
+ExtraPlanets:itemTier10Rocket:4, Ракета 10-го уровня
+ExtraPlanets:schematicTier10, Схема для верстака NASA
+ExtraPlanets:noseConeTier10:0, Носовой обтекатель 10-го уровня
+ExtraPlanets:T10key:0, Ключ от подземелья 10-го уровня
+ExtraPlanets:tier10Items:0, Ракетные двигатели 10-го уровня
+ExtraPlanets:tier10Items:1, Ускоритель 10-го уровня
+ExtraPlanets:tier10Items:2, Ракетные стабилизаторы 10-го уровня
+ExtraPlanets:tier10Items:3, Сверхпрочное покрытие
+ExtraPlanets:tier10Items:4, Сжатое тёмное железо
+ExtraPlanets:tier10Items:5, Слиток тёмного железа
+ExtraPlanets:tier11Items:0, Синий алмаз
+ExtraPlanets:tier11Items:1, Красный алмаз
+ExtraPlanets:tier11Items:2, Фиолетовый алмаз
+ExtraPlanets:tier11Items:3, Жёлтый алмаз
+ExtraPlanets:tier11Items:4, Зелёный алмаз
+ExtraPlanets:tier11Items:5, Синяя палка
+ExtraPlanets:tier11Items:6, Красная палка
+ExtraPlanets:tier11Items:7, Фиолетовая палка
+ExtraPlanets:tier11Items:8, Желтая палка
+ExtraPlanets:tier11Items:9, Зеленая палка
+ExtraPlanets:tier11Items:10, Коричневая палка
+ExtraPlanets:tier11Items:11, Платиновый слиток
+ExtraPlanets:tier11Items:12, Сжатая платина
+ExtraPlanets:cannedFood:0, Консервированная еда
+ExtraPlanets:cannedFood:1, Консервированная еда
+ExtraPlanets:cannedFood:2, Консервированная еда
+ExtraPlanets:cannedFood:3, Консервированная еда
+ExtraPlanets:cannedFood:4, Консервированная еда
+ExtraPlanets:diamondApple:0, Алмазное яблоко
+ExtraPlanets:diamondApple:1, Алмазное яблоко
+ExtraPlanets:ironApple:0, Железное яблоко
+ExtraPlanets:ironApple:1, Железное яблоко
+ExtraPlanets:item.thermalCloth:0, Термическое покрытие 2-го уровня
+ExtraPlanets:item.thermalCloth:1, Теплоустойчивая ткань 3-го уровня
+ExtraPlanets:item.thermalCloth:2, Теплоустойчивая ткань 4-го уровня
+ExtraPlanets:item.tier2ThermalPadding:0, Термозащитный шлем 2-го уровня
+ExtraPlanets:item.tier2ThermalPadding:1, Термозащитный нагрудник 2-го уровня
+ExtraPlanets:item.tier2ThermalPadding:2, Термозащитные поножи 2-го уровня
+ExtraPlanets:item.tier2ThermalPadding:3, Термозащитные ботинки 2-го уровня
+ExtraPlanets:item.tier3ThermalPadding:0, Теплоустойчивый шлем 3-го уровня
+ExtraPlanets:item.tier3ThermalPadding:1, Теплоустойчивый нагрудник 3-го уровня
+ExtraPlanets:item.tier3ThermalPadding:2, Теплоустойчивые поножи 3-го уровня
+ExtraPlanets:item.tier3ThermalPadding:3, Теплоустойчивые ботинки 3-го уровня
+ExtraPlanets:item.tier4ThermalPadding:0, Теплоустойчивый шлем  4-го уровня
+ExtraPlanets:item.tier4ThermalPadding:1, Теплоустойчивый нагрудник 4-го уровня
+ExtraPlanets:item.tier4ThermalPadding:2, Теплоустойчивые поножи 4-го уровня
+ExtraPlanets:item.tier4ThermalPadding:3, Теплоустойчивые ботинки 4-го уровня
+ExtraPlanets:item.advancedBattery, Улучшенный аккумулятор
+ExtraPlanets:item.ultimateBattery, Максимальный аккумулятор
+ExtraPlanets:item.marsRover, Марсианский ровер
+ExtraPlanets:item.venusRover, Венерианский ровер
+ExtraPlanets:item.electricParts:0, Аккумулятор 1-го уровня
+ExtraPlanets:item.electricParts:1, Аккумулятор 2-го уровня
+ExtraPlanets:item.electricParts:2, Колесо 1-го уровня
+ExtraPlanets:item.electricParts:3, Колесо 2-го уровня
+ExtraPlanets:item.schematicMarsRover, Схема для верстака NASA
+ExtraPlanets:item.schematicVenusRover, Схема для верстака NASA
+ExtraPlanets:item.wafer:0, Алмазная полупроводниковая пластина
+ExtraPlanets:item.wafer:1, Углеродная полупроводниковая пластина
+ExtraPlanets:item.wafer:2, Титановая полупроводниковая пластина
+ExtraPlanets:item.wafer:3, Полупроводниковая пластина из красного драгоценного камня
+ExtraPlanets:item.wafer:4, Полупроводниковая пластина из синего драгоценного камня
+ExtraPlanets:item.wafer:5, Полупроводниковая пластина из белого драгоценного камня
+ExtraPlanets:item.ingotLead:0, Свинцовый слиток
+ExtraPlanets:item.tier1_kit:0, Полный комплект 1-го уровня
+ExtraPlanets:item.tier1_kit:1, Комплект базовых установок 1-го уровня
+ExtraPlanets:item.tier1_kit:2, Полный комплект 1-го уровня без кислорода
+ExtraPlanets:item.tier1_kit:3, Полный комплект 1-го уровня без тепловой защиты
+ExtraPlanets:item.tier1_kit:4, Кислородный комплект 1-го уровня
+ExtraPlanets:item.tier1_kit:5, Защитный комплект 1-го уровня
+ExtraPlanets:item.tier2_kit:0, Полный комплект 2-го уровня
+ExtraPlanets:item.tier2_kit:1, Комплект базовых установок 2-го уровня
+ExtraPlanets:item.tier2_kit:2, Полный комплект 2-го уровня без кислорода
+ExtraPlanets:item.tier2_kit:3, Полный комплект 2-го уровня без тепловой защиты
+ExtraPlanets:item.tier2_kit:4, Кислородный комплект 2-го уровня
+ExtraPlanets:item.tier2_kit:5, Защитный комплект 2-го уровня
+ExtraPlanets:item.tier3_kit:0, Полный комплект 3-го уровня
+ExtraPlanets:item.tier3_kit:1, Комплект базовых установок 3-го уровня
+ExtraPlanets:item.tier3_kit:2, Полный комплект 3-го уровня без кислорода
+ExtraPlanets:item.tier3_kit:3, Полный комплект 3-го уровня без тепловой защиты
+ExtraPlanets:item.tier3_kit:4, Кислородный комплект 3-го уровня
+ExtraPlanets:item.tier3_kit:5, Защитный комплект 3-го уровня
+ExtraPlanets:item.tier4_kit:0, Полный комплект 4-го уровня
+ExtraPlanets:item.tier4_kit:1, Комплект базовых установок 4-го уровня
+ExtraPlanets:item.tier4_kit:2, Полный комплект 4-го уровня без кислорода
+ExtraPlanets:item.tier4_kit:3, Полный комплект 4-го уровня без тепловой защиты
+ExtraPlanets:item.tier4_kit:4, Кислородный комплект 4-го уровня
+ExtraPlanets:item.tier4_kit:5, Защитный комплект 4-го уровня
+ExtraPlanets:bucket_nitrogen, Ведро азота
+ExtraPlanets:bucket_frozen_water, Ведро замерзшей воды
+ExtraPlanets:bucket_glowstone, Ведро светящейся пыли
+ExtraPlanets:bucket_magma, Ведро магмы
+ExtraPlanets:bucket_salt, Жидкая кристаллическая вода
+ExtraPlanets:bucket_nitrogen_ice, Ведро замороженного азота
+ExtraPlanets:bucket_methane, Ведро жидкого метана
+ExtraPlanets:bucket_infected_water, Ведро зараженной воды
+ExtraPlanets:bucket_liquid_hydrocarbon, Ведро жидкого водорода
+ExtraPlanets:bucket_liquid_chocolate, Ведро жидкого шоколада
+ExtraPlanets:bucket_liquid_caramel, Ведро жидкой карамели
 ForgottenRelics:ItemFalseJustice, Ложное Правосудие
 ForgottenRelics:ItemDeificAmulet, Божественный амулет
 ForgottenRelics:ItemParadox, Парадокс
@@ -12392,25 +13998,25 @@ ThermalDynamics:cover:0, Крышка (Плита из резного истин
 ThermalDynamics:cover:0, Крышка (Плита из резного истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
-ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
+ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
+ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
+ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
+ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Резной блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Колонна из закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
-ThermalDynamics:cover:0, Крышка (Ступеньки закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
-ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
-ThermalDynamics:cover:0, Крышка (Пропитанный Ordo огонь)
-ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
-ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
 ThermalDynamics:cover:0, Крышка (Пропитанный Aer огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Ordo огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
 ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
+ThermalDynamics:cover:0, Крышка (Ступеньки закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Админиум-портал)
-ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
+ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
+ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
+ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
 ThermalDynamics:cover:0, Крышка (Пропитанный Aqua огонь)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
 ThermalDynamics:cover:0, Крышка (Таумический торт)
 ThermalDynamics:cover:0, Крышка (Мрачная роза)
 ThermalDynamics:cover:0, Крышка (Блок звезды Нижнего мира)
@@ -12545,6 +14151,168 @@ ThermalDynamics:cover:0, Крышка (Насыщенный кристалл)
 ThermalDynamics:cover:0, Крышка (Первичное ископаемое)
 ThermalDynamics:cover:0, Крышка (tile.null.name)
 ThermalDynamics:cover:0, Крышка (Пространственные Врата)
+ThermalDynamics:cover:0, Крышка (Источник воды)
+ThermalDynamics:cover:0, Крышка (Источник нефти)
+ThermalDynamics:cover:0, Крышка (tile.buildToolBlock.name)
+ThermalDynamics:cover:0, Крышка (Нефть)
+ThermalDynamics:cover:0, Крышка (Топливо)
+ThermalDynamics:cover:0, Крышка (tile.blockRedPlasma.name)
+ThermalDynamics:cover:0, Крышка (Факел)
+ThermalDynamics:cover:0, Крышка (Факел)
+ThermalDynamics:cover:0, Крышка (tile.breatheableAir.name)
+ThermalDynamics:cover:0, Крышка (tile.brightAir.name)
+ThermalDynamics:cover:0, Крышка (tile.brightBreathableAir.name)
+ThermalDynamics:cover:0, Крышка (Декоративный оловянный блок)
+ThermalDynamics:cover:0, Крышка (Декоративный оловянный блок)
+ThermalDynamics:cover:0, Крышка (Медная руда)
+ThermalDynamics:cover:0, Крышка (Оловянная руда)
+ThermalDynamics:cover:0, Крышка (Алюминиевая руда)
+ThermalDynamics:cover:0, Крышка (Кремниевая руда)
+ThermalDynamics:cover:0, Крышка (Медный блок)
+ThermalDynamics:cover:0, Крышка (Оловянный блок)
+ThermalDynamics:cover:0, Крышка (Алюминиевый блок)
+ThermalDynamics:cover:0, Крышка (Блок метеоритного железа)
+ThermalDynamics:cover:0, Крышка (Уплотнитель воздушного шлюза)
+ThermalDynamics:cover:0, Крышка (Факел из светящегося камня)
+ThermalDynamics:cover:0, Крышка (Медная руда)
+ThermalDynamics:cover:0, Крышка (Оловянная руда)
+ThermalDynamics:cover:0, Крышка (Сырная руда)
+ThermalDynamics:cover:0, Крышка (Лунный грунт)
+ThermalDynamics:cover:0, Крышка (Лунный камень)
+ThermalDynamics:cover:0, Крышка (Лунный дёрн)
+ThermalDynamics:cover:0, Крышка (Кирпич лунной сокровищницы)
+ThermalDynamics:cover:0, Крышка (Блок сыра)
+ThermalDynamics:cover:0, Крышка (Оловянные ступеньки)
+ThermalDynamics:cover:0, Крышка (Оловянные ступеньки)
+ThermalDynamics:cover:0, Крышка (Ступеньки из лунного камня)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича лунной сокровищницы)
+ThermalDynamics:cover:0, Крышка (Оловянная стена)
+ThermalDynamics:cover:0, Крышка (Оловянная стена)
+ThermalDynamics:cover:0, Крышка (Стена из лунного камня)
+ThermalDynamics:cover:0, Крышка (Стена из кирпича лунной сокровищницы)
+ThermalDynamics:cover:0, Крышка (Стена из марсианского булыжника)
+ThermalDynamics:cover:0, Крышка (Стена из кирпича марсианской сокровищницы)
+ThermalDynamics:cover:0, Крышка (Оловянная плита)
+ThermalDynamics:cover:0, Крышка (Оловянная плита)
+ThermalDynamics:cover:0, Крышка (Плита из лунного камня)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича лунной сокровищницы)
+ThermalDynamics:cover:0, Крышка (Плита из марсианского булыжника)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича марсианской сокровищницы)
+ThermalDynamics:cover:0, Крышка (tile.slabGCDouble.tinSlab.name)
+ThermalDynamics:cover:0, Крышка (tile.slabGCDouble.tinSlab.name)
+ThermalDynamics:cover:0, Крышка (tile.slabGCDouble.moonSlab.name)
+ThermalDynamics:cover:0, Крышка (tile.slabGCDouble.moonBricksSlab.name)
+ThermalDynamics:cover:0, Крышка (tile.slabGCDouble.marsSlab.name)
+ThermalDynamics:cover:0, Крышка (tile.slabGCDouble.marsBricksSlab.name)
+ThermalDynamics:cover:0, Крышка (Астероидный камень)
+ThermalDynamics:cover:0, Крышка (Астероидный камень)
+ThermalDynamics:cover:0, Крышка (Астероидный камень)
+ThermalDynamics:cover:0, Крышка (Алюминиевая руда)
+ThermalDynamics:cover:0, Крышка (Ильменитовая руда)
+ThermalDynamics:cover:0, Крышка (Железная руда)
+ThermalDynamics:cover:0, Крышка (Плотный лёд)
+ThermalDynamics:cover:0, Крышка (Бактериальный осадок)
+ThermalDynamics:cover:0, Крышка (Медная руда)
+ThermalDynamics:cover:0, Крышка (Оловянная руда)
+ThermalDynamics:cover:0, Крышка (Руда деш)
+ThermalDynamics:cover:0, Крышка (Железная руда)
+ThermalDynamics:cover:0, Крышка (Марсианский булыжник)
+ThermalDynamics:cover:0, Крышка (Марсианский поверхностный камень)
+ThermalDynamics:cover:0, Крышка (Марсианский подповерхностный камень)
+ThermalDynamics:cover:0, Крышка (Кирпич марсианской сокровищницы)
+ThermalDynamics:cover:0, Крышка (Блок деш)
+ThermalDynamics:cover:0, Крышка (Марсианский камень)
+ThermalDynamics:cover:0, Крышка (Пещерные лианы)
+ThermalDynamics:cover:0, Крышка (Яйцо крипера)
+ThermalDynamics:cover:0, Крышка (Ступеньки из марсианского булыжника)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича марсианской сокровищницы)
+ThermalDynamics:cover:0, Крышка (Золотая руда)
+ThermalDynamics:cover:0, Крышка (Алюминиевая руда)
+ThermalDynamics:cover:0, Крышка (Медная руда)
+ThermalDynamics:cover:0, Крышка (Оловянная руда)
+ThermalDynamics:cover:0, Крышка (Хионитовая руда)
+ThermalDynamics:cover:0, Крышка (Сподуменовая руда)
+ThermalDynamics:cover:0, Крышка (Железная руда)
+ThermalDynamics:cover:0, Крышка (Лазуритовая руда)
+ThermalDynamics:cover:0, Крышка (Кремниевая руда)
+ThermalDynamics:cover:0, Крышка (Ильменитовая руда)
+ThermalDynamics:cover:0, Крышка (Урановая руда)
+ThermalDynamics:cover:0, Крышка (Алмазная руда)
+ThermalDynamics:cover:0, Крышка (Рубиновая руда)
+ThermalDynamics:cover:0, Крышка (Урановая руда)
+ThermalDynamics:cover:0, Крышка (Свинцовая руда)
+ThermalDynamics:cover:0, Крышка (Изумрудная руда)
+ThermalDynamics:cover:0, Крышка (Уголь)
+ThermalDynamics:cover:0, Крышка (Кремниевая руда)
+ThermalDynamics:cover:0, Крышка (Алюминиевая руда)
+ThermalDynamics:cover:0, Крышка (Медная руда)
+ThermalDynamics:cover:0, Крышка (Оловянная руда)
+ThermalDynamics:cover:0, Крышка (Железная руда)
+ThermalDynamics:cover:0, Крышка (Урболит содержащий сталь)
+ThermalDynamics:cover:0, Крышка (Урболит содержащий окаменелости)
+ThermalDynamics:cover:0, Крышка (Рубиновая руда)
+ThermalDynamics:cover:0, Крышка (Изумрудная руда)
+ThermalDynamics:cover:0, Крышка (Алмазная руда)
+ThermalDynamics:cover:0, Крышка (Сподуменовая руда)
+ThermalDynamics:cover:0, Крышка (Золотая руда)
+ThermalDynamics:cover:0, Крышка (Лазуритовая руда)
+ThermalDynamics:cover:0, Крышка (Свинцовая руда)
+ThermalDynamics:cover:0, Крышка (Урановая руда)
+ThermalDynamics:cover:0, Крышка (Медная руда)
+ThermalDynamics:cover:0, Крышка (Базальтовый булыжник)
+ThermalDynamics:cover:0, Крышка (Базальт)
+ThermalDynamics:cover:0, Крышка (Красный булыжник)
+ThermalDynamics:cover:0, Крышка (Красный песчаник)
+ThermalDynamics:cover:0, Крышка (Оливиновый базальтовый булыжник)
+ThermalDynamics:cover:0, Крышка (Оливиновый базальт)
+ThermalDynamics:cover:0, Крышка (Алюминиевый ящик)
+ThermalDynamics:cover:0, Крышка (Базальтовая стена из кирпича)
+ThermalDynamics:cover:0, Крышка (Гладкий базальт)
+ThermalDynamics:cover:0, Крышка (Стена из обсидианового кирпича)
+ThermalDynamics:cover:0, Крышка (Урболит)
+ThermalDynamics:cover:0, Крышка (Блок урана)
+ThermalDynamics:cover:0, Крышка (Основной блок космического корабля)
+ThermalDynamics:cover:0, Крышка (Верстак)
+ThermalDynamics:cover:0, Крышка (Тёмная материя)
+ThermalDynamics:cover:0, Крышка (Светящийся коралл)
+ThermalDynamics:cover:0, Крышка (Земля)
+ThermalDynamics:cover:0, Крышка (Укоренившеяся пыль)
+ThermalDynamics:cover:0, Крышка (Красная трава)
+ThermalDynamics:cover:0, Крышка (Глубинные водоросли)
+ThermalDynamics:cover:0, Крышка (tile.vaccumRedGrass.name)
+ThermalDynamics:cover:0, Крышка (Обсидиановый песок)
+ThermalDynamics:cover:0, Крышка (Обсидиановый гравий)
+ThermalDynamics:cover:0, Крышка (Базальтовый реголит)
+ThermalDynamics:cover:0, Крышка (Высокая красная трава)
+ThermalDynamics:cover:0, Крышка (Вирилиговая древесина)
+ThermalDynamics:cover:0, Крышка (Лумиподовая кора)
+ThermalDynamics:cover:0, Крышка (Лумиподовая пульпа)
+ThermalDynamics:cover:0, Крышка (Вирилиговые доски)
+ThermalDynamics:cover:0, Крышка (Лумиподовые доски)
+ThermalDynamics:cover:0, Крышка (Вирилиговая листва)
+ThermalDynamics:cover:0, Крышка (Вирилиговый саженец)
+ThermalDynamics:cover:0, Крышка (Лумиподовый саженец)
+ThermalDynamics:cover:0, Крышка (Ступеньки из обсидианового кирпича)
+ThermalDynamics:cover:0, Крышка (Ступеньки из гладкого базальта)
+ThermalDynamics:cover:0, Крышка (Базальтовые ступеньки из кирпича)
+ThermalDynamics:cover:0, Крышка (Базальтовые ступеньки)
+ThermalDynamics:cover:0, Крышка (Алюминиевые ступеньки)
+ThermalDynamics:cover:0, Крышка (Вирилиговые ступеньки)
+ThermalDynamics:cover:0, Крышка (Лумиподовые ступеньки)
+ThermalDynamics:cover:0, Крышка (Базальтовая плита)
+ThermalDynamics:cover:0, Крышка (Базальтовая плита из кирпича)
+ThermalDynamics:cover:0, Крышка (Плита из гладкого базальта)
+ThermalDynamics:cover:0, Крышка (Плита из обсидианового кирпича)
+ThermalDynamics:cover:0, Крышка (Алюминиевая плита)
+ThermalDynamics:cover:0, Крышка (Базальтовая плита)
+ThermalDynamics:cover:0, Крышка (Базальтовая плита из кирпича)
+ThermalDynamics:cover:0, Крышка (Плита из гладкого базальта)
+ThermalDynamics:cover:0, Крышка (Плита из обсидианового кирпича)
+ThermalDynamics:cover:0, Крышка (Алюминиевая плита)
+ThermalDynamics:cover:0, Крышка (Лумиподовая плита)
+ThermalDynamics:cover:0, Крышка (Вирилиговая плита)
+ThermalDynamics:cover:0, Крышка (Лумиподовая плита)
+ThermalDynamics:cover:0, Крышка (Вирилиговая плита)
 ThermalDynamics:cover:0, Крышка (Mining Portal)
 ThermalDynamics:cover:0, Крышка (tile.null.name)
 ThermalDynamics:cover:0, Крышка (Sticky Ore)
@@ -12744,13 +14512,7 @@ ThermalDynamics:cover:0, Крышка (Flowing Spirit)
 ThermalDynamics:cover:0, Крышка (Flowing Spirit)
 ThermalDynamics:cover:0, Крышка (Disease)
 ThermalDynamics:cover:0, Крышка (tile.witchery:brew.name)
-ThermalDynamics:cover:0, Крышка (Источник воды)
-ThermalDynamics:cover:0, Крышка (Источник нефти)
-ThermalDynamics:cover:0, Крышка (tile.buildToolBlock.name)
 ThermalDynamics:cover:0, Крышка (Каркас)
-ThermalDynamics:cover:0, Крышка (Нефть)
-ThermalDynamics:cover:0, Крышка (Топливо)
-ThermalDynamics:cover:0, Крышка (tile.blockRedPlasma.name)
 ThermalDynamics:cover:0, Крышка (Буровая труба)
 ThermalDynamics:cover:0, Крышка (Медная руда)
 ThermalDynamics:cover:0, Крышка (Оловянная руда)
@@ -13299,6 +15061,367 @@ ThermalDynamics:cover:0, Крышка (Блок из драгоценных ка
 ThermalDynamics:cover:0, Крышка (Факел из драгоценного камня)
 ThermalDynamics:cover:0, Крышка (Блок кровавого угля)
 ThermalDynamics:cover:0, Крышка (Reinforced Undead Plank)
+ThermalDynamics:cover:0, Крышка (Поверхность Меркурия)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Меркурия)
+ThermalDynamics:cover:0, Крышка (Камень Меркурия)
+ThermalDynamics:cover:0, Крышка (Железная руда Меркурия)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Меркурия)
+ThermalDynamics:cover:0, Крышка (Медная руда Меркурия)
+ThermalDynamics:cover:0, Крышка (Ртутная руда Меркурия)
+ThermalDynamics:cover:0, Крышка (Каменные кирпичи Меркурия)
+ThermalDynamics:cover:0, Крышка (Ртутный блок)
+ThermalDynamics:cover:0, Крышка (Гравий Меркурия)
+ThermalDynamics:cover:0, Крышка (Поверхность Венеры)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Венеры)
+ThermalDynamics:cover:0, Крышка (Камень Венеры)
+ThermalDynamics:cover:0, Крышка (Железная руда Венеры)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Венеры)
+ThermalDynamics:cover:0, Крышка (Медная руда Венеры)
+ThermalDynamics:cover:0, Крышка (Углеродная руда)
+ThermalDynamics:cover:0, Крышка (Углеродный блок)
+ThermalDynamics:cover:0, Крышка (Каменные кирпичи Венеры)
+ThermalDynamics:cover:0, Крышка (Титановый блок)
+ThermalDynamics:cover:0, Крышка (Гравий Венеры)
+ThermalDynamics:cover:0, Крышка (tile.null.name)
+ThermalDynamics:cover:0, Крышка (Кирпич сокровищницы Венеры)
+ThermalDynamics:cover:0, Крышка (Блок пепла)
+ThermalDynamics:cover:0, Крышка (Вулканические породы)
+ThermalDynamics:cover:0, Крышка (Поверхность Цереры)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Цереры)
+ThermalDynamics:cover:0, Крышка (Камень Цереры)
+ThermalDynamics:cover:0, Крышка (Железная руда Цереры)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Цереры)
+ThermalDynamics:cover:0, Крышка (Медная руда Цереры)
+ThermalDynamics:cover:0, Крышка (Урановая руда Цереры)
+ThermalDynamics:cover:0, Крышка (Кирпич сокровищницы Цереры)
+ThermalDynamics:cover:0, Крышка (Урановый блок)
+ThermalDynamics:cover:0, Крышка (Гравий Цереры)
+ThermalDynamics:cover:0, Крышка (Поверхность Юпитера)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Юпитера)
+ThermalDynamics:cover:0, Крышка (Камень Юпитера)
+ThermalDynamics:cover:0, Крышка (Железная руда Юпитера)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Юпитера)
+ThermalDynamics:cover:0, Крышка (Медная руда Юпитера)
+ThermalDynamics:cover:0, Крышка (Палладиевая руда Юпитера)
+ThermalDynamics:cover:0, Крышка (Никелевая руда Юпитера)
+ThermalDynamics:cover:0, Крышка (Палладиевый блок)
+ThermalDynamics:cover:0, Крышка (Каменные кирпичи Юпитера)
+ThermalDynamics:cover:0, Крышка (Руда красного драгоценного камня Юпитера)
+ThermalDynamics:cover:0, Крышка (Блок красного драгоценного камня)
+ThermalDynamics:cover:0, Крышка (Никелевый блок)
+ThermalDynamics:cover:0, Крышка (Гравий Юпитера)
+ThermalDynamics:cover:0, Крышка (Оранжевый песок)
+ThermalDynamics:cover:0, Крышка (Оранжевый песчаник)
+ThermalDynamics:cover:0, Крышка (tile.null.name)
+ThermalDynamics:cover:0, Крышка (Кирпич сокровищницы Юпитера)
+ThermalDynamics:cover:0, Крышка (Поверхность Сатурна)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Сатурна)
+ThermalDynamics:cover:0, Крышка (Камень Сатурна)
+ThermalDynamics:cover:0, Крышка (Железная руда Сатурна)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Сатурна)
+ThermalDynamics:cover:0, Крышка (Медная руда Сатурна)
+ThermalDynamics:cover:0, Крышка (Магниевая руда Сатурна)
+ThermalDynamics:cover:0, Крышка (Магниевый блок)
+ThermalDynamics:cover:0, Крышка (Каменные кирпичи Сатурна)
+ThermalDynamics:cover:0, Крышка (Сломанный зараженный камень Сатурна)
+ThermalDynamics:cover:0, Крышка (Зараженный камень Сатурна)
+ThermalDynamics:cover:0, Крышка (Слизневая руда Сатурна)
+ThermalDynamics:cover:0, Крышка (Гравий Сатурна)
+ThermalDynamics:cover:0, Крышка (tile.null.name)
+ThermalDynamics:cover:0, Крышка (Кирпич сокровищницы Сатурна)
+ThermalDynamics:cover:0, Крышка (Поверхность Урана)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Урана)
+ThermalDynamics:cover:0, Крышка (Камень Урана)
+ThermalDynamics:cover:0, Крышка (Кристальная руда Урана)
+ThermalDynamics:cover:0, Крышка (Кристальный блок)
+ThermalDynamics:cover:0, Крышка (Каменные кирпичи Урана)
+ThermalDynamics:cover:0, Крышка (Руда белого драгоценного камня Урана)
+ThermalDynamics:cover:0, Крышка (Блок белого драгоценного камня Урана)
+ThermalDynamics:cover:0, Крышка (tile.null.name)
+ThermalDynamics:cover:0, Крышка (Кирпич сокровищницы Урана)
+ThermalDynamics:cover:0, Крышка (Плотный лёд)
+ThermalDynamics:cover:0, Крышка (Поверхность Нептуна)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Нептуна)
+ThermalDynamics:cover:0, Крышка (Камень Нептуна)
+ThermalDynamics:cover:0, Крышка (Железная руда Нептуна)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Нептуна)
+ThermalDynamics:cover:0, Крышка (Медная руда Нептуна)
+ThermalDynamics:cover:0, Крышка (Цинкова руда Нептуна)
+ThermalDynamics:cover:0, Крышка (Цинковый блок)
+ThermalDynamics:cover:0, Крышка (Каменные кирпичи Нептуна)
+ThermalDynamics:cover:0, Крышка (Руда синего драгоценного камня Нептуна)
+ThermalDynamics:cover:0, Крышка (Блок синего драгоценного камня Нептуна)
+ThermalDynamics:cover:0, Крышка (tile.null.name)
+ThermalDynamics:cover:0, Крышка (Кирпич сокровищницы Нептуна)
+ThermalDynamics:cover:0, Крышка (Замороженный азот)
+ThermalDynamics:cover:0, Крышка (Поверхность Плутона)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Плутона)
+ThermalDynamics:cover:0, Крышка (Камень Плутона)
+ThermalDynamics:cover:0, Крышка (Железная руда Плутона)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Плутона)
+ThermalDynamics:cover:0, Крышка (Медная руда Плутона)
+ThermalDynamics:cover:0, Крышка (Вольфрамовая руда Плутона)
+ThermalDynamics:cover:0, Крышка (Вольфрамовый блок)
+ThermalDynamics:cover:0, Крышка (Каменные кирпичи Плутона)
+ThermalDynamics:cover:0, Крышка (tile.null.name)
+ThermalDynamics:cover:0, Крышка (Кирпич сокровищницы Плутона)
+ThermalDynamics:cover:0, Крышка (Гравий Плутона)
+ThermalDynamics:cover:0, Крышка (Поверхность Эриды)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Эриды)
+ThermalDynamics:cover:0, Крышка (Камень Эриды)
+ThermalDynamics:cover:0, Крышка (Железная руда Эриды)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Эриды)
+ThermalDynamics:cover:0, Крышка (Медная руда Эриды)
+ThermalDynamics:cover:0, Крышка (Каменные кирпичи Эриды)
+ThermalDynamics:cover:0, Крышка (Руда тёмного железа Эриды)
+ThermalDynamics:cover:0, Крышка (Блок тёмного железа Эриды)
+ThermalDynamics:cover:0, Крышка (tile.null.name)
+ThermalDynamics:cover:0, Крышка (Кирпич сокровищницы Эриды)
+ThermalDynamics:cover:0, Крышка (Гравий Эриды)
+ThermalDynamics:cover:0, Крышка (Земля Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Камень Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Железная руда Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Медная руда Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Руда плотного угля Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Руда синего алмаза Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Руда красного алмаза Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Руда фиолетового алмаза Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Руда жёлтого алмаза Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Руда зелёного алмаза Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Каменные кирпичи Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Булыжник Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Платиновая руда Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Платиновый блок)
+ThermalDynamics:cover:0, Крышка (Блок травы Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Блок синей травы Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Блок фиолетовой травы Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Блок красной травы Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Блок жёлтой травы Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Зараженное стекло Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Средняя синяя трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Высокая синяя трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Низкая красная трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Средняя красная трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Высокая красная трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Низкая фиолетовая трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Средняя фиолетовая трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Высокая фиолетовая трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Низкая жёлтая трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Средняя жёлтая трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Высокая жёлтая трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Низкая коричневая трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Средняя коричневая трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Высокая коричневая трава Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Красный песок)
+ThermalDynamics:cover:0, Крышка (Красный песчаник)
+ThermalDynamics:cover:0, Крышка (Поверхность Европы)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Европы)
+ThermalDynamics:cover:0, Крышка (Камень Европы)
+ThermalDynamics:cover:0, Крышка (Железная руда Европы)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Европы)
+ThermalDynamics:cover:0, Крышка (Медная руда Европы)
+ThermalDynamics:cover:0, Крышка (Гравий Европы)
+ThermalDynamics:cover:0, Крышка (Поверхность Ио)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Ио)
+ThermalDynamics:cover:0, Крышка (Камень Ио)
+ThermalDynamics:cover:0, Крышка (Железная руда Ио)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Ио)
+ThermalDynamics:cover:0, Крышка (Медная руда Ио)
+ThermalDynamics:cover:0, Крышка (Гравий Ио)
+ThermalDynamics:cover:0, Крышка (Поверхность Деймоса)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Деймоса)
+ThermalDynamics:cover:0, Крышка (Камень Деймоса)
+ThermalDynamics:cover:0, Крышка (Железная руда Деймоса)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Деймоса)
+ThermalDynamics:cover:0, Крышка (Медная руда Деймоса)
+ThermalDynamics:cover:0, Крышка (Свинцовая руда Деймоса)
+ThermalDynamics:cover:0, Крышка (Гравий Деймоса)
+ThermalDynamics:cover:0, Крышка (Поверхность Фобоса)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Фобоса)
+ThermalDynamics:cover:0, Крышка (Камень Фобоса)
+ThermalDynamics:cover:0, Крышка (Железная руда Фобоса)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Фобоса)
+ThermalDynamics:cover:0, Крышка (Медная руда Фобоса)
+ThermalDynamics:cover:0, Крышка (Свинцовая руда Фобоса)
+ThermalDynamics:cover:0, Крышка (Гравий Фобоса)
+ThermalDynamics:cover:0, Крышка (Поверхность Тритона)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Тритона)
+ThermalDynamics:cover:0, Крышка (Камень Тритона)
+ThermalDynamics:cover:0, Крышка (Железная руда Тритона)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Тритона)
+ThermalDynamics:cover:0, Крышка (Медная руда Тритона)
+ThermalDynamics:cover:0, Крышка (Гравий Тритона)
+ThermalDynamics:cover:0, Крышка (Поверхность Каллисто)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Каллисто)
+ThermalDynamics:cover:0, Крышка (Камень Каллисто)
+ThermalDynamics:cover:0, Крышка (Железная руда Каллисто)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Каллисто)
+ThermalDynamics:cover:0, Крышка (Медная руда Каллисто)
+ThermalDynamics:cover:0, Крышка (Гравий Каллисто)
+ThermalDynamics:cover:0, Крышка (Поверхность Ганимеда)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Ганимеда)
+ThermalDynamics:cover:0, Крышка (Камень Ганимеда)
+ThermalDynamics:cover:0, Крышка (Железная руда Ганимеда)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Ганимеда)
+ThermalDynamics:cover:0, Крышка (Медная руда Ганимеда)
+ThermalDynamics:cover:0, Крышка (Гравий Ганимеда)
+ThermalDynamics:cover:0, Крышка (Поверхность Реи)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Реи)
+ThermalDynamics:cover:0, Крышка (Камень Реи)
+ThermalDynamics:cover:0, Крышка (Железная руда Реи)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Реи)
+ThermalDynamics:cover:0, Крышка (Медная руда Реи)
+ThermalDynamics:cover:0, Крышка (Гравий Реи)
+ThermalDynamics:cover:0, Крышка (Поверхность Титана)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Титана)
+ThermalDynamics:cover:0, Крышка (Камень Титана)
+ThermalDynamics:cover:0, Крышка (Железная руда Титана)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Титана)
+ThermalDynamics:cover:0, Крышка (Медная руда Титана)
+ThermalDynamics:cover:0, Крышка (Метановая поверхность Титана)
+ThermalDynamics:cover:0, Крышка (Метановый подповерхностный грунт Титана)
+ThermalDynamics:cover:0, Крышка (Камни Титана)
+ThermalDynamics:cover:0, Крышка (Гравий Титана)
+ThermalDynamics:cover:0, Крышка (Поверхность Оберона)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Оберона)
+ThermalDynamics:cover:0, Крышка (Камень Оберона)
+ThermalDynamics:cover:0, Крышка (Железная руда Оберона)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Оберона)
+ThermalDynamics:cover:0, Крышка (Медная руда Оберона)
+ThermalDynamics:cover:0, Крышка (Гравий Оберона)
+ThermalDynamics:cover:0, Крышка (Поверхность Титании)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Титании)
+ThermalDynamics:cover:0, Крышка (Камень Титании)
+ThermalDynamics:cover:0, Крышка (Железная руда Титании)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Титании)
+ThermalDynamics:cover:0, Крышка (Медная руда Титании)
+ThermalDynamics:cover:0, Крышка (Гравий Титании)
+ThermalDynamics:cover:0, Крышка (Поверхность Япета)
+ThermalDynamics:cover:0, Крышка (Подповерхностный грунт Япета)
+ThermalDynamics:cover:0, Крышка (Камень Япета)
+ThermalDynamics:cover:0, Крышка (Железная руда Япета)
+ThermalDynamics:cover:0, Крышка (Оловянная руда Япета)
+ThermalDynamics:cover:0, Крышка (Медная руда Япета)
+ThermalDynamics:cover:0, Крышка (Лёд Япета)
+ThermalDynamics:cover:0, Крышка (Гравий Япета)
+ThermalDynamics:cover:0, Крышка (Блок ископаемых)
+ThermalDynamics:cover:0, Крышка (Ядерная бомба)
+ThermalDynamics:cover:0, Крышка (Огненная бомба)
+ThermalDynamics:cover:0, Крышка (Мрамор)
+ThermalDynamics:cover:0, Крышка (Мраморный блок)
+ThermalDynamics:cover:0, Крышка (Снежные кирпичи)
+ThermalDynamics:cover:0, Крышка (Ледянные кирпичи)
+ThermalDynamics:cover:0, Крышка (Огненные кирпичи)
+ThermalDynamics:cover:0, Крышка (Чёрно-белая кафельная плитка)
+ThermalDynamics:cover:0, Крышка (Мраморная кафельная плитка)
+ThermalDynamics:cover:0, Крышка (Сломанная мраморная кафельная плитка)
+ThermalDynamics:cover:0, Крышка (Металлическая сетка)
+ThermalDynamics:cover:0, Крышка (Кирпичи из замороженного азота)
+ThermalDynamics:cover:0, Крышка (Кирпичи из вулканических пород)
+ThermalDynamics:cover:0, Крышка (Углеродный кафельный пол)
+ThermalDynamics:cover:0, Крышка (Сломанный углеродный кафельный пол)
+ThermalDynamics:cover:0, Крышка (Магниевый кафельный пол)
+ThermalDynamics:cover:0, Крышка (Сломанный магниевый пол)
+ThermalDynamics:cover:0, Крышка (Пепельные кирпичи)
+ThermalDynamics:cover:0, Крышка (Белый блок)
+ThermalDynamics:cover:0, Крышка (Красный блок)
+ThermalDynamics:cover:0, Крышка (Синий блок)
+ThermalDynamics:cover:0, Крышка (Светло-синий блок)
+ThermalDynamics:cover:0, Крышка (Жёлтый блок)
+ThermalDynamics:cover:0, Крышка (Зелёный блок)
+ThermalDynamics:cover:0, Крышка (Блок слизи)
+ThermalDynamics:cover:0, Крышка (Алмазная крошка)
+ThermalDynamics:cover:0, Крышка (Золотая крошка)
+ThermalDynamics:cover:0, Крышка (Железная крошка)
+ThermalDynamics:cover:0, Крышка (Угольная крошка)
+ThermalDynamics:cover:0, Крышка (Изумрудная крошка)
+ThermalDynamics:cover:0, Крышка (Синий дуб Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Красный дуб Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Фиолетовый дуб Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Жёлтый дуб Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Зелёный дуб Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Коричневый дуб Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Саженец синего дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Саженец красного дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Саженец фиолетового дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Саженец жёлтого дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Саженец зелёного дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Саженец коричневого дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Листва синего дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Листва красного дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Листва фиолетового дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Листва жёлтого дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Листва зелёного дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Листва коричневого дуба Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Синие доски Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Красные доски Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Фиолетовые доски Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Жёлтые доски Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Зелёные доски Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Коричневые доски Кеплер-22 b)
+ThermalDynamics:cover:0, Крышка (Плита из камня Меркурия)
+ThermalDynamics:cover:0, Крышка (Плита из камня Меркурия)
+ThermalDynamics:cover:0, Крышка (Ступеньки из камня Меркурия)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Меркурия)
+ThermalDynamics:cover:0, Крышка (Плита из камня Венеры)
+ThermalDynamics:cover:0, Крышка (Плита из камня Венеры)
+ThermalDynamics:cover:0, Крышка (Ступеньки из камня Венеры)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Венеры)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича сокровищницы Венеры)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича сокровищницы Венеры)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Венеры)
+ThermalDynamics:cover:0, Крышка (Плита из камня Цереры)
+ThermalDynamics:cover:0, Крышка (Плита из камня Цереры)
+ThermalDynamics:cover:0, Крышка (Ступеньки из камня Цереры)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Цереры)
+ThermalDynamics:cover:0, Крышка (Плита из камня Юпитера)
+ThermalDynamics:cover:0, Крышка (Плита из камня Юпитера)
+ThermalDynamics:cover:0, Крышка (Ступеньки из камня Юпитера)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Юпитера)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича сокровищницы Юпитера)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича сокровищницы Юпитера)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Юпитера)
+ThermalDynamics:cover:0, Крышка (Плита из камня Сатурна)
+ThermalDynamics:cover:0, Крышка (Плита из камня Сатурна)
+ThermalDynamics:cover:0, Крышка (Ступеньки из камня Сатурна)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Сатурна)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича сокровищницы Сатурна)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича сокровищницы Сатурна)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Сатурна)
+ThermalDynamics:cover:0, Крышка (Плита из камня Урана)
+ThermalDynamics:cover:0, Крышка (Плита из камня Урана)
+ThermalDynamics:cover:0, Крышка (Ступеньки из камня Урана)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Урана)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича сокровищницы Урана)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича сокровищницы Урана)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Урана)
+ThermalDynamics:cover:0, Крышка (Плита из камня Нептуна)
+ThermalDynamics:cover:0, Крышка (Плита из камня Нептуна)
+ThermalDynamics:cover:0, Крышка (Ступеньки из камня Нептуна)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Нептуна)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича сокровищницы Нептуна)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича сокровищницы Нептуна)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Нептуна)
+ThermalDynamics:cover:0, Крышка (Плита из камня Плутона)
+ThermalDynamics:cover:0, Крышка (Плита из камня Плутона)
+ThermalDynamics:cover:0, Крышка (Ступеньки из камня Плутона)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Плутона)
+ThermalDynamics:cover:0, Крышка (Плита из камня Эриды)
+ThermalDynamics:cover:0, Крышка (Плита из камня Эриды)
+ThermalDynamics:cover:0, Крышка (Ступеньки из камня Эриды)
+ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича сокровищницы Эриды)
+ThermalDynamics:cover:0, Крышка (Жидкая светящиеся пыль)
+ThermalDynamics:cover:0, Крышка (Жидкая магма)
+ThermalDynamics:cover:0, Крышка (Жидкий азот)
+ThermalDynamics:cover:0, Крышка (Жидкая кристаллическая вода)
+ThermalDynamics:cover:0, Крышка (Замёрзшая вода)
+ThermalDynamics:cover:0, Крышка (Радиоактивная вода)
+ThermalDynamics:cover:0, Крышка (Заражённая вода)
+ThermalDynamics:cover:0, Крышка (Жидкий метан)
+ThermalDynamics:cover:0, Крышка (Жидкий замёрзший азот)
+ThermalDynamics:cover:0, Крышка (Жидкий шоколад)
+ThermalDynamics:cover:0, Крышка (Жидкая карамель)
 ThermalDynamics:cover:0, Крышка (Мутаген)
 ThermalDynamics:cover:0, Крышка (Жидкий ДНК)
 ThermalDynamics:cover:0, Крышка (Протеин)
@@ -14287,7 +16410,29 @@ WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_InfusedGem, Infused Gem
+WitchingGadgets:item.WG_Cluster:0, Native Алюминиевый Cluster
 WitchingGadgets:item.WG_Cluster:1, Native Кобальтовый Cluster
 WitchingGadgets:item.WG_Cluster:3, Native Никелевый Cluster
 WitchingGadgets:item.WG_Cluster:4, Native Платиновый Cluster
