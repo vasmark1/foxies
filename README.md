@@ -52,6 +52,7 @@ Supported only Minecraft 1.7.10 & Forge 10.13.4.1614
 - Dynamic Lights (disabled) - causes massive chunk update with every movement
 - Invasion mod (enabled) - if modded mobs attack thaumcraft "Камень сдерживания" tickrate goes insane
 - Amun Ra (enabled) - there is config for this mod AT ALL, so more Biomes and Dims = More potential conflicts
+- Endless IDs (enabled) - Entity ID list extension must be disabled due to Multiplayer invisible mob bug
 
 
 ## TODO list:
@@ -63,7 +64,7 @@ Supported only Minecraft 1.7.10 & Forge 10.13.4.1614
 - ???
 
 
-##Special thanks to:
+## Special thanks to:
 - Ailimeow
 - SleepyQ
 - Astergup
