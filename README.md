@@ -61,3 +61,9 @@ Supported only Minecraft 1.7.10 & Forge 10.13.4.1614
 - ~~Add Cosmetic Armor~~
 - More optimizations
 - ???
+
+
+Special thanks to:
+- Ailimeow
+- SleepyQ
+- Astergup
