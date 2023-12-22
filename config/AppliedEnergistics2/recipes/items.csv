@@ -1680,43 +1680,43 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Плита из резног
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Плита из резного истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Плита из колонны истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Плита из колонны истинного кварца
-ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
-ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
-ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:enchanter, Осмотический стол зачарований
-ThaumicTinkerer:funnel, Воронка для эссенции
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:platform, Эфирная платформа
 ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
-ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
-ThaumicTinkerer:forcefield, Силовое поле
-ThaumicTinkerer:repairer, Таум-восстановитель
-ThaumicTinkerer:warpGate, Небесный портал
-ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
 ThaumicTinkerer:fireWater, Пропитанный Aqua огонь
-ThaumicTinkerer:spawner, Пьедестал некроманта
-ThaumicTinkerer:animationTablet, Динамическая дощечка
-ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:dislocator, Трансвекторный дислокатор
+ThaumicTinkerer:funnel, Воронка для эссенции
 ThaumicTinkerer:interface, Трансвектор
-ThaumicTinkerer:bedrockPortal, Админиум-портал
+ThaumicTinkerer:animationTablet, Динамическая дощечка
+ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
+ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
+ThaumicTinkerer:enchanter, Осмотический стол зачарований
+ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
+ThaumicTinkerer:dislocator, Трансвекторный дислокатор
+ThaumicTinkerer:fireAir, Пропитанный Aer огонь
+ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
+ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
 ThaumicTinkerer:magnet:0, Кинетический притяжатель
 ThaumicTinkerer:magnet:1, Материальный притяжатель
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
-ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
-ThaumicTinkerer:fireAir, Пропитанный Aer огонь
 ThaumicTinkerer:darkQuartz:0, Блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:1, Резной блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:2, Колонна из закоптившегося кварца
 ThaumicTinkerer:Levitational Locomotive, Левитатор
-ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
+ThaumicTinkerer:bedrockPortal, Админиум-портал
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:repairer, Таум-восстановитель
+ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
+ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
+ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:platform, Эфирная платформа
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:forcefield, Силовое поле
+ThaumicTinkerer:spawner, Пьедестал некроманта
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:warpGate, Небесный портал
 ThaumicTinkerer:travelSlab:0, Тротуарная плита путешествия
 ThaumicTinkerer:travelSlabFull:0, Тротуарная плита путешествия
-ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
+ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
+ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
 ForbiddenMagic:ArcaneCake, Таумический торт
 ForbiddenMagic:WrathCage, Клетка гнева
 ForbiddenMagic:InkFlower, Мрачная роза
@@ -4414,7 +4414,7 @@ ExtraPlanets:chargingBlock, Зарядное устройство для тра�
 ExtraPlanets:glowstone, Жидкая светящиеся пыль
 ExtraPlanets:magma, Жидкая магма
 ExtraPlanets:nitrogen, Жидкий азот
-ExtraPlanets:salt, Жидкая кристаллическая вода
+ExtraPlanets:salt, Соляная руда
 ExtraPlanets:frozen_water, Замёрзшая вода
 ExtraPlanets:radio_active_water, Радиоактивная вода
 ExtraPlanets:infected_water, Заражённая вода
@@ -5031,12 +5031,12 @@ MekanismGenerators:Reactor:4, Логический адаптер реактор
 MekanismGenerators:ReactorGlass:0, Стекло реактора
 MekanismGenerators:ReactorGlass:1, Матрица лазерного фокуса
 neenergistics:tile.pattern_interface, Pattern Interface
-PowerUtils:BlockMain:0, Power Converter
-ProjectE:interdiction_torch, Факел изгнания
-ProjectE:condenser_mk2, Конденсатор энергии MK2
-ProjectE:rm_furnace_lit, Печь из красной материи
-ProjectE:dm_furnace_lit, Печь из тёмной материи
-ProjectE:dm_pedestal, Пьедестал из тёмной материи
+harvestcraft:cuttingboard, Разделочная доска
+harvestcraft:pot, Горшок
+harvestcraft:beehive, Пчелиный улей
+harvestcraft:apiary, Пасека
+harvestcraft:presser, Прессовщик
+harvestcraft:sink, tile.sink.name
 minecraft:record_13, Пластинка
 minecraft:record_cat, Пластинка
 minecraft:record_blocks, Пластинка
@@ -5049,6 +5049,193 @@ minecraft:record_strad, Пластинка
 minecraft:record_ward, Пластинка
 minecraft:record_11, Пластинка
 minecraft:record_wait, Пластинка
+harvestcraft:salt, Соляная руда
+harvestcraft:spamcompressedsaltBlockalt, Compressed Salt Block
+harvestcraft:market, Рынок
+harvestcraft:oven, Печь
+harvestcraft:ovenon, tile.ovenon.name
+harvestcraft:churn, Churn
+harvestcraft:churnon, tile.churnon.name
+harvestcraft:quern, Quern
+harvestcraft:quernon, tile.quernon.name
+harvestcraft:fishtrap, Fish Trap
+harvestcraft:animaltrap, Animal Trap
+harvestcraft:berrygarden, Ягодный куст
+harvestcraft:desertgarden, Пустынный куст
+harvestcraft:grassgarden, Травяной куст
+harvestcraft:gourdgarden, Тыквенный куст
+harvestcraft:groundgarden, Земляной куст
+harvestcraft:herbgarden, Лекарственный куст
+harvestcraft:leafygarden, Лиственный куст
+harvestcraft:mushroomgarden, Грибной куст
+harvestcraft:stalkgarden, Стебельковый куст
+harvestcraft:textilegarden, Текстильный куст
+harvestcraft:tropicalgarden, Тропический куст
+harvestcraft:watergarden, Водный куст
+harvestcraft:pamApple, Яблоко
+harvestcraft:pamappleSapling, Саженец яблони
+harvestcraft:pamAlmond, Миндаль
+harvestcraft:pamalmondSapling, Саженец миндаля
+harvestcraft:pamApricot, Абрикос
+harvestcraft:pamapricotSapling, Саженец абрикоса
+harvestcraft:pamAvocado, Авокадо
+harvestcraft:pamavocadoSapling, Саженец авокадо
+harvestcraft:pamBanana, Банан
+harvestcraft:pambananaSapling, Саженец банана
+harvestcraft:pamCashew, Кешью
+harvestcraft:pamcashewSapling, Саженец кешью
+harvestcraft:pamCherry, Вишня
+harvestcraft:pamcherrySapling, Саженец вишни
+harvestcraft:pamChestnut, Каштан
+harvestcraft:pamchestnutSapling, Саженец каштана
+harvestcraft:pamCinnamon, Корица
+harvestcraft:pamcinnamonSapling, Саженец корицы
+harvestcraft:pamCoconut, Кокос
+harvestcraft:pamcoconutSapling, Саженец кокоса
+harvestcraft:pamDate, Финик
+harvestcraft:pamdateSapling, Саженец финика
+harvestcraft:pamDragonfruit, Питайя
+harvestcraft:pamdragonfruitSapling, Саженец питайи
+harvestcraft:pamDurian, Дуриан
+harvestcraft:pamdurianSapling, Саженец дуриана
+harvestcraft:pamFig, Инжир
+harvestcraft:pamfigSapling, Саженец инжира
+harvestcraft:pamGrapefruit, Грейпфрут
+harvestcraft:pamgrapefruitSapling, Саженец грейпфрута
+harvestcraft:pamLemon, Лимон
+harvestcraft:pamlemonSapling, Саженец лимона
+harvestcraft:pamLime, Лайм
+harvestcraft:pamlimeSapling, Саженец лайма
+harvestcraft:pamMaple, Клён
+harvestcraft:pammapleSapling, Саженец клёна
+harvestcraft:pamMango, Манго
+harvestcraft:pammangoSapling, Саженец манго
+harvestcraft:pamNutmeg, Мускатный орех
+harvestcraft:pamnutmegSapling, Саженец мускатного ореха
+harvestcraft:pamOlive, Олива
+harvestcraft:pamoliveSapling, Саженец оливы
+harvestcraft:pamOrange, Апельсин
+harvestcraft:pamorangeSapling, Саженец апельсина
+harvestcraft:pamPapaya, Папайя
+harvestcraft:pampapayaSapling, Саженец папайи
+harvestcraft:pamPaperbark, Мелалеука
+harvestcraft:pampaperbarkSapling, Саженец мелалеука
+harvestcraft:pamPeach, Персик
+harvestcraft:pampeachSapling, Саженец персика
+harvestcraft:pamPear, Груша
+harvestcraft:pampearSapling, Саженец груши
+harvestcraft:pamPecan, Пекан
+harvestcraft:pampecanSapling, Саженец пекана
+harvestcraft:pamPeppercorn, Перец
+harvestcraft:pampeppercornSapling, Саженец перца
+harvestcraft:pamPersimmon, Хурма
+harvestcraft:pampersimmonSapling, Саженец хурмы
+harvestcraft:pamPistachio, Фисташка
+harvestcraft:pampistachioSapling, Саженец фисташки
+harvestcraft:pamPlum, Слива
+harvestcraft:pamplumSapling, Саженец сливы
+harvestcraft:pamPomegranate, Гранат
+harvestcraft:pampomegranateSapling, Саженец граната
+harvestcraft:pamStarfruit, Карамбола
+harvestcraft:pamstarfruitSapling, Саженец карамболы
+harvestcraft:pamVanillabean, Ванильный стручок
+harvestcraft:pamvanillabeanSapling, Саженец ванили
+harvestcraft:pamWalnut, Грецкий орех
+harvestcraft:pamwalnutSapling, Саженец грецкого ореха
+harvestcraft:pamGooseberry, Goosberry
+harvestcraft:pamgooseberrySapling, Gooseberry Sapling
+harvestcraft:pamblackberryCrop, Ежевика
+harvestcraft:pamblueberryCrop, Черника
+harvestcraft:pamcandleberryCrop, Свечная ягода
+harvestcraft:pamraspberryCrop, Малина
+harvestcraft:pamstrawberryCrop, Клубника
+harvestcraft:pamcactusfruitCrop, Плод кактуса
+harvestcraft:pamasparagusCrop, Спаржа
+harvestcraft:pambarleyCrop, Ячмень
+harvestcraft:pamoatsCrop, Овёс
+harvestcraft:pamryeCrop, Рожь
+harvestcraft:pamcornCrop, Кукуруза
+harvestcraft:pambambooshootCrop, Бамбук
+harvestcraft:pamcantaloupeCrop, Канталупа
+harvestcraft:pamcucumberCrop, Огурец
+harvestcraft:pamwintersquashCrop, Зимняя тыква
+harvestcraft:pamzucchiniCrop, Цуккини
+harvestcraft:pambeetCrop, Свёкла
+harvestcraft:pamonionCrop, Репчатый лук
+harvestcraft:pamparsnipCrop, Пастернак
+harvestcraft:pampeanutCrop, Арахис
+harvestcraft:pamradishCrop, Редис
+harvestcraft:pamrutabagaCrop, Брюква
+harvestcraft:pamsweetpotatoCrop, Сладкий картофель
+harvestcraft:pamturnipCrop, Репа
+harvestcraft:pamrhubarbCrop, Ревень
+harvestcraft:pamceleryCrop, Сельдерей
+harvestcraft:pamgarlicCrop, Чеснок
+harvestcraft:pamgingerCrop, Имбирь
+harvestcraft:pamspiceleafCrop, Лист пряностей
+harvestcraft:pamtealeafCrop, Чайный лист
+harvestcraft:pamcoffeebeanCrop, Кофейные бобы
+harvestcraft:pammustardseedsCrop, Горчица
+harvestcraft:pambroccoliCrop, Брокколи
+harvestcraft:pamcauliflowerCrop, Цветная капуста
+harvestcraft:pamleekCrop, Лук-порей
+harvestcraft:pamlettuceCrop, Латук
+harvestcraft:pamscallionCrop, Лук-шалот
+harvestcraft:pamartichokeCrop, Артишок
+harvestcraft:pambrusselsproutCrop, Брюссельская капуста
+harvestcraft:pamcabbageCrop, Капуста
+harvestcraft:pamspinachCrop, Шпинат
+harvestcraft:pamwhitemushroomCrop, Белый гриб
+harvestcraft:pambeanCrop, Бобы
+harvestcraft:pamsoybeanCrop, Соевые бобы
+harvestcraft:pambellpepperCrop, Болгарский перец
+harvestcraft:pamchilipepperCrop, Перец чили
+harvestcraft:pameggplantCrop, Баклажан
+harvestcraft:pamokraCrop, Окра
+harvestcraft:pampeasCrop, Горох
+harvestcraft:pamtomatoCrop, Помидор
+harvestcraft:pamcottonCrop, Хлопок
+harvestcraft:pampineappleCrop, Ананас
+harvestcraft:pamgrapeCrop, Виноград
+harvestcraft:pamkiwiCrop, Киви
+harvestcraft:pamcranberryCrop, Клюква
+harvestcraft:pamriceCrop, Рис
+harvestcraft:pamseaweedCrop, Водоросли
+harvestcraft:pamcurryleafCrop, Curry Leaf Crop
+harvestcraft:pamsesameseedsCrop, Sesame Seeds Crop
+harvestcraft:pamwaterchestnutCrop, Water Chestnut Crop
+harvestcraft:pamcandleDeco1, Белая свечка
+harvestcraft:pamcandleDeco2, Оранжевая свечка
+harvestcraft:pamcandleDeco3, Сиреневая свечка
+harvestcraft:pamcandleDeco4, Светло-синяя свечка
+harvestcraft:pamcandleDeco5, Жёлтая свечка
+harvestcraft:pamcandleDeco6, Лаймовая свечка
+harvestcraft:pamcandleDeco7, Розовая свечка
+harvestcraft:pamcandleDeco8, Тёмно-серая свечка
+harvestcraft:pamcandleDeco9, Светло-серая свечка
+harvestcraft:pamcandleDeco10, Бирюзовая свечка
+harvestcraft:pamcandleDeco11, Фиолетовая свечка
+harvestcraft:pamcandleDeco12, Синяя свечка
+harvestcraft:pamcandleDeco13, Коричневая свечка
+harvestcraft:pamcandleDeco14, Зелёная свечка
+harvestcraft:pamcandleDeco15, Красная свечка
+harvestcraft:pamcandleDeco16, Чёрная свечка
+harvestcraft:pamcarrotCake, Морковный торт
+harvestcraft:pamcheeseCake, Чизкейк
+harvestcraft:pamcherrycheeseCake, Вишнёвый чизкейк
+harvestcraft:pampineappleupsidedownCake, Ананасовый перевёрнутый торт
+harvestcraft:pamchocolatesprinkleCake, Торт, посыпанный шоколадом
+harvestcraft:pamredvelvetCake, Красный бархатный торт
+harvestcraft:pamlamingtonCake, Ламингтон
+harvestcraft:pampavlovaCake, Павлова
+harvestcraft:pamholidayCake, Holiday Cake
+harvestcraft:pampumpkincheeseCake, Pumpkin Cheese Cake
+PowerUtils:BlockMain:0, Power Converter
+ProjectE:interdiction_torch, Факел изгнания
+ProjectE:condenser_mk2, Конденсатор энергии MK2
+ProjectE:rm_furnace_lit, Печь из красной материи
+ProjectE:dm_furnace_lit, Печь из тёмной материи
+ProjectE:dm_pedestal, Пьедестал из тёмной материи
 ProjectE:nova_catalyst, Катализатор Новы
 ProjectE:nova_cataclysm, Катаклизм Новы
 ProjectE:alchemical_chest, Алхимический сундук
@@ -7405,10 +7592,10 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изме�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из резного истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из колонны истинного кварца
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной блок закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна из закоптившегося кварца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тротуарная плита путешествия
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок звезды Нижнего мира
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зараженная древесина
@@ -8453,6 +8640,13 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - §dПур
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - §6Оранжевый Пластиковый путь
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - §fБелый Пластиковый путь
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок соли
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пчелиный улей
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.sink.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.sink.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.sink.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.sink.name
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Соляная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Compressed Salt Block
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Катализатор Новы
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Катаклизм Новы
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок из тёмной материи
@@ -11990,6 +12184,8 @@ evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
 evilcraft:environmentalAccumulationCore, Environmental Accumulation Core
 evilcraft:maceOfDestruction, Mace of Destruction
 evilcraft:garmonbozia, Garmonbozia
@@ -13523,6 +13719,759 @@ ae2wct:infinityBoosterIcon, item.null.name
 ae2wct:wirelessCraftingTerminal, Wireless Crafting Terminal
 ae2wct:magnetCard, Magnet Card
 ae2wct:boosterBG, item.boosterBG.name
+harvestcraft:cuttingboardItem, Разделочная доска
+harvestcraft:potItem, Горшок
+harvestcraft:skilletItem, Сковорода
+harvestcraft:saucepanItem, Кастрюля
+harvestcraft:bakewareItem, Форма для выпечки
+harvestcraft:mortarandpestleItem, Ступка и пестик
+harvestcraft:mixingbowlItem, Миска для смешивания
+harvestcraft:juicerItem, Соковыжималка
+harvestcraft:queenbeeItem, Пчелиная матка
+harvestcraft:waxcombItem, Восковая сота
+harvestcraft:honeycombItem, Медовая сота
+harvestcraft:beeswaxItem, Пчелиный воск
+harvestcraft:honeyItem, Мёд
+harvestcraft:grubItem, Пчелиная личинка
+harvestcraft:royaljellyItem, Маточное молочко
+harvestcraft:saltItem, Соль
+harvestcraft:waxItem, Воск
+harvestcraft:wovencottonItem, Тканный хлопок
+harvestcraft:hardenedleatherItem, Укреплённая кожа
+harvestcraft:grainbaitItem, Grain Bait
+harvestcraft:veggiebaitItem, Veggie Bait
+harvestcraft:fruitbaitItem, Fruit Bait
+harvestcraft:fishtrapbaitItem, Fish Trap Bait
+harvestcraft:hardenedleatherhelmItem, Укреплённый кожанный шлем
+harvestcraft:hardenedleatherchestItem, Укреплённая кожанная кираса
+harvestcraft:hardenedleatherleggingsItem, Укреплённые кожанные поножи
+harvestcraft:hardenedleatherbootsItem, Укреплённые кожанные ботинки
+harvestcraft:muttonrawItem, Сырая баранина
+harvestcraft:muttoncookedItem, Приготовленная баранина
+harvestcraft:calamarirawItem, Сырые кальмары
+harvestcraft:calamaricookedItem, Приготовленные кальмары
+harvestcraft:sunflowerseedsItem, Семена подсолнечника
+harvestcraft:freshwaterItem, Свежая вода
+harvestcraft:freshmilkItem, Свежее молоко
+harvestcraft:blackberryItem, Ежевика
+harvestcraft:blueberryItem, Черника
+harvestcraft:candleberryItem, Свечная ягода
+harvestcraft:raspberryItem, Малина
+harvestcraft:strawberryItem, Клубника
+harvestcraft:grapeItem, Виноград
+harvestcraft:cactusfruitItem, Плод кактуса
+harvestcraft:asparagusItem, Спаржа
+harvestcraft:barleyItem, Ячмень
+harvestcraft:oatsItem, Овёс
+harvestcraft:ryeItem, Рожь
+harvestcraft:cornItem, Кукуруза
+harvestcraft:bambooshootItem, Бамбуковый побег
+harvestcraft:cantaloupeItem, Канталупа
+harvestcraft:cucumberItem, Огурец
+harvestcraft:wintersquashItem, Зимняя тыква
+harvestcraft:zucchiniItem, Цуккини
+harvestcraft:beetItem, Свёкла
+harvestcraft:onionItem, Луковица
+harvestcraft:parsnipItem, Пастернак
+harvestcraft:peanutItem, Арахис
+harvestcraft:radishItem, Редис
+harvestcraft:rutabagaItem, Брюква
+harvestcraft:sweetpotatoItem, Сладкий картофель
+harvestcraft:turnipItem, Репа
+harvestcraft:rhubarbItem, Ревень
+harvestcraft:celeryItem, Сельдерей
+harvestcraft:garlicItem, Чеснок
+harvestcraft:gingerItem, Имбирь
+harvestcraft:spiceleafItem, Лист пряностей
+harvestcraft:ediblerootItem, Съедобный корень
+harvestcraft:tealeafItem, Чайный лист
+harvestcraft:coffeebeanItem, Кофейные бобы
+harvestcraft:mustardseedsItem, Семена горчицы
+harvestcraft:broccoliItem, Брокколи
+harvestcraft:cauliflowerItem, Цветная капуста
+harvestcraft:leekItem, Лук-порей
+harvestcraft:lettuceItem, Латук
+harvestcraft:scallionItem, Лук-шалот
+harvestcraft:artichokeItem, Артишок
+harvestcraft:brusselsproutItem, Брюссельская капуста
+harvestcraft:cabbageItem, Капуста
+harvestcraft:spinachItem, Шпинат
+harvestcraft:whitemushroomItem, Белый гриб
+harvestcraft:beanItem, Бобы
+harvestcraft:soybeanItem, Соевый боб
+harvestcraft:bellpepperItem, Болгарский перец
+harvestcraft:chilipepperItem, Перец чили
+harvestcraft:eggplantItem, Баклажан
+harvestcraft:okraItem, Окра
+harvestcraft:peasItem, Горох
+harvestcraft:tomatoItem, Помидор
+harvestcraft:cottonItem, Хлопок
+harvestcraft:pineappleItem, Ананас
+harvestcraft:kiwiItem, Киви
+harvestcraft:sesameseedsItem, Sesame Seeds
+harvestcraft:curryleafItem, Curry Leaf
+harvestcraft:cranberryItem, Клюква
+harvestcraft:riceItem, Рис
+harvestcraft:seaweedItem, Морская водоросль
+harvestcraft:waterchestnutItem, Water Chestnut
+harvestcraft:blackberryseedItem, Семя ежевики
+harvestcraft:blueberryseedItem, Семя черники
+harvestcraft:candleberryseedItem, Семя свечной ягоды
+harvestcraft:raspberryseedItem, Семя малины
+harvestcraft:strawberryseedItem, Семя клубники
+harvestcraft:grapeseedItem, Семя винограда
+harvestcraft:cactusfruitseedItem, Семя фруктового кактуса
+harvestcraft:asparagusseedItem, Семя спаржи
+harvestcraft:barleyseedItem, Семя ячменя
+harvestcraft:oatsseedItem, Семя овса
+harvestcraft:ryeseedItem, Семя ржи
+harvestcraft:cornseedItem, Семя кукурузы
+harvestcraft:bambooshootseedItem, Семя бамбукового побега
+harvestcraft:cantaloupeseedItem, Семя канталупы
+harvestcraft:cucumberseedItem, Семя огурца
+harvestcraft:wintersquashseedItem, Семя зимней тыквы
+harvestcraft:zucchiniseedItem, Семя цуккини
+harvestcraft:beetseedItem, Семя свёклы
+harvestcraft:onionseedItem, Семя луковицы
+harvestcraft:parsnipseedItem, Семя пастернака
+harvestcraft:peanutseedItem, Семя арахиса
+harvestcraft:radishseedItem, Семя редиса
+harvestcraft:rutabagaseedItem, Семя брюквы
+harvestcraft:sweetpotatoseedItem, Семя сладкого картофеля
+harvestcraft:turnipseedItem, Семя репы
+harvestcraft:rhubarbseedItem, Семя ревеня
+harvestcraft:celeryseedItem, Семя сельдерея
+harvestcraft:garlicseedItem, Семя чеснока
+harvestcraft:gingerseedItem, Семя имбиря
+harvestcraft:spiceleafseedItem, Семя листа пряностей
+harvestcraft:teaseedItem, Семя чая
+harvestcraft:coffeeseedItem, Кофейное семя
+harvestcraft:mustardseedItem, Семя горчицы
+harvestcraft:broccoliseedItem, Семя брокколи
+harvestcraft:cauliflowerseedItem, Семя цветной капусты
+harvestcraft:leekseedItem, Семя лука-порея
+harvestcraft:lettuceseedItem, Семя латука
+harvestcraft:scallionseedItem, Семя лука-шалота
+harvestcraft:artichokeseedItem, Семя артишока
+harvestcraft:brusselsproutseedItem, Семя брюссельской капусты
+harvestcraft:cabbageseedItem, Семя капусты
+harvestcraft:spinachseedItem, Семя шпината
+harvestcraft:whitemushroomseedItem, Спора белого гриба
+harvestcraft:beanseedItem, Бобовое семя
+harvestcraft:soybeanseedItem, Семя соевого боба
+harvestcraft:bellpepperseedItem, Семя болгарского перца
+harvestcraft:chilipepperseedItem, Семя перца чили
+harvestcraft:eggplantseedItem, Семя баклажана
+harvestcraft:okraseedItem, Семя окры
+harvestcraft:peasseedItem, Семя гороха
+harvestcraft:tomatoseedItem, Семя помидора
+harvestcraft:cottonseedItem, Семя хлопка
+harvestcraft:pineappleseedItem, Семя ананаса
+harvestcraft:curryleafseedItem, Curry Leaf Seed
+harvestcraft:sesameseedsseedItem, Sesame Seeds Seed
+harvestcraft:kiwiseedItem, Семя киви
+harvestcraft:cranberryseedItem, Семя клюквы
+harvestcraft:riceseedItem, Семя риса
+harvestcraft:seaweedseedItem, Семя морской водоросли
+harvestcraft:waterchestnutseedItem, Water Chestnut Seed
+harvestcraft:almondItem, Миндаль
+harvestcraft:apricotItem, Абрикос
+harvestcraft:avocadoItem, Авокадо
+harvestcraft:bananaItem, Банан
+harvestcraft:cashewItem, Кешью
+harvestcraft:cherryItem, Вишня
+harvestcraft:chestnutItem, Каштан
+harvestcraft:cinnamonItem, Корица
+harvestcraft:coconutItem, Кокос
+harvestcraft:dateItem, Финик
+harvestcraft:dragonfruitItem, Питайя
+harvestcraft:durianItem, Дуриан
+harvestcraft:figItem, Инжир
+harvestcraft:grapefruitItem, Грейпфрут
+harvestcraft:lemonItem, Лимон
+harvestcraft:limeItem, Лайм
+harvestcraft:maplesyrupItem, Кленовой сироп
+harvestcraft:mangoItem, Манго
+harvestcraft:nutmegItem, Мускатный орех
+harvestcraft:oliveItem, Олива
+harvestcraft:orangeItem, Апельсин
+harvestcraft:papayaItem, Папайя
+harvestcraft:peachItem, Персик
+harvestcraft:pearItem, Груша
+harvestcraft:pecanItem, Пекан
+harvestcraft:peppercornItem, Перец
+harvestcraft:persimmonItem, Хурма
+harvestcraft:pistachioItem, Фисташка
+harvestcraft:plumItem, Слива
+harvestcraft:pomegranateItem, Гранат
+harvestcraft:starfruitItem, Карамбола
+harvestcraft:vanillabeanItem, Ванильный стручок
+harvestcraft:walnutItem, Грецкий орех
+harvestcraft:gooseberryItem, Gooseberry
+harvestcraft:grilledasparagusItem, Жаренная спаржа
+harvestcraft:bakedsweetpotatoItem, Печёный сладкий картофель
+harvestcraft:teaItem, Чашка чая
+harvestcraft:coffeeItem, Чашка кофе
+harvestcraft:popcornItem, Попкорн
+harvestcraft:grilledeggplantItem, Жаренный баклажан
+harvestcraft:raisinsItem, Изюминки
+harvestcraft:ricecakeItem, Рисовый торт
+harvestcraft:toastedcoconutItem, Поджаренный кокос
+harvestcraft:vanillaItem, Ваниль
+harvestcraft:toastedsesameseedsItem, Toasted Sesame Seeds
+harvestcraft:flourItem, Мука
+harvestcraft:doughItem, Тесто
+harvestcraft:toastItem, Тост
+harvestcraft:pastaItem, Макароны
+harvestcraft:heavycreamItem, Жирные сливки
+harvestcraft:butterItem, Масло
+harvestcraft:cheeseItem, Сыр
+harvestcraft:icecreamItem, Мороженое 
+harvestcraft:grilledcheeseItem, Жаренный сыр
+harvestcraft:applejuiceItem, Яблочный сок
+harvestcraft:applesauceItem, Яблочное пюре
+harvestcraft:applepieItem, Яблочный пирог
+harvestcraft:caramelappleItem, Яблоко в карамели
+harvestcraft:pumpkinbreadItem, Тыквенный хлеб
+harvestcraft:roastedpumpkinseedsItem, Жаренные тыквенные семена
+harvestcraft:pumpkinsoupItem, Тыквенный суп
+harvestcraft:melonjuiceItem, Арбузный сок
+harvestcraft:melonsmoothieItem, Арбузный смузи
+harvestcraft:carrotjuiceItem, Морковный сок
+harvestcraft:carrotcakeItem, Морковный торт
+harvestcraft:carrotsoupItem, Морковный суп
+harvestcraft:glazedcarrotsItem, Глазированная морковь
+harvestcraft:butteredpotatoItem, Картофель с маслом
+harvestcraft:loadedbakedpotatoItem, Печёный картофель с мясом и сыром
+harvestcraft:mashedpotatoesItem, Картофельное пюре
+harvestcraft:potatosaladItem, Картофельный салат
+harvestcraft:potatosoupItem, Картофельный суп
+harvestcraft:friesItem, Картофель фри
+harvestcraft:grilledmushroomItem, Жаренный гриб
+harvestcraft:stuffedmushroomItem, Фаршированные грибы
+harvestcraft:chickensandwichItem, Куриный сэндвич
+harvestcraft:chickennoodlesoupItem, Куриный суп с лапшой
+harvestcraft:chickenpotpieItem, Куриный пирог в горшочке
+harvestcraft:breadedporkchopItem, Панированная свиная отбивная
+harvestcraft:hotdogItem, Хот-дог
+harvestcraft:bakedhamItem, Запечённая ветчина
+harvestcraft:hamburgerItem, Гамбургер
+harvestcraft:cheeseburgerItem, Чизбургер
+harvestcraft:baconcheeseburgerItem, Чизбургер с беконом
+harvestcraft:potroastItem, Тушёное мясо
+harvestcraft:fishsandwichItem, Сэндвич с рыбой
+harvestcraft:fishsticksItem, Рыбные палочки
+harvestcraft:fishandchipsItem, Рыба и картофель фри
+harvestcraft:mayoItem, Майонез
+harvestcraft:friedeggItem, Жареное яйцо
+harvestcraft:scrambledeggItem, Яичница-болтунья
+harvestcraft:boiledeggItem, Варёное яйцо
+harvestcraft:eggsaladItem, Яичный салат
+harvestcraft:caramelItem, Карамель
+harvestcraft:taffyItem, Ириска
+harvestcraft:spidereyesoupItem, Суп с глазом паука
+harvestcraft:zombiejerkyItem, Вяленое мясо зомби
+harvestcraft:cocoapowderItem, Какао-порошок
+harvestcraft:chocolatebarItem, Плитка шоколада
+harvestcraft:hotchocolateItem, Горячий шоколад
+harvestcraft:chocolateicecreamItem, Шоколадное мороженое
+harvestcraft:vegetablesoupItem, Овощной суп
+harvestcraft:stockItem, Бульон
+harvestcraft:fruitsaladItem, Фруктовый салат
+harvestcraft:spagettiItem, Спагетти
+harvestcraft:spagettiandmeatballsItem, Спагетти и фрикадельки
+harvestcraft:tomatosoupItem, Томатный суп
+harvestcraft:ketchupItem, Кетчуп
+harvestcraft:chickenparmasanItem, Курица под пармезаном
+harvestcraft:pizzaItem, Пицца
+harvestcraft:springsaladItem, Весенний салат
+harvestcraft:porklettucewrapItem, Свинина обёрнутая латуком
+harvestcraft:fishlettucewrapItem, Рыба обёрнутая латуком
+harvestcraft:bltItem, Сэндвич с беконом, латуком и помидором
+harvestcraft:leafychickensandwichItem, Куриный сэндвич с латуком
+harvestcraft:leafyfishsandwichItem, Рыбный сэндвич с латуком
+harvestcraft:deluxecheeseburgerItem, Роскошный чизбургер
+harvestcraft:delightedmealItem, Восхищающая еда
+harvestcraft:onionsoupItem, Луковый суп
+harvestcraft:potatocakesItem, Картофельные запеканки
+harvestcraft:hashItem, Хаш
+harvestcraft:braisedonionsItem, Тушёные луковицы
+harvestcraft:heartybreakfastItem, Плотный завтрак
+harvestcraft:cornonthecobItem, Кукуруза в початках
+harvestcraft:cornmealItem, Кукурузная мука
+harvestcraft:cornbreadItem, Кукурузный хлеб
+harvestcraft:tortillaItem, Тортилья
+harvestcraft:nachoesItem, Начос
+harvestcraft:tacoItem, Тако
+harvestcraft:fishtacoItem, Рыбный тако
+harvestcraft:creamedcornItem, Кукурузное пюре
+harvestcraft:strawberrysmoothieItem, Клубничный смузи
+harvestcraft:strawberrypieItem, Клубничный пирог
+harvestcraft:strawberrysaladItem, Клубничный салат
+harvestcraft:strawberryjuiceItem, Клубничный сок
+harvestcraft:chocolatestrawberryItem, Клубника в шоколаде
+harvestcraft:peanutbutterItem, Арахисовое масло
+harvestcraft:trailmixItem, Смесь сушёных фруктов и орехов
+harvestcraft:pbandjItem, Сэндвич с арахисовым маслом и желе
+harvestcraft:peanutbuttercookiesItem, Печенки в арахисовом масле
+harvestcraft:grapejuiceItem, Виноградный сок
+harvestcraft:vinegarItem, Уксус
+harvestcraft:grapejellyItem, Виноградное желе
+harvestcraft:grapesaladItem, Виноградный салат
+harvestcraft:raisincookiesItem, Печенки с изюмом
+harvestcraft:picklesItem, Солёные огурцы
+harvestcraft:cucumbersaladItem, Салат из огурцов
+harvestcraft:cucumbersoupItem, Суп из огурцов
+harvestcraft:vegetarianlettucewrapItem, Овощи обёрнутые латуком
+harvestcraft:marinatedcucumbersItem, Маринованные огурцы
+harvestcraft:ricesoupItem, Рисовый суп
+harvestcraft:friedriceItem, Жареный рис
+harvestcraft:mushroomrisottoItem, Грибной ризотто
+harvestcraft:curryItem, Японское карри
+harvestcraft:rainbowcurryItem, Радужное карри
+harvestcraft:refriedbeansItem, Пережареные бобы
+harvestcraft:bakedbeansItem, Запечённые бобы
+harvestcraft:beansandriceItem, Бобы с рисом
+harvestcraft:chiliItem, Чили
+harvestcraft:beanburritoItem, Буррито с бобами
+harvestcraft:stuffedpepperItem, Фаршированный перец
+harvestcraft:veggiestirfryItem, Овощной стир-фрай
+harvestcraft:grilledskewersItem, Жаренный шампур
+harvestcraft:supremepizzaItem, Пицца «Суприм»
+harvestcraft:omeletItem, Омлет
+harvestcraft:hotwingsItem, Горячее крылышко
+harvestcraft:chilipoppersItem, Перчики чили
+harvestcraft:extremechiliItem, Экстримальный чили
+harvestcraft:chilichocolateItem, Шоколад чили
+harvestcraft:lemonaideItem, Лимонад
+harvestcraft:lemonbarItem, Плитка лимона
+harvestcraft:fishdinnerItem, Рыбный ужин
+harvestcraft:lemonsmoothieItem, Лимонный смузи
+harvestcraft:lemonmeringueItem, Лимонная меренга
+harvestcraft:candiedlemonItem, Засахаренный лимон
+harvestcraft:lemonchickenItem, Курица с лимоном
+harvestcraft:blueberrysmoothieItem, Черничный смузи
+harvestcraft:blueberrypieItem, Черничный пирог
+harvestcraft:blueberrymuffinItem, Черничный маффин
+harvestcraft:blueberryjuiceItem, Черничный сок
+harvestcraft:pancakesItem, Блины
+harvestcraft:blueberrypancakesItem, Блины с черникой
+harvestcraft:cherryjuiceItem, Вишнёвый сок
+harvestcraft:cherrypieItem, Вишнёвый пирог
+harvestcraft:chocolatecherryItem, Вишня в шоколаде
+harvestcraft:cherrysmoothieItem, Вишнёвый смузи
+harvestcraft:cheesecakeItem, Чизкейк
+harvestcraft:cherrycheesecakeItem, Вишнёвый чизкейк
+harvestcraft:stuffedeggplantItem, Фаршированные баклажаны
+harvestcraft:eggplantparmItem, Пармиджано из баклажанов
+harvestcraft:raspberryicedteaItem, Малиновый холодный чай
+harvestcraft:chaiteaItem, Чай масала
+harvestcraft:espressoItem, Эспрессо
+harvestcraft:coffeeconlecheItem, Кофе с молоком
+harvestcraft:mochaicecreamItem, Мокаччино с мороженым
+harvestcraft:pickledbeetsItem, Маринованные свёклы
+harvestcraft:beetsaladItem, Свекольный салат
+harvestcraft:beetsoupItem, Свекольный суп
+harvestcraft:bakedbeetsItem, Запечённые свёклы
+harvestcraft:broccolimacItem, Макароны с брокколи
+harvestcraft:broccolindipItem, Брокколи и соус
+harvestcraft:creamedbroccolisoupItem, Суп с брокколи
+harvestcraft:sweetpotatopieItem, Пирог из сладкого картофеля
+harvestcraft:candiedsweetpotatoesItem, Засахаренные сладкие картофелины
+harvestcraft:mashedsweetpotatoesItem, Пюре из сладких картофелин
+harvestcraft:steamedpeasItem, Горох на пару
+harvestcraft:splitpeasoupItem, Гороховый суп
+harvestcraft:pineappleupsidedowncakeItem, Ананасовый перевёрнутый торт
+harvestcraft:pineapplehamItem, Ветчина с ананасом
+harvestcraft:pineappleyogurtItem, Ананасовый йогурт
+harvestcraft:turnipsoupItem, Реповый суп
+harvestcraft:roastedrootveggiemedleyItem, Жареное поппури из корней и овощей
+harvestcraft:bakedturnipsItem, Запечённые репки
+harvestcraft:gingerbreadItem, Имбирный хлеб
+harvestcraft:gingersnapsItem, Имбирное печенье
+harvestcraft:candiedgingerItem, Засахаренный имбирь
+harvestcraft:mustardItem, Горчица
+harvestcraft:softpretzelandmustardItem, Мягкий брецель и горчица
+harvestcraft:spicymustardporkItem, Свинина в острой горчице
+harvestcraft:spicygreensItem, Пряная зелень
+harvestcraft:garlicbreadItem, Хлеб с чесноком
+harvestcraft:garlicmashedpotatoesItem, Картофельное пюре с чесноком
+harvestcraft:garlicchickenItem, Курица с чесноком
+harvestcraft:summerradishsaladItem, Летний салат с редисом
+harvestcraft:summersquashwithradishItem, Летняя тыква с редисом
+harvestcraft:celeryandpeanutbutterItem, Сельдерей и арахисовое масло
+harvestcraft:chickencelerycasseroleItem, Куриная запеканка с сельдереем
+harvestcraft:peasandceleryItem, Горох и сельдерей
+harvestcraft:celerysoupItem, Суп из сельдерея
+harvestcraft:zucchinibreadItem, Хлеб из цуккини
+harvestcraft:zucchinifriesItem, Цуккини фри
+harvestcraft:zestyzucchiniItem, Пикантный цуккини
+harvestcraft:zucchinibakeItem, Выпечка из цуккини
+harvestcraft:asparagusquicheItem, Киш со спаржей
+harvestcraft:asparagussoupItem, Суп со спаржей
+harvestcraft:walnutraisinbreadItem, Хлеб с изюмом и грецкими орехами
+harvestcraft:candiedwalnutsItem, Засахаренные грецкие орехи
+harvestcraft:brownieItem, Брауни
+harvestcraft:papayajuiceItem, Папаевый сок
+harvestcraft:papayasmoothieItem, Папаевый смузи
+harvestcraft:papayayogurtItem, Папаевый йогурт
+harvestcraft:starfruitjuiceItem, Сок из карамболы
+harvestcraft:starfruitsmoothieItem, Смузи из карамболы
+harvestcraft:starfruityogurtItem, Йогурт из карамболы
+harvestcraft:guacamoleItem, Гуакамоле
+harvestcraft:creamofavocadosoupItem, Крем-суп из авокадо
+harvestcraft:avocadoburritoItem, Буррито с авокадо
+harvestcraft:poachedpearItem, Груша-пашот
+harvestcraft:fruitcrumbleItem, Фруктовая крамбль
+harvestcraft:pearyogurtItem, Грушевый йогурт
+harvestcraft:plumyogurtItem, Сливовый йогурт
+harvestcraft:bananasplitItem, Банановый сплит
+harvestcraft:banananutbreadItem, Хлеб с бананом и орехами
+harvestcraft:bananasmoothieItem, Банановый смузи
+harvestcraft:bananayogurtItem, Банановый йогурт
+harvestcraft:coconutmilkItem, Кокосовое молоко
+harvestcraft:chickencurryItem, Куриное карри
+harvestcraft:coconutshrimpItem, Креветки в кокосовом молоке
+harvestcraft:coconutyogurtItem, Кокосовый йогурт
+harvestcraft:orangejuiceItem, Апельсиновый сок
+harvestcraft:orangechickenItem, Курица с апельсином
+harvestcraft:orangesmoothieItem, Апельсиновый смузи
+harvestcraft:orangeyogurtItem, Апельсиновый йогурт
+harvestcraft:peachjuiceItem, Персиковый сок
+harvestcraft:peachcobblerItem, Персиковый коблер
+harvestcraft:peachsmoothieItem, Персиковый смузи
+harvestcraft:peachyogurtItem, Персиковый йогурт
+harvestcraft:limejuiceItem, Лаймовый сок
+harvestcraft:keylimepieItem, Лаймовый пирог
+harvestcraft:limesmoothieItem, Лаймовый смузи
+harvestcraft:limeyogurtItem, Лаймовый йогурт
+harvestcraft:mangojuiceItem, Манговый сок
+harvestcraft:mangosmoothieItem, Манговый смузи
+harvestcraft:mangoyogurtItem, Манговый йогурт
+harvestcraft:pomegranatejuiceItem, Гранатовый сок
+harvestcraft:pomegranatesmoothieItem, Гранатовый смузи
+harvestcraft:pomegranateyogurtItem, Гранатовый йогурт
+harvestcraft:vanillayogurtItem, Ванильный йогурт
+harvestcraft:cinnamonrollItem, Коричная плюшка
+harvestcraft:frenchtoastItem, Французкий тост
+harvestcraft:marshmellowsItem, Маршмэллоу
+harvestcraft:donutItem, Пончик
+harvestcraft:chocolatedonutItem, Шоколадный пончик
+harvestcraft:powdereddonutItem, Посыпанный пончик
+harvestcraft:jellydonutItem, Пончик с желе
+harvestcraft:frosteddonutItem, Глазированный пончик
+harvestcraft:cactussoupItem, Кактусовый суп
+harvestcraft:wafflesItem, Вафли
+harvestcraft:seedsoupItem, Суп из семян
+harvestcraft:softpretzelItem, Мягкий брецель
+harvestcraft:jellybeansItem, Мармеладные бобы
+harvestcraft:biscuitItem, Бисквит
+harvestcraft:creamcookieItem, Кремовое печенье
+harvestcraft:jaffaItem, Яффа-торт
+harvestcraft:friedchickenItem, Жареный цыплёнок
+harvestcraft:chocolatesprinklecakeItem, Шоколадный торт со сладостями
+harvestcraft:redvelvetcakeItem, Красный бархатный торт
+harvestcraft:footlongItem, Длинный хот-дог
+harvestcraft:blueberryyogurtItem, Черничный йогурт
+harvestcraft:lemonyogurtItem, Лимонный йогурт
+harvestcraft:cherryyogurtItem, Вишёнвый йогурт
+harvestcraft:strawberryyogurtItem, Клубничный йогурт
+harvestcraft:grapeyogurtItem, Виноградный йогурт
+harvestcraft:chocolateyogurtItem, Шоколадный йогурт
+harvestcraft:blackberryjuiceItem, Ежевичный сок
+harvestcraft:blackberrycobblerItem, Ежевичный коблер
+harvestcraft:blackberrysmoothieItem, Ежевичный смузи
+harvestcraft:blackberryyogurtItem, Ежевичный йогурт
+harvestcraft:chocolatemilkItem, Шоколадное молоко
+harvestcraft:pumpkinyogurtItem, Тыквенный йогурт
+harvestcraft:raspberryjuiceItem, Малиновый сок
+harvestcraft:raspberrypieItem, Малиновый пирог
+harvestcraft:raspberrysmoothieItem, Малиновый смузи
+harvestcraft:raspberryyogurtItem, Малиновый йогурт
+harvestcraft:cinnamonsugardonutItem, Пончик с корицей и сахаром
+harvestcraft:melonyogurtItem, Арбузный йогурт
+harvestcraft:kiwijuiceItem, Кивиевый сок
+harvestcraft:kiwismoothieItem, Кивиевый смузи
+harvestcraft:kiwiyogurtItem, Кивиевый йогурт
+harvestcraft:plainyogurtItem, Обычный йогурт
+harvestcraft:appleyogurtItem, Яблочный йогурт
+harvestcraft:saltedsunflowerseedsItem, Солёные семечки подсолнуха
+harvestcraft:sunflowerwheatrollsItem, Плюшка с семечками подсолнуха
+harvestcraft:sunflowerbroccolisaladItem, Салат с брокколи и семечками подсолнуха
+harvestcraft:cranberryjuiceItem, Клюквенный сок
+harvestcraft:cranberrysauceItem, Клюквенный сироп
+harvestcraft:cranberrybarItem, Клюквенная плитка
+harvestcraft:peppermintItem, Перечная мята
+harvestcraft:cactusfruitjuiceItem, Сок из плода кактуса
+harvestcraft:blackpepperItem, Чёрный перец
+harvestcraft:groundcinnamonItem, Молотая корица
+harvestcraft:groundnutmegItem, Молотый мускатный орех
+harvestcraft:oliveoilItem, Растительное масло
+harvestcraft:baklavaItem, Баклава
+harvestcraft:gummybearsItem, Мармеладные мишки
+harvestcraft:baconmushroomburgerItem, Бургер с беконом и грибами
+harvestcraft:fruitpunchItem, Фруктовый пунш
+harvestcraft:meatystewItem, Мясное рагу
+harvestcraft:mixedsaladItem, Смешанный салат
+harvestcraft:pinacoladaItem, Пинья колада
+harvestcraft:saladdressingItem, Приправа к салату
+harvestcraft:shepardspieItem, Пастуший пирог
+harvestcraft:eggnogItem, Эгг-ног
+harvestcraft:custardItem, Кастард
+harvestcraft:sushiItem, Суши
+harvestcraft:gardensoupItem, Садовый суп
+harvestcraft:applejellyItem, Яблочное желе
+harvestcraft:applejellysandwichItem, Сэндвич с яблочным желе
+harvestcraft:blackberryjellyItem, Ежевичное желе
+harvestcraft:blackberryjellysandwichItem, Сэндвич с ежевичным желе
+harvestcraft:blueberryjellyItem, Черничное желе
+harvestcraft:blueberryjellysandwichItem, Сэндвич с черничным желе
+harvestcraft:cherryjellyItem, Вишнёвое желе
+harvestcraft:cherryjellysandwichItem, Сэндвич с вишнёвым желе
+harvestcraft:cranberryjellyItem, Клюквенное желе
+harvestcraft:cranberryjellysandwichItem, Сэндвич с клюквенным желе
+harvestcraft:kiwijellyItem, Кивиевое желе
+harvestcraft:kiwijellysandwichItem, Сэндвич с кивиевым желе
+harvestcraft:lemonjellyItem, Лимонное желе
+harvestcraft:lemonjellysandwichItem, Сэндвич с лимонным желе
+harvestcraft:limejellyItem, Лаймовое желе
+harvestcraft:limejellysandwichItem, Сэндвич с лаймовым желе
+harvestcraft:mangojellyItem, Манговое желе
+harvestcraft:mangojellysandwichItem, Сэндвич с манговым желе
+harvestcraft:orangejellyItem, Апельсиновое желе
+harvestcraft:orangejellysandwichItem, Сэндвич с апельсиновым желе
+harvestcraft:papayajellyItem, Папайевое желе
+harvestcraft:papayajellysandwichItem, Сэндвич с папайевым желе
+harvestcraft:peachjellyItem, Персиковое желе
+harvestcraft:peachjellysandwichItem, Сэндвич с персиковым желе
+harvestcraft:pomegranatejellyItem, Гранатовое желе
+harvestcraft:pomegranatejellysandwichItem, Сэндвич с гранатовым желе
+harvestcraft:raspberryjellyItem, Малиновое желе
+harvestcraft:raspberryjellysandwichItem, Сэндвич с малиновым желе
+harvestcraft:starfruitjellyItem, Желе из карамболы
+harvestcraft:starfruitjellysandwichItem, Сэндвич с желе из карамболы
+harvestcraft:strawberryjellyItem, Клубничное желе
+harvestcraft:strawberryjellysandwichItem, Сэндвич с клубничным желе
+harvestcraft:watermelonjellyItem, Арбузное желе
+harvestcraft:watermelonjellysandwichItem, Сэндвич с арбузным желе
+harvestcraft:bubblywaterItem, Газированная вода
+harvestcraft:cherrysodaItem, Вишнёвая газировка
+harvestcraft:colasodaItem, Кола
+harvestcraft:gingersodaItem, Имбирный эль
+harvestcraft:grapesodaItem, Виноградная газировка
+harvestcraft:lemonlimesodaItem, Газировка лимон-лайм
+harvestcraft:orangesodaItem, Апельсиновая газировка
+harvestcraft:rootbeersodaItem, Корневое пиво
+harvestcraft:strawberrysodaItem, Клубничная газировка
+harvestcraft:caramelicecreamItem, Карамельное мороженое
+harvestcraft:mintchocolatechipicemcreamItem, Мятное мороженое с шоколадной крошкой
+harvestcraft:strawberryicecreamItem, Клубничное мороженое
+harvestcraft:vanillaicecreamItem, Ванильное мороженое
+harvestcraft:gingerchickenItem, Курятина с имбирём
+harvestcraft:oldworldveggiesoupItem, Овощной суп старого света
+harvestcraft:spicebunItem, Приправленная булочка
+harvestcraft:gingeredrhubarbtartItem, Пирог с ревенем и имбирём
+harvestcraft:lambbarleysoupItem, Суп из ягнёнка и ячменя
+harvestcraft:honeylemonlambItem, Ягнёнок с мёдом и лимоном
+harvestcraft:pumpkinoatsconesItem, Тыквенные овсяные Булочки
+harvestcraft:beefjerkyItem, Вяленая говядина
+harvestcraft:plumjuiceItem, Сливовый сок
+harvestcraft:pearjuiceItem, Грушевый сок
+harvestcraft:ovenroastedcauliflowerItem, Жаренная цветная капуста
+harvestcraft:leekbaconsoupItem, Суп с луком-пореем и беконом
+harvestcraft:herbbutterparsnipsItem, Пастернак с маслом и травой
+harvestcraft:scallionbakedpotatoItem, Запечённый картофель с луком-шалотом
+harvestcraft:soymilkItem, Соевое молоко
+harvestcraft:firmtofuItem, Крепкий тофу
+harvestcraft:silkentofuItem, Мягкий тофу
+harvestcraft:bamboosteamedriceItem, Рис пропаренный бамбуком
+harvestcraft:roastedchestnutItem, Жареный каштан
+harvestcraft:sweetpotatosouffleItem, Суфле из сладкого картофеля
+harvestcraft:cashewchickenItem, Курица с кешью
+harvestcraft:apricotjuiceItem, Абрикосовый сок
+harvestcraft:apricotyogurtItem, Абрикосовый йогурт
+harvestcraft:apricotglazedporkItem, Свинина глазированная в абрикосе
+harvestcraft:apricotjellyItem, Абрикосовое желе
+harvestcraft:apricotjellysandwichItem, Сэндвич с абрикосовым желе
+harvestcraft:apricotsmoothieItem, Абрикосовый смузи
+harvestcraft:figbarItem, Плитка инжира
+harvestcraft:figjellyItem, Инжирное желе
+harvestcraft:figjellysandwichItem, Сэндвич с ижирном желе
+harvestcraft:figsmoothieItem, Инжирный смузи
+harvestcraft:figyogurtItem, Инжирный йогурт
+harvestcraft:figjuiceItem, Инжирный сок
+harvestcraft:grapefruitjuiceItem, Грейпфрутовый сок
+harvestcraft:grapefruitjellyItem, Грейпфрутовое желе
+harvestcraft:grapefruitjellysandwichItem, Сэндвич с грейпфрутовым желе
+harvestcraft:grapefruitsmoothieItem, Грейпфрутовый смузи
+harvestcraft:grapefruityogurtItem, Грейпфрутовый йогурт
+harvestcraft:grapefruitsodaItem, Грейпфрутовая газировка
+harvestcraft:citrussaladItem, Цитрусовый салат
+harvestcraft:pecanpieItem, Пирог с орехами пекан
+harvestcraft:pralinesItem, Пралины
+harvestcraft:persimmonjuiceItem, Хурмовый сок
+harvestcraft:persimmonyogurtItem, Хурмовый йогурт
+harvestcraft:persimmonsmoothieItem, Хурмовый смузи
+harvestcraft:persimmonjellyItem, Хурмовое желе
+harvestcraft:persimmonjellysandwichItem, Сэндвич с хурмовым желе
+harvestcraft:pistachiobakedsalmonItem, Запечённый лосось с фисташками
+harvestcraft:baconwrappeddatesItem, Финики обёрнутые беконом
+harvestcraft:datenutbreadItem, Хлеб с фиником и орехами
+harvestcraft:maplesyruppancakesItem, Блины с кленовым сиропом
+harvestcraft:maplesyrupwafflesItem, Вафли с кленовым сиропом
+harvestcraft:maplesausageItem, Колбаса с кленовым сиропом
+harvestcraft:mapleoatmealItem, Овсянка с кленовым сиропом
+harvestcraft:peachesandcreamoatmealItem, Овсянка с персиками и кремом
+harvestcraft:cinnamonappleoatmealItem, Овсянка с корицей и яблоком
+harvestcraft:maplecandiedbaconItem, Бекон засахаренный клёном
+harvestcraft:toastsandwichItem, Сэндвич из тостов
+harvestcraft:potatoandcheesepirogiItem, Пирог с картошкой и сыром
+harvestcraft:zeppoleItem, Пончик
+harvestcraft:sausageinbreadItem, Колбаса в хлебе
+harvestcraft:chocolatecaramelfudgeItem, Шоколадный карамельный фадж
+harvestcraft:lavendershortbreadItem, Лавандовый коржик
+harvestcraft:beefwellingtonItem, Биф Веллингтон
+harvestcraft:epicbaconItem, Эпический бекон
+harvestcraft:manjuuItem, Мандзю
+harvestcraft:chickengumboItem, Куриный гамбо
+harvestcraft:generaltsochickenItem, Курица генерала Тсо
+harvestcraft:californiarollItem, Ролл «Калифорния»
+harvestcraft:futomakiItem, Футомаки
+harvestcraft:beansontoastItem, Бобы на тосте
+harvestcraft:vegemiteItem, Веджимайт
+harvestcraft:honeycombchocolatebarItem, Шоколадно-медовая плитка
+harvestcraft:cherrycoconutchocolatebarItem, Вишнёвая-шоколадно-кокосовая плитка
+harvestcraft:fairybreadItem, Эльфийский хлеб
+harvestcraft:lamingtonItem, Ламингтон
+harvestcraft:timtamItem, Печенье «Тим Там»
+harvestcraft:meatpieItem, Мясной пирог
+harvestcraft:chikorollItem, Ролл «Чико»
+harvestcraft:damperItem, Содовый хлеб «Дампер» 
+harvestcraft:beetburgerItem, Свекольный бутерброд
+harvestcraft:pavlovaItem, Павлова
+harvestcraft:gherkinItem, Корнишон
+harvestcraft:mcpamItem, McPam
+harvestcraft:ceasarsaladItem, Салат «Цезарь»
+harvestcraft:chaoscookieItem, Печенье «Хаос»
+harvestcraft:chocolatebaconItem, Бекон в шоколаде
+harvestcraft:lambkebabItem, Кебаб
+harvestcraft:nutellaItem, Нутелла
+harvestcraft:snickersbarItem, Сникерс
+harvestcraft:spinachpieItem, Пирог со шпинатом
+harvestcraft:steamedspinachItem, Шпинат, приготовленный на пару
+harvestcraft:vegemiteontoastItem, Веджимайт на тосте
+harvestcraft:anchovyrawItem, Сырой анчоус
+harvestcraft:bassrawItem, Сырой басс
+harvestcraft:carprawItem, Сырой карп
+harvestcraft:catfishrawItem, Сырой сом
+harvestcraft:charrrawItem, Сырой голец
+harvestcraft:clamrawItem, Сырой моллюск
+harvestcraft:crabrawItem, Сырой краб
+harvestcraft:crayfishrawItem, Сырой рак
+harvestcraft:eelrawItem, Сырой угорь
+harvestcraft:frograwItem, Сырая лягушка
+harvestcraft:grouperrawItem, Сырой морской окунь
+harvestcraft:herringrawItem, Сырая сельдь
+harvestcraft:jellyfishrawItem, Сырая медуза
+harvestcraft:mudfishrawItem, Сырая ильная рыба
+harvestcraft:octopusrawItem, Сырой осьминог
+harvestcraft:perchrawItem, Сырой окунь
+harvestcraft:scalloprawItem, Сырой гребешок
+harvestcraft:shrimprawItem, Сырая креветка
+harvestcraft:snailrawItem, Сырая улитка
+harvestcraft:snapperrawItem, Сырой рифовый окунь
+harvestcraft:tilapiarawItem, Сырая тилапия
+harvestcraft:troutrawItem, Сырая форель
+harvestcraft:tunarawItem, Сырой тунец
+harvestcraft:turtlerawItem, Сырая черепаха
+harvestcraft:walleyerawItem, Сырой судак
+harvestcraft:holidaycakeItem, Holiday Cake
+harvestcraft:clamcookedItem, Cooked Clam
+harvestcraft:crabcookedItem, Cooked Crab
+harvestcraft:crayfishcookedItem, Cooked Crayfish
+harvestcraft:frogcookedItem, Cooked Frog Legs
+harvestcraft:octopuscookedItem, Cooked Octopus
+harvestcraft:scallopcookedItem, Cooked Scallop
+harvestcraft:shrimpcookedItem, Cooked Shrimp
+harvestcraft:snailcookedItem, Cooked Snail
+harvestcraft:turtlecookedItem, Cooked Turtle
+harvestcraft:appleciderItem, Apple Cider
+harvestcraft:bangersandmashItem, Bangers and Mash
+harvestcraft:batteredsausageItem, Battered Sausage
+harvestcraft:batterItem, Batter
+harvestcraft:chorizoItem, Chorizo
+harvestcraft:coleslawItem, Coleslaw
+harvestcraft:energydrinkItem, Energy Drink
+harvestcraft:friedonionsItem, Fried Onions
+harvestcraft:meatfeastpizzaItem, Meat Feast Pizza
+harvestcraft:mincepieItem, Mince Pie
+harvestcraft:onionhamburgerItem, Onion Hamburger
+harvestcraft:pepperoniItem, Pepperoni
+harvestcraft:pickledonionsItem, Pickled Onions
+harvestcraft:porksausageItem, Pork Sausage
+harvestcraft:raspberrytrifleItem, Raspberry Trifle
+harvestcraft:pumpkincheesecakeItem, Pumpkin Cheesecake
+harvestcraft:pumpkinmuffinItem, Pumpkin Muffin
+harvestcraft:suaderoItem, Suadero
+harvestcraft:randomtacoItem, Random Taco
+harvestcraft:turkeyrawItem, Raw Turkey
+harvestcraft:turkeycookedItem, Cooked Turkey
+harvestcraft:rabbitrawItem, Raw Rabbit
+harvestcraft:rabbitcookedItem, Cooked Rabbit
+harvestcraft:venisonrawItem, Raw Venison
+harvestcraft:venisoncookedItem, Cooked Venison
+harvestcraft:strawberrymilkshakeItem, Strawberry Milkshake
+harvestcraft:chocolatemilkshakeItem, Chocolate Milkshake
+harvestcraft:bananamilkshakeItem, Banana Milkeshake
+harvestcraft:cornflakesItem, Cornflakes
+harvestcraft:coleslawburgerItem, Coleslaw Burger
+harvestcraft:roastchickenItem, Roast Chicken
+harvestcraft:roastpotatoesItem, Roast Potatoes
+harvestcraft:sundayroastItem, Sunday Roast
+harvestcraft:bbqpulledporkItem, BBQ Pulled Pork
+harvestcraft:lambwithmintsauceItem, Lamb with Mint Sauce
+harvestcraft:steakandchipsItem, Steak and Chips
+harvestcraft:cherryicecreamItem, Cherry Ice Cream
+harvestcraft:pistachioicecreamItem, Pistachio Ice Cream
+harvestcraft:neapolitanicecreamItem, Neapolitan Ice Cream
+harvestcraft:spumoniicecreamItem, Spumoni Ice Cream
+harvestcraft:almondbutterItem, Almond Butter
+harvestcraft:cashewbutterItem, Cashew Butter
+harvestcraft:chestnutbutterItem, Chestnut Butter
+harvestcraft:cornishpastyItem, Cornish Pasty
+harvestcraft:cottagepieItem, Cottage Pie
+harvestcraft:croissantItem, Croissant
+harvestcraft:currypowderItem, Curry Powder
+harvestcraft:dimsumItem, Dim Sum
+harvestcraft:friedpecanokraItem, Fried Pecan Okra
+harvestcraft:gooseberryjellyItem, Gooseberry Jelly
+harvestcraft:gooseberryjellysandwichItem, Gooseberry Jelly Sandwich
+harvestcraft:gooseberrymilkshakeItem, Gooseberry Milkshake
+harvestcraft:gooseberrypieItem, Gooseberry Pie
+harvestcraft:gooseberrysmoothieItem, Gooseberry Smoothie
+harvestcraft:gooseberryyogurtItem, Gooseberry Yogurt
+harvestcraft:greenheartfishItem, Green Heart Fish
+harvestcraft:hamsweetpicklesandwichItem, Ham & Sweet Pickle Sandwich
+harvestcraft:hushpuppiesItem, Hushpuppies
+harvestcraft:kimchiItem, Kimchi
+harvestcraft:mochiItem, Mochi
+harvestcraft:museliItem, Museli
+harvestcraft:naanItem, Naan
+harvestcraft:okrachipsItem, Okra Chips
+harvestcraft:okracreoleItem, Okra Creole
+harvestcraft:pistachiobutterItem, Pistachio Butter
+harvestcraft:ploughmanslunchItem, Ploughman's Lunch
+harvestcraft:porklomeinItem, Pork Lo Mein
+harvestcraft:salmonpattiesItem, Salmon Patties
+harvestcraft:sausageItem, Sausage
+harvestcraft:sausagerollItem, Sausage Roll
+harvestcraft:sesameballItem, Sesame Ball
+harvestcraft:sesamesnapsItem, Sesame Snaps
+harvestcraft:shrimpokrahushpuppiesItem, Shrimp Pork Okra Hushpuppies
+harvestcraft:soysauceItem, Soy Sauce
+harvestcraft:sweetpickleItem, Sweet Pickle
+harvestcraft:veggiestripsItem, Veggie Strips
+harvestcraft:vindalooItem, Vindaloo
 PowerUtils:pu_storage_module:0, Module IC
 PowerUtils:pu_storage_module:1, Module TE
 PowerUtils:pu_storage_module:2, Module BC
@@ -14765,25 +15714,25 @@ ThermalDynamics:cover:0, Крышка (Плита из резного истин
 ThermalDynamics:cover:0, Крышка (Плита из резного истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
-ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
-ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
 ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
-ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
 ThermalDynamics:cover:0, Крышка (Пропитанный Aqua огонь)
-ThermalDynamics:cover:0, Крышка (Админиум-портал)
-ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
+ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
 ThermalDynamics:cover:0, Крышка (Пропитанный Aer огонь)
+ThermalDynamics:cover:0, Крышка (Ступеньки закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
 ThermalDynamics:cover:0, Крышка (Блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Резной блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Колонна из закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Ступеньки закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
-ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
+ThermalDynamics:cover:0, Крышка (Админиум-портал)
+ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Пропитанный Ordo огонь)
+ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
+ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
+ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
+ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
 ThermalDynamics:cover:0, Крышка (Таумический торт)
 ThermalDynamics:cover:0, Крышка (Мрачная роза)
 ThermalDynamics:cover:0, Крышка (Блок звезды Нижнего мира)
@@ -16449,7 +17398,7 @@ ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича с
 ThermalDynamics:cover:0, Крышка (Жидкая светящиеся пыль)
 ThermalDynamics:cover:0, Крышка (Жидкая магма)
 ThermalDynamics:cover:0, Крышка (Жидкий азот)
-ThermalDynamics:cover:0, Крышка (Жидкая кристаллическая вода)
+ThermalDynamics:cover:0, Крышка (Соляная руда)
 ThermalDynamics:cover:0, Крышка (Замёрзшая вода)
 ThermalDynamics:cover:0, Крышка (Радиоактивная вода)
 ThermalDynamics:cover:0, Крышка (Заражённая вода)
@@ -16688,6 +17637,185 @@ ThermalDynamics:cover:0, Крышка (§dПурпурный Пластиков�
 ThermalDynamics:cover:0, Крышка (§6Оранжевый Пластиковый забор)
 ThermalDynamics:cover:0, Крышка (§fБелый Пластиковый забор)
 ThermalDynamics:cover:0, Крышка (Блок соли)
+ThermalDynamics:cover:0, Крышка (Разделочная доска)
+ThermalDynamics:cover:0, Крышка (Горшок)
+ThermalDynamics:cover:0, Крышка (Пчелиный улей)
+ThermalDynamics:cover:0, Крышка (tile.sink.name)
+ThermalDynamics:cover:0, Крышка (tile.sink.name)
+ThermalDynamics:cover:0, Крышка (tile.sink.name)
+ThermalDynamics:cover:0, Крышка (tile.sink.name)
+ThermalDynamics:cover:0, Крышка (Соляная руда)
+ThermalDynamics:cover:0, Крышка (Compressed Salt Block)
+ThermalDynamics:cover:0, Крышка (Ягодный куст)
+ThermalDynamics:cover:0, Крышка (Пустынный куст)
+ThermalDynamics:cover:0, Крышка (Травяной куст)
+ThermalDynamics:cover:0, Крышка (Тыквенный куст)
+ThermalDynamics:cover:0, Крышка (Земляной куст)
+ThermalDynamics:cover:0, Крышка (Лекарственный куст)
+ThermalDynamics:cover:0, Крышка (Лиственный куст)
+ThermalDynamics:cover:0, Крышка (Грибной куст)
+ThermalDynamics:cover:0, Крышка (Стебельковый куст)
+ThermalDynamics:cover:0, Крышка (Текстильный куст)
+ThermalDynamics:cover:0, Крышка (Тропический куст)
+ThermalDynamics:cover:0, Крышка (Водный куст)
+ThermalDynamics:cover:0, Крышка (Яблоко)
+ThermalDynamics:cover:0, Крышка (Саженец яблони)
+ThermalDynamics:cover:0, Крышка (Миндаль)
+ThermalDynamics:cover:0, Крышка (Саженец миндаля)
+ThermalDynamics:cover:0, Крышка (Абрикос)
+ThermalDynamics:cover:0, Крышка (Саженец абрикоса)
+ThermalDynamics:cover:0, Крышка (Авокадо)
+ThermalDynamics:cover:0, Крышка (Саженец авокадо)
+ThermalDynamics:cover:0, Крышка (Банан)
+ThermalDynamics:cover:0, Крышка (Саженец банана)
+ThermalDynamics:cover:0, Крышка (Кешью)
+ThermalDynamics:cover:0, Крышка (Саженец кешью)
+ThermalDynamics:cover:0, Крышка (Вишня)
+ThermalDynamics:cover:0, Крышка (Саженец вишни)
+ThermalDynamics:cover:0, Крышка (Каштан)
+ThermalDynamics:cover:0, Крышка (Саженец каштана)
+ThermalDynamics:cover:0, Крышка (Корица)
+ThermalDynamics:cover:0, Крышка (Саженец корицы)
+ThermalDynamics:cover:0, Крышка (Кокос)
+ThermalDynamics:cover:0, Крышка (Саженец кокоса)
+ThermalDynamics:cover:0, Крышка (Финик)
+ThermalDynamics:cover:0, Крышка (Саженец финика)
+ThermalDynamics:cover:0, Крышка (Питайя)
+ThermalDynamics:cover:0, Крышка (Саженец питайи)
+ThermalDynamics:cover:0, Крышка (Дуриан)
+ThermalDynamics:cover:0, Крышка (Саженец дуриана)
+ThermalDynamics:cover:0, Крышка (Инжир)
+ThermalDynamics:cover:0, Крышка (Саженец инжира)
+ThermalDynamics:cover:0, Крышка (Грейпфрут)
+ThermalDynamics:cover:0, Крышка (Саженец грейпфрута)
+ThermalDynamics:cover:0, Крышка (Лимон)
+ThermalDynamics:cover:0, Крышка (Саженец лимона)
+ThermalDynamics:cover:0, Крышка (Лайм)
+ThermalDynamics:cover:0, Крышка (Саженец лайма)
+ThermalDynamics:cover:0, Крышка (Клён)
+ThermalDynamics:cover:0, Крышка (Саженец клёна)
+ThermalDynamics:cover:0, Крышка (Манго)
+ThermalDynamics:cover:0, Крышка (Саженец манго)
+ThermalDynamics:cover:0, Крышка (Мускатный орех)
+ThermalDynamics:cover:0, Крышка (Саженец мускатного ореха)
+ThermalDynamics:cover:0, Крышка (Олива)
+ThermalDynamics:cover:0, Крышка (Саженец оливы)
+ThermalDynamics:cover:0, Крышка (Апельсин)
+ThermalDynamics:cover:0, Крышка (Саженец апельсина)
+ThermalDynamics:cover:0, Крышка (Папайя)
+ThermalDynamics:cover:0, Крышка (Саженец папайи)
+ThermalDynamics:cover:0, Крышка (Мелалеука)
+ThermalDynamics:cover:0, Крышка (Саженец мелалеука)
+ThermalDynamics:cover:0, Крышка (Персик)
+ThermalDynamics:cover:0, Крышка (Саженец персика)
+ThermalDynamics:cover:0, Крышка (Груша)
+ThermalDynamics:cover:0, Крышка (Саженец груши)
+ThermalDynamics:cover:0, Крышка (Пекан)
+ThermalDynamics:cover:0, Крышка (Саженец пекана)
+ThermalDynamics:cover:0, Крышка (Перец)
+ThermalDynamics:cover:0, Крышка (Саженец перца)
+ThermalDynamics:cover:0, Крышка (Хурма)
+ThermalDynamics:cover:0, Крышка (Саженец хурмы)
+ThermalDynamics:cover:0, Крышка (Фисташка)
+ThermalDynamics:cover:0, Крышка (Саженец фисташки)
+ThermalDynamics:cover:0, Крышка (Слива)
+ThermalDynamics:cover:0, Крышка (Саженец сливы)
+ThermalDynamics:cover:0, Крышка (Гранат)
+ThermalDynamics:cover:0, Крышка (Саженец граната)
+ThermalDynamics:cover:0, Крышка (Карамбола)
+ThermalDynamics:cover:0, Крышка (Саженец карамболы)
+ThermalDynamics:cover:0, Крышка (Ванильный стручок)
+ThermalDynamics:cover:0, Крышка (Саженец ванили)
+ThermalDynamics:cover:0, Крышка (Грецкий орех)
+ThermalDynamics:cover:0, Крышка (Саженец грецкого ореха)
+ThermalDynamics:cover:0, Крышка (Goosberry)
+ThermalDynamics:cover:0, Крышка (Gooseberry Sapling)
+ThermalDynamics:cover:0, Крышка (Ежевика)
+ThermalDynamics:cover:0, Крышка (Черника)
+ThermalDynamics:cover:0, Крышка (Свечная ягода)
+ThermalDynamics:cover:0, Крышка (Малина)
+ThermalDynamics:cover:0, Крышка (Клубника)
+ThermalDynamics:cover:0, Крышка (Плод кактуса)
+ThermalDynamics:cover:0, Крышка (Спаржа)
+ThermalDynamics:cover:0, Крышка (Ячмень)
+ThermalDynamics:cover:0, Крышка (Овёс)
+ThermalDynamics:cover:0, Крышка (Рожь)
+ThermalDynamics:cover:0, Крышка (Кукуруза)
+ThermalDynamics:cover:0, Крышка (Бамбук)
+ThermalDynamics:cover:0, Крышка (Канталупа)
+ThermalDynamics:cover:0, Крышка (Огурец)
+ThermalDynamics:cover:0, Крышка (Зимняя тыква)
+ThermalDynamics:cover:0, Крышка (Цуккини)
+ThermalDynamics:cover:0, Крышка (Свёкла)
+ThermalDynamics:cover:0, Крышка (Репчатый лук)
+ThermalDynamics:cover:0, Крышка (Пастернак)
+ThermalDynamics:cover:0, Крышка (Арахис)
+ThermalDynamics:cover:0, Крышка (Редис)
+ThermalDynamics:cover:0, Крышка (Брюква)
+ThermalDynamics:cover:0, Крышка (Сладкий картофель)
+ThermalDynamics:cover:0, Крышка (Репа)
+ThermalDynamics:cover:0, Крышка (Ревень)
+ThermalDynamics:cover:0, Крышка (Сельдерей)
+ThermalDynamics:cover:0, Крышка (Чеснок)
+ThermalDynamics:cover:0, Крышка (Имбирь)
+ThermalDynamics:cover:0, Крышка (Лист пряностей)
+ThermalDynamics:cover:0, Крышка (Чайный лист)
+ThermalDynamics:cover:0, Крышка (Кофейные бобы)
+ThermalDynamics:cover:0, Крышка (Горчица)
+ThermalDynamics:cover:0, Крышка (Брокколи)
+ThermalDynamics:cover:0, Крышка (Цветная капуста)
+ThermalDynamics:cover:0, Крышка (Лук-порей)
+ThermalDynamics:cover:0, Крышка (Латук)
+ThermalDynamics:cover:0, Крышка (Лук-шалот)
+ThermalDynamics:cover:0, Крышка (Артишок)
+ThermalDynamics:cover:0, Крышка (Брюссельская капуста)
+ThermalDynamics:cover:0, Крышка (Капуста)
+ThermalDynamics:cover:0, Крышка (Шпинат)
+ThermalDynamics:cover:0, Крышка (Белый гриб)
+ThermalDynamics:cover:0, Крышка (Бобы)
+ThermalDynamics:cover:0, Крышка (Соевые бобы)
+ThermalDynamics:cover:0, Крышка (Болгарский перец)
+ThermalDynamics:cover:0, Крышка (Перец чили)
+ThermalDynamics:cover:0, Крышка (Баклажан)
+ThermalDynamics:cover:0, Крышка (Окра)
+ThermalDynamics:cover:0, Крышка (Горох)
+ThermalDynamics:cover:0, Крышка (Помидор)
+ThermalDynamics:cover:0, Крышка (Хлопок)
+ThermalDynamics:cover:0, Крышка (Ананас)
+ThermalDynamics:cover:0, Крышка (Виноград)
+ThermalDynamics:cover:0, Крышка (Киви)
+ThermalDynamics:cover:0, Крышка (Клюква)
+ThermalDynamics:cover:0, Крышка (Рис)
+ThermalDynamics:cover:0, Крышка (Водоросли)
+ThermalDynamics:cover:0, Крышка (Curry Leaf Crop)
+ThermalDynamics:cover:0, Крышка (Sesame Seeds Crop)
+ThermalDynamics:cover:0, Крышка (Water Chestnut Crop)
+ThermalDynamics:cover:0, Крышка (Белая свечка)
+ThermalDynamics:cover:0, Крышка (Оранжевая свечка)
+ThermalDynamics:cover:0, Крышка (Сиреневая свечка)
+ThermalDynamics:cover:0, Крышка (Светло-синяя свечка)
+ThermalDynamics:cover:0, Крышка (Жёлтая свечка)
+ThermalDynamics:cover:0, Крышка (Лаймовая свечка)
+ThermalDynamics:cover:0, Крышка (Розовая свечка)
+ThermalDynamics:cover:0, Крышка (Тёмно-серая свечка)
+ThermalDynamics:cover:0, Крышка (Светло-серая свечка)
+ThermalDynamics:cover:0, Крышка (Бирюзовая свечка)
+ThermalDynamics:cover:0, Крышка (Фиолетовая свечка)
+ThermalDynamics:cover:0, Крышка (Синяя свечка)
+ThermalDynamics:cover:0, Крышка (Коричневая свечка)
+ThermalDynamics:cover:0, Крышка (Зелёная свечка)
+ThermalDynamics:cover:0, Крышка (Красная свечка)
+ThermalDynamics:cover:0, Крышка (Чёрная свечка)
+ThermalDynamics:cover:0, Крышка (Морковный торт)
+ThermalDynamics:cover:0, Крышка (Чизкейк)
+ThermalDynamics:cover:0, Крышка (Вишнёвый чизкейк)
+ThermalDynamics:cover:0, Крышка (Ананасовый перевёрнутый торт)
+ThermalDynamics:cover:0, Крышка (Торт, посыпанный шоколадом)
+ThermalDynamics:cover:0, Крышка (Красный бархатный торт)
+ThermalDynamics:cover:0, Крышка (Ламингтон)
+ThermalDynamics:cover:0, Крышка (Павлова)
+ThermalDynamics:cover:0, Крышка (Holiday Cake)
+ThermalDynamics:cover:0, Крышка (Pumpkin Cheese Cake)
 ThermalDynamics:cover:0, Крышка (Катализатор Новы)
 ThermalDynamics:cover:0, Крышка (Катаклизм Новы)
 ThermalDynamics:cover:0, Крышка (Стол трансмутаций)
@@ -17355,6 +18483,8 @@ WitchingGadgets:item.WG_PrimordialHelm, Primordial Helm
 WitchingGadgets:item.WG_PrimordialChest, Primordial Cuirass
 WitchingGadgets:item.WG_PrimordialLegs, Primordial Greaves
 WitchingGadgets:item.WG_PrimordialBoots, Primordial Boots
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
+WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
 WitchingGadgets:item.WG_CrystalFlask:0, Crystal Capsule
