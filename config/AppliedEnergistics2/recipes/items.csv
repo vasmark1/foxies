@@ -1680,43 +1680,43 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Плита из резног
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Плита из резного истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Плита из колонны истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Плита из колонны истинного кварца
-ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
-ThaumicTinkerer:fireWater, Пропитанный Aqua огонь
-ThaumicTinkerer:funnel, Воронка для эссенции
-ThaumicTinkerer:interface, Трансвектор
-ThaumicTinkerer:animationTablet, Динамическая дощечка
-ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
-ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
-ThaumicTinkerer:enchanter, Осмотический стол зачарований
-ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
-ThaumicTinkerer:dislocator, Трансвекторный дислокатор
-ThaumicTinkerer:fireAir, Пропитанный Aer огонь
+ThaumicTinkerer:forcefield, Силовое поле
 ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
-ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
+ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
+ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
+ThaumicTinkerer:spawner, Пьедестал некроманта
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:magnet:0, Кинетический притяжатель
 ThaumicTinkerer:magnet:1, Материальный притяжатель
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:bedrockPortal, Админиум-портал
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:warpGate, Небесный портал
+ThaumicTinkerer:animationTablet, Динамическая дощечка
+ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
+ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
+ThaumicTinkerer:platform, Эфирная платформа
+ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
+ThaumicTinkerer:fireWater, Пропитанный Aqua огонь
 ThaumicTinkerer:darkQuartz:0, Блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:1, Резной блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:2, Колонна из закоптившегося кварца
-ThaumicTinkerer:Levitational Locomotive, Левитатор
-ThaumicTinkerer:bedrockPortal, Админиум-портал
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:repairer, Таум-восстановитель
-ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
-ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
-ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:platform, Эфирная платформа
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:forcefield, Силовое поле
-ThaumicTinkerer:spawner, Пьедестал некроманта
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:warpGate, Небесный портал
 ThaumicTinkerer:travelSlab:0, Тротуарная плита путешествия
 ThaumicTinkerer:travelSlabFull:0, Тротуарная плита путешествия
-ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
-ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
+ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
+ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
+ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
+ThaumicTinkerer:dislocator, Трансвекторный дислокатор
+ThaumicTinkerer:funnel, Воронка для эссенции
+ThaumicTinkerer:enchanter, Осмотический стол зачарований
+ThaumicTinkerer:Levitational Locomotive, Левитатор
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:fireAir, Пропитанный Aer огонь
+ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
+ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
+ThaumicTinkerer:interface, Трансвектор
 ForbiddenMagic:ArcaneCake, Таумический торт
 ForbiddenMagic:WrathCage, Клетка гнева
 ForbiddenMagic:InkFlower, Мрачная роза
@@ -7592,10 +7592,10 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изме�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из резного истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из колонны истинного кварца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной блок закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна из закоптившегося кварца
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тротуарная плита путешествия
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок звезды Нижнего мира
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зараженная древесина
@@ -12184,8 +12184,6 @@ evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
-evilcraft:biomeExtract:1, Biome Extract
-evilcraft:biomeExtract:1, Biome Extract
 evilcraft:environmentalAccumulationCore, Environmental Accumulation Core
 evilcraft:maceOfDestruction, Mace of Destruction
 evilcraft:garmonbozia, Garmonbozia
@@ -15714,25 +15712,25 @@ ThermalDynamics:cover:0, Крышка (Плита из резного истин
 ThermalDynamics:cover:0, Крышка (Плита из резного истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
-ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Aqua огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Aer огонь)
 ThermalDynamics:cover:0, Крышка (Ступеньки закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
+ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
+ThermalDynamics:cover:0, Крышка (Админиум-портал)
+ThermalDynamics:cover:0, Крышка (Пропитанный Ordo огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Aqua огонь)
 ThermalDynamics:cover:0, Крышка (Блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Резной блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Колонна из закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Админиум-портал)
-ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Пропитанный Ordo огонь)
-ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
+ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
+ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
+ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
+ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
 ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
-ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
-ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
+ThermalDynamics:cover:0, Крышка (Пропитанный Aer огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
 ThermalDynamics:cover:0, Крышка (Таумический торт)
 ThermalDynamics:cover:0, Крышка (Мрачная роза)
 ThermalDynamics:cover:0, Крышка (Блок звезды Нижнего мира)
