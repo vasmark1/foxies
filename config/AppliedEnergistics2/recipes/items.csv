@@ -1680,43 +1680,43 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Плита из резног
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Плита из резного истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Плита из колонны истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Плита из колонны истинного кварца
-ThaumicTinkerer:forcefield, Силовое поле
-ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
-ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
-ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
-ThaumicTinkerer:spawner, Пьедестал некроманта
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:magnet:0, Кинетический притяжатель
-ThaumicTinkerer:magnet:1, Материальный притяжатель
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:bedrockPortal, Админиум-портал
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
 ThaumicTinkerer:warpGate, Небесный портал
 ThaumicTinkerer:animationTablet, Динамическая дощечка
-ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
-ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
-ThaumicTinkerer:platform, Эфирная платформа
-ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:interface, Трансвектор
+ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
+ThaumicTinkerer:Levitational Locomotive, Левитатор
 ThaumicTinkerer:fireWater, Пропитанный Aqua огонь
+ThaumicTinkerer:dislocator, Трансвекторный дислокатор
+ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
 ThaumicTinkerer:darkQuartz:0, Блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:1, Резной блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:2, Колонна из закоптившегося кварца
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:magnet:0, Кинетический притяжатель
+ThaumicTinkerer:magnet:1, Материальный притяжатель
+ThaumicTinkerer:enchanter, Осмотический стол зачарований
+ThaumicTinkerer:spawner, Пьедестал некроманта
+ThaumicTinkerer:bedrockPortal, Админиум-портал
 ThaumicTinkerer:repairer, Таум-восстановитель
+ThaumicTinkerer:forcefield, Силовое поле
+ThaumicTinkerer:platform, Эфирная платформа
+ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
+ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
 ThaumicTinkerer:travelSlab:0, Тротуарная плита путешествия
 ThaumicTinkerer:travelSlabFull:0, Тротуарная плита путешествия
-ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
-ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
-ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
-ThaumicTinkerer:dislocator, Трансвекторный дислокатор
 ThaumicTinkerer:funnel, Воронка для эссенции
-ThaumicTinkerer:enchanter, Осмотический стол зачарований
-ThaumicTinkerer:Levitational Locomotive, Левитатор
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
 ThaumicTinkerer:fireAir, Пропитанный Aer огонь
-ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
+ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
-ThaumicTinkerer:interface, Трансвектор
+ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
+ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
+ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
 ForbiddenMagic:ArcaneCake, Таумический торт
 ForbiddenMagic:WrathCage, Клетка гнева
 ForbiddenMagic:InkFlower, Мрачная роза
@@ -1921,6 +1921,17 @@ ThaumicHorizons:leviathanTH, Сингулярные останки
 ThaumicHorizons:slotTH, Слот для ключ-камня
 ThaumicHorizons:portalTH, tile.null.name
 ThaumicHorizons:gatewayTH, Планарные врата
+ae2fc:certus_quartz_tank, Резервуар из истинного кварца - %s
+ae2fc:fluid_auto_filler, МЭ жидкостный авто-заполнитель
+ae2fc:fluid_discretizer, Дискретизатор жидкости
+ae2fc:level_maintainer, МЭ поддерживатель уровня
+ae2fc:fluid_pattern_encoder, Кодировщик жидкостных шаблонов
+ae2fc:fluid_packet_decoder, МЭ декодер жидкостных пакетов
+ae2fc:fluid_interface, МЭ двойной интерфейс
+ae2fc:ingredient_buffer, Буфер ингредиентов
+ae2fc:fluid_buffer, МЭ жидкостный буфер
+ae2fc:large_ingredient_buffer, Большой буфер ингредиентов
+ae2fc:walrus, Морж
 ae2stuff:Encoder, Кодировщик шаблонов
 ae2stuff:Grower, Камера для выращивания кристаллов
 ae2stuff:Inscriber, Продвинутый высекатель
@@ -4438,6 +4449,14 @@ gadomancy:BlockAuraPylon:0, Аура-пилон
 gadomancy:BlockAuraPylon:1, Шпиль Аура-пилона
 gadomancy:BlockKnowledgeBook, Книга Mudрости
 gadomancy:BlockEssentiaCompressor, Конденсатор эссенции
+MagicBees:magicbees.enchantedEarth, Enchanted Earth
+MagicBees:hive:0, Странный улей
+MagicBees:hive:1, Необычный улей
+MagicBees:hive:2, Резонирующий улей
+MagicBees:effectJar, Банка для сбора пчёл
+MagicBees:magicApiary, Magic Apiary
+MagicBees:manaAuraProvider, Mana Apiary Booster
+MagicBees:visAuraProvider, Vis Apiary Booster
 gendustry:fluid.Mutagen, Мутаген
 gendustry:fluid.LiquidDNA, Жидкий ДНК
 gendustry:fluid.Protein, Протеин
@@ -4914,6 +4933,18 @@ Mekanism:GasTank:0, Продвинутый газовый баллон
 Mekanism:GasTank:0, Элитный газовый баллон
 Mekanism:GasTank:0, Совершенный газовый баллон
 Mekanism:CardboardBox, Картонная коробка
+minecraft:record_13, Пластинка
+minecraft:record_cat, Пластинка
+minecraft:record_blocks, Пластинка
+minecraft:record_chirp, Пластинка
+minecraft:record_far, Пластинка
+minecraft:record_mall, Пластинка
+minecraft:record_mellohi, Пластинка
+minecraft:record_stal, Пластинка
+minecraft:record_strad, Пластинка
+minecraft:record_ward, Пластинка
+minecraft:record_11, Пластинка
+minecraft:record_wait, Пластинка
 Mekanism:PlasticBlock:0, §8Черный Пластиковый блок
 Mekanism:PlasticBlock:1, §cКрасный Пластиковый блок
 Mekanism:PlasticBlock:2, §2Зеленый Пластиковый блок
@@ -5037,18 +5068,6 @@ harvestcraft:beehive, Пчелиный улей
 harvestcraft:apiary, Пасека
 harvestcraft:presser, Прессовщик
 harvestcraft:sink, tile.sink.name
-minecraft:record_13, Пластинка
-minecraft:record_cat, Пластинка
-minecraft:record_blocks, Пластинка
-minecraft:record_chirp, Пластинка
-minecraft:record_far, Пластинка
-minecraft:record_mall, Пластинка
-minecraft:record_mellohi, Пластинка
-minecraft:record_stal, Пластинка
-minecraft:record_strad, Пластинка
-minecraft:record_ward, Пластинка
-minecraft:record_11, Пластинка
-minecraft:record_wait, Пластинка
 harvestcraft:salt, Соляная руда
 harvestcraft:spamcompressedsaltBlockalt, Compressed Salt Block
 harvestcraft:market, Рынок
@@ -5261,6 +5280,52 @@ xreliquary:apothecary_mortar, Фармацевтический ступа
 xreliquary:lilypad, Кувшинка плодородия
 xreliquary:interdiction_torch, {{!yellow}}Факел запрета
 xreliquary:wraith_node, Призрачный узел
+StorageDrawers:fullDrawers1:0, Ящик из дуба
+StorageDrawers:fullDrawers1:1, Ящик из ели
+StorageDrawers:fullDrawers1:2, Ящик из берёзы
+StorageDrawers:fullDrawers1:3, Ящик из тропического дерева
+StorageDrawers:fullDrawers1:4, Ящик из акации
+StorageDrawers:fullDrawers1:5, Ящик из тёмного дуба
+StorageDrawers:fullDrawers2:0, Ящик из дуба 1x2
+StorageDrawers:fullDrawers2:1, Ящик из ели 1x2
+StorageDrawers:fullDrawers2:2, Ящик из берёзы 1x2
+StorageDrawers:fullDrawers2:3, Ящик из тропического дерева 1x2
+StorageDrawers:fullDrawers2:4, Ящик из акации 1x2
+StorageDrawers:fullDrawers2:5, Ящик из тёмного дуба 1x2
+StorageDrawers:fullDrawers4:0, Ящик из дуба 2x2
+StorageDrawers:fullDrawers4:1, Ящик из ели 2x2
+StorageDrawers:fullDrawers4:2, Ящик из берёзы 2x2
+StorageDrawers:fullDrawers4:3, Ящик из тропического дерева 2x2
+StorageDrawers:fullDrawers4:4, Ящик из акации 2x2
+StorageDrawers:fullDrawers4:5, Ящик из тёмного дуба 2x2
+StorageDrawers:halfDrawers2:0, Компактный ящик из дуба 1x2
+StorageDrawers:halfDrawers2:1, Компактный ящик из ели 1x2
+StorageDrawers:halfDrawers2:2, Компактный ящик из берёзы 1x2
+StorageDrawers:halfDrawers2:3, Компактный ящик из тропического дерева 1x2
+StorageDrawers:halfDrawers2:4, Компактный ящик из акации 1x2
+StorageDrawers:halfDrawers2:5, Компактный ящик из тёмного дуба 1x2
+StorageDrawers:halfDrawers4:0, Компактный ящик из дуба 2x2
+StorageDrawers:halfDrawers4:1, Компактный ящик из ели 2x2
+StorageDrawers:halfDrawers4:2, Компактный ящик из берёзы 2x2
+StorageDrawers:halfDrawers4:3, Компактный ящик из тропического дерева 2x2
+StorageDrawers:halfDrawers4:4, Компактный ящик из акации 2x2
+StorageDrawers:halfDrawers4:5, Компактный ящик из тёмного дуба 2x2
+StorageDrawers:compDrawers, Уплотняющий ящик
+StorageDrawers:controller, Контроллер ящиков
+StorageDrawers:controllerSlave, Подчинённый контроллера
+StorageDrawers:trim:0, Отделка из дуба
+StorageDrawers:trim:1, Отделка из ели
+StorageDrawers:trim:2, Отделка из берёзы
+StorageDrawers:trim:3, Отделка из тропического дерева
+StorageDrawers:trim:4, Отделка из акации
+StorageDrawers:trim:5, Отделка из тёмного дуба
+StorageDrawers:framingTable, Framing Table
+StorageDrawers:fullCustom1, Framed Drawer
+StorageDrawers:fullCustom2, Framed Drawers 1x2
+StorageDrawers:fullCustom4, Framed Drawers 2x2
+StorageDrawers:halfCustom2, Framed Drawers 1x2
+StorageDrawers:halfCustom4, Framed Drawers 2x2
+StorageDrawers:trimCustom, Framed Trim
 TaintedMagic:OreShadow, Shadow Ore
 TaintedMagic:WarpWood, Warpwood
 TaintedMagic:DenseWarpwood, Dense Warpwood
@@ -5275,6 +5340,15 @@ benway_knowledge:dummy:0, tile.benway_knowledge_dummy.0.name
 benway_knowledge:dummy:1, tile.benway_knowledge_dummy.1.name
 benway_knowledge:dummy:2, tile.benway_knowledge_dummy.2.name
 thaumicalchemy:essentiaAmalgamator:0, Essentia Amalgamator
+thaumicenergistics:thaumicenergistics.block.essentia.provider, Поставщик эссенции
+thaumicenergistics:thaumicenergistics.block.infusion.provider, Поставщик наполнения
+thaumicenergistics:thaumicenergistics.block.gear.box, Железная коробка передач
+thaumicenergistics:thaumicenergistics.block.golem.gear.box, Таумическая коробка передач
+thaumicenergistics:thaumicenergistics.block.essentia.cell.workbench, Верстак для ячеек эссенции
+thaumicenergistics:thaumicenergistics.block.arcane.assembler, Магический сборщик
+thaumicenergistics:thaumicenergistics.block.knowledge.inscriber, Высекатель знаний
+thaumicenergistics:thaumicenergistics.block.essentia.vibration.chamber, [WIP]Вибрационная камера эссенции
+thaumicenergistics:thaumicenergistics.block.distillation.encoder, Distillation Pattern Encoder
 thaumores:netherrackInfusedOre:0, Грозовая руда (Адский камень)
 thaumores:netherrackInfusedOre:1, Огненная руда (Адский камень)
 thaumores:netherrackInfusedOre:2, Ледяная рула (Адский камень)
@@ -6015,7 +6089,9 @@ Thaumcraft:ItemEssence:1, Пузырёк с эссенцией
 Thaumcraft:ItemEssence:1, Пузырёк с эссенцией
 Thaumcraft:ItemEssence:1, Пузырёк с эссенцией
 Thaumcraft:ItemEssence:1, Пузырёк с эссенцией
+Thaumcraft:ItemEssence:1, Пузырёк с эссенцией
 Thaumcraft:ItemManaBean:0, Магический боб
+Thaumcraft:ItemWispEssence:0, Эфирная эссенция
 Thaumcraft:ItemWispEssence:0, Эфирная эссенция
 Thaumcraft:ItemWispEssence:0, Эфирная эссенция
 Thaumcraft:ItemWispEssence:0, Эфирная эссенция
@@ -7185,6 +7261,7 @@ appliedenergistics2:item.ToolMassCannon, Материальная пушка
 appliedenergistics2:item.ToolMemoryCard, Карта памяти
 appliedenergistics2:item.ToolNetworkTool, Сетевой инструмент
 appliedenergistics2:item.ToolAdvancedNetworkTool, Advanced Network Tool
+appliedenergistics2:item.ToolPriorityCard, Priority Card
 appliedenergistics2:item.ToolPortableCell, Переносная ячейка
 appliedenergistics2:item.ItemCreativeStorageCell, МЭ творческая ячейка хранения
 appliedenergistics2:item.ItemVoidStorageCell, МЭ пустотная ячейка хранения
@@ -7592,10 +7669,10 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изме�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из резного истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из колонны истинного кварца
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной блок закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна из закоптившегося кварца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тротуарная плита путешествия
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок звезды Нижнего мира
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зараженная древесина
@@ -8444,6 +8521,9 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плит�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из кирпича сокровищницы Нептуна
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из камня Плутона
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из камня Эриды
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Странный улей
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Необычный улей
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резонирующий улей
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ториевая руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Рубиновая руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сапфировая руда
@@ -8654,6 +8734,12 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок 
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок алхимического угля
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок топлива Мёбиуса
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок эфирного топлива
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из дуба
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из ели
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из берёзы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из тропического дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из акации
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из тёмного дуба
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Shadow Ore
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Warpwood
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Dense Warpwood
@@ -9248,6 +9334,7 @@ appliedenergistics2:item.ItemMultiMaterial:27, Карта ёмкости
 appliedenergistics2:item.ItemMultiMaterial:53, Карта создания
 appliedenergistics2:item.ItemMultiMaterial:29, Карта нечёткости
 appliedenergistics2:item.ItemMultiMaterial:31, Карта инвертирования
+appliedenergistics2:item.ItemMultiMaterial:65, Locking Card
 appliedenergistics2:item.ItemMultiMaterial:55, Карта фильтрации по словарю руд
 appliedenergistics2:item.ItemMultiMaterial:54, Карта ёмкости интерфейса
 appliedenergistics2:item.ItemMultiMaterial:62, Карта автозагрузки шаблонов
@@ -9768,6 +9855,58 @@ ThaumicHorizons:meatTH, item.null.name
 ThaumicHorizons:meatCookedTH, item.null.name
 ThaumicHorizons:meatNuggetTH, item.null.name
 ThaumicHorizons:nodeCheat, Открывашка для узлов
+ae2fc:fluid_drop, Капля (%s)
+ae2fc:fluid_encoded_pattern, Кодированный шаблон
+ae2fc:part_fluid_terminal, МЭ жидкостный терминал
+ae2fc:part_fluid_pattern_terminal, МЭ жидкостный терминал шаблонов
+ae2fc:part_fluid_pattern_terminal_ex, МЭ жидкостный терминал шаблонов обработки
+ae2fc:part_fluid_interface, МЭ двойной интерфейс
+ae2fc:part_fluid_p2p_interface, Туннель точка-точка - МЭ двойной интерфейс
+ae2fc:part_level_terminal, ME Level Terminal
+ae2fc:part_fluid_import, МЭ жидкостная шина импорта
+ae2fc:part_fluid_export, МЭ жидкостная шина экспорта
+ae2fc:part_fluid_storage_bus, МЭ жидкостная шина хранения
+ae2fc:part_fluid_level_emitter, МЭ жидкостный излучатель уровня
+ae2fc:part_fluid_storage_monitor, МЭ жидкостный монитор хранения
+ae2fc:part_fluid_conversion_monitor, МЭ жидкостный монитор преобразования
+ae2fc:portable_fluid_cell, Переносная жидкостная ячейка
+ae2fc:wireless_fluid_terminal, Беспроводной жидкостный терминал
+ae2fc:wireless_level_terminal, Wireless Level Terminal
+ae2fc:wireless_fluid_pattern_terminal, Беспроводной жидкостный терминал шаблонов
+ae2fc:wireless_ultra_terminal, item.wireless_ultra_terminal.name
+ae2fc:wireless_interface_terminal, Беспроводной терминал интерфейсов
+ae2fc:fluid_packet, Жидкостный пакет
+ae2fc:fluid_storage1, item.fluid_storage1.name
+ae2fc:fluid_storage4, item.fluid_storage4.name
+ae2fc:fluid_storage16, item.fluid_storage16.name
+ae2fc:fluid_storage64, item.fluid_storage64.name
+ae2fc:fluid_storage256, item.fluid_storage256.name
+ae2fc:fluid_storage1024, item.fluid_storage1024.name
+ae2fc:fluid_storage4096, item.fluid_storage4096.name
+ae2fc:fluid_storage16384, item.fluid_storage16384.name
+ae2fc:multi_fluid_storage1, item.multi_fluid_storage1.name
+ae2fc:multi_fluid_storage4, item.multi_fluid_storage4.name
+ae2fc:multi_fluid_storage16, item.multi_fluid_storage16.name
+ae2fc:multi_fluid_storage64, item.multi_fluid_storage64.name
+ae2fc:multi_fluid_storage256, item.multi_fluid_storage256.name
+ae2fc:multi_fluid_storage1024, item.multi_fluid_storage1024.name
+ae2fc:multi_fluid_storage4096, item.multi_fluid_storage4096.name
+ae2fc:multi_fluid_storage16384, item.multi_fluid_storage16384.name
+ae2fc:fluid_storage.quantum, МЭ жидкостная квантовая ячейка хранения
+ae2fc:fluid_storage.singularity, МЭ жидкостная цифровая сингулярность
+ae2fc:creative_fluid_storage, Творческая МЭ жидкостная ячейка хранения
+ae2fc:fluid_part:0, §61К§r МЭ жидкостный компонент хранения
+ae2fc:fluid_part:1, §e4К§r МЭ жидкостный компонент хранения
+ae2fc:fluid_part:2, §a16К§r МЭ жидкостный компонент хранения
+ae2fc:fluid_part:3, §b64К§r МЭ жидкостный компонент хранения
+ae2fc:fluid_part:4, §9256К§r МЭ жидкостный компонент хранения
+ae2fc:fluid_part:5, §d1024К§r МЭ жидкостный компонент хранения
+ae2fc:fluid_part:6, §c4096К§r МЭ жидкостный компонент хранения
+ae2fc:fluid_part:7, §516384К§r МЭ жидкостный компонент хранения
+ae2fc:fluid_storage_housing:0, МЭ жидкостный корпус ячейки хранения
+ae2fc:fluid_storage_housing:1, МЭ продвинутый жидкостный корпус ячейки хранения
+ae2fc:fluid_storage_housing:2, МЭ мульти-жидкостный корпус ячейки хранения
+ae2fc:fluid_storage_housing:3, МЭ продвинутый мульти-жидкостный корпус ячейки хранения
 ae2stuff:WirelessKit, Набор для настройки беспроводного соединителя
 ae2stuff:Visualiser, Устройство визуализации Сети
 BuildCraft|Core:wrenchItem, Гаечный ключ
@@ -12611,6 +12750,81 @@ gadomancy:ItemFakeGolemShield:8, item.null.name
 gadomancy:ItemExtendedNodeJar, Узел ауры в банке
 gadomancy:ItemFakeModIcon, item.null.name
 gadomancy:itemSilverwoodGolemPlacer:8, Сребродревесный Голем
+MagicBees:comb:0, Мирские соты
+MagicBees:comb:1, Расплавленные соты
+MagicBees:comb:2, Оккультные соты
+MagicBees:comb:3, Потусторонние соты
+MagicBees:comb:4, Трансмутирующие соты
+MagicBees:comb:5, Бумажные соты
+MagicBees:comb:6, Душевные соты
+MagicBees:wax:0, Магический воск
+MagicBees:wax:1, Душевный воск
+MagicBees:wax:2, Амнезийный воск
+MagicBees:propolis:0, Нестабильный прополис
+MagicBees:propolis:1, Свежий прополис
+MagicBees:propolis:2, Горящий прополис
+MagicBees:propolis:3, Текучий прополис
+MagicBees:propolis:4, Каменный прополис
+MagicBees:propolis:5, Упорядоченный прополис
+MagicBees:propolis:6, Хаотический прополис
+MagicBees:drop:0, Зачарованная капля
+MagicBees:drop:1, Интеллектуальная капля
+MagicBees:drop:2, Нестабильная капля
+MagicBees:drop:3, Углеродная капля
+MagicBees:drop:4, Капля света
+MagicBees:drop:5, Покоряющая капля
+MagicBees:miscResources:0, Фрагмент знаний
+MagicBees:miscResources:1, Ароматический кусок
+MagicBees:miscResources:2, Концентрированные соединения
+MagicBees:miscResources:3, Обломок кости скелета-иссушителя
+MagicBees:miscResources:4, Фрагмент черепа скелета-иссушителя
+MagicBees:miscResources:5, Драконья пыль
+MagicBees:miscResources:6, Драконий кусок
+MagicBees:miscResources:7, Эссенция ложной жизни
+MagicBees:miscResources:8, Эссенция неглубокой могилы
+MagicBees:miscResources:9, Эссенция утраченного времени
+MagicBees:miscResources:10, Эссенция вечной прочности
+MagicBees:miscResources:11, Эссенция бесконечного равнодушия
+MagicBees:miscResources:12, Эссенция изменчивого постоянства
+MagicBees:miscResources:17, Пространственная сингулярность
+MagicBees:miscResources:18, Наполненная воздухом пыль
+MagicBees:miscResources:19, Наполненная водой пыль
+MagicBees:miscResources:20, Наполненная огнём пыль
+MagicBees:miscResources:21, Наполненная землёй пыль
+MagicBees:miscResources:22, Наполненная порядком пыль
+MagicBees:miscResources:23, Наполненная хаосом пыль
+MagicBees:pollen:0, Необычная пыльца
+MagicBees:pollen:1, Поэтапная пыльца
+MagicBees:moonDial, Нефритовый набор луны
+MagicBees:jellyBabies, Горсть маленького желе
+MagicBees:beeNugget:0, Железный самородок
+MagicBees:beeNugget:1, Медный самородок
+MagicBees:beeNugget:2, Оловянный самородок
+MagicBees:beeNugget:3, Серебряный самородок
+MagicBees:beeNugget:4, Свинцовый самородок
+MagicBees:beeNugget:6, Изумрудный осколок
+MagicBees:magnet:0, Таинственный магнит
+MagicBees:magnet:2, Таинственный магнит
+MagicBees:magnet:4, Таинственный магнит
+MagicBees:magnet:6, Таинственный магнит
+MagicBees:magnet:8, Таинственный магнит
+MagicBees:magnet:10, Таинственный магнит
+MagicBees:magnet:12, Таинственный магнит
+MagicBees:magnet:14, Таинственный магнит
+MagicBees:magnet:16, Таинственный магнит
+MagicBees:frameMagic, Магическая рамка
+MagicBees:frameResilient, Эластичная рамка
+MagicBees:frameGentle, Лёгкая рамка
+MagicBees:frameMetabolic, Метаболическая рамка
+MagicBees:frameNecrotic, Некротическая рамка
+MagicBees:frameTemporal, Временная рамка
+MagicBees:frameOblivion, Забвенная рамка
+MagicBees:backpack.thaumaturgeT1, item.backpack.thaumaturgeT1.name
+MagicBees:backpack.thaumaturgeT2, item.backpack.thaumaturgeT2.name
+MagicBees:item.thaumiumScoop, Таумический сачок
+MagicBees:item.thaumiumGrafter, Таумический садовый нож
+MagicBees:item.manasteelScoop, Manasteel Scoop
+MagicBees:item.manasteelGrafter, Manasteel Grafter
 gendustry:Labware, Генетическая лабораторная посуда
 gendustry:Waste, Генетические отходы
 gendustry:GeneSampleBlank, Образец пустого гена
@@ -13536,7 +13750,6 @@ Mekanism:CompressedCarbon, Сжатый уголь
 Mekanism:CompressedRedstone, Сжатый красный камень
 Mekanism:CompressedDiamond, Сжатый алмаз
 Mekanism:CompressedObsidian, Сжатый обсидиан
-Mekanism:CompressedEnder, Compressed Ender Amethyst
 Mekanism:PortableTeleporter, Переносной телепортер
 Mekanism:TeleportationCore, Ядро телепортации
 Mekanism:Clump:0, Железная глыба
@@ -14656,6 +14869,25 @@ xreliquary:void_tear, Пустотная слеза
 xreliquary:witch_hat, {{!colors.yellow}}Witch Hat
 xreliquary:witherless_rose, Иссушающая роза
 xreliquary:wraith_eye, Призрачный глаз
+StorageDrawers:upgradeTemplate, Шаблон улучшения
+StorageDrawers:upgrade:2, Улучшение хранилища (II)
+StorageDrawers:upgrade:3, Улучшение хранилища (III)
+StorageDrawers:upgrade:4, Улучшение хранилища (IV)
+StorageDrawers:upgrade:5, Улучшение хранилища (V)
+StorageDrawers:upgrade:6, Улучшение хранилища (VI)
+StorageDrawers:upgradeStatus:1, Улучшение «Индикатор» (I)
+StorageDrawers:upgradeStatus:2, Улучшение «Индикатор» (II)
+StorageDrawers:upgradeVoid, Пустотное улучшение
+StorageDrawers:upgradeCreative:0, Creative Storage Upgrade
+StorageDrawers:upgradeCreative:1, Creative Vending Upgrade
+StorageDrawers:upgradeRedstone:0, Redstone Upgrade
+StorageDrawers:upgradeRedstone:1, Redstone Max Upgrade
+StorageDrawers:upgradeRedstone:2, Redstone Min Upgrade
+StorageDrawers:upgradeLock, Ключ от ящика
+StorageDrawers:shroudKey, Concealment Key
+StorageDrawers:personalKey:0, Personal Key
+StorageDrawers:personalKey:1, Personal Key (CoFH)
+StorageDrawers:tape, Packing Tape
 TaintedMagic:ShadowMetal, Shadowmetal
 TaintedMagic:ShadowCloth, Shadow Cloth
 TaintedMagic:CrimsonFabric, Crimson Fabric
@@ -14778,6 +15010,32 @@ TU:RobesLeggings2, item.RobesLeggings2.name
 TU:RobesHelmet3, item.RobesHelmet3.name
 TU:RobesChestplate3, item.RobesChestplate3.name
 TU:RobesLeggings3, item.RobesLeggings3.name
+thaumicenergistics:part.base:0, Шина импорта эссенции
+thaumicenergistics:part.base:1, Излучатель уровня эссенции
+thaumicenergistics:part.base:2, Шина хранения эссенции
+thaumicenergistics:part.base:3, Шина экспорта эссенции
+thaumicenergistics:part.base:4, Терминал эссенции
+thaumicenergistics:part.base:5, Магический терминал создания
+thaumicenergistics:part.base:6, Интерфейс Вис-реле
+thaumicenergistics:part.base:7, Монитор хранения эссенции
+thaumicenergistics:part.base:8, Монитор преобразования эссенции
+thaumicenergistics:storage.essentia:0, МЭ 1К ячейка хранения эссенции
+thaumicenergistics:storage.essentia:1, МЭ 4К ячейка хранения эссенции
+thaumicenergistics:storage.essentia:2, МЭ 16К ячейка хранения эссенции
+thaumicenergistics:storage.essentia:3, МЭ 64К ячейка хранения эссенции
+thaumicenergistics:storage.essentia:4, Творческая ячейка хранения эссенции
+thaumicenergistics:storage.component:0, МЭ 1К компонент хранения эссенции
+thaumicenergistics:storage.component:1, МЭ 4К компонент хранения эссенции
+thaumicenergistics:storage.component:2, МЭ 16К компонент хранения эссенции
+thaumicenergistics:storage.component:3, МЭ 64К компонент хранения эссенции
+thaumicenergistics:storage.casing, МЭ корпус ячейки хранения эссенции
+thaumicenergistics:material:0, Ядро диффузии
+thaumicenergistics:material:1, Ядро слияния
+thaumicenergistics:material:2, Железная шестерня
+thaumicenergistics:wireless.essentia.terminal, Беспроводной терминал эссенции
+thaumicenergistics:knowledge.core, Ядро знаний
+thaumicenergistics:focus.aewrench, Набалдашник: AE-ключ
+thaumicenergistics:golem.wifi.backpack, Wireless Golem Backpack
 thaumores:shardCluster:0, Сырой грозовой кристальный кластер
 thaumores:shardCluster:1, Сырой огненный кристальный кластер
 thaumores:shardCluster:2, Сырой ледяной кристальный кластер
@@ -15712,25 +15970,25 @@ ThermalDynamics:cover:0, Крышка (Плита из резного истин
 ThermalDynamics:cover:0, Крышка (Плита из резного истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
-ThermalDynamics:cover:0, Крышка (Ступеньки закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
-ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
-ThermalDynamics:cover:0, Крышка (Админиум-портал)
 ThermalDynamics:cover:0, Крышка (Пропитанный Ordo огонь)
+ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
 ThermalDynamics:cover:0, Крышка (Пропитанный Aqua огонь)
+ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
+ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
+ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
 ThermalDynamics:cover:0, Крышка (Блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Резной блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Колонна из закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
+ThermalDynamics:cover:0, Крышка (Админиум-портал)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
 ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
-ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
-ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
-ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
 ThermalDynamics:cover:0, Крышка (Пропитанный Aer огонь)
+ThermalDynamics:cover:0, Крышка (Ступеньки закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
 ThermalDynamics:cover:0, Крышка (Таумический торт)
 ThermalDynamics:cover:0, Крышка (Мрачная роза)
 ThermalDynamics:cover:0, Крышка (Блок звезды Нижнего мира)
@@ -17404,6 +17662,10 @@ ThermalDynamics:cover:0, Крышка (Жидкий метан)
 ThermalDynamics:cover:0, Крышка (Жидкий замёрзший азот)
 ThermalDynamics:cover:0, Крышка (Жидкий шоколад)
 ThermalDynamics:cover:0, Крышка (Жидкая карамель)
+ThermalDynamics:cover:0, Крышка (Enchanted Earth)
+ThermalDynamics:cover:0, Крышка (Странный улей)
+ThermalDynamics:cover:0, Крышка (Необычный улей)
+ThermalDynamics:cover:0, Крышка (Резонирующий улей)
 ThermalDynamics:cover:0, Крышка (Мутаген)
 ThermalDynamics:cover:0, Крышка (Жидкий ДНК)
 ThermalDynamics:cover:0, Крышка (Протеин)
@@ -17825,6 +18087,12 @@ ThermalDynamics:cover:0, Крышка (Блок эфирного топлива)
 ThermalDynamics:cover:0, Крышка (Кувшинка плодородия)
 ThermalDynamics:cover:0, Крышка (nullФакел запрета)
 ThermalDynamics:cover:0, Крышка (Призрачный узел)
+ThermalDynamics:cover:0, Крышка (Отделка из дуба)
+ThermalDynamics:cover:0, Крышка (Отделка из ели)
+ThermalDynamics:cover:0, Крышка (Отделка из берёзы)
+ThermalDynamics:cover:0, Крышка (Отделка из тропического дерева)
+ThermalDynamics:cover:0, Крышка (Отделка из акации)
+ThermalDynamics:cover:0, Крышка (Отделка из тёмного дуба)
 ThermalDynamics:cover:0, Крышка (Shadow Ore)
 ThermalDynamics:cover:0, Крышка (Warpwood)
 ThermalDynamics:cover:0, Крышка (Dense Warpwood)
