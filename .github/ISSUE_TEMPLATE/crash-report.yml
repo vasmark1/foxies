@@ -47,5 +47,5 @@ body:
     label: Final Checklist
     description: Please mark them so we can better handle this report.
     options:
-           - label: "I can reproduce this crash consistently by following the exact steps I described above."
+        - label: "I can reproduce this crash consistently by following the exact steps I described above."
         required: true
