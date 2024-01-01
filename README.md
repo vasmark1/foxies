@@ -54,7 +54,7 @@ Supported only Minecraft 1.7.10 & Forge 10.13.4.1614
 - Amun Ra (enabled) - there is config for this mod AT ALL, so more Biomes and Dims = More potential conflicts
 - Endless IDs (enabled) - Entity ID list extension must be disabled due to Multiplayer invisible mob bug
 - EnderIO (enabled) - Disable wither skeleton fix
-- Nature's Compass (enabled) - Crashing game when using GUI
+- ~~Nature's Compass (enabled) - Crashing game when using GUI~~ Fixed at v0.2.1
 
 
 ## TODO list:
