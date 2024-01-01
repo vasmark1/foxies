@@ -1,20 +1,51 @@
----
-name: Crash Report
-about: Something crashed my game
-title: "[CRASH REPORT]:"
-labels: crash
-assignees: vasmark1
+name: Report Crash
+description: "Report a bug that abruptly ends a game session or prevents the start of the game."
+labels:
+- "crash"
+body:
+- type: markdown
+  attributes:
+    value: 'Examples of this category include: crashing to desktop, game window disappearing, uncommanded computer shutdown. ~~Please blame your local power grid if your neighbor''s computer also shut down due to power outage.~~
 
----
+    Please note if you merely want a change, e.g. think something is too OP, you should use the Suggest a Change template instead.'
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**Additional context**
-Add any other context about the problem here.
-
-**Log**
-Publish your log.txt here if possible.
-
-**Crash Report**
-Publish your Crash Report here.
+- type: input
+  id: version
+  attributes:
+    label: Your Pack Version
+    description: What version of the pack are you playing? If you're using an ancient version maybe first try updating the pack. We usually fix hundreds of issues per release, so there is a good chance your problem have been fixed already in the latest version. There are also usually Dev releases inbetween Official releases that may not show up on other platforms.
+    placeholder: "Example: v0.0.0"
+  validations:
+    required: true
+- type: input
+  id: server
+  attributes:
+    label: Your Server
+    description: On which server does this happen? Type SP if you are not playing on a dedicated server.
+    placeholder: "Example: Eta, ProsperCraft, private server, SP"
+  validations:
+    required: true
+- type: textarea
+  id: reproduce
+  attributes:
+    label: Your Actions
+    description: What did you try to do before the crash? Attach screenshots if needed.
+    placeholder: "Example: Trying to craft Foo. Expect to consume 1 Bar and get 1 Foo."
+  validations:
+    required: true
+- type: textarea
+  id: report
+  attributes:
+    label: Crash Report
+    description: "If no crash report is created, attach `logs/fml-client-latest.log` or `logs/fml-server-latest.log`, depending on if it's a dedicated server crash or a client crash. You can also type in additional info that you consider important."
+    placeholder: "Example: pastebin/something OR submit the file to github by dragging it to this textbox."
+  validations:
+    required: true
+- type: checkboxes
+  id: final
+  attributes:
+    label: Final Checklist
+    description: Please mark them so we can better handle this report.
+    options:
+           - label: "I can reproduce this crash consistently by following the exact steps I described above."
+        required: true
