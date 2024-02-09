@@ -1689,43 +1689,43 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Плита из резног
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Плита из резного истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Плита из колонны истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Плита из колонны истинного кварца
-ThaumicTinkerer:dislocator, Трансвекторный дислокатор
 ThaumicTinkerer:spawner, Пьедестал некроманта
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
-ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
-ThaumicTinkerer:repairer, Таум-восстановитель
-ThaumicTinkerer:fireWater, Пропитанный Aqua огонь
-ThaumicTinkerer:platform, Эфирная платформа
-ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
-ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
-ThaumicTinkerer:funnel, Воронка для эссенции
 ThaumicTinkerer:travelSlab:0, Тротуарная плита путешествия
 ThaumicTinkerer:travelSlabFull:0, Тротуарная плита путешествия
-ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
+ThaumicTinkerer:warpGate, Небесный портал
 ThaumicTinkerer:animationTablet, Динамическая дощечка
-ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
-ThaumicTinkerer:bedrockPortal, Админиум-портал
-ThaumicTinkerer:forcefield, Силовое поле
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
 ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
 ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
-ThaumicTinkerer:Levitational Locomotive, Левитатор
-ThaumicTinkerer:interface, Трансвектор
-ThaumicTinkerer:warpGate, Небесный портал
-ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
+ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
 ThaumicTinkerer:darkQuartz:0, Блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:1, Резной блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:2, Колонна из закоптившегося кварца
-ThaumicTinkerer:enchanter, Осмотический стол зачарований
+ThaumicTinkerer:funnel, Воронка для эссенции
 ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:magnet:0, Кинетический притяжатель
-ThaumicTinkerer:magnet:1, Материальный притяжатель
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
 ThaumicTinkerer:fireAir, Пропитанный Aer огонь
+ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:dislocator, Трансвекторный дислокатор
+ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
+ThaumicTinkerer:Levitational Locomotive, Левитатор
+ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
+ThaumicTinkerer:enchanter, Осмотический стол зачарований
+ThaumicTinkerer:platform, Эфирная платформа
 ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
 ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
+ThaumicTinkerer:bedrockPortal, Админиум-портал
+ThaumicTinkerer:repairer, Таум-восстановитель
+ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
+ThaumicTinkerer:forcefield, Силовое поле
+ThaumicTinkerer:fireWater, Пропитанный Aqua огонь
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:interface, Трансвектор
+ThaumicTinkerer:magnet:0, Кинетический притяжатель
+ThaumicTinkerer:magnet:1, Материальный притяжатель
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
 ForbiddenMagic:ArcaneCake, Таумический торт
 ForbiddenMagic:WrathCage, Клетка гнева
 ForbiddenMagic:InkFlower, Мрачная роза
@@ -1943,8 +1943,8 @@ ae2fc:large_ingredient_buffer, Большой буфер ингредиенто�
 ae2fc:walrus, Морж
 ae2stuff:Encoder, Кодировщик шаблонов
 ae2stuff:Grower, Камера для выращивания кристаллов
-ae2stuff:Inscriber, Продвинутый высекатель
-ae2stuff:Wireless, Беспроводной соединитель
+ae2stuff:Inscriber, Advanced Inscriber
+ae2stuff:Wireless, Wireless Connector
 alchgrate:alchgrate, Alchemical Grate
 BuildCraft|Core:eternalSpring:0, Источник воды
 BuildCraft|Core:eternalSpring:1, Источник нефти
@@ -5346,12 +5346,23 @@ IronChest:BlockIronChest:4, Серебряный сундук
 IronChest:BlockIronChest:5, Кристальный сундук
 IronChest:BlockIronChest:6, Обсидиановый сундук
 IronChest:BlockIronChest:7, DirtChest 9000!
-irontank:ironTank, Железная цистерна
-irontank:goldTank, Золотая цистерна
-irontank:diamondTank, Алмазная цистерна
-irontank:obsidianTank, Обсидиановая цистерна
-irontank:copperTank, Медная цистерна
-irontank:silverTank, Серебряная цистерна
+ironfurnaces:iron_furnace_active, Iron Furnace
+ironfurnaces:iron_furnace, Iron Furnace
+ironfurnaces:gold_furnace_active, Gold Furnace
+ironfurnaces:gold_furnace, Gold Furnace
+ironfurnaces:diamond_furnace_active, Diamond Furnace
+ironfurnaces:diamond_furnace, Diamond Furnace
+ironfurnaces:obsidian_furnace_active, Obsidian Furnace
+ironfurnaces:obsidian_furnace, Obsidian Furnace
+ironfurnaces:crystal_furnace, Crystal Furnace
+ironfurnaces:crystal_furnace_active, Crystal Furnace
+irontank:irontank, Железная цистерна
+irontank:goldtank, Золотая цистерна
+irontank:diamondtank, Алмазная цистерна
+irontank:obsidiantank, Обсидиановая цистерна
+irontank:emeraldtank, Emerald Tank
+irontank:coppertank, Медная цистерна
+irontank:silvertank, Серебряная цистерна
 Mekanism:BasicBlock:0, Осмиевый блок
 Mekanism:BasicBlock:1, Бронзовый блок
 Mekanism:BasicBlock:2, Очищенный обсидиан
@@ -5765,13 +5776,13 @@ harvestcraft:pampavlovaCake, Павлова
 harvestcraft:pamholidayCake, Holiday Cake
 harvestcraft:pampumpkincheeseCake, Pumpkin Cheese Cake
 PowerUtils:BlockMain:0, Power Converter
-ProjectE:interdiction_torch, Факел изгнания
+ProjectE:interdiction_torch, Изгоняющий факел
 ProjectE:condenser_mk2, Конденсатор энергии MK2
 ProjectE:rm_furnace_lit, Печь из красной материи
 ProjectE:dm_furnace_lit, Печь из тёмной материи
 ProjectE:dm_pedestal, Пьедестал из тёмной материи
-ProjectE:nova_catalyst, Катализатор Новы
-ProjectE:nova_cataclysm, Катаклизм Новы
+ProjectE:nova_catalyst, Катализатор Сверхновой
+ProjectE:nova_cataclysm, Катаклизм Сверхновой
 ProjectE:alchemical_chest, Алхимический сундук
 ProjectE:transmutation_table, Стол трансмутаций
 ProjectE:condenser_mk1, Конденсатор энергии
@@ -5785,9 +5796,9 @@ ProjectE:fuel_block:2, Блок эфирного топлива
 ProjectE:collector_mk1, Сборщик энергии MK1
 ProjectE:collector_mk2, Сборщик энергии MK2
 ProjectE:collector_mk3, Сборщик энергии MK3
-ProjectE:relay_mk1, Реле из антиматерии MK1
-ProjectE:relay_mk2, Реле из антиматерии MK2
-ProjectE:relay_mk3, Реле из антиматерии MK3
+ProjectE:relay_mk1, Реле антиматерии MK1
+ProjectE:relay_mk2, Реле антиматерии MK2
+ProjectE:relay_mk3, Реле антиматерии MK3
 xreliquary:altar_idle, Алтарь света
 xreliquary:altar, Алтарь света
 xreliquary:apothecary_cauldron, Фармацевтический котёл
@@ -6334,19 +6345,19 @@ thaumicinsurgence:pillarAlpha, tile.pillarAlpha.name
 thaumicinsurgence:marblePedestal, tile.pedestalAlpha.name
 thaumores:netherrackInfusedOre:0, Грозовая руда (Адский камень)
 thaumores:netherrackInfusedOre:1, Огненная руда (Адский камень)
-thaumores:netherrackInfusedOre:2, Ледяная рула (Адский камень)
+thaumores:netherrackInfusedOre:2, Ледяная руда (Адский камень)
 thaumores:netherrackInfusedOre:3, Руда земляного кристалла (Адский камень)
 thaumores:netherrackInfusedOre:4, Руда кристалла порядка (Адский камень)
 thaumores:netherrackInfusedOre:5, Энтропийная руда (Адский камень)
 thaumores:endstoneInfusedOre:0, Грозовая руда (Эндерняк)
 thaumores:endstoneInfusedOre:1, Огненная руда (Эндерняк)
-thaumores:endstoneInfusedOre:2, Ледяная рула (Эндерняк)
+thaumores:endstoneInfusedOre:2, Ледяная руда (Эндерняк)
 thaumores:endstoneInfusedOre:3, Руда земляного кристалла (Эндерняк)
 thaumores:endstoneInfusedOre:4, Руда кристалла порядка (Эндерняк)
 thaumores:endstoneInfusedOre:5, Энтропийная руда (Эндерняк)
 thaumores:bedrockInfusedOre:0, Грозовая руда (Бедрок)
 thaumores:bedrockInfusedOre:1, Огненная руда (Бедрок)
-thaumores:bedrockInfusedOre:2, Ледяная рула (Бедрок)
+thaumores:bedrockInfusedOre:2, Ледяная руда (Бедрок)
 thaumores:bedrockInfusedOre:3, Руда земляного кристалла (Бедрок)
 thaumores:bedrockInfusedOre:4, Руда кристалла порядка (Бедрок)
 thaumores:bedrockInfusedOre:5, Энтропийная руда (Бедрок)
@@ -9868,8 +9879,8 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.sink
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.sink.name
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Соляная руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Compressed Salt Block
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Катализатор Новы
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Катаклизм Новы
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Катализатор Сверхновой
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Катаклизм Сверхновой
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок из тёмной материи
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок из красной материи
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок алхимического угля
@@ -11127,8 +11138,8 @@ ae2fc:fluid_storage_housing:0, МЭ жидкостный корпус ячейк
 ae2fc:fluid_storage_housing:1, МЭ продвинутый жидкостный корпус ячейки хранения
 ae2fc:fluid_storage_housing:2, МЭ мульти-жидкостный корпус ячейки хранения
 ae2fc:fluid_storage_housing:3, МЭ продвинутый мульти-жидкостный корпус ячейки хранения
-ae2stuff:WirelessKit, Набор для настройки беспроводного соединителя
-ae2stuff:Visualiser, Устройство визуализации Сети
+ae2stuff:WirelessKit, Wireless Setup Kit
+ae2stuff:Visualiser, Network Visualisation Tool
 BuildCraft|Core:wrenchItem, Гаечный ключ
 BuildCraft|Core:mapLocation, Карта расположения
 BuildCraft|Core:list:0, Список
@@ -12861,6 +12872,10 @@ BuildCraft|Transport:pipeLens:32, Линза (Чистый)
 BuildCraft|Transport:pipeLens:33, Фильтр (Чистый)
 BuildCraft|Transport:pipePowerAdapter, item.pipePowerAdapter.name
 BuildCraft|Transport:gateCopier, Копировальщик гейтов
+CosmeticArmor:skinHelmet, Skin Helmet
+CosmeticArmor:skinChestplate, Skin Chestplate
+CosmeticArmor:skinLeggings, Skin Leggings
+CosmeticArmor:skinBoots, Skin Boots
 DeeperCaves:silver_ingot, Silver Ingot
 DeeperCaves:sapphire_gem, Sapphire
 DeeperCaves:ametrine_gem, Ametrine Gem
@@ -13677,8 +13692,6 @@ evilcraft:rejuvenatedFlesh, Rejuvenated Flesh
 evilcraft:primedPendant, Primed Pendant
 evilcraft:goldenString, Golden String
 evilcraft:biomeExtract:0, Biome Extract Bottle
-evilcraft:biomeExtract:1, Biome Extract
-evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
@@ -15608,15 +15621,16 @@ IronChest:diamondCrystalUpgrade, Улучшение из алмазного в �
 IronChest:woodIronUpgrade, Улучшение из деревянного в железный сундук
 IronChest:woodCopperUpgrade, Улучшение из деревянного в медный сундук
 IronChest:diamondObsidianUpgrade, Улучшение из алмазного в обсидиановый сундук
-irontank:ironGoldUpgrade, Улучшение из железной в золотую цистерну
-irontank:goldDiamondUpgrade, Улучшение из золотой в алмазную цистерну
-irontank:copperSilverUpgrade, Улучшение из медной в серебряную цистерну
-irontank:silverGoldUpgrade, Улучшение из серебряной в золотую цистерну
-irontank:copperIronUpgrade, Улучшение из медной в железную цистерну
-irontank:glassIronUpgrade, Улучшение из стеклянной в железную цистерну
-irontank:glassCopperUpgrade, Улучшение из стеклянной в медную цистерну
-irontank:diamondObsidianUpgrade, Улучшение из алмазной в обсидиановую цистерну
-irontank:silverDiamondUpgrade, Улучшение из серебряной в алмазную цистерну
+irontank:iron_gold_upgrade, Улучшение из железной в золотую цистерну
+irontank:gold_diamond_upgrade, Улучшение из золотой в алмазную цистерну
+irontank:copper_silver_upgrade, Улучшение из медной в серебряную цистерну
+irontank:silver_gold_upgrade, Улучшение из серебряной в золотую цистерну
+irontank:copper_iron_upgrade, Улучшение из медной в железную цистерну
+irontank:glass_iron_upgrade, Улучшение из стеклянной в железную цистерну
+irontank:glass_copper_upgrade, Улучшение из стеклянной в медную цистерну
+irontank:diamond_obsidian_upgrade, Улучшение из алмазной в обсидиановую цистерну
+irontank:diamond_emerald_upgrade, Diamond to Emerald Tank Upgrade
+irontank:silver_diamond_upgrade, Улучшение из серебряной в алмазную цистерну
 Mekanism:PartTransmitter:0, Базовый универсальный провод
 Mekanism:PartTransmitter:1, Продвинутый универсальный провод
 Mekanism:PartTransmitter:2, Элитный универсальный провод
@@ -16609,34 +16623,63 @@ harvestcraft:soysauceItem, Soy Sauce
 harvestcraft:sweetpickleItem, Sweet Pickle
 harvestcraft:veggiestripsItem, Veggie Strips
 harvestcraft:vindalooItem, Vindaloo
+harvestcraft:applesmoothieItem, Apple Smoothie
+harvestcraft:coconutsmoothieItem, Coconut Smoothie
+harvestcraft:cranberrysmoothieItem, Cranberry Smoothie
+harvestcraft:cranberryyogurtItem, Cranberry Yogurt
+harvestcraft:grapesmoothieItem, Grape Smoothie
+harvestcraft:pearsmoothieItem, Pear Smoothie
+harvestcraft:pearjellyItem, Pear Jelly
+harvestcraft:pearjellysandwichItem, Pear Jelly Sandwich
+harvestcraft:plumsmoothieItem, Plum Smoothie
+harvestcraft:plumjellyItem, Plum Jelly
+harvestcraft:plumjellysandwichItem, Plum Jelly Sandwich
+harvestcraft:honeysandwichItem, Honey Sandwich
+harvestcraft:cheeseontoastItem, Cheese on Toast
+harvestcraft:tunapotatoItem, Tuna Potato
+harvestcraft:chocolaterollItem, Chocolate Roll
+harvestcraft:jamrollItem, Jam Roll
+harvestcraft:coconutcreamItem, Coconut Cream
+harvestcraft:crackerItem, Cracker
+harvestcraft:garammasalaItem, Garam Masala
+harvestcraft:paneerItem, Paneer
+harvestcraft:deluxechickencurryItem, Deluxe Chicken Curry
+harvestcraft:gravyItem, Gravy
+harvestcraft:mangochutneyItem, Mango Chutney
+harvestcraft:marzipanItem, Marzipan
+harvestcraft:paneertikkamasalaItem, Paneer Tikka Masala
+harvestcraft:peaandhamsoupItem, Pea and Ham Soup
+harvestcraft:potatoandleeksoupItem, Potato and Leek Soup
+harvestcraft:yorkshirepuddingItem, Yorkshire Pudding
+harvestcraft:toadintheholeItem, Toad in the Hole
 PowerUtils:pu_storage_module:0, Module IC
 PowerUtils:pu_storage_module:1, Module TE
 PowerUtils:pu_storage_module:2, Module BC
 PowerUtils:pu_storage_module:3, Module UE
 ProjectE:item.pe_philosophers_stone, Философский камень
-ProjectE:item.pe_alchemical_bag:0, Алхимический мешок (Белый)
-ProjectE:item.pe_alchemical_bag:1, Алхимический мешок (Оранжевый)
-ProjectE:item.pe_alchemical_bag:2, Алхимический мешок (Пурпурный)
-ProjectE:item.pe_alchemical_bag:3, Алхимический мешок (Голубой)
-ProjectE:item.pe_alchemical_bag:4, Алхимический мешок (Жёлтый)
-ProjectE:item.pe_alchemical_bag:5, Алхимический мешок (Лаймовый)
-ProjectE:item.pe_alchemical_bag:6, Алхимический мешок (Розовый)
-ProjectE:item.pe_alchemical_bag:7, Алхимический мешок (Серый)
-ProjectE:item.pe_alchemical_bag:8, Алхимический мешок (Светло-серый)
-ProjectE:item.pe_alchemical_bag:9, Алхимический мешок (Бирюзовый)
-ProjectE:item.pe_alchemical_bag:10, Алхимический мешок (Фиолетовый)
-ProjectE:item.pe_alchemical_bag:11, Алхимический мешок (Синий)
-ProjectE:item.pe_alchemical_bag:12, Алхимический мешок (Коричневый)
-ProjectE:item.pe_alchemical_bag:13, Алхимический мешок (Зелёный)
-ProjectE:item.pe_alchemical_bag:14, Алхимический мешок (Красный)
-ProjectE:item.pe_alchemical_bag:15, Алхимический мешок (Чёрный)
+ProjectE:item.pe_alchemical_bag:0, Алхимическая сумка (Белый)
+ProjectE:item.pe_alchemical_bag:1, Алхимическая сумка (Оранжевый)
+ProjectE:item.pe_alchemical_bag:2, Алхимическая сумка (Пурпурный)
+ProjectE:item.pe_alchemical_bag:3, Алхимическая сумка (Голубой)
+ProjectE:item.pe_alchemical_bag:4, Алхимическая сумка (Жёлтый)
+ProjectE:item.pe_alchemical_bag:5, Алхимическая сумка (Лаймовый)
+ProjectE:item.pe_alchemical_bag:6, Алхимическая сумка (Розовый)
+ProjectE:item.pe_alchemical_bag:7, Алхимическая сумка (Серый)
+ProjectE:item.pe_alchemical_bag:8, Алхимическая сумка (Светло-серый)
+ProjectE:item.pe_alchemical_bag:9, Алхимическая сумка (Бирюзовый)
+ProjectE:item.pe_alchemical_bag:10, Алхимическая сумка (Фиолетовый)
+ProjectE:item.pe_alchemical_bag:11, Алхимическая сумка (Синий)
+ProjectE:item.pe_alchemical_bag:12, Алхимическая сумка (Коричневый)
+ProjectE:item.pe_alchemical_bag:13, Алхимическая сумка (Зелёный)
+ProjectE:item.pe_alchemical_bag:14, Алхимическая сумка (Красный)
+ProjectE:item.pe_alchemical_bag:15, Алхимическая сумка (Чёрный)
 ProjectE:item.pe_repair_talisman, Талисман восстановления
-ProjectE:item.pe_klein_star:0, Звезда Клейна 1
-ProjectE:item.pe_klein_star:1, Звезда Клейна 2
-ProjectE:item.pe_klein_star:2, Звезда Клейна 3
-ProjectE:item.pe_klein_star:3, Звезда Клейна 4
-ProjectE:item.pe_klein_star:4, Звезда Клейна Сфера
-ProjectE:item.pe_klein_star:5, Звезда Клейна Омега
+ProjectE:item.pe_klein_star:0, Маленькая звезда 1
+ProjectE:item.pe_klein_star:1, Маленькая звезда 2
+ProjectE:item.pe_klein_star:2, Маленькая звезда 3
+ProjectE:item.pe_klein_star:3, Маленькая звезда 4
+ProjectE:item.pe_klein_star:4, Маленькая звезда Сфера
+ProjectE:item.pe_klein_star:5, Маленькая звезда Омега
 ProjectE:item.pe_fuel:0, Алхимический уголь
 ProjectE:item.pe_fuel:1, Топливо Мёбиуса
 ProjectE:item.pe_fuel:2, Эфирное топливо
@@ -16660,7 +16703,7 @@ ProjectE:item.pe_rm_hoe, Мотыга из красной материи
 ProjectE:item.pe_rm_shears, Ножницы из красной материи
 ProjectE:item.pe_rm_hammer, Молот из красной материи
 ProjectE:item.pe_rm_katar, Красный катар
-ProjectE:item.pe_rm_morning_star, Красная утренняя звезда
+ProjectE:item.pe_rm_morning_star, Красный моргенштерн
 ProjectE:item.pe_dm_armor_0, Шлем из тёмной материи
 ProjectE:item.pe_dm_armor_1, Кираса из тёмной материи
 ProjectE:item.pe_dm_armor_2, Поножи из тёмной материи
@@ -16669,24 +16712,24 @@ ProjectE:item.pe_rm_armor_0, Шлем из красной материи
 ProjectE:item.pe_rm_armor_1, Кираса из красной материи
 ProjectE:item.pe_rm_armor_2, Поножи из красной материи
 ProjectE:item.pe_rm_armor_3, Ботинки из красной материи
-ProjectE:item.pe_gem_armor_0, Шлем из драгоценных камней
-ProjectE:item.pe_gem_armor_1, Кираса из драгоценных камней
-ProjectE:item.pe_gem_armor_2, Поножи из драгоценных камней
-ProjectE:item.pe_gem_armor_3, Ботинки из драгоценных камней
+ProjectE:item.pe_gem_armor_0, Самоцветный шлем
+ProjectE:item.pe_gem_armor_1, Самоцветная кираса
+ProjectE:item.pe_gem_armor_2, Самоцветные поножи
+ProjectE:item.pe_gem_armor_3, Самоцветные ботинки
 ProjectE:item.pe_ring_iron_band, Железное кольцо
 ProjectE:item.pe_black_hole:0, Кольцо чёрной дыры
-ProjectE:item.pe_archangel_smite:0, Кара Архангела [WIP]
+ProjectE:item.pe_archangel_smite:0, Кара Архангела
 ProjectE:item.pe_harvest_god:0, Кольцо богини урожая
 ProjectE:item.pe_ignition:0, Кольцо воспламенения
 ProjectE:item.pe_zero_ring, Кольцо абсолютного нуля
 ProjectE:item.pe_swrg, Кольцо ярости стихии
 ProjectE:item.pe_time_watch, Часы течения времени
-ProjectE:item.pe_gem_density, Драгоценный камень вечной плотности
+ProjectE:item.pe_gem_density, Самоцвет вечной плотности
 ProjectE:item.pe_divining_rod_1, Слабая волшебная лоза
 ProjectE:item.pe_divining_rod_2, Средняя волшебная лоза
 ProjectE:item.pe_divining_rod_3, Сильная волшебная лоза
 ProjectE:item.pe_mercurial_eye, Ртутное око
-ProjectE:item.pe_void_ring, Кольцо пустоты
+ProjectE:item.pe_void_ring, Кольцо вакуума
 ProjectE:item.pe_arcana_ring, Кольцо тайн
 ProjectE:item.pe_body_stone:0, Камень тела
 ProjectE:item.pe_soul_stone:0, Камень души
@@ -16705,8 +16748,8 @@ ProjectE:item.pe_destruction_catalyst, Катализатор разрушени
 ProjectE:item.pe_hyperkinetic_lens, Гиперкинетическая линза
 ProjectE:item.pe_catalitic_lens, Каталитическая линза
 ProjectE:item.pe_tome, Том знаний
-ProjectE:item.pe_transmutation_tablet, Стол трансмутаций
-ProjectE:item.pe_manual, Book of the Alchemist [WIP]
+ProjectE:item.pe_transmutation_tablet, Планшет трансмутаций
+ProjectE:item.pe_manual, Книга алхимика [WIP]
 xreliquary:alkahest_tome:256, Книга Алкагеста
 xreliquary:angelheart_vial, Флакон с ангельским сердцем
 xreliquary:angelic_feather, Ангельское перо
@@ -16867,63 +16910,63 @@ TaintedMagic:ShadowSpade, Shadow Spade
 TaintedMagic:ShadowSword, Shadow Blade
 TaintedMagic:PrimalBlade, Primal Blade of Corruption
 TaintedMagic:WarpedEye, Warped Eye
-thaumicdyes:CultistRobeHelm, Cultist Hood 
-thaumicdyes:CultistRobeChest, Cultist Robe 
-thaumicdyes:CultistRobeLegs, Cultist Leggings 
-thaumicdyes:FortressHelm, Enhanced Fortress Helmet 
-thaumicdyes:FortressChest, Enhanced Fortress Cuirass 
-thaumicdyes:FortressLegs, Enhanced Fortress Thigh Guards 
-thaumicdyes:CultistLeaderHelm, Praetor Helmet 
-thaumicdyes:CultistLeaderChest, Praetor Chestplate 
-thaumicdyes:CultistLeaderLegs, Praetor Greaves 
-thaumicdyes:CultistPlateHelm, Cultist Helmet 
-thaumicdyes:CultistPlateChest, Cultist Chestplate 
-thaumicdyes:CultistPlateLegs, Cultist Greaves 
-thaumicdyes:InhabitedPlateHelm, Husk Helmet
-thaumicdyes:InhabitedPlateChest, Husk Chestplate
-thaumicdyes:InhabitedPlateLegs, Husk Greaves
-thaumicdyes:IronFortressHelm, Iron Fortress Helmet
-thaumicdyes:IronFortressChest, Iron Fortress Cuirass 
-thaumicdyes:IronFortressLegs, Iron Fortress Thigh Guards 
-thaumicdyes:CultistRangerHelm, Crimson Ranger Helm
-thaumicdyes:CultistRangerChest, Crimson Ranger Chestplate
-thaumicdyes:CultistRangerLegs, Crimson Ranger Leggings
-thaumicdyes:CultistRangerHelmDyed, Ranger Helm
-thaumicdyes:CultistRangerChestDyed, Ranger Chestplate
-thaumicdyes:CultistRangerLegsDyed, Ranger Leggings
-thaumicdyes:VoidRobeHelm, Bleached Void Robe Hood
-thaumicdyes:VoidRobeChest, Bleached Void Robe
-thaumicdyes:VoidRobeLegs, Bleached Void Robe Leggings
-thaumicdyes:ThaumiumRobeHelm, Thaumium Robe Hood
-thaumicdyes:ThaumiumRobeChest, Thaumium Robe
-thaumicdyes:ThaumiumRobeLegs, Thaumium Robe Leggings
-thaumicdyes:BootsThaumiumTraveller, Thaumium Boots of the Explorer
-thaumicdyes:BootsVoidTraveller, Void Boots of the Wanderer
-thaumicdyes:CultistArcherHelm, Crimson Archer Helm
-thaumicdyes:CultistArcherChest, Crimson Archer Chestplate
-thaumicdyes:CultistArcherLegs, Crimson Archer Greaves
-thaumicdyes:CultistPaladinHelm, Crimson Paladin Helm
-thaumicdyes:CultistArcherHelmDyed, Archer Helm
-thaumicdyes:CultistArcherChestDyed, Archer Chestplate
-thaumicdyes:CultistArcherLegsDyed, Archer Greaves
-thaumicdyes:ItemResourceFabric, Crimson Weave
-thaumicdyes:SunKnightHelm, Solaire Helm
-thaumicdyes:SunKnightChest, Solaire Chestplate
-thaumicdyes:ItemRunicHelmet, Runic Headpiece
-thaumicdyes:ItemRunicChest, Runic Chestpiece
-thaumicdyes:ItemRunicLegs, Runic Legpiece
-thaumicdyes:ItemRunicBoots, Runic Footpiece
-thaumicdyes:ItemRunicGoggles, Runic Goggles of Revealing
-thaumicdyes:ItemRunicBootsTraveller, Runic Boots of the Traveller
-thaumicdyes:ItemMaskEvil, Mask of Cruelty 
-thaumicdyes:ItemRunicHelmetEnhanced, Enhanced Runic Headpiece
-thaumicdyes:ItemRunicChestEnhanced, Enhanced Runic Chestpiece
-thaumicdyes:ItemRunicLegsEnhanced, Enhanced Runic Legpiece
-thaumicdyes:ItemRunicBootsEnhanced, Enhanced Runic Footpiece
-thaumicdyes:ItemRunicHelmetPrimal, Abyssal Runic Helm
-thaumicdyes:ItemRunicChestPrimal, Abyssal Runic Chestplate
-thaumicdyes:ItemRunicLegsPrimal, Abyssal Runic Greaves
-thaumicdyes:ItemRunicBootsPrimal, Abyssal Runic Boots
+thaumicdyes:CultistRobeHelm, Белый капюшон Тауматурга
+thaumicdyes:CultistRobeChest, Белая роба Тауматурга
+thaumicdyes:CultistRobeLegs, Белые поножи Тауматурга
+thaumicdyes:FortressHelm, Белый боевой таум-шлем
+thaumicdyes:FortressChest, Белая боевая таум-кираса
+thaumicdyes:FortressLegs, Белые боевые таум-поножи
+thaumicdyes:CultistLeaderHelm, Белый шлем Претора
+thaumicdyes:CultistLeaderChest, Белая кираса Претора
+thaumicdyes:CultistLeaderLegs, Белые поножи Претора 
+thaumicdyes:CultistPlateHelm, Белый шлем культиста
+thaumicdyes:CultistPlateChest, Белая кираса культиста
+thaumicdyes:CultistPlateLegs, Белые поножи культистов
+thaumicdyes:InhabitedPlateHelm, Шлем Древнего существа
+thaumicdyes:InhabitedPlateChest, Кираса Древнего существа
+thaumicdyes:InhabitedPlateLegs, Поножи Древнего существа
+thaumicdyes:IronFortressHelm, Боевой железный шлем
+thaumicdyes:IronFortressChest, Боевая железная кираса 
+thaumicdyes:IronFortressLegs, Боевые железные поножи 
+thaumicdyes:CultistRangerHelm, Шлем багрового разведчика 
+thaumicdyes:CultistRangerChest, Кираса багрового разведчика 
+thaumicdyes:CultistRangerLegs, Поножи багрового разведчика
+thaumicdyes:CultistRangerHelmDyed, Шлем разведчика Тауматурга
+thaumicdyes:CultistRangerChestDyed, Кираса разведчика Тауматурга
+thaumicdyes:CultistRangerLegsDyed, Поножи разведчика Тауматурга
+thaumicdyes:VoidRobeHelm, Белый пустотный капюшон Тауматурга
+thaumicdyes:VoidRobeChest, Белая пустотная роба Тауматурга
+thaumicdyes:VoidRobeLegs, Белые пустотные поножи Тауматурга
+thaumicdyes:ThaumiumRobeHelm, Укрепленный капюшон Тауматурга
+thaumicdyes:ThaumiumRobeChest, Укрепленная роба Тауматурга
+thaumicdyes:ThaumiumRobeLegs, Укрепленные поножи Тауматурга
+thaumicdyes:BootsThaumiumTraveller, Усиленные таум-металлом сапоги Путешественника
+thaumicdyes:BootsVoidTraveller, Пустотные сапоги Путешественника
+thaumicdyes:CultistArcherHelm, Шлем багрового лучника
+thaumicdyes:CultistArcherChest, Кираса багрового лучника
+thaumicdyes:CultistArcherLegs, Поножи багрового лучника
+thaumicdyes:CultistPaladinHelm, Шлем Паладина
+thaumicdyes:CultistArcherHelmDyed, Боевой шлем лучника-тауматурга
+thaumicdyes:CultistArcherChestDyed, Боевой шлем лучника-тауматурга
+thaumicdyes:CultistArcherLegsDyed, Боевой шлем лучника-тауматурга
+thaumicdyes:ItemResourceFabric, Окровавленная ткань
+thaumicdyes:SunKnightHelm, Шлем солнца
+thaumicdyes:SunKnightChest, Кираса солнца
+thaumicdyes:ItemRunicHelmet, Рунический шлем
+thaumicdyes:ItemRunicChest, Руническая кираса
+thaumicdyes:ItemRunicLegs, Рунические поножи
+thaumicdyes:ItemRunicBoots, Рунические ботинки
+thaumicdyes:ItemRunicGoggles, Рунические очки Откровения
+thaumicdyes:ItemRunicBootsTraveller, Рунические ботинки путешественника
+thaumicdyes:ItemMaskEvil, Маска Смерти
+thaumicdyes:ItemRunicHelmetEnhanced, Усилинный рунический шлем
+thaumicdyes:ItemRunicChestEnhanced, Усиленная руническая кираса
+thaumicdyes:ItemRunicLegsEnhanced, Усиленные рунические поножи
+thaumicdyes:ItemRunicBootsEnhanced, Усиленные рунические ботинки
+thaumicdyes:ItemRunicHelmetPrimal, Пустотный рунический шлем
+thaumicdyes:ItemRunicChestPrimal, Пустотная руническая кираса
+thaumicdyes:ItemRunicLegsPrimal, Пустотные рунические поножи
+thaumicdyes:ItemRunicBootsPrimal, Пустотные рунические ботинки
 TU:RobesHelmet, item.RobesHelmet.name
 TU:RobesChestplate, item.RobesChestplate.name
 TU:RobesLeggings, item.RobesLeggings.name
@@ -17915,25 +17958,25 @@ ThermalDynamics:cover:0, Крышка (Плита из резного истин
 ThermalDynamics:cover:0, Крышка (Плита из резного истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
-ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
-ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
+ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
+ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
 ThermalDynamics:cover:0, Крышка (Пропитанный Ordo огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Aqua огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
-ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
-ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
 ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
-ThermalDynamics:cover:0, Крышка (Ступеньки закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Админиум-портал)
 ThermalDynamics:cover:0, Крышка (Блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Резной блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Колонна из закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
-ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
 ThermalDynamics:cover:0, Крышка (Пропитанный Aer огонь)
+ThermalDynamics:cover:0, Крышка (Ступеньки закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
+ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
 ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (Админиум-портал)
+ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Aqua огонь)
+ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
 ThermalDynamics:cover:0, Крышка (Таумический торт)
 ThermalDynamics:cover:0, Крышка (Мрачная роза)
 ThermalDynamics:cover:0, Крышка (Блок звезды Нижнего мира)
@@ -20425,8 +20468,8 @@ ThermalDynamics:cover:0, Крышка (Ламингтон)
 ThermalDynamics:cover:0, Крышка (Павлова)
 ThermalDynamics:cover:0, Крышка (Holiday Cake)
 ThermalDynamics:cover:0, Крышка (Pumpkin Cheese Cake)
-ThermalDynamics:cover:0, Крышка (Катализатор Новы)
-ThermalDynamics:cover:0, Крышка (Катаклизм Новы)
+ThermalDynamics:cover:0, Крышка (Катализатор Сверхновой)
+ThermalDynamics:cover:0, Крышка (Катаклизм Сверхновой)
 ThermalDynamics:cover:0, Крышка (Стол трансмутаций)
 ThermalDynamics:cover:0, Крышка (Блок из тёмной материи)
 ThermalDynamics:cover:0, Крышка (Блок из красной материи)
