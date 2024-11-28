@@ -1689,43 +1689,43 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Плита из резног
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Плита из резного истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Плита из колонны истинного кварца
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Плита из колонны истинного кварца
-ThaumicTinkerer:spawner, Пьедестал некроманта
-ThaumicTinkerer:travelSlab:0, Тротуарная плита путешествия
-ThaumicTinkerer:travelSlabFull:0, Тротуарная плита путешествия
-ThaumicTinkerer:warpGate, Небесный портал
-ThaumicTinkerer:animationTablet, Динамическая дощечка
-ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
-ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
-ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
-ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
 ThaumicTinkerer:darkQuartz:0, Блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:1, Резной блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:2, Колонна из закоптившегося кварца
 ThaumicTinkerer:funnel, Воронка для эссенции
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
-ThaumicTinkerer:fireAir, Пропитанный Aer огонь
-ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:dislocator, Трансвекторный дислокатор
-ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
-ThaumicTinkerer:Levitational Locomotive, Левитатор
-ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
-ThaumicTinkerer:enchanter, Осмотический стол зачарований
 ThaumicTinkerer:platform, Эфирная платформа
-ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
-ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
-ThaumicTinkerer:bedrockPortal, Админиум-портал
-ThaumicTinkerer:repairer, Таум-восстановитель
-ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
-ThaumicTinkerer:forcefield, Силовое поле
+ThaumicTinkerer:travelStairs, Тротуарные ступеньки путешествия
 ThaumicTinkerer:fireWater, Пропитанный Aqua огонь
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:interface, Трансвектор
+ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:forcefield, Силовое поле
+ThaumicTinkerer:enchanter, Осмотический стол зачарований
+ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
+ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:spawner, Пьедестал некроманта
+ThaumicTinkerer:travelSlab:0, Тротуарная плита путешествия
+ThaumicTinkerer:travelSlabFull:0, Тротуарная плита путешествия
 ThaumicTinkerer:magnet:0, Кинетический притяжатель
 ThaumicTinkerer:magnet:1, Материальный притяжатель
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
+ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
+ThaumicTinkerer:warpGate, Небесный портал
+ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
+ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
+ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
+ThaumicTinkerer:repairer, Таум-восстановитель
+ThaumicTinkerer:Levitational Locomotive, Левитатор
+ThaumicTinkerer:fireAir, Пропитанный Aer огонь
+ThaumicTinkerer:bedrockPortal, Админиум-портал
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
+ThaumicTinkerer:dislocator, Трансвекторный дислокатор
+ThaumicTinkerer:interface, Трансвектор
+ThaumicTinkerer:animationTablet, Динамическая дощечка
 ForbiddenMagic:ArcaneCake, Таумический торт
 ForbiddenMagic:WrathCage, Клетка гнева
 ForbiddenMagic:InkFlower, Мрачная роза
@@ -3556,6 +3556,10 @@ BuildCraft|Factory:pumpBlock, Помпа
 BuildCraft|Factory:floodGateBlock, Шлюз
 BuildCraft|Factory:refineryBlock, Нефтеперегонная вышка
 BuildCraft|Factory:blockHopper, Воронка
+campfirebackport:campfire, Campfire
+campfirebackport:soul_campfire, Soul Campfire
+campfirebackport:campfire_base, Campfire Base
+campfirebackport:soul_campfire_base, Soul Campfire Base
 DeeperCaves:molten_iron, tile.moltenIron.name
 DeeperCaves:venenium, tile.venenium.name
 DeeperCaves:silver_ore, Silver Ore
@@ -3877,171 +3881,240 @@ EnderIO:blockIngotStorage:7, Блок соулария
 EnderIO:blockDarkIronBars, Решётка из тёмного железа
 TwilightForest:tile.TFLog:0, Сумеречный дуб
 TwilightForest:tile.TFLog:1, Сумеречная сосна
-TwilightForest:tile.TFLog:2, Сумеречная берёза
+TwilightForest:tile.TFLog:2, Мангровое дерево
 TwilightForest:tile.TFLog:3, Тёмное дерево
+TwilightForest:tile.TFPlank:0, Доски из сумеречного дуба
+TwilightForest:tile.TFPlank:1, Доски из сумеречной сосны
+TwilightForest:tile.TFPlank:2, Мангровые доски
+TwilightForest:tile.TFPlank:3, Доски из тёмного дерева
+TwilightForest:tile.TFPlank:4, Доски из дерева времени
+TwilightForest:tile.TFPlank:5, Доски из дерева трансформации
+TwilightForest:tile.TFPlank:6, Доски из дерева шахтёра
+TwilightForest:tile.TFPlank:7, Доски из дерева сортировки
+TwilightForest:tile.TFWoodSlab:0, Плита из сумеречного дуба
+TwilightForest:tile.TFWoodSlab:1, Плита из сумеречной сосны
+TwilightForest:tile.TFWoodSlab:2, Мангровая плита
+TwilightForest:tile.TFWoodSlab:3, Плита из тёмного дерева
+TwilightForest:tile.TFWoodSlab:4, Плита из дерева времени
+TwilightForest:tile.TFWoodSlab:5, Плита из дерева трансформации
+TwilightForest:tile.TFWoodSlab:6, Плита из дерева шахтёра
+TwilightForest:tile.TFWoodSlab:7, Плита из дерева сортировки
+TwilightForest:tile.TFWoodStairsTwilight:0, Ступеньки из сумеречного дуба
+TwilightForest:tile.TFWoodStairsCanopy:0, Ступеньки из сумеречной сосны
+TwilightForest:tile.TFWoodStairsMangrove:0, Мангровые ступеньки
+TwilightForest:tile.TFWoodStairsDarkwood:0, Ступеньки из тёмного дерева
+TwilightForest:tile.TFWoodStairsTime:0, Ступеньки из дерева времени
+TwilightForest:tile.TFWoodStairsTrans:0, Ступеньки из дерева трансформации
+TwilightForest:tile.TFWoodStairsMine:0, Ступеньки из дерева шахтёра
+TwilightForest:tile.TFWoodStairsSort:0, Ступеньки из дерева сортировки
+TwilightForest:tile.TFDoorTwilight:0, tile.TFDoorTwilight.0.name
+TwilightForest:tile.TFDoorCanopy:0, tile.TFDoorCanopy.0.name
+TwilightForest:tile.TFDoorMangrove:0, tile.TFDoorMangrove.0.name
+TwilightForest:tile.TFDoorDarkwood:0, tile.TFDoorDarkwood.0.name
+TwilightForest:tile.TFDoorTime:0, tile.TFDoorTime.0.name
+TwilightForest:tile.TFDoorTrans:0, tile.TFDoorTrans.0.name
+TwilightForest:tile.TFDoorMine:0, tile.TFDoorMine.0.name
+TwilightForest:tile.TFDoorSort:0, tile.TFDoorSort.0.name
+TwilightForest:tile.TFTrapDoorTwilight:0, Люк из сумеречного дуба
+TwilightForest:tile.TFTrapDoorCanopy:0, Люк из сумеречной сосны
+TwilightForest:tile.TFTrapDoorMangrove:0, Мангровый люк
+TwilightForest:tile.TFTrapDoorDarkwood:0, Люк из тёмного дерева
+TwilightForest:tile.TFTrapDoorTime:0, Люк из дерева времени
+TwilightForest:tile.TFTrapDoorTrans:0, Люк из дерева трансформации
+TwilightForest:tile.TFTrapDoorMine:0, Люк из дерева шахтёра
+TwilightForest:tile.TFTrapDoorSort:0, Люк из дерева сортировки
+TwilightForest:tile.TFChestTwilight:0, Сундук из сумеречного дуба
+TwilightForest:tile.TFChestCanopy:0, Сундук из сумеречной сосны
+TwilightForest:tile.TFChestMangrove:0, Мангровый сундук
+TwilightForest:tile.TFChestDarkwood:0, Сундук из тёмного дерева
+TwilightForest:tile.TFChestTime:0, Сундук из дерева времени
+TwilightForest:tile.TFChestTrans:0, Сундук из дерева трансформации
+TwilightForest:tile.TFChestMine:0, Сундук из дерева шахтёра
+TwilightForest:tile.TFChestSort:0, Сундук из дерева сортировки
+TwilightForest:tile.TFChestTrapTwilight:0, Сундук-ловушка из сумеречного дуба
+TwilightForest:tile.TFChestTrapCanopy:0, Сундук-ловушка из сумеречной сосны
+TwilightForest:tile.TFChestTrapMangrove:0, Мангровый сундук-ловушка
+TwilightForest:tile.TFChestTrapDarkwood:0, Сундук-ловушка из тёмного дерева
+TwilightForest:tile.TFChestTrapTime:0, Сундук-ловушка из дерева времени
+TwilightForest:tile.TFChestTrapTrans:0, Сундук-ловушка из дерева трансформации
+TwilightForest:tile.TFChestTrapMine:0, Сундук-ловушка из дерева шахтёра
+TwilightForest:tile.TFChestTrapSort:0, Сундук-ловушка из дерева сортировки
 TwilightForest:tile.TFRoots:0, Корни
-TwilightForest:tile.TFRoots:1, Замшелые корни
+TwilightForest:tile.TFRoots:1, Живые корни
 TwilightForest:tile.TFLeaves:0, Листва сумеречного дуба
 TwilightForest:tile.TFLeaves:1, Листва сумеречной сосны
-TwilightForest:tile.TFLeaves:2, Листва сумеречной берёзы
+TwilightForest:tile.TFLeaves:2, Мангровая листва
 TwilightForest:tile.TFLeaves:3, Разноцветная листва
 TwilightForest:tile.TFFirefly, Светлячок
 TwilightForest:tile.TFCicada, Цикада
-TwilightForest:tile.TFPortal, Блок портала в сумеречный лес
-TwilightForest:tile.TFMazestone:0, Камень лабиринта
-TwilightForest:tile.TFMazestone:1, Кладка из камня лабиринта
-TwilightForest:tile.TFMazestone:2, Гладкая лабиринтовая кладка
-TwilightForest:tile.TFMazestone:3, Декоративная лабиринтовая кладка
-TwilightForest:tile.TFMazestone:4, Потресканая лабиринтовая кладка
-TwilightForest:tile.TFMazestone:5, Замшелая лабиринтовая кладка
-TwilightForest:tile.TFMazestone:6, Узорчатая лабиринтовая кладка
-TwilightForest:tile.TFMazestone:7, Двойная узорчатая лабиринтовая кладка
-TwilightForest:tile.TFHedge:0, Хеджа
-TwilightForest:tile.TFBossSpawner:0, Спавнер Наги
-TwilightForest:tile.TFBossSpawner:1, Спавнер Лича
-TwilightForest:tile.TFBossSpawner:2, Спавнер Гидры
-TwilightForest:tile.TFBossSpawner:3, Ur-ghast Spawner
-TwilightForest:tile.TFBossSpawner:4, Knight Phantoms Spawner
-TwilightForest:tile.TFBossSpawner:5, tile.TFBossSpawner.5.name
-TwilightForest:tile.TFFireflyJar, Баночка со светлячком
-TwilightForest:tile.TFPlant:3, Покров мха
-TwilightForest:tile.TFPlant:4, Четырёхлистный клевер
-TwilightForest:tile.TFPlant:8, Сверкающая трава
-TwilightForest:tile.TFPlant:9, Светогриб
+TwilightForest:tile.TFPortal, Портал в Сумеречный лес
+TwilightForest:tile.TFMazestone:0, Лабиринтовый камень
+TwilightForest:tile.TFMazestone:1, Лабиринтовый кирпич
+TwilightForest:tile.TFMazestone:2, Гладкий лабиринтовый камень
+TwilightForest:tile.TFMazestone:3, Резной лабиринтовый кирпич
+TwilightForest:tile.TFMazestone:4, Потрескавшийся лабиринтовый кирпич
+TwilightForest:tile.TFMazestone:5, Замшелый лабиринтовый кирпич
+TwilightForest:tile.TFMazestone:6, Лабиринтовая мозаика
+TwilightForest:tile.TFMazestone:7, Лабиринтовый бордюр
+TwilightForest:tile.TFHedge:0, Живая изгородь
+TwilightForest:tile.TFBossSpawner:0, Призыватель Наги
+TwilightForest:tile.TFBossSpawner:1, Призыватель Лича
+TwilightForest:tile.TFBossSpawner:6, Призыватель Грибного кентавра
+TwilightForest:tile.TFBossSpawner:2, Призыватель Гидры
+TwilightForest:tile.TFBossSpawner:4, Призыватель рыцарей-фантомов
+TwilightForest:tile.TFBossSpawner:3, Призыватель Тёмного гаста
+TwilightForest:tile.TFBossSpawner:7, Призыватель Альфа-йети
+TwilightForest:tile.TFBossSpawner:5, Призыватель Снежной королевы
+TwilightForest:tile.TFFireflyJar, Банка со светлячком
+TwilightForest:tile.TFPlant:3, Мшистый покров
+TwilightForest:tile.TFPlant:4, Дикая мандрагора
+TwilightForest:tile.TFPlant:8, Побег папоротника
+TwilightForest:tile.TFPlant:9, Световик
 TwilightForest:tile.TFPlant:10, Лесная трава
 TwilightForest:tile.TFPlant:11, Мёртвый куст
-TwilightForest:tile.TFPlant:13, Факелонтовый росток
+TwilightForest:tile.TFPlant:13, Факелонтовый куст
 TwilightForest:tile.TFPlant:14, Висячие корни
-TwilightForest:tile.TFUncraftingTable, Анти верстак
-TwilightForest:tile.TFFireJet:0, Дымовой блок
-TwilightForest:tile.TFFireJet:8, Огненный блок
-TwilightForest:tile.TFFireJet:1, Приручённый дымок
-TwilightForest:tile.TFFireJet:11, Заключённый огонёк
-TwilightForest:tile.TFNagastone:1, Нагакамень
-TwilightForest:tile.TFNagastone:13, Нагакамень
+TwilightForest:tile.TFUncraftingTable, Антиверстак
+TwilightForest:tile.TFFireJet:0, Дымящийся блок
+TwilightForest:tile.TFFireJet:8, Огненная ловушка
+TwilightForest:tile.TFFireJet:1, Генератор дыма
+TwilightForest:tile.TFFireJet:11, Управляемая огненная ловушка
+TwilightForest:tile.TFNagastoneBody, tile.TFNagastoneBody.name
+TwilightForest:tile.TFNagastoneHead, tile.TFNagastoneHead.name
+TwilightForest:tile.TFNagastoneEtched:0, Резной нагакамень
+TwilightForest:tile.TFNagastoneEtchedMossy:0, Замшелый резной нагакамень
+TwilightForest:tile.TFNagastoneEtchedWeathered:0, Потрескавшийся резной нагакамень
+TwilightForest:tile.TFNagastoneStairsLeft:0, Ступеньки из нагакамня (Левые)
+TwilightForest:tile.TFNagastoneStairsRight:0, Ступеньки из нагакамня (Правые)
+TwilightForest:tile.TFNagastoneStairsMossyLeft:0, Ступеньки из замшелого нагакамня (Левые)
+TwilightForest:tile.TFNagastoneStairsMossyRight:0, Ступеньки из замшелого нагакамня (Правые)
+TwilightForest:tile.TFNagastoneStairsWeatheredLeft:0, Ступеньки из потрескавшегося нагакамня (Левые)
+TwilightForest:tile.TFNagastoneStairsWeatheredRight:0, Ступеньки из потрескавшегося нагакамня (Правые)
+TwilightForest:tile.TFNagastonePillar:0, Колонна из нагакамня
+TwilightForest:tile.TFNagastonePillarMossy:0, Колонна из замшелого нагакамня
+TwilightForest:tile.TFNagastonePillarWeathered:0, Колонна из потрескавшегося нагакамня
+TwilightForest:tile.TFSpiralBricks:0, Спиральные каменные кирпичи
 TwilightForest:tile.TFSapling:0, Саженец сумеречного дуба
 TwilightForest:tile.TFSapling:1, Саженец сумеречной сосны
-TwilightForest:tile.TFSapling:2, Саженец сумеречной берёзы
+TwilightForest:tile.TFSapling:2, Саженец мангрового дерева
 TwilightForest:tile.TFSapling:3, Саженец тёмного дерева
 TwilightForest:tile.TFSapling:4, Саженец большого сумеречного дуба
 TwilightForest:tile.TFSapling:5, Саженец дерева времени
-TwilightForest:tile.TFSapling:6, Саженец мудрого дерева
+TwilightForest:tile.TFSapling:6, Саженец дерева трансформации
 TwilightForest:tile.TFSapling:7, Саженец дерева шахтёра
 TwilightForest:tile.TFSapling:8, Саженец сортировочного дерева
 TwilightForest:tile.TFSapling:9, Саженец разноцветного дерева
-TwilightForest:tile.TFMoonworm, Гусеница
+TwilightForest:tile.TFMoonworm, Лунный червь
 TwilightForest:tile.TFMagicLog:0, Дерево времени
-TwilightForest:tile.TFMagicLog:1, Загадочное дерево
+TwilightForest:tile.TFMagicLog:1, Дерево трансформации
 TwilightForest:tile.TFMagicLog:2, Дерево шахтёра
-TwilightForest:tile.TFMagicLog:3, Правильное дерево
+TwilightForest:tile.TFMagicLog:3, Дерево сортировки
 TwilightForest:tile.TFMagicLeaves:0, Листва дерева времени
-TwilightForest:tile.TFMagicLeaves:1, Листва мудрого дерева
-TwilightForest:tile.TFMagicLeaves:2, Листва шахтёра
-TwilightForest:tile.TFMagicLeaves:3, Листва сортировки
-TwilightForest:tile.TFMagicLogSpecial:0, Дерево времени
-TwilightForest:tile.TFMagicLogSpecial:1, Мудрое дерево
+TwilightForest:tile.TFMagicLeaves:1, Листва дерева трансформации
+TwilightForest:tile.TFMagicLeaves:2, Листва дерева шахтёра
+TwilightForest:tile.TFMagicLeaves:3, Листва дерева сортировки
+TwilightForest:tile.TFMagicLogSpecial:0, Часы дерева времени
+TwilightForest:tile.TFMagicLogSpecial:1, Сердце трансформации
 TwilightForest:tile.TFMagicLogSpecial:2, Ядро дерева шахтёра
 TwilightForest:tile.TFMagicLogSpecial:3, Ядро дерева сортировки
-TwilightForest:tile.TFTowerStone:0, Планки тёмной башни
-TwilightForest:tile.TFTowerStone:1, Боковые планки тёмной башни
-TwilightForest:tile.TFTowerStone:2, Трестнутые планки тёмной башни
-TwilightForest:tile.TFTowerStone:3, Замшелые планки тёмной башни
-TwilightForest:tile.TFTowerStone:4, Инфицированные планки тёмной башни
-TwilightForest:tile.TFTowerDevice:0, Восстанавливающийся блок
+TwilightForest:tile.TFTowerStone:0, Доски тёмной башни
+TwilightForest:tile.TFTowerStone:1, Боковые доски тёмной башни
+TwilightForest:tile.TFTowerStone:2, Потрескавшиеся доски тёмной башни
+TwilightForest:tile.TFTowerStone:3, Замшелые доски тёмной башни
+TwilightForest:tile.TFTowerStone:4, Изъеденные доски тёмной башни
+TwilightForest:tile.TFTowerDevice:0, Исчезающий блок
 TwilightForest:tile.TFTowerDevice:2, Исчезающий блок
-TwilightForest:tile.TFTowerDevice:4, Заблокированный восстанавливающийся блок
-TwilightForest:tile.TFTowerDevice:5, Разблокированый восстанавливающийся блок
-TwilightForest:tile.TFTowerDevice:6, Строитель башни
+TwilightForest:tile.TFTowerDevice:4, Заблокированный исчезающий блок
+TwilightForest:tile.TFTowerDevice:5, Разблокированый исчезающий блок
+TwilightForest:tile.TFTowerDevice:6, Карминитовый строитель
 TwilightForest:tile.TFTowerDevice:9, Антистроитель
-TwilightForest:tile.TFTowerDevice:10, Ловушка для гаста
+TwilightForest:tile.TFTowerDevice:10, Ловушка для гастов
 TwilightForest:tile.TFTowerDevice:12, Карминитовый реактор
-TwilightForest:tile.TFTowerTranslucent:0, Восстанавливающийся блок
-TwilightForest:tile.TFTowerTranslucent:1, Активный восстанавливающийся блок
-TwilightForest:tile.TFTowerTranslucent:2, Блок строителя башни
-TwilightForest:tile.TFTowerTranslucent:3, Активный блок строители башни
-TwilightForest:tile.TFTowerTranslucent:4, Анти-строитель башни
-TwilightForest:tile.TFTowerTranslucent:5, Carminite Reactor Debris
-TwilightForest:tile.TFTowerTranslucent:6, Поддельное золото
-TwilightForest:tile.TFTowerTranslucent:7, Поддельный алмаз
+TwilightForest:tile.TFTowerTranslucent:0, Исчезающий блок
+TwilightForest:tile.TFTowerTranslucent:1, Активный исчезающий блок
+TwilightForest:tile.TFTowerTranslucent:2, Блок карминитового строителя
+TwilightForest:tile.TFTowerTranslucent:3, Активный блок карминитового строителя
+TwilightForest:tile.TFTowerTranslucent:4, Блок антистроителя
+TwilightForest:tile.TFTowerTranslucent:5, Осколки карминитового реактора
+TwilightForest:tile.TFTowerTranslucent:6, Фальшивый золотой блок
+TwilightForest:tile.TFTowerTranslucent:7, Фальшивый алмазный блок
+TwilightForest:tile.TFExperiment115:0, tile.TFExperiment115.0.name
 TwilightForest:tile.TFTrophy:0, Трофей сумеречного леса
-TwilightForest:tile.TFShield:0, Крепкий щит
-TwilightForest:tile.TFTrophyPedestal:0, Трофейный пьедестал
-TwilightForest:tile.TFTrophyPedestal:15, Активированный трофейный пьедестал
-TwilightForest:tile.TFAuroraBrick, Блок Авроры
-TwilightForest:tile.TFUnderBrick:0, Подземные кирпичи
-TwilightForest:tile.TFUnderBrick:1, Потресканные поздемные кирпичи
-TwilightForest:tile.TFUnderBrick:2, Замшелые подземные кирпичи
+TwilightForest:tile.TFShield:0, Щит крепости
+TwilightForest:tile.TFTrophyPedestal:0, Деактивированный трофейный пьедестал
+TwilightForest:tile.TFTrophyPedestal:15, Трофейный пьедестал
+TwilightForest:tile.TFAuroraBrick, Блок северного сияния
+TwilightForest:tile.TFUnderBrick:0, Подземный кирпич
+TwilightForest:tile.TFUnderBrick:1, Потрескавшийся подземный кирпич
+TwilightForest:tile.TFUnderBrick:2, Замшелый подземный кирпич
 TwilightForest:tile.TFThorns:0, Шипы
 TwilightForest:tile.TFThorns:1, Зелёные шипы
 TwilightForest:tile.TFBurntThorns, Истлевшие шипы
 TwilightForest:tile.TFThornRose, Шипастая роза
-TwilightForest:tile.TFLeaves3:0, Thorn Leaves
+TwilightForest:tile.TFLeaves3:0, Шипастые листья
 TwilightForest:tile.TFLeaves3:1, Бобовые листья
-TwilightForest:tile.TFDeadrock:0, Влажный камень смерти
-TwilightForest:tile.TFDeadrock:1, Потрескавшийся камень смерти
-TwilightForest:tile.TFDeadrock:2, Камень смерти
+TwilightForest:tile.TFDeadrock:0, Обветренный мёртвый камень
+TwilightForest:tile.TFDeadrock:1, Потрескавшийся мёртвый камень
+TwilightForest:tile.TFDeadrock:2, Мёртвый камень
 TwilightForest:tile.DarkLeaves, Листва тёмного дерева
-TwilightForest:tile.AuroraPillar, Колонна Авроры
-TwilightForest:tile.AuroraSlab:0, Плита Авроры
-TwilightForest:tile.AuroraDoubleSlab:0, Плита Авроры
-TwilightForest:tile.TrollSteinn, Тролльштеин
-TwilightForest:tile.WispyCloud, Прозрачное облако
-TwilightForest:tile.FluffyCloud, Взбытое облако
+TwilightForest:tile.AuroraPillar, Колонна из северного сияния
+TwilightForest:tile.AuroraSlab:0, Плита из северного сияния
+TwilightForest:tile.AuroraDoubleSlab:0, Плита из северного сияния
+TwilightForest:tile.TrollSteinn, Троллштейн
+TwilightForest:tile.WispyCloud, Перистое облако
+TwilightForest:tile.FluffyCloud, Пушистое облако
 TwilightForest:tile.GiantCobble, Гигантский булыжник
-TwilightForest:tile.GiantLog, Гигантское дерево
+TwilightForest:tile.GiantLog, Гигантское бревно
 TwilightForest:tile.GiantLeaves, Гигантские листья
 TwilightForest:tile.GiantObsidian, Гигантский обсидиан
-TwilightForest:tile.UberousSoil, Анбеоновая почва
+TwilightForest:tile.UberousSoil, Плодородная почва
 TwilightForest:tile.HugeStalk, Огромный стебель
-TwilightForest:tile.HugeGloomBlock, Огромный грибрил
-TwilightForest:tile.TrollVidr, Тролловидр
-TwilightForest:tile.UnripeTrollBer, Спелый тролльбер
-TwilightForest:tile.TrollBer, Тролльбер
-TwilightForest:tile.KnightmetalBlock, Block of Knightmetal
-TwilightForest:tile.HugeLilyPad, Huge Lily Pad
-TwilightForest:tile.HugeWaterLily, Huge Water Lily
-TwilightForest:tile.Slider:0, Slide Trap
-TwilightForest:tile.Slider:1, Slide Trap 1
-TwilightForest:tile.Slider:2, Slide Trap 2
-TwilightForest:tile.Slider:3, Slide Trap 3
-TwilightForest:tile.CastleBrick:0, Castle Brick
-TwilightForest:tile.CastleBrick:1, Worn Castle Brick
-TwilightForest:tile.CastleBrick:2, Cracked Castle Brick
-TwilightForest:tile.CastleBrick:3, Castle Roof Tile
-TwilightForest:tile.CastleMagic:0, Blue Castle Rune Brick
-TwilightForest:tile.CastleMagic:1, Yellow Castle Rune Brick
-TwilightForest:tile.CastleMagic:2, Pink Castle Rune Brick
-TwilightForest:tile.CastleMagic:3, Violet Castle Rune Brick
-TwilightForest:tile.ForceField:0, Violet Force Field
-TwilightForest:tile.ForceField:1, Pink Force Field
-TwilightForest:tile.ForceField:2, Orange Force Field
-TwilightForest:tile.ForceField:3, Green Force Field
-TwilightForest:tile.ForceField:4, Blue Force Field
-TwilightForest:tile.CinderFurnaceIdle, Cinder Furnace [NYI]
-TwilightForest:tile.CinderFurnaceLit, Cinder Furnace [NYI]
-TwilightForest:tile.CinderLog:0, Cinder Log [NYI]
-TwilightForest:tile.CastleDoor:0, Blue Castle Door
-TwilightForest:tile.CastleDoor:1, Yellow Castle Door
-TwilightForest:tile.CastleDoor:2, Pink Castle Door
-TwilightForest:tile.CastleDoor:3, Violet Castle Door
-TwilightForest:tile.CastleDoorVanished:0, Blue Castle Door
-TwilightForest:tile.CastleDoorVanished:1, Yellow Castle Door
-TwilightForest:tile.CastleDoorVanished:2, Pink Castle Door
-TwilightForest:tile.CastleDoorVanished:3, Violet Castle Door
-TwilightForest:tile.TFPlank:0, Twilight Oak Planks
-TwilightForest:tile.TFPlank:1, Canopy Planks
-TwilightForest:tile.TFPlank:2, Mangrove Planks
-TwilightForest:tile.TFPlank:3, Darkwood Planks
-TwilightForest:tile.TFPlank:4, Timewood Planks
-TwilightForest:tile.TFPlank:5, Transwood Planks
-TwilightForest:tile.TFPlank:6, Minewood Planks
-TwilightForest:tile.TFPlank:7, Sortingwood Planks
+TwilightForest:tile.HugeGloomBlock, Огромный светогриб
+TwilightForest:tile.TrollVidr, Троллвидр
+TwilightForest:tile.UnripeTrollBer, Спелый троллбер
+TwilightForest:tile.TrollBer, Троллбер
+TwilightForest:tile.KnightmetalBlock:0, Блок рыцарского металла
+TwilightForest:tile.ArcticFurBlock:0, Блок арктического меха
+TwilightForest:tile.CarminiteBlock:0, Карминитовый блок
+TwilightForest:tile.FieryBlock:0, Блок огненного металла
+TwilightForest:tile.IronwoodBlock:0, Блок железного дерева
+TwilightForest:tile.SteeleafBlock:0, Стальная листва
+TwilightForest:tile.HugeLilyPad, Огромная кувшинка
+TwilightForest:tile.HugeWaterLily, Огромная лилия
+TwilightForest:tile.Slider:0, Скользящая ловушка
+TwilightForest:tile.Slider:1, Скользящая ловушка 1
+TwilightForest:tile.Slider:2, Скользящая ловушка 2
+TwilightForest:tile.Slider:3, Скользящая ловушка 3
+TwilightForest:tile.CastleBrick:0, Кирпич замка
+TwilightForest:tile.CastleBrick:1, Обветренный кирпич замка
+TwilightForest:tile.CastleBrick:2, Потрескавшийся кирпич замка
+TwilightForest:tile.CastleBrick:3, Крыша замка
+TwilightForest:tile.CastleMagic:0, Голубой рунный кирпич замка
+TwilightForest:tile.CastleMagic:1, Жёлтый рунный кирпич замка
+TwilightForest:tile.CastleMagic:2, Розовый рунный кирпич замка
+TwilightForest:tile.CastleMagic:3, Фиолетовый рунный кирпич замка
+TwilightForest:tile.ForceField:0, Фиолетовое силовое поле
+TwilightForest:tile.ForceField:1, Розовое силовое поле
+TwilightForest:tile.ForceField:2, Оранжевое силовое поле
+TwilightForest:tile.ForceField:3, Зелёное силовое поле
+TwilightForest:tile.ForceField:4, Голубое силовое поле
+TwilightForest:tile.CinderFurnaceIdle, Пепельная печь
+TwilightForest:tile.CinderFurnaceLit, tile.CinderFurnaceLit.name
+TwilightForest:tile.CinderLog:0, Пепельное бревно
+TwilightForest:tile.CastleDoor:0, Синяя дверь замка
+TwilightForest:tile.CastleDoor:1, Жёлтая дверь замка
+TwilightForest:tile.CastleDoor:2, Розовая дверь замка
+TwilightForest:tile.CastleDoor:3, Фиолетовая дверь замка
+TwilightForest:tile.CastleDoorVanished:0, Синяя дверь замка
+TwilightForest:tile.CastleDoorVanished:1, Жёлтая дверь замка
+TwilightForest:tile.CastleDoorVanished:2, Розовая дверь замка
+TwilightForest:tile.CastleDoorVanished:3, Фиолетовая дверь замка
 etfuturum:stone:1, Гранит
-etfuturum:stone:2, Гладкий гранит
+etfuturum:stone:2, Полированный гранит
 etfuturum:stone:3, Диорит
-etfuturum:stone:4, Гладкий диорит
+etfuturum:stone:4, Полированный диорит
 etfuturum:stone:5, Андезит
-etfuturum:stone:6, Гладкий андезит
+etfuturum:stone:6, Полированный андезит
 etfuturum:prismarine_block:0, Призмарин
 etfuturum:prismarine_block:1, Призмариновый кирпич
 etfuturum:prismarine_block:2, Тёмный призмарин
@@ -4072,7 +4145,7 @@ etfuturum:slime, Блок слизи
 etfuturum:sponge:1, Мокрая губка
 etfuturum:purpur_block, Пурпурный блок
 etfuturum:purpur_pillar, Пурпурная колонна
-etfuturum:end_bricks, Кирпичи из камня Края
+etfuturum:end_bricks, Эндерняковые кирпичи
 etfuturum:grass_path, Травяная тропинка
 etfuturum:end_rod, Стержень Края
 etfuturum:chorus_plant, Растение хоруса
@@ -4081,7 +4154,6 @@ etfuturum:bone, Костяной блок
 etfuturum:red_netherbrick:0, Красные адские кирпичи
 etfuturum:red_netherbrick:1, Потрескавшиеся красные адские кирпичи
 etfuturum:red_netherbrick:2, Резные красные адские кирпичи
-etfuturum:nether_wart, Блок адского нароста
 etfuturum:ancient_debris, Древние обломки
 etfuturum:netherite_block, Незеритовый блок
 etfuturum:nether_gold_ore, Золотая руда Нижнего мира
@@ -4089,7 +4161,7 @@ etfuturum:blue_ice, Синий лёд
 etfuturum:smooth_stone, Гладкий камень
 etfuturum:smooth_sandstone, Гладкий песчаник
 etfuturum:smooth_red_sandstone, Гладкий красный песчаник
-etfuturum:smooth_quartz, Гладкий кварцевый блок
+etfuturum:smooth_quartz, Гладкий кварц
 etfuturum:quartz_bricks, Кварцевые кирпичи
 etfuturum:log_stripped:0, Обтёсанная дубовая древесина
 etfuturum:log_stripped:1, Обтёсанная еловая древесина
@@ -4126,7 +4198,7 @@ etfuturum:concrete:13, Зелёный бетон
 etfuturum:concrete:14, Красный бетон
 etfuturum:concrete:15, Чёрный бетон
 etfuturum:concrete_powder:0, Белый цемент
-etfuturum:concrete_powder:1, Оранжевая цемент
+etfuturum:concrete_powder:1, Оранжевый цемент
 etfuturum:concrete_powder:2, Пурпурный цемент
 etfuturum:concrete_powder:3, Светло-синий цемент
 etfuturum:concrete_powder:4, Жёлтый цемент
@@ -4178,18 +4250,48 @@ etfuturum:copper_block:12, Вощёный резной медный блок
 etfuturum:copper_block:13, Вощёный потемневший резной медный блок
 etfuturum:copper_block:14, Вощёный состаренный резной медный блок
 etfuturum:copper_block:15, Вощёный окисленный резной медный блок
+etfuturum:chiseled_copper:0, Точёный медный блок
+etfuturum:chiseled_copper:1, Потемневший точёный медный блок
+etfuturum:chiseled_copper:2, Состаренный точёный медный блок
+etfuturum:chiseled_copper:3, Окисленный точёный медный блок
+etfuturum:chiseled_copper:4, Вощёный точёный медный блок
+etfuturum:chiseled_copper:5, Вощёный потемневший точёный медный блок
+etfuturum:chiseled_copper:6, Вощёный состаренный точёный медный блок
+etfuturum:chiseled_copper:7, Вощёный окисленный точёный медный блок
+etfuturum:copper_grate:0, Медная решётка
+etfuturum:copper_grate:1, Потемневшая медная решётка
+etfuturum:copper_grate:2, Состаренная медная решётка
+etfuturum:copper_grate:3, Окисленная медная решётка
+etfuturum:copper_grate:4, Вощёная медная решётка
+etfuturum:copper_grate:5, Вощёная потемневшая медная решётка
+etfuturum:copper_grate:6, Вощёная состаренная медная решётка
+etfuturum:copper_grate:7, Вощёная окисленная медная решётка
+etfuturum:copper_bulb:0, Медная лампа
+etfuturum:copper_bulb:1, Потемневшая медная лампа
+etfuturum:copper_bulb:2, Состаренная медная лампа
+etfuturum:copper_bulb:3, Окисленная медная лампа
+etfuturum:copper_bulb:8, Вощёная медная лампа
+etfuturum:copper_bulb:9, Вощёная потемневшая медная лампа
+etfuturum:copper_bulb:10, Вощёная состаренная медная лампа
+etfuturum:copper_bulb:11, Вощёная окисленная медная лампа
 etfuturum:deepslate, Глубинный сланец
-etfuturum:cobbled_deepslate, Дроблённый глубинный сланец
-etfuturum:polished_deepslate, Гладкий глубинный сланец
+etfuturum:cobbled_deepslate, Колотый глубинный сланец
+etfuturum:polished_deepslate, Полированный глубинный сланец
 etfuturum:deepslate_bricks:0, Кирпичи из глубинного сланца
-etfuturum:deepslate_bricks:1, Потрескавшиеся кирпичи из глубинного сланца
-etfuturum:deepslate_bricks:2, Плитняк из глубинного сланца
-etfuturum:deepslate_bricks:3, Потрескавшийся плитняк из глубинного сланца
+etfuturum:deepslate_bricks:1, Потрескавшиеся глубинносланцевые кирпичи
+etfuturum:deepslate_bricks:2, Глубинносланцевый плитняк
+etfuturum:deepslate_bricks:3, Потрескавшийся глубинносланцевый плитняк
 etfuturum:deepslate_bricks:4, Резной глубинный сланец
-etfuturum:tuff, Туф
+etfuturum:tuff:0, Туф
+etfuturum:tuff:1, Полированный туф
+etfuturum:tuff:2, Туфовые кирпичи
+etfuturum:tuff:3, Резной туф
+etfuturum:tuff:4, Резные туфовые кирпичи
 etfuturum:raw_ore_block:0, Блок необработанной меди
 etfuturum:raw_ore_block:1, Блок необработанного железа
 etfuturum:raw_ore_block:2, Блок необработанного золота
+etfuturum:basalt:0, Базальт
+etfuturum:basalt:1, Полированный базальт
 etfuturum:smooth_basalt, Гладкий базальт
 etfuturum:calcite, Кальцит
 etfuturum:amethyst_block, Аметистовый блок
@@ -4199,22 +4301,9 @@ etfuturum:amethyst_cluster_1:6, Средний аметистовый бутон
 etfuturum:amethyst_cluster_2:0, Большой аметистовый бутон
 etfuturum:amethyst_cluster_2:6, Аметистовый кластер
 etfuturum:tinted_glass, Тонированное стекло
-etfuturum:stone_wall:0, Стена из каменного кирпича
-etfuturum:stone_wall:1, Стена из замшелого каменного кирпича
-etfuturum:stone_wall:2, Стена из песчаника
-etfuturum:stone_wall:3, Кирпичная стена
-etfuturum:nether_brick_wall, Стена из адского кирпича
-etfuturum:stone_wall_2:0, Гранитная стена
-etfuturum:stone_wall_2:1, Диоритовая стена
-etfuturum:stone_wall_2:2, Андезитовая стена
-etfuturum:red_sandstone_wall, Стена из красного песчаника
-etfuturum:prismarine_wall, Призмариновая стена
-etfuturum:red_nether_brick_wall, Стена из красного адского кирпича
-etfuturum:end_brick_wall, Стена из каменного кирпича Края
-etfuturum:deepslate_wall:0, Стена из дроблённого глубинного сланца
-etfuturum:deepslate_wall:1, Стена из полированного глубинного сланца
-etfuturum:deepslate_brick_wall:0, Стена из кирпича глубинного сланца
-etfuturum:deepslate_brick_wall:1, Стена из плитняка глубинного сланца
+etfuturum:mud, Грязь
+etfuturum:packed_mud:0, Плотная грязь
+etfuturum:packed_mud:1, Саманные кирпичи
 etfuturum:deepslate_coal_ore, Глубинный уголь
 etfuturum:deepslate_iron_ore, Глубинная железная руда
 etfuturum:deepslate_gold_ore, Глубинная золотая руда
@@ -4222,16 +4311,8 @@ etfuturum:deepslate_redstone_ore, Глубинная красная руда
 etfuturum:deepslate_lapis_ore, Глубинная лазуритовая руда
 etfuturum:deepslate_diamond_ore, Глубинная алмазная руда
 etfuturum:deepslate_emerald_ore, Глубинная изумрудная руда
-etfuturum:brewing_stand, Варочная стойка
-etfuturum:beacon, Маяк
-etfuturum:enchantment_table, Стол зачарований
-etfuturum:anvil:0, Наковальня
-etfuturum:anvil:1, Повреждённая наковальня
-etfuturum:anvil:2, Сильно повреждённая наковальня
 etfuturum:observer, Наблюдатель
 etfuturum:target, Мишень
-etfuturum:red_sandstone_stairs, Ступеньки из красного песчаника
-etfuturum:purpur_stairs, Пурпурные ступеньки
 etfuturum:red_sandstone_slab:0, Плита из красного песчаника
 etfuturum:red_sandstone_slab:1, Плита из резного красного песчаника
 etfuturum:purpur_slab, Пурпурная плита
@@ -4246,6 +4327,36 @@ etfuturum:stone_slab_2:2, Диоритовая плита
 etfuturum:stone_slab_2:3, Плита из полированного диорита
 etfuturum:stone_slab_2:4, Андезитовая плита
 etfuturum:stone_slab_2:5, Плита из полированного андезита
+etfuturum:smooth_sandstone_slab, Плита из гладкого песчаника
+etfuturum:double_smooth_sandstone_slab, Плита из гладкого песчаника
+etfuturum:smooth_red_sandstone_slab, Плита из гладкого красного песчаника
+etfuturum:double_smooth_red_sandstone_slab, Плита из гладкого красного песчаника
+etfuturum:prismarine_slab:0, Призмариновая плита
+etfuturum:prismarine_slab:1, Плита из призмаринового кирпича
+etfuturum:prismarine_slab:2, Плита из тёмного призмарина
+etfuturum:smooth_quartz_slab, Плита из гладкого кварца
+etfuturum:double_smooth_quartz_slab, Плита из гладкого кварца
+etfuturum:red_netherbrick_slab, tile.null.name
+etfuturum:double_red_netherbrick_slab, tile.null.name
+etfuturum:end_brick_slab, tile.null.name
+etfuturum:double_end_brick_slab, tile.null.name
+etfuturum:deepslate_slab:0, Плита из колотого глубинного сланца
+etfuturum:deepslate_slab:1, Плита из полированного глубинного сланца
+etfuturum:deepslate_brick_slab:0, Плита из глубинносланцевого кирпича
+etfuturum:deepslate_brick_slab:1, Плита из глубинносланцевого плитняка
+etfuturum:tuff_slab:0, Туфовая плита
+etfuturum:tuff_slab:1, Плита из полированного туфа
+etfuturum:tuff_slab:2, Плита из туфового кирпича
+etfuturum:mud_brick_slab, tile.null.name
+etfuturum:double_mud_brick_slab, tile.null.name
+etfuturum:cut_copper_slab:0, Плита из резного медного блока
+etfuturum:cut_copper_slab:1, Потемневшая плита из резного медного блока
+etfuturum:cut_copper_slab:2, Состаренная плита из резного медного блока
+etfuturum:cut_copper_slab:3, Окисленная плита из резного медного блока
+etfuturum:cut_copper_slab:4, Вощёная плита из резного медного блока
+etfuturum:cut_copper_slab:5, Вощёная потемневшая плита из резного медного блока
+etfuturum:cut_copper_slab:6, Вощёная состаренная плита из резного медного блока
+etfuturum:cut_copper_slab:7, Вощёная окисленная плита из окисленного резного медного блока
 etfuturum:prismarine_stairs, Призмариновые ступеньки
 etfuturum:prismarine_stairs_brick, Ступеньки из призмаринового кирпича
 etfuturum:prismarine_stairs_dark, Ступеньки из тёмного призмарина
@@ -4262,32 +4373,17 @@ etfuturum:polished_andesite_stairs, Ступеньки из полированн
 etfuturum:mossy_stone_brick_stairs, Ступеньки из замшелого каменного кирпича
 etfuturum:mossy_cobblestone_stairs, Ступеньки из замшелого булыжника
 etfuturum:stone_stairs, Каменные ступеньки
-etfuturum:end_brick_stairs, Ступеньки из кирпича камня Края
-etfuturum:smooth_sandstone_slab, Плита из гладкого песчаника
-etfuturum:double_smooth_sandstone_slab, Плита из гладкого песчаника
-etfuturum:smooth_red_sandstone_slab, Плита из гладкого красного песчаника
-etfuturum:double_smooth_red_sandstone_slab, Плита из гладкого красного песчаника
-etfuturum:prismarine_slab:0, Призмариновая плита
-etfuturum:prismarine_slab:1, Плита из призмаринового кирпича
-etfuturum:prismarine_slab:2, Плита из тёмного призмарина
-etfuturum:smooth_quartz_slab, Плита из гладкого кварца
-etfuturum:double_smooth_quartz_slab, Плита из гладкого кварца
-etfuturum:red_netherbrick_slab, Плита из красного адского кирпича
-etfuturum:double_red_netherbrick_slab, Плита из красного адского кирпича
-etfuturum:end_brick_slab, Плита из кирпича камня Края
-etfuturum:double_end_brick_slab, Плита из кирпича камня Края
-etfuturum:cut_copper_slab:0, Плита из резного медного блока
-etfuturum:cut_copper_slab:1, Потемневшая плита из резного медного блока
-etfuturum:cut_copper_slab:2, Состаренная плита из резного медного блока
-etfuturum:cut_copper_slab:3, Окисленная плита из резного медного блока
-etfuturum:cut_copper_slab:4, Вощёная плита из резного медного блока
-etfuturum:cut_copper_slab:5, Вощёная потемневшая плита из резного медного блока
-etfuturum:cut_copper_slab:6, Вощёная состаренная плита из резного медного блока
-etfuturum:cut_copper_slab:7, Вощёная окисленная плита из окисленного резного медного блока
-etfuturum:deepslate_slab:0, Плита из дроблённого глубинного сланца
-etfuturum:deepslate_slab:1, Плита из полированного глубинного сланца
-etfuturum:deepslate_brick_slab:0, Плита из кирпича глубинного сланца
-etfuturum:deepslate_brick_slab:1, Плита из плитняка глубинного сланца
+etfuturum:end_brick_stairs, Ступеньки из эндернякового кирпича
+etfuturum:red_sandstone_stairs, Ступеньки из красного песчаника
+etfuturum:purpur_stairs, Пурпурные ступеньки
+etfuturum:cobbled_deepslate_stairs, Ступеньки из колотого глубинного сланца
+etfuturum:polished_deepslate_stairs, Ступеньки из полированного глубинного сланца
+etfuturum:deepslate_brick_stairs, Ступеньки из глубинносланцевого кирпича
+etfuturum:deepslate_tile_stairs, Ступеньки из глубинносланцевого плитняка
+etfuturum:tuff_stairs, Туфовые ступеньки
+etfuturum:polished_tuff_stairs, Ступеньки из полированного туфа
+etfuturum:tuff_brick_stairs, Ступеньки из туфового кирпича
+etfuturum:mud_brick_stairs, Саманные ступеньки
 etfuturum:cut_copper_stairs, Ступеньки из резного медного блока
 etfuturum:exposed_cut_copper_stairs, Потемневшие ступеньки из резного медного блока
 etfuturum:weathered_cut_copper_stairs, Состаренные ступеньки из резного медного блока
@@ -4296,14 +4392,48 @@ etfuturum:waxed_cut_copper_stairs, Вощёные ступеньки из рез
 etfuturum:waxed_exposed_cut_copper_stairs, Вощёные потемневшие ступеньки из резного медного блока
 etfuturum:waxed_weathered_cut_copper_stairs, Вощёные состаренные ступеньки из резного медного блока
 etfuturum:waxed_oxidized_cut_copper_stairs, Вощёные окисленные ступеньки из резного медного блока
-etfuturum:cobbled_deepslate_stairs, Ступеньки из дроблённого глубинного сланца
-etfuturum:polished_deepslate_stairs, Ступеньки из полированного глубинного сланца
-etfuturum:deepslate_brick_stairs, Ступеньки из кирпича глубинного сланца
-etfuturum:deepslate_tile_stairs, Ступеньки из плитняка глубинного сланца
+etfuturum:stone_wall:0, Ограда из каменного кирпича
+etfuturum:stone_wall:1, Ограда из замшелого каменного кирпича
+etfuturum:stone_wall:2, Ограда из песчаника
+etfuturum:stone_wall:3, Кирпичная Ограда
+etfuturum:nether_brick_wall:0, Ограда из адского кирпича
+etfuturum:stone_wall_2:0, Гранитная Ограда
+etfuturum:stone_wall_2:1, Диоритовая Ограда
+etfuturum:stone_wall_2:2, Андезитовая Ограда
+etfuturum:red_sandstone_wall:0, Ограда из красного песчаника
+etfuturum:prismarine_wall:0, Призмариновая Ограда
+etfuturum:red_nether_brick_wall:0, Ограда из красного адского кирпича
+etfuturum:end_brick_wall:0, Ограда из эндернякового кирпича
+etfuturum:deepslate_wall:0, Ограда из колотого глубинного сланца
+etfuturum:deepslate_wall:1, Ограда из полированного глубинного сланца
+etfuturum:deepslate_brick_wall:0, Ограда из глубинносланцевого кирпича
+etfuturum:deepslate_brick_wall:1, Ограда из глубинносланцевого плитняка
+etfuturum:tuff_wall:0, Tuff Wall
+etfuturum:tuff_wall:1, Polished Tuff Wall
+etfuturum:tuff_wall:2, Tuff Brick Wall
+etfuturum:mud_brick_wall:0, Саманная ограда
+etfuturum:copper_door, Медная дверь
+etfuturum:exposed_copper_door, Потемневшая медная дверь
+etfuturum:weathered_copper_door, Состаренная медная дверь
+etfuturum:oxidized_copper_door, Окисленная медная дверь
+etfuturum:waxed_copper_door, Вощёная медная дверь
+etfuturum:waxed_exposed_copper_door, Вощёная потемневшая медная дверь
+etfuturum:waxed_weathered_copper_door, Вощёная состаренная медная дверь
+etfuturum:waxed_oxidized_copper_door, Вощёная окисленная медная дверь
+etfuturum:copper_trapdoor, Медный люк
+etfuturum:exposed_copper_trapdoor, Потемневший медный люк
+etfuturum:weathered_copper_trapdoor, Состаренный медный люк
+etfuturum:oxidized_copper_trapdoor, Окисленный медный люк
+etfuturum:waxed_copper_trapdoor, Вощёный медный люк
+etfuturum:waxed_exposed_copper_trapdoor, Вощёный потемневший медный люк
+etfuturum:waxed_weathered_copper_trapdoor, Вощёный состаренный медный люк
+etfuturum:waxed_oxidized_copper_trapdoor, Вощёный окисленный медный люк
 etfuturum:iron_trapdoor, Железный люк
 etfuturum:magma, Магмовый блок
 etfuturum:barrel, Бочка
 etfuturum:lantern, Фонарь
+etfuturum:soul_lantern, Фонарь душ
+etfuturum:soul_torch, Факел душ
 etfuturum:smoker, Коптильня
 etfuturum:blast_furnace, Плавильная печь
 etfuturum:shulker_box, Шалкеровый ящик
@@ -4318,36 +4448,108 @@ etfuturum:honeycomb_block, Блок пчелиных сот
 etfuturum:beehive, Улей 
 etfuturum:bee_nest, Пчелиное гнездо
 etfuturum:chain, Цепь
-etfuturum:trapdoor_spruce, Еловый люк
-etfuturum:trapdoor_birch, Берёзовый люк
-etfuturum:trapdoor_jungle, Люк из досок тропического дерева
-etfuturum:trapdoor_acacia, Акациевый люк
-etfuturum:trapdoor_dark_oak, Люк из досок тёмного дуба
+etfuturum:brewing_stand, Варочная стойка
+etfuturum:beacon, Маяк
+etfuturum:enchantment_table, Стол зачарований
+etfuturum:anvil:0, Наковальня
+etfuturum:anvil:1, Повреждённая наковальня
+etfuturum:anvil:2, Сильно повреждённая наковальня
+etfuturum:blackstone:0, Чернит
+etfuturum:blackstone:1, Полированный Чернит
+etfuturum:blackstone:2, Полированно-чернитные кирпичи
+etfuturum:blackstone:3, Потрескавшиеся полированно-чернитные кирпичи
+etfuturum:blackstone:4, Резной полированный чернит
+etfuturum:gilded_blackstone, Золочёный чернит
+etfuturum:blackstone_slab:0, Чернитная плита
+etfuturum:blackstone_slab:1, Плита из полированного чернита
+etfuturum:blackstone_slab:2, Плита из полированно-чернитного кирпича
+etfuturum:blackstone_stairs, Чернитные ступеньки
+etfuturum:polished_blackstone_stairs, Ступеньки из полированного чернита
+etfuturum:polished_blackstone_brick_stairs, Ступеньки из полированно-чернитного кирпича
+etfuturum:blackstone_wall:0, Чернитная ограда
+etfuturum:blackstone_wall:1, Ограда из полированного чернита
+etfuturum:blackstone_wall:2, Ограда из полированно-чернитного кирпича
+etfuturum:polished_blackstone_pressure_plate, Нажимная плита из полированного чернита
+etfuturum:polished_blackstone_button, Кнопка из полированного чернита
+etfuturum:soul_soil, Почва душ
+etfuturum:nether_wart:0, Блок адского нароста
+etfuturum:pink_petals, Розовые лепестки
+etfuturum:sapling:1, Саженец вишни
+etfuturum:leaves:1, Вишнёвые листья
+etfuturum:wood_planks:3, Вишнёвые доски
+etfuturum:wood_planks:4, Бамбуковые доски
+etfuturum:wood_slab:3, Вишнёвая плита
+etfuturum:wood_slab:4, Бамбуковая плита
+etfuturum:double_wood_slab:3, Вишнёвая плита
+etfuturum:double_wood_slab:4, Бамбуковая плита
+etfuturum:cherry_log:0, Вишнёвое бревно
+etfuturum:cherry_log:1, Вишня
+etfuturum:cherry_log:2, Обтёсанное вишнёвое бревно
+etfuturum:cherry_log:3, Обтёсанная вишнёвая древесина
+etfuturum:bamboo_block:0, Блок бамбука
+etfuturum:bamboo_block:1, Блок обтёсанного бамбука
+etfuturum:cherry_stairs, Вишнёвые ступеньки
+etfuturum:bamboo_stairs, Бамбуковые ступеньки
+etfuturum:bamboo_mosaic, Бамбуковая мозаика
+minecraft:record_13, Пластинка
+minecraft:record_cat, Пластинка
+minecraft:record_blocks, Пластинка
+minecraft:record_chirp, Пластинка
+minecraft:record_far, Пластинка
+minecraft:record_mall, Пластинка
+minecraft:record_mellohi, Пластинка
+minecraft:record_stal, Пластинка
+minecraft:record_strad, Пластинка
+minecraft:record_ward, Пластинка
+minecraft:record_11, Пластинка
+minecraft:record_wait, Пластинка
+etfuturum:bamboo_mosaic_slab, Плита из бамбуковой мозаики
+etfuturum:double_bamboo_mosaic_slab, Плита из бамбуковой мозаики
+etfuturum:bamboo_mosaic_stairs, Ступеньки из бамбуковой мозаики
+etfuturum:fence_spruce, Еловый забор
+etfuturum:fence_birch, Берёзовый забор
+etfuturum:fence_jungle, Забор из тропического дерева
+etfuturum:fence_acacia, Акациевый забор
+etfuturum:fence_dark_oak, Забор из тёмного дуба
+etfuturum:wood_fence:3, Вишнёвый забор
+etfuturum:wood_fence:4, Бамбуковый забор
 etfuturum:button_spruce, Еловая кнопка
 etfuturum:button_birch, Берёзовая кнопка
-etfuturum:button_jungle, Кнопка из досок тропического дерева
+etfuturum:button_jungle, Кнопка из тропического дерева
 etfuturum:button_acacia, Акациевая кнопка
-etfuturum:button_dark_oak, Кнопка из досок тёмного дуба
-etfuturum:pressure_plate_spruce, Еловая нажимная пластина
-etfuturum:pressure_plate_birch, Берёзовая нажимная пластина
-etfuturum:pressure_plate_jungle, Нажимная пластина из досок тропического дерева
-etfuturum:pressure_plate_acacia, Акациевая нажимная пластина
-etfuturum:pressure_plate_dark_oak, Нажимная пластина из досок тёмного дуба
-etfuturum:fence_spruce, Забор из ели
-etfuturum:fence_birch, Забор из берёзы
-etfuturum:fence_jungle, Забор из досок тропического дерева
-etfuturum:fence_acacia, Забор из акации
-etfuturum:fence_dark_oak, Забор из досок тёмного дуба
-etfuturum:fence_gate_spruce, Калитка из ели
-etfuturum:fence_gate_birch, Калитка из берёзы
-etfuturum:fence_gate_jungle, Калитка из досок тропического дерева
-etfuturum:fence_gate_acacia, Калитка из акации
-etfuturum:fence_gate_dark_oak, Калитка из досок тёмного дуба
-etfuturum:door_spruce, Дверь из ели
-etfuturum:door_birch, Дверь из берёзы
-etfuturum:door_jungle, Дверь из досок тропического дерева
-etfuturum:door_acacia, Дверь из акации
-etfuturum:door_dark_oak, Дверь из досок тёмного дуба
+etfuturum:button_dark_oak, Кнопка из тёмного дуба
+etfuturum:cherry_button, Вишнёвая кнопка
+etfuturum:bamboo_button, Бамбуковая кнопка
+etfuturum:pressure_plate_spruce, Еловая нажимная плита
+etfuturum:pressure_plate_birch, Берёзовая нажимная плита
+etfuturum:pressure_plate_jungle, Нажимная плита из тропического дерева
+etfuturum:pressure_plate_acacia, Акациевая нажимная плита
+etfuturum:pressure_plate_dark_oak, Нажимная плита из тёмного дуба
+etfuturum:cherry_pressure_plate, Вишнёвая нажимная плита
+etfuturum:bamboo_pressure_plate, Бамбуковая нажимная плита
+etfuturum:fence_gate_spruce, Еловая калитка
+etfuturum:fence_gate_birch, Берёзовая калитка
+etfuturum:fence_gate_jungle, Калитка из тропического дерева
+etfuturum:fence_gate_acacia, Акациевая калитка
+etfuturum:fence_gate_dark_oak, Калитка из тёмного дуба
+etfuturum:cherry_fence_gate, Вишнёвая калитка
+etfuturum:bamboo_fence_gate, Бамбуковая калитка
+etfuturum:door_spruce, Еловая дверь
+etfuturum:door_birch, Берёзовая дверь
+etfuturum:door_jungle, Дверь из тропического дерева
+etfuturum:door_acacia, Акациевый люк
+etfuturum:door_dark_oak, Дверь из тёмного дуба
+etfuturum:cherry_door, Вишнёвая дверь
+etfuturum:bamboo_door, Бамбуковая дверь
+etfuturum:trapdoor_spruce, Еловый люк
+etfuturum:trapdoor_birch, Берёзовый люк
+etfuturum:trapdoor_jungle, Люк из тропического дерева
+etfuturum:trapdoor_acacia, Акациевый люк
+etfuturum:trapdoor_dark_oak, Люк из тёмного дуба
+etfuturum:cherry_trapdoor, Вишнёвый люк
+etfuturum:bamboo_trapdoor, Бамбуковый люк
+etfuturum:cherry_sign, Вишнёвая табличка
+etfuturum:bamboo_sign, Бамбуковая табличка
 etfuturum:white_bed, Белая кровать
 etfuturum:orange_bed, Оранжевая кровать
 etfuturum:magenta_bed, Пурпурная кровать
@@ -4384,6 +4586,49 @@ etfuturum:light:13, Свет
 etfuturum:light:14, Свет
 etfuturum:light:15, Свет
 etfuturum:barrier, Барьер
+etfuturum:modded_raw_ore_block:0, Блок необработанного алюминия
+etfuturum:modded_raw_ore_block:1, Блок необработанного олова
+etfuturum:modded_raw_ore_block:2, Блок необработанного серебра
+etfuturum:modded_raw_ore_block:3, Блок необработанного свинца
+etfuturum:modded_raw_ore_block:4, Блок необработанного никеля
+etfuturum:modded_raw_ore_block:5, Блок необработанной платины
+etfuturum:modded_raw_ore_block:6, Блок необработанного мифрила
+etfuturum:modded_raw_ore_block:7, Блок необработанного урана
+etfuturum:modded_raw_ore_block:9, Блок необработанного вольфрама
+etfuturum:modded_raw_ore_block:10, Блок необработанного титана
+etfuturum:modded_raw_ore_block:11, Блок необработанного цинка
+etfuturum:modded_raw_ore_block:12, Блок необработанного магния
+etfuturum:modded_deepslate_ore:0, Глубинная алюминиевая руда
+etfuturum:modded_deepslate_ore:1, Глубинная оловянная руда
+etfuturum:modded_deepslate_ore:2, Глубинная серебряная руда
+etfuturum:modded_deepslate_ore:3, Глубинная свинцовая руда
+etfuturum:modded_deepslate_ore:4, Глубинная никелевая руда
+etfuturum:modded_deepslate_ore:5, Глубинная платиновая руда
+etfuturum:modded_deepslate_ore:6, Глубинная мифриловая руда
+etfuturum:modded_deepslate_ore:7, Глубинная урановая руда
+etfuturum:modded_deepslate_ore:8, Глубинная ториевая руда
+etfuturum:modded_deepslate_ore:9, Глубинная вольфрамовая руда
+etfuturum:modded_deepslate_ore:10, Глубинная титановая руда
+etfuturum:modded_deepslate_ore:11, Глубинная цинковая руда
+etfuturum:modded_deepslate_ore:12, Глубинная магниевая руда
+etfuturum:deepslate_certus_quartz_ore:0, Глубинная руда истинного кварца
+etfuturum:deepslate_certus_quartz_ore:1, Глубинная заряженная руда истинного кварца
+etfuturum:deepslate_draconium_ore, Глубинная дракониевая руда
+etfuturum:deepslate_thaumcraft_ore:0, Глубинная киноварь
+etfuturum:deepslate_thaumcraft_ore:1, Глубинная грозовая руда
+etfuturum:deepslate_thaumcraft_ore:2, Глубинная огненная руда
+etfuturum:deepslate_thaumcraft_ore:3, Глубинная ледяная руда
+etfuturum:deepslate_thaumcraft_ore:4, Глубинная руда земляного кристалла
+etfuturum:deepslate_thaumcraft_ore:5, Глубинная руда кристалла порядка
+etfuturum:deepslate_thaumcraft_ore:6, Глубинная энтропийная руда
+etfuturum:deepslate_thaumcraft_ore:7, Глубинная янтарная руда
+etfuturum:deepslate_bop_ore:0, Глубинная рубиновая руда
+etfuturum:deepslate_bop_ore:1, Глубинная перидотовая руда
+etfuturum:deepslate_bop_ore:2, Глубинная топазовая руда
+etfuturum:deepslate_bop_ore:3, Глубинная танзанитовая руда
+etfuturum:deepslate_bop_ore:4, Глубинная малахитовая руда
+etfuturum:deepslate_bop_ore:5, Глубинная сапфировая руда
+etfuturum:deepslate_bop_ore:6, Глубинная янтарная руда
 evilcraft:blockBlood:0, Кровь
 evilcraft:darkOre:0, Тёмная руда
 evilcraft:darkBlock:0, Тёмный блок
@@ -4635,18 +4880,6 @@ ExtraPlanets:tile.saturn:11, Слизневая руда Сатурна
 ExtraPlanets:saturnGravel, Гравий Сатурна
 ExtraPlanets:saturnSpawner, tile.null.name
 ExtraPlanets:saturnDungeonBrick, Кирпич сокровищницы Сатурна
-minecraft:record_13, Пластинка
-minecraft:record_cat, Пластинка
-minecraft:record_blocks, Пластинка
-minecraft:record_chirp, Пластинка
-minecraft:record_far, Пластинка
-minecraft:record_mall, Пластинка
-minecraft:record_mellohi, Пластинка
-minecraft:record_stal, Пластинка
-minecraft:record_strad, Пластинка
-minecraft:record_ward, Пластинка
-minecraft:record_11, Пластинка
-minecraft:record_wait, Пластинка
 ExtraPlanets:tile.treasureChestT6, Сундук с сокровищами 6-го уровня
 ExtraPlanets:tile.uranus:0, Поверхность Урана
 ExtraPlanets:tile.uranus:1, Подповерхностный грунт Урана
@@ -5398,6 +5631,7 @@ Mekanism:BasicBlock2:6, Распылитель давления
 Mekanism:BasicBlock2:7, Обшивка бойлера
 Mekanism:BasicBlock2:8, Вентиль бойлера
 Mekanism:BasicBlock2:9, Защитный блок
+Mekanism:BasicBlock2:10, Raw Osmium Block
 Mekanism:MachineBlock:0, Камера обогащения
 Mekanism:MachineBlock:1, Осмиевый компрессор
 Mekanism:MachineBlock:2, Объединитель
@@ -5463,6 +5697,9 @@ Mekanism:MachineBlock3:6, Твердотопливный нагреватель
 Mekanism:OreBlock:0, Осмиевая руда
 Mekanism:OreBlock:1, Медная руда
 Mekanism:OreBlock:2, Оловянная руда
+Mekanism:DeepslateOreBlock:0, Deepslate Osmium Ore
+Mekanism:DeepslateOreBlock:1, Deepslate Copper Ore
+Mekanism:DeepslateOreBlock:2, Deepslate Tin Ore
 Mekanism:EnergyCube, tile.EnergyCube.name
 Mekanism:ObsidianTNT, Обсидиановый динамит
 Mekanism:BoundingBlock, Скреплённый блок
@@ -5852,90 +6089,6 @@ StorageDrawers:fullCustom4, Framed Drawers 2x2
 StorageDrawers:halfCustom2, Framed Drawers 1x2
 StorageDrawers:halfCustom4, Framed Drawers 2x2
 StorageDrawers:trimCustom, Framed Trim
-StorageDrawersBop:fullDrawers1:0, Sacred Oak Drawer
-StorageDrawersBop:fullDrawers1:1, Cherry Drawer
-StorageDrawersBop:fullDrawers1:2, Dark Drawer
-StorageDrawersBop:fullDrawers1:3, Fir Drawer
-StorageDrawersBop:fullDrawers1:4, Ethereal Drawer
-StorageDrawersBop:fullDrawers1:5, Magic Drawer
-StorageDrawersBop:fullDrawers1:6, Mangrove Drawer
-StorageDrawersBop:fullDrawers1:7, Palm Drawer
-StorageDrawersBop:fullDrawers1:8, Redwood Drawer
-StorageDrawersBop:fullDrawers1:9, Willow Drawer
-StorageDrawersBop:fullDrawers1:11, Pine Drawer
-StorageDrawersBop:fullDrawers1:12, Hell Bark Drawer
-StorageDrawersBop:fullDrawers1:13, Jacaranda Drawer
-StorageDrawersBop:fullDrawers1:14, Mahogany Drawer
-StorageDrawersBop:fullDrawers2:0, Sacred Oak Drawers 1x2
-StorageDrawersBop:fullDrawers2:1, Cherry Drawers 1x2
-StorageDrawersBop:fullDrawers2:2, Dark Drawers 1x2
-StorageDrawersBop:fullDrawers2:3, Fir Drawers 1x2
-StorageDrawersBop:fullDrawers2:4, Ethereal Drawers 1x2
-StorageDrawersBop:fullDrawers2:5, Magic Drawers 1x2
-StorageDrawersBop:fullDrawers2:6, Mangrove Drawers 1x2
-StorageDrawersBop:fullDrawers2:7, Palm Drawers 1x2
-StorageDrawersBop:fullDrawers2:8, Redwood Drawers 1x2
-StorageDrawersBop:fullDrawers2:9, Willow Drawers 1x2
-StorageDrawersBop:fullDrawers2:11, Pine Drawers 1x2
-StorageDrawersBop:fullDrawers2:12, Hell Bark Drawers 1x2
-StorageDrawersBop:fullDrawers2:13, Jacaranda Drawers 1x2
-StorageDrawersBop:fullDrawers2:14, Mahogany Drawers 1x2
-StorageDrawersBop:fullDrawers4:0, Sacred Oak Drawers 2x2
-StorageDrawersBop:fullDrawers4:1, Cherry Drawers 2x2
-StorageDrawersBop:fullDrawers4:2, Dark Drawers 2x2
-StorageDrawersBop:fullDrawers4:3, Fir Drawers 2x2
-StorageDrawersBop:fullDrawers4:4, Ethereal Drawers 2x2
-StorageDrawersBop:fullDrawers4:5, Magic Drawers 2x2
-StorageDrawersBop:fullDrawers4:6, Mangrove Drawers 2x2
-StorageDrawersBop:fullDrawers4:7, Palm Drawers 2x2
-StorageDrawersBop:fullDrawers4:8, Redwood Drawers 2x2
-StorageDrawersBop:fullDrawers4:9, Willow Drawers 2x2
-StorageDrawersBop:fullDrawers4:11, Pine Drawers 2x2
-StorageDrawersBop:fullDrawers4:12, Hell Bark Drawers 2x2
-StorageDrawersBop:fullDrawers4:13, Jacaranda Drawers 2x2
-StorageDrawersBop:fullDrawers4:14, Mahogany Drawers 2x2
-StorageDrawersBop:halfDrawers2:0, Compact Sacred Oak Drawers 1x2
-StorageDrawersBop:halfDrawers2:1, Compact Cherry Drawers 1x2
-StorageDrawersBop:halfDrawers2:2, Compact Dark Drawers 1x2
-StorageDrawersBop:halfDrawers2:3, Compact Fir Drawers 1x2
-StorageDrawersBop:halfDrawers2:4, Compact Ethereal Drawers 1x2
-StorageDrawersBop:halfDrawers2:5, Compact Magic Drawers 1x2
-StorageDrawersBop:halfDrawers2:6, Compact Mangrove Drawers 1x2
-StorageDrawersBop:halfDrawers2:7, Compact Palm Drawers 1x2
-StorageDrawersBop:halfDrawers2:8, Compact Redwood Drawers 1x2
-StorageDrawersBop:halfDrawers2:9, Compact Willow Drawers 1x2
-StorageDrawersBop:halfDrawers2:11, Compact Pine Drawers 1x2
-StorageDrawersBop:halfDrawers2:12, Compact Hell Bark Drawers 1x2
-StorageDrawersBop:halfDrawers2:13, Compact Jacaranda Drawers 1x2
-StorageDrawersBop:halfDrawers2:14, Compact Mahogany Drawers 1x2
-StorageDrawersBop:halfDrawers4:0, Compact Sacred Oak Drawers 2x2
-StorageDrawersBop:halfDrawers4:1, Compact Cherry Drawers 2x2
-StorageDrawersBop:halfDrawers4:2, Compact Dark Drawers 2x2
-StorageDrawersBop:halfDrawers4:3, Compact Fir Drawers 2x2
-StorageDrawersBop:halfDrawers4:4, Compact Ethereal Drawers 2x2
-StorageDrawersBop:halfDrawers4:5, Compact Magic Drawers 2x2
-StorageDrawersBop:halfDrawers4:6, Compact Mangrove Drawers 2x2
-StorageDrawersBop:halfDrawers4:7, Compact Palm Drawers 2x2
-StorageDrawersBop:halfDrawers4:8, Compact Redwood Drawers 2x2
-StorageDrawersBop:halfDrawers4:9, Compact Willow Drawers 2x2
-StorageDrawersBop:halfDrawers4:11, Compact Pine Drawers 2x2
-StorageDrawersBop:halfDrawers4:12, Compact Hell Bark Drawers 2x2
-StorageDrawersBop:halfDrawers4:13, Compact Jacaranda Drawers 2x2
-StorageDrawersBop:halfDrawers4:14, Compact Mahogany Drawers 2x2
-StorageDrawersBop:trim:0, Sacred Oak Trim
-StorageDrawersBop:trim:1, Cherry Trim
-StorageDrawersBop:trim:2, Dark Trim
-StorageDrawersBop:trim:3, Fir Trim
-StorageDrawersBop:trim:4, Ethereal Trim
-StorageDrawersBop:trim:5, Magic Trim
-StorageDrawersBop:trim:6, Mangrove Trim
-StorageDrawersBop:trim:7, Palm Trim
-StorageDrawersBop:trim:8, Redwood Trim
-StorageDrawersBop:trim:9, Willow Trim
-StorageDrawersBop:trim:11, Pine Trim
-StorageDrawersBop:trim:12, Hell Bark Trim
-StorageDrawersBop:trim:13, Jacaranda Trim
-StorageDrawersBop:trim:14, Mahogany Trim
 StorageDrawersForestry:fullDrawers1A:0, Larch Drawer
 StorageDrawersForestry:fullDrawers1A:1, Teak Drawer
 StorageDrawersForestry:fullDrawers1A:2, Acacia Drawer
@@ -6110,132 +6263,90 @@ StorageDrawersForestry:trimB:9, Ipe Trim
 StorageDrawersForestry:trimB:10, Padauk Trim
 StorageDrawersForestry:trimB:11, Cocobolo Trim
 StorageDrawersForestry:trimB:12, Zebrawood Trim
-StorageDrawersMisc:fullDrawers1_0:0, Redwood Drawer
-StorageDrawersMisc:fullDrawers1_0:1, Fir Drawer
-StorageDrawersMisc:fullDrawers1_0:2, Acacia Drawer
-StorageDrawersMisc:fullDrawers1_0:3, Cypress Drawer
-StorageDrawersMisc:fullDrawers1_0:4, Japanese Maple Drawer
-StorageDrawersMisc:fullDrawers1_0:5, Rainbow Eucalyptus Drawer
-StorageDrawersMisc:fullDrawers1_0:6, Autumn Drawer
-StorageDrawersMisc:fullDrawers1_0:7, Bald Cypress Drawer
-StorageDrawersMisc:fullDrawers1_0:8, Sakura Drawer
-StorageDrawersMisc:fullDrawers1_1:0, Yellow Drawer
-StorageDrawersMisc:fullDrawers1_1:1, White Drawer
-StorageDrawersMisc:fullDrawers1_1:2, Red Drawer
-StorageDrawersMisc:fullDrawers1_1:3, Grey Drawer
-StorageDrawersMisc:fullDrawers1_1:4, Greatwood Drawer
-StorageDrawersMisc:fullDrawers1_1:5, Silverwood Drawer
-StorageDrawersMisc:fullDrawers1_1:6, Rowan Drawer
-StorageDrawersMisc:fullDrawers1_1:7, Alder Drawer
-StorageDrawersMisc:fullDrawers1_1:8, Hawthorn Drawer
-StorageDrawersMisc:fullDrawers1_1:9, Treated Wood Drawer
-StorageDrawersMisc:fullDrawers1_1:10, Livingwood Drawer
-StorageDrawersMisc:fullDrawers1_1:11, Dreamwood Drawer
-StorageDrawersMisc:fullDrawers2_0:0, Redwood Drawers 1x2
-StorageDrawersMisc:fullDrawers2_0:1, Fir Drawers 1x2
-StorageDrawersMisc:fullDrawers2_0:2, Acacia Drawers 1x2
-StorageDrawersMisc:fullDrawers2_0:3, Cypress Drawers 1x2
-StorageDrawersMisc:fullDrawers2_0:4, Japanese Maple Drawers 1x2
-StorageDrawersMisc:fullDrawers2_0:5, Rainbow Eucalyptus Drawers 1x2
-StorageDrawersMisc:fullDrawers2_0:6, Autumn Drawers 1x2
-StorageDrawersMisc:fullDrawers2_0:7, Bald Cypress Drawers 1x2
-StorageDrawersMisc:fullDrawers2_0:8, Sakura Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:0, Yellow Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:1, White Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:2, Red Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:3, Grey Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:4, Greatwood Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:5, Silverwood Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:6, Rowan Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:7, Alder Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:8, Hawthorn Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:9, Treated Wood Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:10, Livingwood Drawers 1x2
-StorageDrawersMisc:fullDrawers2_1:11, Dreamwood Drawers 1x2
-StorageDrawersMisc:fullDrawers4_0:0, Redwood Drawers 2x2
-StorageDrawersMisc:fullDrawers4_0:1, Fir Drawers 2x2
-StorageDrawersMisc:fullDrawers4_0:2, Acacia Drawers 2x2
-StorageDrawersMisc:fullDrawers4_0:3, Cypress Drawers 2x2
-StorageDrawersMisc:fullDrawers4_0:4, Japanese Maple Drawers 2x2
-StorageDrawersMisc:fullDrawers4_0:5, Rainbow Eucalyptus Drawers 2x2
-StorageDrawersMisc:fullDrawers4_0:6, Autumn Drawers 2x2
-StorageDrawersMisc:fullDrawers4_0:7, Bald Cypress Drawers 2x2
-StorageDrawersMisc:fullDrawers4_0:8, Sakura Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:0, Yellow Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:1, White Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:2, Red Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:3, Grey Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:4, Greatwood Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:5, Silverwood Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:6, Rowan Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:7, Alder Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:8, Hawthorn Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:9, Treated Wood Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:10, Livingwood Drawers 2x2
-StorageDrawersMisc:fullDrawers4_1:11, Dreamwood Drawers 2x2
-StorageDrawersMisc:halfDrawers2_0:0, Compact Redwood Drawers 1x2
-StorageDrawersMisc:halfDrawers2_0:1, Compact Fir Drawers 1x2
-StorageDrawersMisc:halfDrawers2_0:2, Compact Acacia Drawers 1x2
-StorageDrawersMisc:halfDrawers2_0:3, Compact Cypress Drawers 1x2
-StorageDrawersMisc:halfDrawers2_0:4, Compact Japanese Maple Drawers 1x2
-StorageDrawersMisc:halfDrawers2_0:5, Compact Rainbow Eucalyptus Drawers 1x2
-StorageDrawersMisc:halfDrawers2_0:6, Compact Autumn Drawers 1x2
-StorageDrawersMisc:halfDrawers2_0:7, Compact Bald Cypress Drawers 1x2
-StorageDrawersMisc:halfDrawers2_0:8, Compact Sakura Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:0, Compact Yellow Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:1, Compact White Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:2, Compact Red Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:3, Compact Grey Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:4, Compact Greatwood Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:5, Compact Silverwood Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:6, Compact Rowan Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:7, Compact Alder Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:8, Compact Hawthorn Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:9, Compact Treated Wood Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:10, Compact Livingwood Drawers 1x2
-StorageDrawersMisc:halfDrawers2_1:11, Compact Dreamwood Drawers 1x2
-StorageDrawersMisc:halfDrawers4_0:0, Compact Redwood Drawers 2x2
-StorageDrawersMisc:halfDrawers4_0:1, Compact Fir Drawers 2x2
-StorageDrawersMisc:halfDrawers4_0:2, Compact Acacia Drawers 2x2
-StorageDrawersMisc:halfDrawers4_0:3, Compact Cypress Drawers 2x2
-StorageDrawersMisc:halfDrawers4_0:4, Compact Japanese Maple Drawers 2x2
-StorageDrawersMisc:halfDrawers4_0:5, Compact Rainbow Eucalyptus Drawers 2x2
-StorageDrawersMisc:halfDrawers4_0:6, Compact Autumn Drawers 2x2
-StorageDrawersMisc:halfDrawers4_0:7, Compact Bald Cypress Drawers 2x2
-StorageDrawersMisc:halfDrawers4_0:8, Compact Sakura Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:0, Compact Yellow Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:1, Compact White Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:2, Compact Red Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:3, Compact Grey Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:4, Compact Greatwood Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:5, Compact Silverwood Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:6, Compact Rowan Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:7, Compact Alder Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:8, Compact Hawthorn Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:9, Compact Treated Wood Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:10, Compact Livingwood Drawers 2x2
-StorageDrawersMisc:halfDrawers4_1:11, Compact Dreamwood Drawers 2x2
-StorageDrawersMisc:trim_0:0, Redwood Trim
-StorageDrawersMisc:trim_0:1, Fir Trim
-StorageDrawersMisc:trim_0:2, Acacia Trim
-StorageDrawersMisc:trim_0:3, Cypress Trim
-StorageDrawersMisc:trim_0:4, Japanese Maple Trim
-StorageDrawersMisc:trim_0:5, Rainbow Eucalyptus Trim
-StorageDrawersMisc:trim_0:6, Autumn Trim
-StorageDrawersMisc:trim_0:7, Bald Cypress Trim
-StorageDrawersMisc:trim_0:8, Sakura Trim
-StorageDrawersMisc:trim_1:0, Yellow Trim
-StorageDrawersMisc:trim_1:1, White Trim
-StorageDrawersMisc:trim_1:2, Red Trim
-StorageDrawersMisc:trim_1:3, Grey Trim
-StorageDrawersMisc:trim_1:4, Greatwood Trim
-StorageDrawersMisc:trim_1:5, Silverwood Trim
-StorageDrawersMisc:trim_1:6, Rowan Trim
-StorageDrawersMisc:trim_1:7, Alder Trim
-StorageDrawersMisc:trim_1:8, Hawthorn Trim
-StorageDrawersMisc:trim_1:9, Treated Wood Trim
-StorageDrawersMisc:trim_1:10, Livingwood Trim
-StorageDrawersMisc:trim_1:11, Dreamwood Trim
+StorageDrawersBop:fullDrawers1:0, Sacred Oak Drawer
+StorageDrawersBop:fullDrawers1:1, Cherry Drawer
+StorageDrawersBop:fullDrawers1:2, Dark Drawer
+StorageDrawersBop:fullDrawers1:3, Fir Drawer
+StorageDrawersBop:fullDrawers1:4, Ethereal Drawer
+StorageDrawersBop:fullDrawers1:5, Magic Drawer
+StorageDrawersBop:fullDrawers1:6, Mangrove Drawer
+StorageDrawersBop:fullDrawers1:7, Palm Drawer
+StorageDrawersBop:fullDrawers1:8, Redwood Drawer
+StorageDrawersBop:fullDrawers1:9, Willow Drawer
+StorageDrawersBop:fullDrawers1:11, Pine Drawer
+StorageDrawersBop:fullDrawers1:12, Hell Bark Drawer
+StorageDrawersBop:fullDrawers1:13, Jacaranda Drawer
+StorageDrawersBop:fullDrawers1:14, Mahogany Drawer
+StorageDrawersBop:fullDrawers2:0, Sacred Oak Drawers 1x2
+StorageDrawersBop:fullDrawers2:1, Cherry Drawers 1x2
+StorageDrawersBop:fullDrawers2:2, Dark Drawers 1x2
+StorageDrawersBop:fullDrawers2:3, Fir Drawers 1x2
+StorageDrawersBop:fullDrawers2:4, Ethereal Drawers 1x2
+StorageDrawersBop:fullDrawers2:5, Magic Drawers 1x2
+StorageDrawersBop:fullDrawers2:6, Mangrove Drawers 1x2
+StorageDrawersBop:fullDrawers2:7, Palm Drawers 1x2
+StorageDrawersBop:fullDrawers2:8, Redwood Drawers 1x2
+StorageDrawersBop:fullDrawers2:9, Willow Drawers 1x2
+StorageDrawersBop:fullDrawers2:11, Pine Drawers 1x2
+StorageDrawersBop:fullDrawers2:12, Hell Bark Drawers 1x2
+StorageDrawersBop:fullDrawers2:13, Jacaranda Drawers 1x2
+StorageDrawersBop:fullDrawers2:14, Mahogany Drawers 1x2
+StorageDrawersBop:fullDrawers4:0, Sacred Oak Drawers 2x2
+StorageDrawersBop:fullDrawers4:1, Cherry Drawers 2x2
+StorageDrawersBop:fullDrawers4:2, Dark Drawers 2x2
+StorageDrawersBop:fullDrawers4:3, Fir Drawers 2x2
+StorageDrawersBop:fullDrawers4:4, Ethereal Drawers 2x2
+StorageDrawersBop:fullDrawers4:5, Magic Drawers 2x2
+StorageDrawersBop:fullDrawers4:6, Mangrove Drawers 2x2
+StorageDrawersBop:fullDrawers4:7, Palm Drawers 2x2
+StorageDrawersBop:fullDrawers4:8, Redwood Drawers 2x2
+StorageDrawersBop:fullDrawers4:9, Willow Drawers 2x2
+StorageDrawersBop:fullDrawers4:11, Pine Drawers 2x2
+StorageDrawersBop:fullDrawers4:12, Hell Bark Drawers 2x2
+StorageDrawersBop:fullDrawers4:13, Jacaranda Drawers 2x2
+StorageDrawersBop:fullDrawers4:14, Mahogany Drawers 2x2
+StorageDrawersBop:halfDrawers2:0, Compact Sacred Oak Drawers 1x2
+StorageDrawersBop:halfDrawers2:1, Compact Cherry Drawers 1x2
+StorageDrawersBop:halfDrawers2:2, Compact Dark Drawers 1x2
+StorageDrawersBop:halfDrawers2:3, Compact Fir Drawers 1x2
+StorageDrawersBop:halfDrawers2:4, Compact Ethereal Drawers 1x2
+StorageDrawersBop:halfDrawers2:5, Compact Magic Drawers 1x2
+StorageDrawersBop:halfDrawers2:6, Compact Mangrove Drawers 1x2
+StorageDrawersBop:halfDrawers2:7, Compact Palm Drawers 1x2
+StorageDrawersBop:halfDrawers2:8, Compact Redwood Drawers 1x2
+StorageDrawersBop:halfDrawers2:9, Compact Willow Drawers 1x2
+StorageDrawersBop:halfDrawers2:11, Compact Pine Drawers 1x2
+StorageDrawersBop:halfDrawers2:12, Compact Hell Bark Drawers 1x2
+StorageDrawersBop:halfDrawers2:13, Compact Jacaranda Drawers 1x2
+StorageDrawersBop:halfDrawers2:14, Compact Mahogany Drawers 1x2
+StorageDrawersBop:halfDrawers4:0, Compact Sacred Oak Drawers 2x2
+StorageDrawersBop:halfDrawers4:1, Compact Cherry Drawers 2x2
+StorageDrawersBop:halfDrawers4:2, Compact Dark Drawers 2x2
+StorageDrawersBop:halfDrawers4:3, Compact Fir Drawers 2x2
+StorageDrawersBop:halfDrawers4:4, Compact Ethereal Drawers 2x2
+StorageDrawersBop:halfDrawers4:5, Compact Magic Drawers 2x2
+StorageDrawersBop:halfDrawers4:6, Compact Mangrove Drawers 2x2
+StorageDrawersBop:halfDrawers4:7, Compact Palm Drawers 2x2
+StorageDrawersBop:halfDrawers4:8, Compact Redwood Drawers 2x2
+StorageDrawersBop:halfDrawers4:9, Compact Willow Drawers 2x2
+StorageDrawersBop:halfDrawers4:11, Compact Pine Drawers 2x2
+StorageDrawersBop:halfDrawers4:12, Compact Hell Bark Drawers 2x2
+StorageDrawersBop:halfDrawers4:13, Compact Jacaranda Drawers 2x2
+StorageDrawersBop:halfDrawers4:14, Compact Mahogany Drawers 2x2
+StorageDrawersBop:trim:0, Sacred Oak Trim
+StorageDrawersBop:trim:1, Cherry Trim
+StorageDrawersBop:trim:2, Dark Trim
+StorageDrawersBop:trim:3, Fir Trim
+StorageDrawersBop:trim:4, Ethereal Trim
+StorageDrawersBop:trim:5, Magic Trim
+StorageDrawersBop:trim:6, Mangrove Trim
+StorageDrawersBop:trim:7, Palm Trim
+StorageDrawersBop:trim:8, Redwood Trim
+StorageDrawersBop:trim:9, Willow Trim
+StorageDrawersBop:trim:11, Pine Trim
+StorageDrawersBop:trim:12, Hell Bark Trim
+StorageDrawersBop:trim:13, Jacaranda Trim
+StorageDrawersBop:trim:14, Mahogany Trim
 StorageDrawersNatura:fullDrawers1:0, Eucalyptus Drawer
 StorageDrawersNatura:fullDrawers1:1, Sakura Drawer
 StorageDrawersNatura:fullDrawers1:2, Ghostwood Drawer
@@ -8663,10 +8774,10 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изме�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из резного истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из колонны истинного кварца
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тротуарная плита путешествия
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной блок закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна из закоптившегося кварца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тротуарная плита путешествия
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита закоптившегося кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок звезды Нижнего мира
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зараженная древесина
@@ -9172,86 +9283,95 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.bloc
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок наэлектризованной стали
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сумеречный дуб
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сумеречная сосна
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сумеречная берёза
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мангровое дерево
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тёмное дерево
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из сумеречного дуба
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из сумеречной сосны
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мангровые доски
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из тёмного дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из дерева времени
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из дерева трансформации
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из дерева шахтёра
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из дерева сортировки
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Корни
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замшелые корни
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень лабиринта
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кладка из камня лабиринта
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкая лабиринтовая кладка
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Декоративная лабиринтовая кладка
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потресканая лабиринтовая кладка
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замшелая лабиринтовая кладка
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Узорчатая лабиринтовая кладка
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Двойная узорчатая лабиринтовая кладка
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Хеджа
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Анти верстак
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Нагакамень
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Нагакамень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Живые корни
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лабиринтовый камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лабиринтовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий лабиринтовый камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной лабиринтовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшийся лабиринтовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замшелый лабиринтовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лабиринтовая мозаика
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лабиринтовый бордюр
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Живая изгородь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Антиверстак
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной нагакамень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замшелый резной нагакамень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшийся резной нагакамень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна из нагакамня
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна из замшелого нагакамня
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна из потрескавшегося нагакамня
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дерево времени
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Загадочное дерево
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дерево трансформации
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дерево шахтёра
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Правильное дерево
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дерево времени
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мудрое дерево
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дерево сортировки
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Часы дерева времени
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сердце трансформации
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ядро дерева шахтёра
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ядро дерева сортировки
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Планки тёмной башни
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Боковые планки тёмной башни
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Трестнутые планки тёмной башни
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замшелые планки тёмной башни
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Инфицированные планки тёмной башни
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Восстанавливающийся блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски тёмной башни
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Боковые доски тёмной башни
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшиеся доски тёмной башни
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замшелые доски тёмной башни
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изъеденные доски тёмной башни
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Исчезающий блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заблокированный восстанавливающийся блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Разблокированый восстанавливающийся блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Строитель башни
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Исчезающий блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заблокированный исчезающий блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Разблокированый исчезающий блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Карминитовый строитель
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Карминитовый реактор
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Крепкий щит
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок Авроры
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подземные кирпичи
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потресканные поздемные кирпичи
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замшелые подземные кирпичи
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Влажный камень смерти
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшийся камень смерти
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень смерти
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Щит крепости
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок северного сияния
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Подземный кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшийся подземный кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Замшелый подземный кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обветренный мёртвый камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшийся мёртвый камень
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мёртвый камень
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Листва тёмного дерева
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна Авроры
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита Авроры
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тролльштеин
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Взбытое облако
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колонна из северного сияния
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из северного сияния
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Троллштейн
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пушистое облако
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гигантский булыжник
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гигантское дерево
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гигантское бревно
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гигантский обсидиан
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Огромный стебель
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Огромный грибрил
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Castle Brick
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Worn Castle Brick
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Cracked Castle Brick
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Castle Roof Tile
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Blue Castle Rune Brick
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Yellow Castle Rune Brick
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Pink Castle Rune Brick
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Violet Castle Rune Brick
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Cinder Log [NYI]
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Blue Castle Door
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Yellow Castle Door
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Pink Castle Door
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Violet Castle Door
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Twilight Oak Planks
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Canopy Planks
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Mangrove Planks
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Darkwood Planks
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Timewood Planks
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Transwood Planks
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Minewood Planks
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Sortingwood Planks
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Огромный светогриб
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок арктического меха
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Карминитовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок огненного металла
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок железного дерева
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Стальная листва
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич замка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обветренный кирпич замка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшийся кирпич замка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Крыша замка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Голубой рунный кирпич замка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Жёлтый рунный кирпич замка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Розовый рунный кирпич замка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Фиолетовый рунный кирпич замка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пепельное бревно
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Синяя дверь замка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Жёлтая дверь замка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Розовая дверь замка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Фиолетовая дверь замка
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гранит
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий гранит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Полированный гранит
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Диорит
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий диорит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Полированный диорит
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Андезит
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий андезит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Полированный андезит
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Призмарин
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Призмариновый кирпич
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тёмный призмарин
@@ -9265,12 +9385,11 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Груб�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мокрая губка
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пурпурный блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пурпурная колонна
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпичи из камня Края
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Эндерняковые кирпичи
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Костяной блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красные адские кирпичи
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшиеся красные адские кирпичи
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резные красные адские кирпичи
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок адского нароста
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древние обломки
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Незеритовый блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Золотая руда Нижнего мира
@@ -9278,7 +9397,7 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Сини�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий камень
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий песчаник
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий красный песчаник
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий кварцевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий кварц
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кварцевые кирпичи
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обтёсанная дубовая древесина
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обтёсанная еловая древесина
@@ -9315,7 +9434,7 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зелё�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красный бетон
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Чёрный бетон
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Белый цемент
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оранжевая цемент
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оранжевый цемент
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пурпурный цемент
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Светло-синий цемент
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Жёлтый цемент
@@ -9349,21 +9468,30 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Зелё�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красная глазурованная керамика
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Чёрная глазурованная керамика
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинный сланец
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дроблённый глубинный сланец
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий глубинный сланец
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Колотый глубинный сланец
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Полированный глубинный сланец
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпичи из глубинного сланца
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшиеся кирпичи из глубинного сланца
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плитняк из глубинного сланца
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшийся плитняк из глубинного сланца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшиеся глубинносланцевые кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинносланцевый плитняк
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшийся глубинносланцевый плитняк
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной глубинный сланец
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Туф
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Полированный туф
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Туфовые кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной туф
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резные туфовые кирпичи
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанной меди
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного железа
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного золота
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Базальт
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Полированный базальт
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Гладкий базальт
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кальцит
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Аметистовый блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тонированное стекло
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Грязь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плотная грязь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Саманные кирпичи
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинный уголь
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная железная руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная золотая руда
@@ -9378,8 +9506,70 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Стол 
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Стол картографа
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ткацкий станок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок пчелиных сот
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Чернит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Полированный Чернит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Полированно-чернитные кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Потрескавшиеся полированно-чернитные кирпичи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной полированный чернит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Золочёный чернит
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Почва душ
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок адского нароста
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вишнёвые доски
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бамбуковые доски
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вишнёвая плита
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бамбуковая плита
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вишнёвое бревно
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Вишня
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обтёсанное вишнёвое бревно
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обтёсанная вишнёвая древесина
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок бамбука
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок обтёсанного бамбука
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бамбуковая мозаика
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плачущий обсидиан
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Старый гравий
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного алюминия
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного олова
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного серебра
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного свинца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного никеля
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанной платины
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного мифрила
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного урана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного вольфрама
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного титана
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного цинка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок необработанного магния
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная алюминиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная оловянная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная серебряная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная свинцовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная никелевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная платиновая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная мифриловая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная урановая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная ториевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная вольфрамовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная титановая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная цинковая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная магниевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная руда истинного кварца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная заряженная руда истинного кварца
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная дракониевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная киноварь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная грозовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная огненная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная ледяная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная руда земляного кристалла
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная руда кристалла порядка
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная энтропийная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная янтарная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная рубиновая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная перидотовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная топазовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная танзанитовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная малахитовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная сапфировая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Глубинная янтарная руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тёмный блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бомба молний
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кровавый булыжник
@@ -9791,6 +9981,9 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ферр�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Осмиевая руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Deepslate Osmium Ore
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Deepslate Copper Ore
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Deepslate Tin Ore
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - §8Черный Пластиковый блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - §cКрасный Пластиковый блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - §2Зеленый Пластиковый блок
@@ -9892,20 +10085,6 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отде�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из тропического дерева
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из акации
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Отделка из тёмного дуба
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Sacred Oak Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Cherry Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Dark Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Fir Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ethereal Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Magic Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Mangrove Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Palm Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Redwood Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Willow Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Pine Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Hell Bark Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Jacaranda Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Mahogany Trim
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Larch Trim
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Teak Trim
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Acacia Trim
@@ -9935,27 +10114,20 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ipe Trim
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Padauk Trim
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Cocobolo Trim
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Zebrawood Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Redwood Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Sacred Oak Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Cherry Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Dark Trim
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Fir Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Acacia Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Cypress Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Japanese Maple Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Rainbow Eucalyptus Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Autumn Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Bald Cypress Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Sakura Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Yellow Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - White Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Red Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Grey Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Greatwood Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Silverwood Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Rowan Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Alder Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Hawthorn Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Treated Wood Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Livingwood Trim
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Dreamwood Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ethereal Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Magic Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Mangrove Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Palm Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Redwood Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Willow Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Pine Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Hell Bark Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Jacaranda Trim
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Mahogany Trim
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Eucalyptus Trim
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Sakura Trim
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ghostwood Trim
@@ -13379,41 +13551,48 @@ EnderIO:item.darkSteel_axe, Тёмный топор
 EnderIO:item.darkSteel_shears, Тёмные ножницы
 EnderIO:itemMagnet:0, Электромагнит
 EnderIO:itemMagnet:16, Электромагнит
-TwilightForest:item.nagaScale, Сердце Наги
-TwilightForest:item.plateNaga, Нагрудник из сердец Наги
-TwilightForest:item.legsNaga, Поножи из сердец Наги
+TwilightForest:item.nagaScale, Чешуйка Наги
+TwilightForest:item.plateNaga, Нагрудник из чешуи Наги
+TwilightForest:item.legsNaga, Поножи из чешуи Наги
 TwilightForest:item.scepterTwilight, Сумеречный посох
-TwilightForest:item.scepterLifeDrain, Посох смерти
+TwilightForest:item.scepterLifeDrain, Посох вампиризма
 TwilightForest:item.scepterZombie, Посох мёртвых
-TwilightForest:item.oreMeter, Определитель руд
+TwilightForest:item.oreMeter, Определитель руд [Не закончен]
 TwilightForest:item.magicMap:0, Магическая карта #0
 TwilightForest:item.mazeMap:0, Карта лабиринта #0
 TwilightForest:item.oreMap:0, Шахтёрская карта #0
-TwilightForest:item.tfFeather, Воронье перо
+TwilightForest:item.tfFeather, Перо ворона
 TwilightForest:item.magicMapFocus, Магическое перо
 TwilightForest:item.mazeMapFocus, Магическое ядро
-TwilightForest:item.liveRoot, Замшелый корень
-TwilightForest:item.ironwoodRaw, Магический материал
-TwilightForest:item.ironwoodIngot, Металл древних
-TwilightForest:item.ironwoodHelm, Шлем древних
-TwilightForest:item.ironwoodPlate, Нагрудник древних
-TwilightForest:item.ironwoodLegs, Поножи древних
-TwilightForest:item.ironwoodBoots, Ботинки древних
-TwilightForest:item.ironwoodSword, Меч древних
-TwilightForest:item.ironwoodShovel, Лопата древних
-TwilightForest:item.ironwoodPick, Кирка древних
-TwilightForest:item.ironwoodAxe, Топор древних
-TwilightForest:item.ironwoodHoe, Мотыга древних
+TwilightForest:item.liveRoot, Живой корень
+TwilightForest:item.ironwoodRaw, Сырое железное дерево
+TwilightForest:item.ironwoodIngot, Слиток железного дерева
+TwilightForest:item.ironwoodHelm, Шлем из железного дерева
+TwilightForest:item.ironwoodPlate, Нагрудник из железного дерева
+TwilightForest:item.ironwoodLegs, Поножи из железного дерева
+TwilightForest:item.ironwoodBoots, Ботинки из железного дерева
+TwilightForest:item.ironwoodSword, Меч из железного дерева
+TwilightForest:item.ironwoodShovel, Лопата из железного дерева
+TwilightForest:item.ironwoodPick, Кирка из железного дерева
+TwilightForest:item.ironwoodAxe, Топор из железного дерева
+TwilightForest:item.ironwoodHoe, Мотыга из железного дерева
 TwilightForest:item.torchberries, Факелонт
-TwilightForest:item.venisonRaw, Сырая оленятина
+TwilightForest:item.venisonRaw, Оленина
 TwilightForest:item.venisonCooked, Олений стейк
-TwilightForest:item.hydraChop, Мясо Гидры
-TwilightForest:item.fieryBlood, Огенная кровь
+TwilightForest:item.hydraChop, Стейк из Гидры
+TwilightForest:item.fieryBlood, Огненная кровь
 TwilightForest:item.trophy:0, Трофей Гидры
 TwilightForest:item.trophy:1, Трофей Наги
-TwilightForest:item.trophy:2, Трофей Сумеречного Лича
-TwilightForest:item.trophy:3, Трофей Тёмного Гаста
-TwilightForest:item.trophy:4, Snow Queen Trophy
+TwilightForest:item.trophy:2, Трофей Сумеречного лича
+TwilightForest:item.trophy:3, Трофей Тёмного гаста
+TwilightForest:item.trophy:4, Трофей Снежной королевы
+TwilightForest:item.trophy:5, Трофей Грибного кентавра
+TwilightForest:item.trophy:6, Трофей Рыцаря-фантома
+TwilightForest:item.trophy:7, Трофей Альфа-йети
+TwilightForest:item.trophy:8, Трофей Цветного барана
+TwilightForest:item.critter:0, Светлячок
+TwilightForest:item.critter:1, Цикада
+TwilightForest:item.critter:2, Лунный червь
 TwilightForest:item.fieryIngot, Огненный слиток
 TwilightForest:item.fieryHelm, Огненный шлем
 TwilightForest:item.fieryPlate, Огненный нагрудник
@@ -13421,79 +13600,87 @@ TwilightForest:item.fieryLegs, Огненные поножи
 TwilightForest:item.fieryBoots, Огненные ботинки
 TwilightForest:item.fierySword, Огненный меч
 TwilightForest:item.fieryPick, Огненная кирка
-TwilightForest:item.steeleafIngot, Магический лист
-TwilightForest:item.steeleafHelm, Шлем из магических листьев
-TwilightForest:item.steeleafPlate, Нагрудник из магических листьев
-TwilightForest:item.steeleafLegs, Поножи из магических листьев
-TwilightForest:item.steeleafBoots, Ботинки из магических листьев
-TwilightForest:item.steeleafSword, Меч из магических листьев
-TwilightForest:item.steeleafShovel, Лопата из магических листьев
-TwilightForest:item.steeleafPick, Кирка из магических листьев
-TwilightForest:item.steeleafAxe, Топор из магических листьев
-TwilightForest:item.steeleafHoe, Мотыга из магических листьев
+TwilightForest:item.steeleafIngot, Сталелист
+TwilightForest:item.steeleafHelm, Сталелиственный шлем
+TwilightForest:item.steeleafPlate, Сталелиственный нагрудник
+TwilightForest:item.steeleafLegs, Сталелиственные поножи
+TwilightForest:item.steeleafBoots, Сталелиственные ботинки
+TwilightForest:item.steeleafSword, Сталелиственный меч
+TwilightForest:item.steeleafShovel, Сталелиственная лопата
+TwilightForest:item.steeleafPick, Сталелиственная кирка
+TwilightForest:item.steeleafAxe, Сталелиственный топор
+TwilightForest:item.steeleafHoe, Сталелиственная мотыга
 TwilightForest:item.minotaurAxe, Топор Минотавра
 TwilightForest:item.mazebreakerPick, Кирка лабиринта
 TwilightForest:item.transformPowder, Порошок трансформации
 TwilightForest:item.meefRaw, Мясо минотавра
 TwilightForest:item.meefSteak, Стейк из минотавра
-TwilightForest:item.meefStroganoff, Суп из минотавра
-TwilightForest:item.mazeWafer, Вафли
-TwilightForest:item.emptyMagicMap, Пустая Магическая карта
+TwilightForest:item.meefStroganoff, Минотавр по-строгановски
+TwilightForest:item.mazeWafer, Вафля лабиринта
+TwilightForest:item.emptyMagicMap, Пустая магическая карта
 TwilightForest:item.emptyMazeMap, Пустая карта лабиринта
 TwilightForest:item.emptyOreMap, Пустая шахтёрская карта
 TwilightForest:item.oreMagnet, Рудный магнит
-TwilightForest:item.crumbleHorn, Рог
-TwilightForest:item.peacockFan, Веер полёта
-TwilightForest:item.moonwormQueen, Королева гусениц
-TwilightForest:item.charmOfLife1, Чарм жизни I
-TwilightForest:item.charmOfLife2, Чарм жизни II
-TwilightForest:item.charmOfKeeping1, Чарм инвентаря I
-TwilightForest:item.charmOfKeeping2, Чарм инвентаря II
-TwilightForest:item.charmOfKeeping3, Чарм инвентаря III
-TwilightForest:item.towerKey, Ключ от башни
-TwilightForest:item.borerEssence, Буровая эссенция
+TwilightForest:item.crumbleHorn, Рог Разрушения
+TwilightForest:item.peacockFan, Веер из павлиньих перьев
+TwilightForest:item.moonwormQueen, Матка лунных червей
+TwilightForest:item.charmOfLife1, Талисман жизни I
+TwilightForest:item.charmOfLife2, Талисман жизни II
+TwilightForest:item.charmOfKeeping1, Талисман инвентаря I
+TwilightForest:item.charmOfKeeping2, Талисман инвентаря II
+TwilightForest:item.charmOfKeeping3, Талисман инвентаря III
+TwilightForest:item.towerKey, Ключ Башни
+TwilightForest:item.borerEssence, Эссенция термита
 TwilightForest:item.carminite, Карминит
-TwilightForest:item.experiment115, Образец 115
-TwilightForest:item.armorShards, Осколок королевского металла
-TwilightForest:item.knightMetal, Королевский металл
-TwilightForest:item.shardCluster, Осколки королевского металла
-TwilightForest:item.knightlyHelm, Королевский шлем
-TwilightForest:item.knightlyPlate, Королевский нагрудник
-TwilightForest:item.knightlyLegs, Королевские поножи
-TwilightForest:item.knightlyBoots, Королевские ботинки
-TwilightForest:item.knightlySword, Королевский меч
-TwilightForest:item.knightlyPick, Королевская кирка
-TwilightForest:item.knightlyAxe, Королевский топор
+TwilightForest:item.experiment115, Эксперимент 115
+TwilightForest:item.armorShards, Осколок брони
+TwilightForest:item.knightMetal, Слиток рыцарского металла
+TwilightForest:item.shardCluster, Рыцарский металлолом
+TwilightForest:item.knightlyHelm, Рыцарский шлем
+TwilightForest:item.knightlyPlate, Рыцарский нагрудник
+TwilightForest:item.knightlyLegs, Рыцарские поножи
+TwilightForest:item.knightlyBoots, Рыцарские ботинки
+TwilightForest:item.knightlySword, Рыцарский меч
+TwilightForest:item.knightlyPick, Рыцарская кирка
+TwilightForest:item.knightlyAxe, Рыцарский топор
 TwilightForest:item.phantomHelm, Шлем Фантома
 TwilightForest:item.phantomPlate, Нагрудник Фантома
 TwilightForest:item.lampOfCinders, Лампа огня
 TwilightForest:item.fieryTears, Огненные слёзы
-TwilightForest:item.alphaFur, Мех Альмо-йети
-TwilightForest:item.yetiHelm, Шапка Йети
-TwilightForest:item.yetiPlate, Куртка Йети
-TwilightForest:item.yetiLegs, Штаны Йети
-TwilightForest:item.yetiBoots, Ботинки Йети
-TwilightForest:item.iceBomb, Снежная бомба
-TwilightForest:item.arcticFur, Артический мех
+TwilightForest:item.alphaFur, Мех Альфа-йети
+TwilightForest:item.yetiHelm, Рогатый капюшон йети
+TwilightForest:item.yetiPlate, Куртка йети
+TwilightForest:item.yetiLegs, Штаны йети
+TwilightForest:item.yetiBoots, Ботинки йети
+TwilightForest:item.iceBomb, Ледяная бомба
+TwilightForest:item.arcticFur, Арктический мех
 TwilightForest:item.arcticHelm, Меховой капюшон
 TwilightForest:item.arcticPlate, Меховая куртка
 TwilightForest:item.arcticLegs, Меховые штаны
 TwilightForest:item.arcticBoots, Меховые ботинки
 TwilightForest:item.magicBeans, Волшебные бобы
-TwilightForest:item.giantPick, Кирка гиганта
-TwilightForest:item.giantSword, Меч гиганта
+TwilightForest:item.giantPick, Кирка великана
+TwilightForest:item.giantSword, Меч великана
 TwilightForest:item.tripleBow, Тройной лук
-TwilightForest:item.seekerBow, Лук искателя
+TwilightForest:item.seekerBow, Самонаводящийся лук
 TwilightForest:item.iceBow, Ледяной лук
-TwilightForest:item.enderBow, Эндер лук
+TwilightForest:item.enderBow, Эндер-лук
 TwilightForest:item.iceSword, Ледяной меч
 TwilightForest:item.glassSword, Стеклянный меч
-TwilightForest:item.knightmetalRing, Knightmetal Loop
-TwilightForest:item.chainBlock, Block and Chain
-TwilightForest:item.cubeTalisman, Talisman of the Cube
-TwilightForest:item.cubeOfAnnihilation, Cube of Annihilation
-TwilightForest:item.null:0, Cloth Of The Adherent
-TwilightForest:item.null:1, Fragment Of The Harbinger
+TwilightForest:item.knightmetalRing, Рыцарское кольцо
+TwilightForest:item.chainBlock, Рыцарский кистень
+TwilightForest:item.cubeTalisman, Талисман Куба
+TwilightForest:item.cubeOfAnnihilation, Куб Аннигиляции
+TwilightForest:item.doorTwilight, Дверь из сумеречного дуба
+TwilightForest:item.doorCanopy, Дверь из сумеречной сосны
+TwilightForest:item.doorMangrove, Мангровая дверь
+TwilightForest:item.doorDarkwood, Дверь из тёмного дерева
+TwilightForest:item.doorTime, Дверь из дерева времени
+TwilightForest:item.doorTrans, Дверь из дерева трансформации
+TwilightForest:item.doorMine, Дверь из дерева шахтёра
+TwilightForest:item.doorSort, Дверь из дерева сортировки
+TwilightForest:item.null:0, Ткань Последователя
+TwilightForest:item.null:1, Фрагмент Предвестинка
 etfuturum:mutton_raw, Сырая баранина
 etfuturum:mutton_cooked, Приготовленная баранина
 etfuturum:prismarine_shard, Призмариновый осколок
@@ -13607,22 +13794,39 @@ etfuturum:shulker_box_upgrade:7, Улучшение медного шалкер�
 etfuturum:shulker_box_upgrade:8, Улучшение серебряного шалкерового ящика до золотого шалкерового ящика
 etfuturum:honeycomb, Пчелиные соты
 etfuturum:honey_bottle, Бутылочка мёда
-etfuturum:item_sign_spruce, Еловая табличка
-etfuturum:item_sign_birch, Берёзовая табличка
-etfuturum:item_sign_jungle, Табличка из досок тропического дерева
-etfuturum:item_sign_acacia, Акациевая табличка
-etfuturum:item_sign_dark_oak, Табличка из досок тёмного дуба
+etfuturum:bamboo, Бамбук
 etfuturum:oak_chest_boat, Дубовая лодка с сундуком
 etfuturum:spruce_boat, Еловая лодка
 etfuturum:spruce_chest_boat, Еловая лодка с сундуком
 etfuturum:birch_boat, Берёзовая лодка
-etfuturum:birch_chest_boat, Берёзовая лодка  с сундуком
-etfuturum:jungle_boat, Лодка из досок тропического дерева
-etfuturum:jungle_chest_boat, Лодка из досок тропического дерева с сундуком
+etfuturum:birch_chest_boat, Берёзовая лодка с сундуком
+etfuturum:jungle_boat, Лодка из тропического дерева
+etfuturum:jungle_chest_boat, Лодка из тропического дерева с сундуком
 etfuturum:acacia_boat, Акациевая лодка
 etfuturum:acacia_chest_boat, Акациевая лодка с сундуком
-etfuturum:dark_oak_boat, Лодка из досок тёмного дуба
+etfuturum:dark_oak_boat, Лодка из тёмного дуба
 etfuturum:dark_oak_chest_boat, Лодка из темного дуба с сундуком
+etfuturum:cherry_boat, Вишневая лодка
+etfuturum:cherry_chest_boat, Вишневая лодка с сундуком
+etfuturum:bamboo_raft, Бамбуковый плот
+etfuturum:bamboo_chest_raft, Бамбуковый плот с сундуком
+etfuturum:item_sign_spruce, Еловая табличка
+etfuturum:item_sign_birch, Берёзовая табличка
+etfuturum:item_sign_jungle, Табличка из тропического дерева
+etfuturum:item_sign_acacia, Акациевая табличка
+etfuturum:item_sign_dark_oak, Табличка из тёмного дуба
+etfuturum:modded_raw_ore:0, Необработанный алюминий
+etfuturum:modded_raw_ore:1, Необработанное олово
+etfuturum:modded_raw_ore:2, Необработанное серебро
+etfuturum:modded_raw_ore:3, Необработанный свинец
+etfuturum:modded_raw_ore:4, Необработанный никель
+etfuturum:modded_raw_ore:5, Необработанная платина
+etfuturum:modded_raw_ore:6, Необработанный мифрил
+etfuturum:modded_raw_ore:7, Необработанный уран
+etfuturum:modded_raw_ore:9, Необработанный вольфрам
+etfuturum:modded_raw_ore:10, Необработанный титан
+etfuturum:modded_raw_ore:11, Необработанный цинк
+etfuturum:modded_raw_ore:12, Необработанный магний
 evilcraft:werewolfBone, Кость оборотня
 evilcraft:werewolfFlesh:0, Плоть оборотня
 evilcraft:werewolfFlesh:1, Человеческая плоть
@@ -15789,6 +15993,7 @@ Mekanism:OtherDust:3, Серная пыль
 Mekanism:OtherDust:4, Литиевая пыль
 Mekanism:OtherDust:5, Пыль очищенного обсидиана
 Mekanism:OtherDust:6, Обсидиановая пыль
+Mekanism:RawOsmiumOre, Raw Osmium
 MekanismGenerators:SolarPanel, Солнечная панель
 MekanismGenerators:Hohlraum, Реакционная камера
 MekanismGenerators:TurbineBlade, Лезвие турбины
@@ -16844,6 +17049,8 @@ StorageDrawers:upgrade:3, Улучшение хранилища (III)
 StorageDrawers:upgrade:4, Улучшение хранилища (IV)
 StorageDrawers:upgrade:5, Улучшение хранилища (V)
 StorageDrawers:upgrade:6, Улучшение хранилища (VI)
+StorageDrawers:upgrade:7, Storage Upgrade (VII)
+StorageDrawers:upgrade:8, Storage Upgrade (VIII)
 StorageDrawers:upgradeStatus:1, Улучшение «Индикатор» (I)
 StorageDrawers:upgradeStatus:2, Улучшение «Индикатор» (II)
 StorageDrawers:upgradeVoid, Пустотное улучшение
@@ -16857,6 +17064,7 @@ StorageDrawers:shroudKey, Concealment Key
 StorageDrawers:personalKey:0, Personal Key
 StorageDrawers:personalKey:1, Personal Key (CoFH)
 StorageDrawers:tape, Packing Tape
+StorageDrawers:upgradeDowngrade, Storage Downgrade
 TaintedMagic:ShadowMetal, Shadowmetal
 TaintedMagic:ShadowCloth, Shadow Cloth
 TaintedMagic:CrimsonFabric, Crimson Fabric
@@ -17958,25 +18166,25 @@ ThermalDynamics:cover:0, Крышка (Плита из резного истин
 ThermalDynamics:cover:0, Крышка (Плита из резного истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
-ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
-ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
-ThermalDynamics:cover:0, Крышка (Пропитанный Ordo огонь)
-ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
+ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
 ThermalDynamics:cover:0, Крышка (Блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Резной блок закоптившегося кварца)
 ThermalDynamics:cover:0, Крышка (Колонна из закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (Тротуарные ступеньки путешествия)
+ThermalDynamics:cover:0, Крышка (Пропитанный Aqua огонь)
 ThermalDynamics:cover:0, Крышка (tile.nitorGas.name)
-ThermalDynamics:cover:0, Крышка (Пропитанный Aer огонь)
 ThermalDynamics:cover:0, Крышка (Ступеньки закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
+ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
+ThermalDynamics:cover:0, Крышка (Тротуарная плита путешествия)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
+ThermalDynamics:cover:0, Крышка (Пропитанный Ordo огонь)
+ThermalDynamics:cover:0, Крышка (Пропитанный Aer огонь)
+ThermalDynamics:cover:0, Крышка (Админиум-портал)
+ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
 ThermalDynamics:cover:0, Крышка (tile.gaseousShadow.name)
 ThermalDynamics:cover:0, Крышка (Пропитанный Terra огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Perditio огонь)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Плита закоптившегося кварца)
-ThermalDynamics:cover:0, Крышка (Админиум-портал)
-ThermalDynamics:cover:0, Крышка (Пропитанный Ignis огонь)
-ThermalDynamics:cover:0, Крышка (Пропитанный Aqua огонь)
-ThermalDynamics:cover:0, Крышка (tile.gaseousLight.name)
 ThermalDynamics:cover:0, Крышка (Таумический торт)
 ThermalDynamics:cover:0, Крышка (Мрачная роза)
 ThermalDynamics:cover:0, Крышка (Блок звезды Нижнего мира)
@@ -19213,153 +19421,201 @@ ThermalDynamics:cover:0, Крышка (Блок соулария)
 ThermalDynamics:cover:0, Крышка (Решётка из тёмного железа)
 ThermalDynamics:cover:0, Крышка (Сумеречный дуб)
 ThermalDynamics:cover:0, Крышка (Сумеречная сосна)
-ThermalDynamics:cover:0, Крышка (Сумеречная берёза)
+ThermalDynamics:cover:0, Крышка (Мангровое дерево)
 ThermalDynamics:cover:0, Крышка (Тёмное дерево)
+ThermalDynamics:cover:0, Крышка (Доски из сумеречного дуба)
+ThermalDynamics:cover:0, Крышка (Доски из сумеречной сосны)
+ThermalDynamics:cover:0, Крышка (Мангровые доски)
+ThermalDynamics:cover:0, Крышка (Доски из тёмного дерева)
+ThermalDynamics:cover:0, Крышка (Доски из дерева времени)
+ThermalDynamics:cover:0, Крышка (Доски из дерева трансформации)
+ThermalDynamics:cover:0, Крышка (Доски из дерева шахтёра)
+ThermalDynamics:cover:0, Крышка (Доски из дерева сортировки)
+ThermalDynamics:cover:0, Крышка (Плита из сумеречного дуба)
+ThermalDynamics:cover:0, Крышка (Плита из сумеречной сосны)
+ThermalDynamics:cover:0, Крышка (Мангровая плита)
+ThermalDynamics:cover:0, Крышка (Плита из тёмного дерева)
+ThermalDynamics:cover:0, Крышка (Плита из дерева времени)
+ThermalDynamics:cover:0, Крышка (Плита из дерева трансформации)
+ThermalDynamics:cover:0, Крышка (Плита из дерева шахтёра)
+ThermalDynamics:cover:0, Крышка (Плита из дерева сортировки)
+ThermalDynamics:cover:0, Крышка (Ступеньки из сумеречного дуба)
+ThermalDynamics:cover:0, Крышка (Ступеньки из сумеречной сосны)
+ThermalDynamics:cover:0, Крышка (Мангровые ступеньки)
+ThermalDynamics:cover:0, Крышка (Ступеньки из тёмного дерева)
+ThermalDynamics:cover:0, Крышка (Ступеньки из дерева времени)
+ThermalDynamics:cover:0, Крышка (Ступеньки из дерева трансформации)
+ThermalDynamics:cover:0, Крышка (Ступеньки из дерева шахтёра)
+ThermalDynamics:cover:0, Крышка (Ступеньки из дерева сортировки)
+ThermalDynamics:cover:0, Крышка (tile.TFDoorTwilight.0.name)
+ThermalDynamics:cover:0, Крышка (tile.TFDoorCanopy.0.name)
+ThermalDynamics:cover:0, Крышка (tile.TFDoorMangrove.0.name)
+ThermalDynamics:cover:0, Крышка (tile.TFDoorDarkwood.0.name)
+ThermalDynamics:cover:0, Крышка (tile.TFDoorTime.0.name)
+ThermalDynamics:cover:0, Крышка (tile.TFDoorTrans.0.name)
+ThermalDynamics:cover:0, Крышка (tile.TFDoorMine.0.name)
+ThermalDynamics:cover:0, Крышка (tile.TFDoorSort.0.name)
+ThermalDynamics:cover:0, Крышка (Люк из сумеречного дуба)
+ThermalDynamics:cover:0, Крышка (Люк из сумеречной сосны)
+ThermalDynamics:cover:0, Крышка (Мангровый люк)
+ThermalDynamics:cover:0, Крышка (Люк из тёмного дерева)
+ThermalDynamics:cover:0, Крышка (Люк из дерева времени)
+ThermalDynamics:cover:0, Крышка (Люк из дерева трансформации)
+ThermalDynamics:cover:0, Крышка (Люк из дерева шахтёра)
+ThermalDynamics:cover:0, Крышка (Люк из дерева сортировки)
 ThermalDynamics:cover:0, Крышка (Корни)
-ThermalDynamics:cover:0, Крышка (Замшелые корни)
+ThermalDynamics:cover:0, Крышка (Живые корни)
 ThermalDynamics:cover:0, Крышка (Листва сумеречного дуба)
 ThermalDynamics:cover:0, Крышка (Листва сумеречной сосны)
-ThermalDynamics:cover:0, Крышка (Листва сумеречной берёзы)
+ThermalDynamics:cover:0, Крышка (Мангровая листва)
 ThermalDynamics:cover:0, Крышка (Разноцветная листва)
-ThermalDynamics:cover:0, Крышка (Блок портала в сумеречный лес)
-ThermalDynamics:cover:0, Крышка (Камень лабиринта)
-ThermalDynamics:cover:0, Крышка (Кладка из камня лабиринта)
-ThermalDynamics:cover:0, Крышка (Гладкая лабиринтовая кладка)
-ThermalDynamics:cover:0, Крышка (Декоративная лабиринтовая кладка)
-ThermalDynamics:cover:0, Крышка (Потресканая лабиринтовая кладка)
-ThermalDynamics:cover:0, Крышка (Замшелая лабиринтовая кладка)
-ThermalDynamics:cover:0, Крышка (Узорчатая лабиринтовая кладка)
-ThermalDynamics:cover:0, Крышка (Двойная узорчатая лабиринтовая кладка)
-ThermalDynamics:cover:0, Крышка (Хеджа)
-ThermalDynamics:cover:0, Крышка (Баночка со светлячком)
-ThermalDynamics:cover:0, Крышка (Покров мха)
-ThermalDynamics:cover:0, Крышка (Четырёхлистный клевер)
-ThermalDynamics:cover:0, Крышка (Сверкающая трава)
-ThermalDynamics:cover:0, Крышка (Светогриб)
+ThermalDynamics:cover:0, Крышка (Портал в Сумеречный лес)
+ThermalDynamics:cover:0, Крышка (Лабиринтовый камень)
+ThermalDynamics:cover:0, Крышка (Лабиринтовый кирпич)
+ThermalDynamics:cover:0, Крышка (Гладкий лабиринтовый камень)
+ThermalDynamics:cover:0, Крышка (Резной лабиринтовый кирпич)
+ThermalDynamics:cover:0, Крышка (Потрескавшийся лабиринтовый кирпич)
+ThermalDynamics:cover:0, Крышка (Замшелый лабиринтовый кирпич)
+ThermalDynamics:cover:0, Крышка (Лабиринтовая мозаика)
+ThermalDynamics:cover:0, Крышка (Лабиринтовый бордюр)
+ThermalDynamics:cover:0, Крышка (Живая изгородь)
+ThermalDynamics:cover:0, Крышка (Банка со светлячком)
+ThermalDynamics:cover:0, Крышка (Мшистый покров)
+ThermalDynamics:cover:0, Крышка (Дикая мандрагора)
+ThermalDynamics:cover:0, Крышка (Побег папоротника)
+ThermalDynamics:cover:0, Крышка (Световик)
 ThermalDynamics:cover:0, Крышка (Лесная трава)
 ThermalDynamics:cover:0, Крышка (Мёртвый куст)
-ThermalDynamics:cover:0, Крышка (Факелонтовый росток)
+ThermalDynamics:cover:0, Крышка (Факелонтовый куст)
 ThermalDynamics:cover:0, Крышка (Висячие корни)
-ThermalDynamics:cover:0, Крышка (Анти верстак)
-ThermalDynamics:cover:0, Крышка (Нагакамень)
-ThermalDynamics:cover:0, Крышка (Нагакамень)
+ThermalDynamics:cover:0, Крышка (Антиверстак)
+ThermalDynamics:cover:0, Крышка (Резной нагакамень)
+ThermalDynamics:cover:0, Крышка (Замшелый резной нагакамень)
+ThermalDynamics:cover:0, Крышка (Потрескавшийся резной нагакамень)
+ThermalDynamics:cover:0, Крышка (Ступеньки из нагакамня (Левые))
+ThermalDynamics:cover:0, Крышка (Ступеньки из нагакамня (Правые))
+ThermalDynamics:cover:0, Крышка (Ступеньки из замшелого нагакамня (Левые))
+ThermalDynamics:cover:0, Крышка (Ступеньки из замшелого нагакамня (Правые))
+ThermalDynamics:cover:0, Крышка (Ступеньки из потрескавшегося нагакамня (Левые))
+ThermalDynamics:cover:0, Крышка (Ступеньки из потрескавшегося нагакамня (Правые))
+ThermalDynamics:cover:0, Крышка (Колонна из нагакамня)
+ThermalDynamics:cover:0, Крышка (Колонна из замшелого нагакамня)
+ThermalDynamics:cover:0, Крышка (Колонна из потрескавшегося нагакамня)
+ThermalDynamics:cover:0, Крышка (Спиральные каменные кирпичи)
 ThermalDynamics:cover:0, Крышка (Саженец сумеречного дуба)
 ThermalDynamics:cover:0, Крышка (Саженец сумеречной сосны)
-ThermalDynamics:cover:0, Крышка (Саженец сумеречной берёзы)
+ThermalDynamics:cover:0, Крышка (Саженец мангрового дерева)
 ThermalDynamics:cover:0, Крышка (Саженец тёмного дерева)
 ThermalDynamics:cover:0, Крышка (Саженец большого сумеречного дуба)
 ThermalDynamics:cover:0, Крышка (Саженец дерева времени)
-ThermalDynamics:cover:0, Крышка (Саженец мудрого дерева)
+ThermalDynamics:cover:0, Крышка (Саженец дерева трансформации)
 ThermalDynamics:cover:0, Крышка (Саженец дерева шахтёра)
 ThermalDynamics:cover:0, Крышка (Саженец сортировочного дерева)
 ThermalDynamics:cover:0, Крышка (Саженец разноцветного дерева)
 ThermalDynamics:cover:0, Крышка (Дерево времени)
-ThermalDynamics:cover:0, Крышка (Загадочное дерево)
+ThermalDynamics:cover:0, Крышка (Дерево трансформации)
 ThermalDynamics:cover:0, Крышка (Дерево шахтёра)
-ThermalDynamics:cover:0, Крышка (Правильное дерево)
+ThermalDynamics:cover:0, Крышка (Дерево сортировки)
 ThermalDynamics:cover:0, Крышка (Листва дерева времени)
-ThermalDynamics:cover:0, Крышка (Листва мудрого дерева)
-ThermalDynamics:cover:0, Крышка (Листва шахтёра)
-ThermalDynamics:cover:0, Крышка (Листва сортировки)
-ThermalDynamics:cover:0, Крышка (Дерево времени)
-ThermalDynamics:cover:0, Крышка (Мудрое дерево)
+ThermalDynamics:cover:0, Крышка (Листва дерева трансформации)
+ThermalDynamics:cover:0, Крышка (Листва дерева шахтёра)
+ThermalDynamics:cover:0, Крышка (Листва дерева сортировки)
+ThermalDynamics:cover:0, Крышка (Часы дерева времени)
+ThermalDynamics:cover:0, Крышка (Сердце трансформации)
 ThermalDynamics:cover:0, Крышка (Ядро дерева шахтёра)
 ThermalDynamics:cover:0, Крышка (Ядро дерева сортировки)
-ThermalDynamics:cover:0, Крышка (Планки тёмной башни)
-ThermalDynamics:cover:0, Крышка (Боковые планки тёмной башни)
-ThermalDynamics:cover:0, Крышка (Трестнутые планки тёмной башни)
-ThermalDynamics:cover:0, Крышка (Замшелые планки тёмной башни)
-ThermalDynamics:cover:0, Крышка (Инфицированные планки тёмной башни)
-ThermalDynamics:cover:0, Крышка (Восстанавливающийся блок)
+ThermalDynamics:cover:0, Крышка (Доски тёмной башни)
+ThermalDynamics:cover:0, Крышка (Боковые доски тёмной башни)
+ThermalDynamics:cover:0, Крышка (Потрескавшиеся доски тёмной башни)
+ThermalDynamics:cover:0, Крышка (Замшелые доски тёмной башни)
+ThermalDynamics:cover:0, Крышка (Изъеденные доски тёмной башни)
 ThermalDynamics:cover:0, Крышка (Исчезающий блок)
-ThermalDynamics:cover:0, Крышка (Заблокированный восстанавливающийся блок)
-ThermalDynamics:cover:0, Крышка (Разблокированый восстанавливающийся блок)
-ThermalDynamics:cover:0, Крышка (Строитель башни)
+ThermalDynamics:cover:0, Крышка (Исчезающий блок)
+ThermalDynamics:cover:0, Крышка (Заблокированный исчезающий блок)
+ThermalDynamics:cover:0, Крышка (Разблокированый исчезающий блок)
+ThermalDynamics:cover:0, Крышка (Карминитовый строитель)
 ThermalDynamics:cover:0, Крышка (Карминитовый реактор)
-ThermalDynamics:cover:0, Крышка (Восстанавливающийся блок)
-ThermalDynamics:cover:0, Крышка (Активный восстанавливающийся блок)
-ThermalDynamics:cover:0, Крышка (Блок строителя башни)
-ThermalDynamics:cover:0, Крышка (Активный блок строители башни)
-ThermalDynamics:cover:0, Крышка (Анти-строитель башни)
-ThermalDynamics:cover:0, Крышка (Carminite Reactor Debris)
-ThermalDynamics:cover:0, Крышка (Поддельное золото)
-ThermalDynamics:cover:0, Крышка (Поддельный алмаз)
-ThermalDynamics:cover:0, Крышка (Крепкий щит)
+ThermalDynamics:cover:0, Крышка (Исчезающий блок)
+ThermalDynamics:cover:0, Крышка (Активный исчезающий блок)
+ThermalDynamics:cover:0, Крышка (Блок карминитового строителя)
+ThermalDynamics:cover:0, Крышка (Активный блок карминитового строителя)
+ThermalDynamics:cover:0, Крышка (Блок антистроителя)
+ThermalDynamics:cover:0, Крышка (Осколки карминитового реактора)
+ThermalDynamics:cover:0, Крышка (Фальшивый золотой блок)
+ThermalDynamics:cover:0, Крышка (Фальшивый алмазный блок)
+ThermalDynamics:cover:0, Крышка (Щит крепости)
+ThermalDynamics:cover:0, Крышка (Деактивированный трофейный пьедестал)
 ThermalDynamics:cover:0, Крышка (Трофейный пьедестал)
-ThermalDynamics:cover:0, Крышка (Активированный трофейный пьедестал)
-ThermalDynamics:cover:0, Крышка (Блок Авроры)
-ThermalDynamics:cover:0, Крышка (Подземные кирпичи)
-ThermalDynamics:cover:0, Крышка (Потресканные поздемные кирпичи)
-ThermalDynamics:cover:0, Крышка (Замшелые подземные кирпичи)
+ThermalDynamics:cover:0, Крышка (Блок северного сияния)
+ThermalDynamics:cover:0, Крышка (Подземный кирпич)
+ThermalDynamics:cover:0, Крышка (Потрескавшийся подземный кирпич)
+ThermalDynamics:cover:0, Крышка (Замшелый подземный кирпич)
 ThermalDynamics:cover:0, Крышка (Шипы)
 ThermalDynamics:cover:0, Крышка (Зелёные шипы)
 ThermalDynamics:cover:0, Крышка (Истлевшие шипы)
 ThermalDynamics:cover:0, Крышка (Шипастая роза)
-ThermalDynamics:cover:0, Крышка (Thorn Leaves)
+ThermalDynamics:cover:0, Крышка (Шипастые листья)
 ThermalDynamics:cover:0, Крышка (Бобовые листья)
-ThermalDynamics:cover:0, Крышка (Влажный камень смерти)
-ThermalDynamics:cover:0, Крышка (Потрескавшийся камень смерти)
-ThermalDynamics:cover:0, Крышка (Камень смерти)
+ThermalDynamics:cover:0, Крышка (Обветренный мёртвый камень)
+ThermalDynamics:cover:0, Крышка (Потрескавшийся мёртвый камень)
+ThermalDynamics:cover:0, Крышка (Мёртвый камень)
 ThermalDynamics:cover:0, Крышка (Листва тёмного дерева)
-ThermalDynamics:cover:0, Крышка (Колонна Авроры)
-ThermalDynamics:cover:0, Крышка (Плита Авроры)
-ThermalDynamics:cover:0, Крышка (Плита Авроры)
-ThermalDynamics:cover:0, Крышка (Тролльштеин)
-ThermalDynamics:cover:0, Крышка (Прозрачное облако)
-ThermalDynamics:cover:0, Крышка (Взбытое облако)
+ThermalDynamics:cover:0, Крышка (Колонна из северного сияния)
+ThermalDynamics:cover:0, Крышка (Плита из северного сияния)
+ThermalDynamics:cover:0, Крышка (Плита из северного сияния)
+ThermalDynamics:cover:0, Крышка (Троллштейн)
+ThermalDynamics:cover:0, Крышка (Перистое облако)
+ThermalDynamics:cover:0, Крышка (Пушистое облако)
 ThermalDynamics:cover:0, Крышка (Гигантский булыжник)
-ThermalDynamics:cover:0, Крышка (Гигантское дерево)
+ThermalDynamics:cover:0, Крышка (Гигантское бревно)
 ThermalDynamics:cover:0, Крышка (Гигантские листья)
 ThermalDynamics:cover:0, Крышка (Гигантский обсидиан)
-ThermalDynamics:cover:0, Крышка (Анбеоновая почва)
+ThermalDynamics:cover:0, Крышка (Плодородная почва)
 ThermalDynamics:cover:0, Крышка (Огромный стебель)
-ThermalDynamics:cover:0, Крышка (Огромный грибрил)
-ThermalDynamics:cover:0, Крышка (Тролловидр)
-ThermalDynamics:cover:0, Крышка (Спелый тролльбер)
-ThermalDynamics:cover:0, Крышка (Тролльбер)
-ThermalDynamics:cover:0, Крышка (Block of Knightmetal)
-ThermalDynamics:cover:0, Крышка (Huge Lily Pad)
-ThermalDynamics:cover:0, Крышка (Huge Water Lily)
-ThermalDynamics:cover:0, Крышка (Slide Trap)
-ThermalDynamics:cover:0, Крышка (Slide Trap 1)
-ThermalDynamics:cover:0, Крышка (Slide Trap 2)
-ThermalDynamics:cover:0, Крышка (Slide Trap 3)
-ThermalDynamics:cover:0, Крышка (Castle Brick)
-ThermalDynamics:cover:0, Крышка (Worn Castle Brick)
-ThermalDynamics:cover:0, Крышка (Cracked Castle Brick)
-ThermalDynamics:cover:0, Крышка (Castle Roof Tile)
-ThermalDynamics:cover:0, Крышка (Blue Castle Rune Brick)
-ThermalDynamics:cover:0, Крышка (Yellow Castle Rune Brick)
-ThermalDynamics:cover:0, Крышка (Pink Castle Rune Brick)
-ThermalDynamics:cover:0, Крышка (Violet Castle Rune Brick)
-ThermalDynamics:cover:0, Крышка (Violet Force Field)
-ThermalDynamics:cover:0, Крышка (Pink Force Field)
-ThermalDynamics:cover:0, Крышка (Orange Force Field)
-ThermalDynamics:cover:0, Крышка (Green Force Field)
-ThermalDynamics:cover:0, Крышка (Blue Force Field)
-ThermalDynamics:cover:0, Крышка (Cinder Log [NYI])
-ThermalDynamics:cover:0, Крышка (Blue Castle Door)
-ThermalDynamics:cover:0, Крышка (Yellow Castle Door)
-ThermalDynamics:cover:0, Крышка (Pink Castle Door)
-ThermalDynamics:cover:0, Крышка (Violet Castle Door)
-ThermalDynamics:cover:0, Крышка (Blue Castle Door)
-ThermalDynamics:cover:0, Крышка (Yellow Castle Door)
-ThermalDynamics:cover:0, Крышка (Pink Castle Door)
-ThermalDynamics:cover:0, Крышка (Violet Castle Door)
-ThermalDynamics:cover:0, Крышка (Twilight Oak Planks)
-ThermalDynamics:cover:0, Крышка (Canopy Planks)
-ThermalDynamics:cover:0, Крышка (Mangrove Planks)
-ThermalDynamics:cover:0, Крышка (Darkwood Planks)
-ThermalDynamics:cover:0, Крышка (Timewood Planks)
-ThermalDynamics:cover:0, Крышка (Transwood Planks)
-ThermalDynamics:cover:0, Крышка (Minewood Planks)
-ThermalDynamics:cover:0, Крышка (Sortingwood Planks)
+ThermalDynamics:cover:0, Крышка (Огромный светогриб)
+ThermalDynamics:cover:0, Крышка (Троллвидр)
+ThermalDynamics:cover:0, Крышка (Спелый троллбер)
+ThermalDynamics:cover:0, Крышка (Троллбер)
+ThermalDynamics:cover:0, Крышка (Блок рыцарского металла)
+ThermalDynamics:cover:0, Крышка (Блок арктического меха)
+ThermalDynamics:cover:0, Крышка (Карминитовый блок)
+ThermalDynamics:cover:0, Крышка (Блок огненного металла)
+ThermalDynamics:cover:0, Крышка (Блок железного дерева)
+ThermalDynamics:cover:0, Крышка (Стальная листва)
+ThermalDynamics:cover:0, Крышка (Огромная кувшинка)
+ThermalDynamics:cover:0, Крышка (Огромная лилия)
+ThermalDynamics:cover:0, Крышка (Скользящая ловушка)
+ThermalDynamics:cover:0, Крышка (Скользящая ловушка 1)
+ThermalDynamics:cover:0, Крышка (Скользящая ловушка 2)
+ThermalDynamics:cover:0, Крышка (Скользящая ловушка 3)
+ThermalDynamics:cover:0, Крышка (Кирпич замка)
+ThermalDynamics:cover:0, Крышка (Обветренный кирпич замка)
+ThermalDynamics:cover:0, Крышка (Потрескавшийся кирпич замка)
+ThermalDynamics:cover:0, Крышка (Крыша замка)
+ThermalDynamics:cover:0, Крышка (Голубой рунный кирпич замка)
+ThermalDynamics:cover:0, Крышка (Жёлтый рунный кирпич замка)
+ThermalDynamics:cover:0, Крышка (Розовый рунный кирпич замка)
+ThermalDynamics:cover:0, Крышка (Фиолетовый рунный кирпич замка)
+ThermalDynamics:cover:0, Крышка (Фиолетовое силовое поле)
+ThermalDynamics:cover:0, Крышка (Розовое силовое поле)
+ThermalDynamics:cover:0, Крышка (Оранжевое силовое поле)
+ThermalDynamics:cover:0, Крышка (Зелёное силовое поле)
+ThermalDynamics:cover:0, Крышка (Голубое силовое поле)
+ThermalDynamics:cover:0, Крышка (Пепельное бревно)
+ThermalDynamics:cover:0, Крышка (Синяя дверь замка)
+ThermalDynamics:cover:0, Крышка (Жёлтая дверь замка)
+ThermalDynamics:cover:0, Крышка (Розовая дверь замка)
+ThermalDynamics:cover:0, Крышка (Фиолетовая дверь замка)
+ThermalDynamics:cover:0, Крышка (Синяя дверь замка)
+ThermalDynamics:cover:0, Крышка (Жёлтая дверь замка)
+ThermalDynamics:cover:0, Крышка (Розовая дверь замка)
+ThermalDynamics:cover:0, Крышка (Фиолетовая дверь замка)
 ThermalDynamics:cover:0, Крышка (Гранит)
-ThermalDynamics:cover:0, Крышка (Гладкий гранит)
+ThermalDynamics:cover:0, Крышка (Полированный гранит)
 ThermalDynamics:cover:0, Крышка (Диорит)
-ThermalDynamics:cover:0, Крышка (Гладкий диорит)
+ThermalDynamics:cover:0, Крышка (Полированный диорит)
 ThermalDynamics:cover:0, Крышка (Андезит)
-ThermalDynamics:cover:0, Крышка (Гладкий андезит)
+ThermalDynamics:cover:0, Крышка (Полированный андезит)
 ThermalDynamics:cover:0, Крышка (Призмарин)
 ThermalDynamics:cover:0, Крышка (Призмариновый кирпич)
 ThermalDynamics:cover:0, Крышка (Тёмный призмарин)
@@ -19374,7 +19630,7 @@ ThermalDynamics:cover:0, Крышка (Блок слизи)
 ThermalDynamics:cover:0, Крышка (Мокрая губка)
 ThermalDynamics:cover:0, Крышка (Пурпурный блок)
 ThermalDynamics:cover:0, Крышка (Пурпурная колонна)
-ThermalDynamics:cover:0, Крышка (Кирпичи из камня Края)
+ThermalDynamics:cover:0, Крышка (Эндерняковые кирпичи)
 ThermalDynamics:cover:0, Крышка (Травяная тропинка)
 ThermalDynamics:cover:0, Крышка (Стержень Края)
 ThermalDynamics:cover:0, Крышка (Растение хоруса)
@@ -19383,7 +19639,6 @@ ThermalDynamics:cover:0, Крышка (Костяной блок)
 ThermalDynamics:cover:0, Крышка (Красные адские кирпичи)
 ThermalDynamics:cover:0, Крышка (Потрескавшиеся красные адские кирпичи)
 ThermalDynamics:cover:0, Крышка (Резные красные адские кирпичи)
-ThermalDynamics:cover:0, Крышка (Блок адского нароста)
 ThermalDynamics:cover:0, Крышка (Древние обломки)
 ThermalDynamics:cover:0, Крышка (Незеритовый блок)
 ThermalDynamics:cover:0, Крышка (Золотая руда Нижнего мира)
@@ -19391,7 +19646,7 @@ ThermalDynamics:cover:0, Крышка (Синий лёд)
 ThermalDynamics:cover:0, Крышка (Гладкий камень)
 ThermalDynamics:cover:0, Крышка (Гладкий песчаник)
 ThermalDynamics:cover:0, Крышка (Гладкий красный песчаник)
-ThermalDynamics:cover:0, Крышка (Гладкий кварцевый блок)
+ThermalDynamics:cover:0, Крышка (Гладкий кварц)
 ThermalDynamics:cover:0, Крышка (Кварцевые кирпичи)
 ThermalDynamics:cover:0, Крышка (Обтёсанная дубовая древесина)
 ThermalDynamics:cover:0, Крышка (Обтёсанная еловая древесина)
@@ -19428,7 +19683,7 @@ ThermalDynamics:cover:0, Крышка (Зелёный бетон)
 ThermalDynamics:cover:0, Крышка (Красный бетон)
 ThermalDynamics:cover:0, Крышка (Чёрный бетон)
 ThermalDynamics:cover:0, Крышка (Белый цемент)
-ThermalDynamics:cover:0, Крышка (Оранжевая цемент)
+ThermalDynamics:cover:0, Крышка (Оранжевый цемент)
 ThermalDynamics:cover:0, Крышка (Пурпурный цемент)
 ThermalDynamics:cover:0, Крышка (Светло-синий цемент)
 ThermalDynamics:cover:0, Крышка (Жёлтый цемент)
@@ -19480,18 +19735,48 @@ ThermalDynamics:cover:0, Крышка (Вощёный резной медный 
 ThermalDynamics:cover:0, Крышка (Вощёный потемневший резной медный блок)
 ThermalDynamics:cover:0, Крышка (Вощёный состаренный резной медный блок)
 ThermalDynamics:cover:0, Крышка (Вощёный окисленный резной медный блок)
+ThermalDynamics:cover:0, Крышка (Точёный медный блок)
+ThermalDynamics:cover:0, Крышка (Потемневший точёный медный блок)
+ThermalDynamics:cover:0, Крышка (Состаренный точёный медный блок)
+ThermalDynamics:cover:0, Крышка (Окисленный точёный медный блок)
+ThermalDynamics:cover:0, Крышка (Вощёный точёный медный блок)
+ThermalDynamics:cover:0, Крышка (Вощёный потемневший точёный медный блок)
+ThermalDynamics:cover:0, Крышка (Вощёный состаренный точёный медный блок)
+ThermalDynamics:cover:0, Крышка (Вощёный окисленный точёный медный блок)
+ThermalDynamics:cover:0, Крышка (Медная решётка)
+ThermalDynamics:cover:0, Крышка (Потемневшая медная решётка)
+ThermalDynamics:cover:0, Крышка (Состаренная медная решётка)
+ThermalDynamics:cover:0, Крышка (Окисленная медная решётка)
+ThermalDynamics:cover:0, Крышка (Вощёная медная решётка)
+ThermalDynamics:cover:0, Крышка (Вощёная потемневшая медная решётка)
+ThermalDynamics:cover:0, Крышка (Вощёная состаренная медная решётка)
+ThermalDynamics:cover:0, Крышка (Вощёная окисленная медная решётка)
+ThermalDynamics:cover:0, Крышка (Медная лампа)
+ThermalDynamics:cover:0, Крышка (Потемневшая медная лампа)
+ThermalDynamics:cover:0, Крышка (Состаренная медная лампа)
+ThermalDynamics:cover:0, Крышка (Окисленная медная лампа)
+ThermalDynamics:cover:0, Крышка (Вощёная медная лампа)
+ThermalDynamics:cover:0, Крышка (Вощёная потемневшая медная лампа)
+ThermalDynamics:cover:0, Крышка (Вощёная состаренная медная лампа)
+ThermalDynamics:cover:0, Крышка (Вощёная окисленная медная лампа)
 ThermalDynamics:cover:0, Крышка (Глубинный сланец)
-ThermalDynamics:cover:0, Крышка (Дроблённый глубинный сланец)
-ThermalDynamics:cover:0, Крышка (Гладкий глубинный сланец)
+ThermalDynamics:cover:0, Крышка (Колотый глубинный сланец)
+ThermalDynamics:cover:0, Крышка (Полированный глубинный сланец)
 ThermalDynamics:cover:0, Крышка (Кирпичи из глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Потрескавшиеся кирпичи из глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Плитняк из глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Потрескавшийся плитняк из глубинного сланца)
+ThermalDynamics:cover:0, Крышка (Потрескавшиеся глубинносланцевые кирпичи)
+ThermalDynamics:cover:0, Крышка (Глубинносланцевый плитняк)
+ThermalDynamics:cover:0, Крышка (Потрескавшийся глубинносланцевый плитняк)
 ThermalDynamics:cover:0, Крышка (Резной глубинный сланец)
 ThermalDynamics:cover:0, Крышка (Туф)
+ThermalDynamics:cover:0, Крышка (Полированный туф)
+ThermalDynamics:cover:0, Крышка (Туфовые кирпичи)
+ThermalDynamics:cover:0, Крышка (Резной туф)
+ThermalDynamics:cover:0, Крышка (Резные туфовые кирпичи)
 ThermalDynamics:cover:0, Крышка (Блок необработанной меди)
 ThermalDynamics:cover:0, Крышка (Блок необработанного железа)
 ThermalDynamics:cover:0, Крышка (Блок необработанного золота)
+ThermalDynamics:cover:0, Крышка (Базальт)
+ThermalDynamics:cover:0, Крышка (Полированный базальт)
 ThermalDynamics:cover:0, Крышка (Гладкий базальт)
 ThermalDynamics:cover:0, Крышка (Кальцит)
 ThermalDynamics:cover:0, Крышка (Аметистовый блок)
@@ -19501,22 +19786,9 @@ ThermalDynamics:cover:0, Крышка (Средний аметистовый б�
 ThermalDynamics:cover:0, Крышка (Большой аметистовый бутон)
 ThermalDynamics:cover:0, Крышка (Аметистовый кластер)
 ThermalDynamics:cover:0, Крышка (Тонированное стекло)
-ThermalDynamics:cover:0, Крышка (Стена из каменного кирпича)
-ThermalDynamics:cover:0, Крышка (Стена из замшелого каменного кирпича)
-ThermalDynamics:cover:0, Крышка (Стена из песчаника)
-ThermalDynamics:cover:0, Крышка (Кирпичная стена)
-ThermalDynamics:cover:0, Крышка (Стена из адского кирпича)
-ThermalDynamics:cover:0, Крышка (Гранитная стена)
-ThermalDynamics:cover:0, Крышка (Диоритовая стена)
-ThermalDynamics:cover:0, Крышка (Андезитовая стена)
-ThermalDynamics:cover:0, Крышка (Стена из красного песчаника)
-ThermalDynamics:cover:0, Крышка (Призмариновая стена)
-ThermalDynamics:cover:0, Крышка (Стена из красного адского кирпича)
-ThermalDynamics:cover:0, Крышка (Стена из каменного кирпича Края)
-ThermalDynamics:cover:0, Крышка (Стена из дроблённого глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Стена из полированного глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Стена из кирпича глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Стена из плитняка глубинного сланца)
+ThermalDynamics:cover:0, Крышка (Грязь)
+ThermalDynamics:cover:0, Крышка (Плотная грязь)
+ThermalDynamics:cover:0, Крышка (Саманные кирпичи)
 ThermalDynamics:cover:0, Крышка (Глубинный уголь)
 ThermalDynamics:cover:0, Крышка (Глубинная железная руда)
 ThermalDynamics:cover:0, Крышка (Глубинная золотая руда)
@@ -19524,13 +19796,8 @@ ThermalDynamics:cover:0, Крышка (Глубинная красная руд�
 ThermalDynamics:cover:0, Крышка (Глубинная лазуритовая руда)
 ThermalDynamics:cover:0, Крышка (Глубинная алмазная руда)
 ThermalDynamics:cover:0, Крышка (Глубинная изумрудная руда)
-ThermalDynamics:cover:0, Крышка (Наковальня)
-ThermalDynamics:cover:0, Крышка (Наковальня)
-ThermalDynamics:cover:0, Крышка (Наковальня)
 ThermalDynamics:cover:0, Крышка (Наблюдатель)
 ThermalDynamics:cover:0, Крышка (Мишень)
-ThermalDynamics:cover:0, Крышка (Ступеньки из красного песчаника)
-ThermalDynamics:cover:0, Крышка (Пурпурные ступеньки)
 ThermalDynamics:cover:0, Крышка (Плита из красного песчаника)
 ThermalDynamics:cover:0, Крышка (Плита из резного красного песчаника)
 ThermalDynamics:cover:0, Крышка (Пурпурная плита)
@@ -19544,6 +19811,30 @@ ThermalDynamics:cover:0, Крышка (Диоритовая плита)
 ThermalDynamics:cover:0, Крышка (Плита из полированного диорита)
 ThermalDynamics:cover:0, Крышка (Андезитовая плита)
 ThermalDynamics:cover:0, Крышка (Плита из полированного андезита)
+ThermalDynamics:cover:0, Крышка (Плита из гладкого песчаника)
+ThermalDynamics:cover:0, Крышка (Плита из гладкого красного песчаника)
+ThermalDynamics:cover:0, Крышка (Призмариновая плита)
+ThermalDynamics:cover:0, Крышка (Плита из призмаринового кирпича)
+ThermalDynamics:cover:0, Крышка (Плита из тёмного призмарина)
+ThermalDynamics:cover:0, Крышка (Плита из гладкого кварца)
+ThermalDynamics:cover:0, Крышка (Плита из красного адского кирпича)
+ThermalDynamics:cover:0, Крышка (Плита из эндернякового кирпича)
+ThermalDynamics:cover:0, Крышка (Плита из колотого глубинного сланца)
+ThermalDynamics:cover:0, Крышка (Плита из полированного глубинного сланца)
+ThermalDynamics:cover:0, Крышка (Плита из глубинносланцевого кирпича)
+ThermalDynamics:cover:0, Крышка (Плита из глубинносланцевого плитняка)
+ThermalDynamics:cover:0, Крышка (Туфовая плита)
+ThermalDynamics:cover:0, Крышка (Плита из полированного туфа)
+ThermalDynamics:cover:0, Крышка (Плита из туфового кирпича)
+ThermalDynamics:cover:0, Крышка (Саманная плита)
+ThermalDynamics:cover:0, Крышка (Плита из резного медного блока)
+ThermalDynamics:cover:0, Крышка (Потемневшая плита из резного медного блока)
+ThermalDynamics:cover:0, Крышка (Состаренная плита из резного медного блока)
+ThermalDynamics:cover:0, Крышка (Окисленная плита из резного медного блока)
+ThermalDynamics:cover:0, Крышка (Вощёная плита из резного медного блока)
+ThermalDynamics:cover:0, Крышка (Вощёная потемневшая плита из резного медного блока)
+ThermalDynamics:cover:0, Крышка (Вощёная состаренная плита из резного медного блока)
+ThermalDynamics:cover:0, Крышка (Вощёная окисленная плита из окисленного резного медного блока)
 ThermalDynamics:cover:0, Крышка (Призмариновые ступеньки)
 ThermalDynamics:cover:0, Крышка (Ступеньки из призмаринового кирпича)
 ThermalDynamics:cover:0, Крышка (Ступеньки из тёмного призмарина)
@@ -19560,27 +19851,17 @@ ThermalDynamics:cover:0, Крышка (Ступеньки из полирова�
 ThermalDynamics:cover:0, Крышка (Ступеньки из замшелого каменного кирпича)
 ThermalDynamics:cover:0, Крышка (Ступеньки из замшелого булыжника)
 ThermalDynamics:cover:0, Крышка (Каменные ступеньки)
-ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича камня Края)
-ThermalDynamics:cover:0, Крышка (Плита из гладкого песчаника)
-ThermalDynamics:cover:0, Крышка (Плита из гладкого красного песчаника)
-ThermalDynamics:cover:0, Крышка (Призмариновая плита)
-ThermalDynamics:cover:0, Крышка (Плита из призмаринового кирпича)
-ThermalDynamics:cover:0, Крышка (Плита из тёмного призмарина)
-ThermalDynamics:cover:0, Крышка (Плита из гладкого кварца)
-ThermalDynamics:cover:0, Крышка (Плита из красного адского кирпича)
-ThermalDynamics:cover:0, Крышка (Плита из кирпича камня Края)
-ThermalDynamics:cover:0, Крышка (Плита из резного медного блока)
-ThermalDynamics:cover:0, Крышка (Потемневшая плита из резного медного блока)
-ThermalDynamics:cover:0, Крышка (Состаренная плита из резного медного блока)
-ThermalDynamics:cover:0, Крышка (Окисленная плита из резного медного блока)
-ThermalDynamics:cover:0, Крышка (Вощёная плита из резного медного блока)
-ThermalDynamics:cover:0, Крышка (Вощёная потемневшая плита из резного медного блока)
-ThermalDynamics:cover:0, Крышка (Вощёная состаренная плита из резного медного блока)
-ThermalDynamics:cover:0, Крышка (Вощёная окисленная плита из окисленного резного медного блока)
-ThermalDynamics:cover:0, Крышка (Плита из дроблённого глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Плита из полированного глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Плита из кирпича глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Плита из плитняка глубинного сланца)
+ThermalDynamics:cover:0, Крышка (Ступеньки из эндернякового кирпича)
+ThermalDynamics:cover:0, Крышка (Ступеньки из красного песчаника)
+ThermalDynamics:cover:0, Крышка (Пурпурные ступеньки)
+ThermalDynamics:cover:0, Крышка (Ступеньки из колотого глубинного сланца)
+ThermalDynamics:cover:0, Крышка (Ступеньки из полированного глубинного сланца)
+ThermalDynamics:cover:0, Крышка (Ступеньки из глубинносланцевого кирпича)
+ThermalDynamics:cover:0, Крышка (Ступеньки из глубинносланцевого плитняка)
+ThermalDynamics:cover:0, Крышка (Туфовые ступеньки)
+ThermalDynamics:cover:0, Крышка (Ступеньки из полированного туфа)
+ThermalDynamics:cover:0, Крышка (Ступеньки из туфового кирпича)
+ThermalDynamics:cover:0, Крышка (Саманные ступеньки)
 ThermalDynamics:cover:0, Крышка (Ступеньки из резного медного блока)
 ThermalDynamics:cover:0, Крышка (Потемневшие ступеньки из резного медного блока)
 ThermalDynamics:cover:0, Крышка (Состаренные ступеньки из резного медного блока)
@@ -19589,13 +19870,47 @@ ThermalDynamics:cover:0, Крышка (Вощёные ступеньки из р
 ThermalDynamics:cover:0, Крышка (Вощёные потемневшие ступеньки из резного медного блока)
 ThermalDynamics:cover:0, Крышка (Вощёные состаренные ступеньки из резного медного блока)
 ThermalDynamics:cover:0, Крышка (Вощёные окисленные ступеньки из резного медного блока)
-ThermalDynamics:cover:0, Крышка (Ступеньки из дроблённого глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Ступеньки из полированного глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Ступеньки из кирпича глубинного сланца)
-ThermalDynamics:cover:0, Крышка (Ступеньки из плитняка глубинного сланца)
+ThermalDynamics:cover:0, Крышка (Ограда из каменного кирпича)
+ThermalDynamics:cover:0, Крышка (Ограда из замшелого каменного кирпича)
+ThermalDynamics:cover:0, Крышка (Ограда из песчаника)
+ThermalDynamics:cover:0, Крышка (Кирпичная Ограда)
+ThermalDynamics:cover:0, Крышка (Ограда из адского кирпича)
+ThermalDynamics:cover:0, Крышка (Гранитная Ограда)
+ThermalDynamics:cover:0, Крышка (Диоритовая Ограда)
+ThermalDynamics:cover:0, Крышка (Андезитовая Ограда)
+ThermalDynamics:cover:0, Крышка (Ограда из красного песчаника)
+ThermalDynamics:cover:0, Крышка (Призмариновая Ограда)
+ThermalDynamics:cover:0, Крышка (Ограда из красного адского кирпича)
+ThermalDynamics:cover:0, Крышка (Ограда из эндернякового кирпича)
+ThermalDynamics:cover:0, Крышка (Ограда из колотого глубинного сланца)
+ThermalDynamics:cover:0, Крышка (Ограда из полированного глубинного сланца)
+ThermalDynamics:cover:0, Крышка (Ограда из глубинносланцевого кирпича)
+ThermalDynamics:cover:0, Крышка (Ограда из глубинносланцевого плитняка)
+ThermalDynamics:cover:0, Крышка (Tuff Wall)
+ThermalDynamics:cover:0, Крышка (Polished Tuff Wall)
+ThermalDynamics:cover:0, Крышка (Tuff Brick Wall)
+ThermalDynamics:cover:0, Крышка (Саманная ограда)
+ThermalDynamics:cover:0, Крышка (Медная дверь)
+ThermalDynamics:cover:0, Крышка (Потемневшая медная дверь)
+ThermalDynamics:cover:0, Крышка (Состаренная медная дверь)
+ThermalDynamics:cover:0, Крышка (Окисленная медная дверь)
+ThermalDynamics:cover:0, Крышка (Вощёная медная дверь)
+ThermalDynamics:cover:0, Крышка (Вощёная потемневшая медная дверь)
+ThermalDynamics:cover:0, Крышка (Вощёная состаренная медная дверь)
+ThermalDynamics:cover:0, Крышка (Вощёная окисленная медная дверь)
+ThermalDynamics:cover:0, Крышка (Медный люк)
+ThermalDynamics:cover:0, Крышка (Потемневший медный люк)
+ThermalDynamics:cover:0, Крышка (Состаренный медный люк)
+ThermalDynamics:cover:0, Крышка (Окисленный медный люк)
+ThermalDynamics:cover:0, Крышка (Вощёный медный люк)
+ThermalDynamics:cover:0, Крышка (Вощёный потемневший медный люк)
+ThermalDynamics:cover:0, Крышка (Вощёный состаренный медный люк)
+ThermalDynamics:cover:0, Крышка (Вощёный окисленный медный люк)
 ThermalDynamics:cover:0, Крышка (Железный люк)
 ThermalDynamics:cover:0, Крышка (Магмовый блок)
 ThermalDynamics:cover:0, Крышка (Фонарь)
+ThermalDynamics:cover:0, Крышка (Фонарь душ)
+ThermalDynamics:cover:0, Крышка (Факел душ)
 ThermalDynamics:cover:0, Крышка (Кузнечный стол)
 ThermalDynamics:cover:0, Крышка (Компостер)
 ThermalDynamics:cover:0, Крышка (Камнерез)
@@ -19605,36 +19920,90 @@ ThermalDynamics:cover:0, Крышка (Ткацкий станок)
 ThermalDynamics:cover:0, Крышка (Блок мёда)
 ThermalDynamics:cover:0, Крышка (Блок пчелиных сот)
 ThermalDynamics:cover:0, Крышка (Цепь)
-ThermalDynamics:cover:0, Крышка (Еловый люк)
-ThermalDynamics:cover:0, Крышка (Берёзовый люк)
-ThermalDynamics:cover:0, Крышка (Люк из досок тропического дерева)
-ThermalDynamics:cover:0, Крышка (Акациевый люк)
-ThermalDynamics:cover:0, Крышка (Люк из досок тёмного дуба)
+ThermalDynamics:cover:0, Крышка (Наковальня)
+ThermalDynamics:cover:0, Крышка (Наковальня)
+ThermalDynamics:cover:0, Крышка (Наковальня)
+ThermalDynamics:cover:0, Крышка (Чернит)
+ThermalDynamics:cover:0, Крышка (Полированный Чернит)
+ThermalDynamics:cover:0, Крышка (Полированно-чернитные кирпичи)
+ThermalDynamics:cover:0, Крышка (Потрескавшиеся полированно-чернитные кирпичи)
+ThermalDynamics:cover:0, Крышка (Резной полированный чернит)
+ThermalDynamics:cover:0, Крышка (Золочёный чернит)
+ThermalDynamics:cover:0, Крышка (Чернитная плита)
+ThermalDynamics:cover:0, Крышка (Плита из полированного чернита)
+ThermalDynamics:cover:0, Крышка (Плита из полированно-чернитного кирпича)
+ThermalDynamics:cover:0, Крышка (Чернитные ступеньки)
+ThermalDynamics:cover:0, Крышка (Ступеньки из полированного чернита)
+ThermalDynamics:cover:0, Крышка (Ступеньки из полированно-чернитного кирпича)
+ThermalDynamics:cover:0, Крышка (Чернитная ограда)
+ThermalDynamics:cover:0, Крышка (Ограда из полированного чернита)
+ThermalDynamics:cover:0, Крышка (Ограда из полированно-чернитного кирпича)
+ThermalDynamics:cover:0, Крышка (Нажимная плита из полированного чернита)
+ThermalDynamics:cover:0, Крышка (Кнопка из полированного чернита)
+ThermalDynamics:cover:0, Крышка (Почва душ)
+ThermalDynamics:cover:0, Крышка (Блок адского нароста)
+ThermalDynamics:cover:0, Крышка (Розовые лепестки)
+ThermalDynamics:cover:0, Крышка (Саженец вишни)
+ThermalDynamics:cover:0, Крышка (Вишнёвые листья)
+ThermalDynamics:cover:0, Крышка (Вишнёвые доски)
+ThermalDynamics:cover:0, Крышка (Бамбуковые доски)
+ThermalDynamics:cover:0, Крышка (Вишнёвая плита)
+ThermalDynamics:cover:0, Крышка (Бамбуковая плита)
+ThermalDynamics:cover:0, Крышка (Вишнёвая плита)
+ThermalDynamics:cover:0, Крышка (Бамбуковая плита)
+ThermalDynamics:cover:0, Крышка (Вишнёвое бревно)
+ThermalDynamics:cover:0, Крышка (Вишня)
+ThermalDynamics:cover:0, Крышка (Обтёсанное вишнёвое бревно)
+ThermalDynamics:cover:0, Крышка (Обтёсанная вишнёвая древесина)
+ThermalDynamics:cover:0, Крышка (Блок бамбука)
+ThermalDynamics:cover:0, Крышка (Блок обтёсанного бамбука)
+ThermalDynamics:cover:0, Крышка (Вишнёвые ступеньки)
+ThermalDynamics:cover:0, Крышка (Бамбуковые ступеньки)
+ThermalDynamics:cover:0, Крышка (Бамбуковая мозаика)
+ThermalDynamics:cover:0, Крышка (Плита из бамбуковой мозаики)
+ThermalDynamics:cover:0, Крышка (Ступеньки из бамбуковой мозаики)
+ThermalDynamics:cover:0, Крышка (Еловый забор)
+ThermalDynamics:cover:0, Крышка (Берёзовый забор)
+ThermalDynamics:cover:0, Крышка (Забор из тропического дерева)
+ThermalDynamics:cover:0, Крышка (Акациевый забор)
+ThermalDynamics:cover:0, Крышка (Забор из тёмного дуба)
+ThermalDynamics:cover:0, Крышка (Вишнёвый забор)
+ThermalDynamics:cover:0, Крышка (Бамбуковый забор)
 ThermalDynamics:cover:0, Крышка (Еловая кнопка)
 ThermalDynamics:cover:0, Крышка (Берёзовая кнопка)
-ThermalDynamics:cover:0, Крышка (Кнопка из досок тропического дерева)
+ThermalDynamics:cover:0, Крышка (Кнопка из тропического дерева)
 ThermalDynamics:cover:0, Крышка (Акациевая кнопка)
-ThermalDynamics:cover:0, Крышка (Кнопка из досок тёмного дуба)
-ThermalDynamics:cover:0, Крышка (Еловая нажимная пластина)
-ThermalDynamics:cover:0, Крышка (Берёзовая нажимная пластина)
-ThermalDynamics:cover:0, Крышка (Нажимная пластина из досок тропического дерева)
-ThermalDynamics:cover:0, Крышка (Акациевая нажимная пластина)
-ThermalDynamics:cover:0, Крышка (Нажимная пластина из досок тёмного дуба)
-ThermalDynamics:cover:0, Крышка (Забор из ели)
-ThermalDynamics:cover:0, Крышка (Забор из берёзы)
-ThermalDynamics:cover:0, Крышка (Забор из досок тропического дерева)
-ThermalDynamics:cover:0, Крышка (Забор из акации)
-ThermalDynamics:cover:0, Крышка (Забор из досок тёмного дуба)
-ThermalDynamics:cover:0, Крышка (Калитка из ели)
-ThermalDynamics:cover:0, Крышка (Калитка из берёзы)
-ThermalDynamics:cover:0, Крышка (Калитка из досок тропического дерева)
-ThermalDynamics:cover:0, Крышка (Калитка из акации)
-ThermalDynamics:cover:0, Крышка (Калитка из досок тёмного дуба)
-ThermalDynamics:cover:0, Крышка (Дверь из ели)
-ThermalDynamics:cover:0, Крышка (Дверь из берёзы)
-ThermalDynamics:cover:0, Крышка (Дверь из досок тропического дерева)
-ThermalDynamics:cover:0, Крышка (Дверь из акации)
-ThermalDynamics:cover:0, Крышка (Дверь из досок тёмного дуба)
+ThermalDynamics:cover:0, Крышка (Кнопка из тёмного дуба)
+ThermalDynamics:cover:0, Крышка (Вишнёвая кнопка)
+ThermalDynamics:cover:0, Крышка (Бамбуковая кнопка)
+ThermalDynamics:cover:0, Крышка (Еловая нажимная плита)
+ThermalDynamics:cover:0, Крышка (Берёзовая нажимная плита)
+ThermalDynamics:cover:0, Крышка (Нажимная плита из тропического дерева)
+ThermalDynamics:cover:0, Крышка (Акациевая нажимная плита)
+ThermalDynamics:cover:0, Крышка (Нажимная плита из тёмного дуба)
+ThermalDynamics:cover:0, Крышка (Вишнёвая нажимная плита)
+ThermalDynamics:cover:0, Крышка (Бамбуковая нажимная плита)
+ThermalDynamics:cover:0, Крышка (Еловая калитка)
+ThermalDynamics:cover:0, Крышка (Берёзовая калитка)
+ThermalDynamics:cover:0, Крышка (Калитка из тропического дерева)
+ThermalDynamics:cover:0, Крышка (Акациевая калитка)
+ThermalDynamics:cover:0, Крышка (Калитка из тёмного дуба)
+ThermalDynamics:cover:0, Крышка (Вишнёвая калитка)
+ThermalDynamics:cover:0, Крышка (Бамбуковая калитка)
+ThermalDynamics:cover:0, Крышка (Еловая дверь)
+ThermalDynamics:cover:0, Крышка (Берёзовая дверь)
+ThermalDynamics:cover:0, Крышка (Дверь из тропического дерева)
+ThermalDynamics:cover:0, Крышка (Акациевый люк)
+ThermalDynamics:cover:0, Крышка (Дверь из тёмного дуба)
+ThermalDynamics:cover:0, Крышка (Вишнёвая дверь)
+ThermalDynamics:cover:0, Крышка (Бамбуковая дверь)
+ThermalDynamics:cover:0, Крышка (Еловый люк)
+ThermalDynamics:cover:0, Крышка (Берёзовый люк)
+ThermalDynamics:cover:0, Крышка (Люк из тропического дерева)
+ThermalDynamics:cover:0, Крышка (Акациевый люк)
+ThermalDynamics:cover:0, Крышка (Люк из тёмного дуба)
+ThermalDynamics:cover:0, Крышка (Вишнёвый люк)
+ThermalDynamics:cover:0, Крышка (Бамбуковый люк)
 ThermalDynamics:cover:0, Крышка (Белая кровать)
 ThermalDynamics:cover:0, Крышка (Оранжевая кровать)
 ThermalDynamics:cover:0, Крышка (Пурпурная кровать)
@@ -19671,6 +20040,49 @@ ThermalDynamics:cover:0, Крышка (Свет)
 ThermalDynamics:cover:0, Крышка (Свет)
 ThermalDynamics:cover:0, Крышка (Свет)
 ThermalDynamics:cover:0, Крышка (Барьер)
+ThermalDynamics:cover:0, Крышка (Блок необработанного алюминия)
+ThermalDynamics:cover:0, Крышка (Блок необработанного олова)
+ThermalDynamics:cover:0, Крышка (Блок необработанного серебра)
+ThermalDynamics:cover:0, Крышка (Блок необработанного свинца)
+ThermalDynamics:cover:0, Крышка (Блок необработанного никеля)
+ThermalDynamics:cover:0, Крышка (Блок необработанной платины)
+ThermalDynamics:cover:0, Крышка (Блок необработанного мифрила)
+ThermalDynamics:cover:0, Крышка (Блок необработанного урана)
+ThermalDynamics:cover:0, Крышка (Блок необработанного вольфрама)
+ThermalDynamics:cover:0, Крышка (Блок необработанного титана)
+ThermalDynamics:cover:0, Крышка (Блок необработанного цинка)
+ThermalDynamics:cover:0, Крышка (Блок необработанного магния)
+ThermalDynamics:cover:0, Крышка (Глубинная алюминиевая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная оловянная руда)
+ThermalDynamics:cover:0, Крышка (Глубинная серебряная руда)
+ThermalDynamics:cover:0, Крышка (Глубинная свинцовая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная никелевая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная платиновая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная мифриловая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная урановая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная ториевая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная вольфрамовая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная титановая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная цинковая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная магниевая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная руда истинного кварца)
+ThermalDynamics:cover:0, Крышка (Глубинная заряженная руда истинного кварца)
+ThermalDynamics:cover:0, Крышка (Глубинная дракониевая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная киноварь)
+ThermalDynamics:cover:0, Крышка (Глубинная грозовая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная огненная руда)
+ThermalDynamics:cover:0, Крышка (Глубинная ледяная руда)
+ThermalDynamics:cover:0, Крышка (Глубинная руда земляного кристалла)
+ThermalDynamics:cover:0, Крышка (Глубинная руда кристалла порядка)
+ThermalDynamics:cover:0, Крышка (Глубинная энтропийная руда)
+ThermalDynamics:cover:0, Крышка (Глубинная янтарная руда)
+ThermalDynamics:cover:0, Крышка (Глубинная рубиновая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная перидотовая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная топазовая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная танзанитовая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная малахитовая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная сапфировая руда)
+ThermalDynamics:cover:0, Крышка (Глубинная янтарная руда)
 ThermalDynamics:cover:0, Крышка (Кровь)
 ThermalDynamics:cover:0, Крышка (Тёмная руда)
 ThermalDynamics:cover:0, Крышка (Тёмный блок)
@@ -20192,6 +20604,9 @@ ThermalDynamics:cover:0, Крышка (Оловянный блок)
 ThermalDynamics:cover:0, Крышка (Осмиевая руда)
 ThermalDynamics:cover:0, Крышка (Медная руда)
 ThermalDynamics:cover:0, Крышка (Оловянная руда)
+ThermalDynamics:cover:0, Крышка (Deepslate Osmium Ore)
+ThermalDynamics:cover:0, Крышка (Deepslate Copper Ore)
+ThermalDynamics:cover:0, Крышка (Deepslate Tin Ore)
 ThermalDynamics:cover:0, Крышка (§8Черный Пластиковый блок)
 ThermalDynamics:cover:0, Крышка (§cКрасный Пластиковый блок)
 ThermalDynamics:cover:0, Крышка (§2Зеленый Пластиковый блок)
@@ -20485,20 +20900,6 @@ ThermalDynamics:cover:0, Крышка (Отделка из берёзы)
 ThermalDynamics:cover:0, Крышка (Отделка из тропического дерева)
 ThermalDynamics:cover:0, Крышка (Отделка из акации)
 ThermalDynamics:cover:0, Крышка (Отделка из тёмного дуба)
-ThermalDynamics:cover:0, Крышка (Sacred Oak Trim)
-ThermalDynamics:cover:0, Крышка (Cherry Trim)
-ThermalDynamics:cover:0, Крышка (Dark Trim)
-ThermalDynamics:cover:0, Крышка (Fir Trim)
-ThermalDynamics:cover:0, Крышка (Ethereal Trim)
-ThermalDynamics:cover:0, Крышка (Magic Trim)
-ThermalDynamics:cover:0, Крышка (Mangrove Trim)
-ThermalDynamics:cover:0, Крышка (Palm Trim)
-ThermalDynamics:cover:0, Крышка (Redwood Trim)
-ThermalDynamics:cover:0, Крышка (Willow Trim)
-ThermalDynamics:cover:0, Крышка (Pine Trim)
-ThermalDynamics:cover:0, Крышка (Hell Bark Trim)
-ThermalDynamics:cover:0, Крышка (Jacaranda Trim)
-ThermalDynamics:cover:0, Крышка (Mahogany Trim)
 ThermalDynamics:cover:0, Крышка (Larch Trim)
 ThermalDynamics:cover:0, Крышка (Teak Trim)
 ThermalDynamics:cover:0, Крышка (Acacia Trim)
@@ -20528,27 +20929,20 @@ ThermalDynamics:cover:0, Крышка (Ipe Trim)
 ThermalDynamics:cover:0, Крышка (Padauk Trim)
 ThermalDynamics:cover:0, Крышка (Cocobolo Trim)
 ThermalDynamics:cover:0, Крышка (Zebrawood Trim)
-ThermalDynamics:cover:0, Крышка (Redwood Trim)
+ThermalDynamics:cover:0, Крышка (Sacred Oak Trim)
+ThermalDynamics:cover:0, Крышка (Cherry Trim)
+ThermalDynamics:cover:0, Крышка (Dark Trim)
 ThermalDynamics:cover:0, Крышка (Fir Trim)
-ThermalDynamics:cover:0, Крышка (Acacia Trim)
-ThermalDynamics:cover:0, Крышка (Cypress Trim)
-ThermalDynamics:cover:0, Крышка (Japanese Maple Trim)
-ThermalDynamics:cover:0, Крышка (Rainbow Eucalyptus Trim)
-ThermalDynamics:cover:0, Крышка (Autumn Trim)
-ThermalDynamics:cover:0, Крышка (Bald Cypress Trim)
-ThermalDynamics:cover:0, Крышка (Sakura Trim)
-ThermalDynamics:cover:0, Крышка (Yellow Trim)
-ThermalDynamics:cover:0, Крышка (White Trim)
-ThermalDynamics:cover:0, Крышка (Red Trim)
-ThermalDynamics:cover:0, Крышка (Grey Trim)
-ThermalDynamics:cover:0, Крышка (Greatwood Trim)
-ThermalDynamics:cover:0, Крышка (Silverwood Trim)
-ThermalDynamics:cover:0, Крышка (Rowan Trim)
-ThermalDynamics:cover:0, Крышка (Alder Trim)
-ThermalDynamics:cover:0, Крышка (Hawthorn Trim)
-ThermalDynamics:cover:0, Крышка (Treated Wood Trim)
-ThermalDynamics:cover:0, Крышка (Livingwood Trim)
-ThermalDynamics:cover:0, Крышка (Dreamwood Trim)
+ThermalDynamics:cover:0, Крышка (Ethereal Trim)
+ThermalDynamics:cover:0, Крышка (Magic Trim)
+ThermalDynamics:cover:0, Крышка (Mangrove Trim)
+ThermalDynamics:cover:0, Крышка (Palm Trim)
+ThermalDynamics:cover:0, Крышка (Redwood Trim)
+ThermalDynamics:cover:0, Крышка (Willow Trim)
+ThermalDynamics:cover:0, Крышка (Pine Trim)
+ThermalDynamics:cover:0, Крышка (Hell Bark Trim)
+ThermalDynamics:cover:0, Крышка (Jacaranda Trim)
+ThermalDynamics:cover:0, Крышка (Mahogany Trim)
 ThermalDynamics:cover:0, Крышка (Eucalyptus Trim)
 ThermalDynamics:cover:0, Крышка (Sakura Trim)
 ThermalDynamics:cover:0, Крышка (Ghostwood Trim)
