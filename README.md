@@ -68,10 +68,10 @@ Supported only Minecraft 1.7.10 & Forge 10.13.4.1614
 - ???
 
 ## USEFUL LINKS:
-If I will ever get into coding of my own TC4 addon this might help: https://www.programcreek.com/java-api-examples/?ClassName=thaumcraft&action=search&submit=Search
-Useful list of updated and backported mods (still updated): https://legacymoddingmc.github.io/wiki/list-of-1.7.10-mod-forks/
-New MT wiki since original is down: https://minetweaker.github.io/wiki/Main_Page
-Essential mods (optimisations, still updated): https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c
+- If I will ever get into coding of my own TC4 addon this might help: https://www.programcreek.com/java-api-examples/?ClassName=thaumcraft&action=search&submit=Search
+- Useful list of updated and backported mods (still updated): https://legacymoddingmc.github.io/wiki/list-of-1.7.10-mod-forks/
+- New MT wiki since original is down: https://minetweaker.github.io/wiki/Main_Page
+- Essential mods (optimisations, still updated): https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c
 
 ## Special thanks to:
 - Ailimeow
