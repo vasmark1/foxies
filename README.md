@@ -48,13 +48,14 @@ Supported only Minecraft 1.7.10 & Forge 10.13.4.1614
 
 ## Mods creating issues:
 
-- Optimizations and tweaks (disabled) - constant RAM cleaning causes tickrate goes insane
+- Optimizations and tweaks (disabled) - ~~constant RAM cleaning causes tickrate goes insane~~ Not starting with this mod at all, no time to search for actual issue
 - Dynamic Lights (disabled) - causes massive chunk update with every movement
 - Invasion mod (enabled) - if modded mobs attack thaumcraft "Камень сдерживания" tickrate goes insane
 - Amun Ra (enabled) - there is config for this mod AT ALL, so more Biomes and Dims = More potential conflicts
-- Endless IDs (enabled) - Entity ID list extension must be disabled due to Multiplayer invisible mob bug
+- Endless IDs (enabled) - Entity ID list extension must be disabled due to Multiplayer invisible mob bug (28.11.24: Is issue still present? Confirmation needed.)
 - EnderIO (enabled) - Disable wither skeleton fix
 - ~~Nature's Compass (enabled) - Crashing game when using GUI~~ Fixed at v0.2.1
+- Botaina - creative tab crashes game, no idea where to look for problem
 
 
 ## TODO list:
@@ -63,6 +64,7 @@ Supported only Minecraft 1.7.10 & Forge 10.13.4.1614
 - ~~Add Biomes O' Plenty~~
 - ~~Add Cosmetic Armor~~
 - More optimizations
+- Possible release as soon as I'm back from military school and pack reaches playable state?
 - ???
 
 
